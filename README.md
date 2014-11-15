@@ -1,11 +1,10 @@
-テニスの勝敗データ作る
+男子テニスの勝敗データを作りたい
 ===
-
 
 ## 概要
 [ATPの公式サイト](http://www.atpworldtour.com/Share/Event-Draws.aspx?e=339&y=2014)から頑張りました
 
-こんな感じです. 
+こんな感じです. 対戦結果をまとめました.
 
 ```{sh}
 > head winLoseData.dat
@@ -32,8 +31,6 @@ Australian Open,1,1970,02,01,1,Okker_Tom,Bye,Okker_Tom
   大会の名前, グレード, 大会の最終日の日付, 何回戦か, 対戦者1, 対戦車2, 勝者
   
   です. 
-
-
 
 
 ## やったこと
