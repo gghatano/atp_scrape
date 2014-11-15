@@ -5,6 +5,8 @@
 ## 概要
 [ATPの公式サイト](http://www.atpworldtour.com/Share/Event-Draws.aspx?e=339&y=2014)から頑張りました
 
+こんな感じです. 
+
 ```{sh}
 > head winLoseData.dat
 TOURNAMENT,GRADE,YEAR,MONTH,DAY,ROUND,PLAYER_1,PLAYER_2,WINNER
@@ -19,11 +21,25 @@ Australian Open,1,1970,02,01,1,Lutz_Robert,Bye,Lutz_Robert
 Australian Open,1,1970,02,01,1,Okker_Tom,Bye,Okker_Tom
 ```
 
+## 内容
+
+- winLoseData.dat
+
+  勝敗結果表です. 1968年から2014年までの, ATP World Tourの試合結果が入っています. 
+  
+  列の意味は1行目にありますが, 
+
+  大会の名前, グレード, 大会の最終日の日付, 何回戦か, 対戦者1, 対戦車2, 勝者
+  
+  です. 
+
+
+
+
 ## やったこと
 
 対戦のデータとその勝者のデータを並べました. 
 
-大会の名前, グレード, 大会の最終日の日付, 何戦争か, 対戦者と勝者です. 
 
 大会のグレードは, 
 
