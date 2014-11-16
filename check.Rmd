@@ -1,0 +1,52 @@
+テニスのデータを確認する
+===
+
+[ここにある](https://github.com/gghatano/atp_scrape)男子テニスのデータで遊びます. 
+
+## 内容確認
+```{r, message=FALSE, warning=FALSE}
+library(dplyr)
+library(data.table)
+```
+
+中身はこんな感じです.
+```{r}
+dat = fread("winLoseData.dat")
+dat %>% head
+```
+
+選手別に勝率を見ます.
+```{r}
+dat_not_bye = dat %>% 
+  filter(PLAYER_1 != "Bye") %>% 
+  filter(PLAYER_2 != "Bye") 
+  
+dat_1 = dat_not_bye %>% 
+  select(PLAYER_1, WINNER) %>% setnames(c("PLAYER", "WINNER"))
+dat_2 = dat_not_bye %>% 
+  select(PLAYER_2, WINNER) %>% setnames(c("PLAYER", "WINNER"))
+dat_12 = 
+  rbind(dat_1, dat_2)
+
+dat_win = 
+  dat_12 %>% 
+  mutate(WIN_FLG = (PLAYER==WINNER)) %>% 
+  group_by(PLAYER) %>% 
+  summarise(WIN = sum(WIN_FLG), 
+            GAME=length(WIN_FLG))
+
+## 勝ち数ランキングと勝率
+dat_win %>% 
+  mutate(WIN_PROB = WIN / GAME) %>% 
+  arrange(desc(WIN))
+```
+
+フェデラー強い. 
+
+トーナメントでない試合結果が反映されていないため, 通算勝利数は違うっぽいです. 
+
+
+
+
+
+
