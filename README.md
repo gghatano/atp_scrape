@@ -32,6 +32,13 @@ Australian Open,1,1970,02,01,1,Okker_Tom,Bye,Okker_Tom
   
   です. 
 
+- network.md 
+
+  勝敗関係をネットワークで可視化しました. 
+
+- seminar/handout.pdf , seminar/slide.pdf
+
+  ネットワーク構造を利用したランキングシステムについて, 論文紹介の発表資料です. 
 
 ## やったこと
 
