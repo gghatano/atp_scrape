@@ -1,0 +1,15 @@
+Hartford_WCT,1983,01,02,6-2_6-2
+Hartford_WCT,1983,01,02,6-3_7-6
+Hartford_WCT,1983,01,02,7-6_6-4
+Hartford_WCT,1983,01,02,7-6_7-5
+Hartford_WCT,1983,01,02,6-4_7-5
+Hartford_WCT,1983,01,02,2-6_6-3_6-4
+Hartford_WCT,1983,01,02,7-5_6-3
+Hartford_WCT,1983,01,02,6-4_3-6_6-1
+Hartford_WCT,1983,01,02,6-4_6-4
+Hartford_WCT,1983,01,02,6-7_6-2_6-2
+Hartford_WCT,1983,01,02,6-3_6-2
+Hartford_WCT,1983,01,02,6-3_4-0_RET
+Hartford_WCT,1983,01,02,7-6_6-3
+Hartford_WCT,1983,01,02,7-5_7-6
+Hartford_WCT,1983,01,02,6-2_6-4_7-5

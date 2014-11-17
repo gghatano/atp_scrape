@@ -1,0 +1,15 @@
+Barcelona_WCT,1976,06,13,3-6_7-6(6)_6-3
+Barcelona_WCT,1976,06,13,6-3_6-4
+Barcelona_WCT,1976,06,13,7-5_6-1
+Barcelona_WCT,1976,06,13,2-6_6-1_6-2
+Barcelona_WCT,1976,06,13,6-3_7-6(2)
+Barcelona_WCT,1976,06,13,7-5_6-1
+Barcelona_WCT,1976,06,13,7-6(3)_6-2
+Barcelona_WCT,1976,06,13,7-5_6-3
+Barcelona_WCT,1976,06,13,7-5_6-3
+Barcelona_WCT,1976,06,13,7-6(5)_6-1
+Barcelona_WCT,1976,06,13,6-4_6-7(6)_6-4
+Barcelona_WCT,1976,06,13,4-6_7-5_6-2
+Barcelona_WCT,1976,06,13,2-6_7-6(5)_6-0
+Barcelona_WCT,1976,06,13,6-4_6-0
+Barcelona_WCT,1976,06,13,6-1_6-1

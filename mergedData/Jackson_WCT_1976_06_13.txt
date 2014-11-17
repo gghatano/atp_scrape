@@ -1,0 +1,15 @@
+Jackson_WCT,2,1976,06,13,1,Ramirez_Raul,Gottfried_Brian,Ramirez_Raul,Jackson_WCT,1976,06,13,6-4_6-7(1)_6-3
+Jackson_WCT,2,1976,06,13,1,Fillol_SrJaime,Gorman_Tom,Gorman_Tom,Jackson_WCT,1976,06,13,2-6_6-4_6-2
+Jackson_WCT,2,1976,06,13,1,El_ShafeiIsmail,Stockton_Dick,Stockton_Dick,Jackson_WCT,1976,06,13,6-4_7-6(5)
+Jackson_WCT,2,1976,06,13,1,Mitton_Bernard,Amritraj_Vijay,Amritraj_Vijay,Jackson_WCT,1976,06,13,6-2_6-3
+Jackson_WCT,2,1976,06,13,1,Alexander_John,Case_Ross,Case_Ross,Jackson_WCT,1976,06,13,6-1_6-3
+Jackson_WCT,2,1976,06,13,1,Fairlie_Brian,Martin_Billy,Martin_Billy,Jackson_WCT,1976,06,13,6-2_6-3
+Jackson_WCT,2,1976,06,13,1,Dent_Phil,Masters_Geoff,Dent_Phil,Jackson_WCT,1976,06,13,7-6(2)_6-0
+Jackson_WCT,2,1976,06,13,1,Amritraj_Anand,Rosewall_Ken,Rosewall_Ken,Jackson_WCT,1976,06,13,4-6_6-1_7-5
+Jackson_WCT,2,1976,06,13,2,Ramirez_Raul,Gorman_Tom,Ramirez_Raul,Jackson_WCT,1976,06,13,5-7_6-4_6-3
+Jackson_WCT,2,1976,06,13,2,Stockton_Dick,Amritraj_Vijay,Amritraj_Vijay,Jackson_WCT,1976,06,13,7-5_2-6_6-1
+Jackson_WCT,2,1976,06,13,2,Case_Ross,Martin_Billy,Case_Ross,Jackson_WCT,1976,06,13,7-5_6-4
+Jackson_WCT,2,1976,06,13,2,Dent_Phil,Rosewall_Ken,Rosewall_Ken,Jackson_WCT,1976,06,13,6-4_7-5
+Jackson_WCT,2,1976,06,13,3,Ramirez_Raul,Amritraj_Vijay,Ramirez_Raul,Jackson_WCT,1976,06,13,3-6_6-3_6-4
+Jackson_WCT,2,1976,06,13,3,Case_Ross,Rosewall_Ken,Rosewall_Ken,Jackson_WCT,1976,06,13,6-2_6-2
+Jackson_WCT,2,1976,06,13,4,Ramirez_Raul,Rosewall_Ken,Rosewall_Ken,Jackson_WCT,1976,06,13,6-3_6-3

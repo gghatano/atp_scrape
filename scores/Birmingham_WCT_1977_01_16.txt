@@ -1,0 +1,15 @@
+Birmingham_WCT,1977,01,16,6-3_6-2
+Birmingham_WCT,1977,01,16,6-1_7-5
+Birmingham_WCT,1977,01,16,6-2_6-2
+Birmingham_WCT,1977,01,16,7-6(3)_1-6_6-1
+Birmingham_WCT,1977,01,16,6-1_3-6_6-4
+Birmingham_WCT,1977,01,16,6-3_6-3
+Birmingham_WCT,1977,01,16,6-4_6-7(6)_6-2
+Birmingham_WCT,1977,01,16,6-3_6-2
+Birmingham_WCT,1977,01,16,6-4_6-2
+Birmingham_WCT,1977,01,16,6-4_6-3
+Birmingham_WCT,1977,01,16,6-4_4-6_7-6(3)
+Birmingham_WCT,1977,01,16,7-6(4)_6-4
+Birmingham_WCT,1977,01,16,6-4_6-3
+Birmingham_WCT,1977,01,16,6-7(3)_6-4_7-5
+Birmingham_WCT,1977,01,16,6-3_6-3

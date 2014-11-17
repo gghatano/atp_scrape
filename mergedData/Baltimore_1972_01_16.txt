@@ -1,0 +1,15 @@
+Baltimore,2,1972,01,16,1,Graebner_Clark,Bye,Graebner_Clark,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Fillol_SrJaime,Bye,Fillol_SrJaime,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Connors_Jimmy,Bye,Connors_Jimmy,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Tiriac_Ion,Bye,Tiriac_Ion,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Barthes_Pierre,Bye,Barthes_Pierre,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Froehling_Frank,Bye,Froehling_Frank,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Rahim_Haroon,Bye,Rahim_Haroon,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,1,Bye,Nastase_Ilie,Nastase_Ilie,Baltimore,1972,01,16,
+Baltimore,2,1972,01,16,2,Graebner_Clark,Fillol_SrJaime,Graebner_Clark,Baltimore,1972,01,16,7-5_6-1
+Baltimore,2,1972,01,16,2,Connors_Jimmy,Tiriac_Ion,Connors_Jimmy,Baltimore,1972,01,16,6-2_6-7_6-2
+Baltimore,2,1972,01,16,2,Barthes_Pierre,Froehling_Frank,Barthes_Pierre,Baltimore,1972,01,16,6-4_6-4
+Baltimore,2,1972,01,16,2,Rahim_Haroon,Nastase_Ilie,Nastase_Ilie,Baltimore,1972,01,16,6-2_6-1
+Baltimore,2,1972,01,16,3,Graebner_Clark,Connors_Jimmy,Connors_Jimmy,Baltimore,1972,01,16,6-2_7-5
+Baltimore,2,1972,01,16,3,Barthes_Pierre,Nastase_Ilie,Nastase_Ilie,Baltimore,1972,01,16,6-3_6-2
+Baltimore,2,1972,01,16,4,Connors_Jimmy,Nastase_Ilie,Nastase_Ilie,Baltimore,1972,01,16,1-6_6-4_7-6

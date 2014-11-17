@@ -1,0 +1,7 @@
+Dallas_WCT,2,1981,07,05,1,McEnroe_John,Mayer_Sandy,McEnroe_John
+Dallas_WCT,2,1981,07,05,1,Gottfried_Brian,Giammalva_Jr_Sammy,Gottfried_Brian
+Dallas_WCT,2,1981,07,05,1,Fibak_Wojtek,Kriek_Johan,Kriek_Johan
+Dallas_WCT,2,1981,07,05,1,Amritraj_Vijay,Tanner_Roscoe,Tanner_Roscoe
+Dallas_WCT,2,1981,07,05,2,McEnroe_John,Gottfried_Brian,McEnroe_John
+Dallas_WCT,2,1981,07,05,2,Kriek_Johan,Tanner_Roscoe,Kriek_Johan
+Dallas_WCT,2,1981,07,05,3,McEnroe_John,Kriek_Johan,McEnroe_John

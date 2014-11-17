@@ -1,0 +1,15 @@
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Clerc_JoseLuis,Fibak_Wojtek,Clerc_JoseLuis,Abierto_Mexicano_Telcel,1982,09,12,6-3_2-6_7-5
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Cahill_Mike,Manson_Bruce,Manson_Bruce,Abierto_Mexicano_Telcel,1982,09,12,6-3_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Taroczy_Balazs,Meyer_Rick,Taroczy_Balazs,Abierto_Mexicano_Telcel,1982,09,12,6-2_6-7_7-5
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Sadri_John,Higueras_Jose,Sadri_John,Abierto_Mexicano_Telcel,1982,09,12,6-3_7-6
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Van_PattenVincent,Moor_Terry,Moor_Terry,Abierto_Mexicano_Telcel,1982,09,12,7-6_6-2
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Smid_Tomas,Mayer_Sandy,Smid_Tomas,Abierto_Mexicano_Telcel,1982,09,12,7-6_6-1
+Abierto_Mexicano_Telcel,2,1982,09,12,1,McNamee_Paul,Buehning_Fritz,McNamee_Paul,Abierto_Mexicano_Telcel,1982,09,12,6-4_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,1,Giammalva_Tony,McNamara_Peter,Giammalva_Tony,Abierto_Mexicano_Telcel,1982,09,12,6-4_6-7_7-6
+Abierto_Mexicano_Telcel,2,1982,09,12,2,Clerc_JoseLuis,Manson_Bruce,Manson_Bruce,Abierto_Mexicano_Telcel,1982,09,12,6-1_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,2,Taroczy_Balazs,Sadri_John,Sadri_John,Abierto_Mexicano_Telcel,1982,09,12,6-7_6-4_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,2,Moor_Terry,Smid_Tomas,Smid_Tomas,Abierto_Mexicano_Telcel,1982,09,12,6-4_6-3
+Abierto_Mexicano_Telcel,2,1982,09,12,2,McNamee_Paul,Giammalva_Tony,McNamee_Paul,Abierto_Mexicano_Telcel,1982,09,12,7-6_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,3,Manson_Bruce,Sadri_John,Sadri_John,Abierto_Mexicano_Telcel,1982,09,12,6-3_7-6
+Abierto_Mexicano_Telcel,2,1982,09,12,3,Smid_Tomas,McNamee_Paul,Smid_Tomas,Abierto_Mexicano_Telcel,1982,09,12,6-4_3-6_6-4
+Abierto_Mexicano_Telcel,2,1982,09,12,4,Sadri_John,Smid_Tomas,Smid_Tomas,Abierto_Mexicano_Telcel,1982,09,12,3-6_7-6_4-6_7-6_6-2

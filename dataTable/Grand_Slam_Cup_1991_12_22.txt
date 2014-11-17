@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1991,12,22,1,Woodbridge_Todd,Krickstein_Aaron,Woodbridge_Todd
+Grand_Slam_Cup,2,1991,12,22,1,Haarhuis_Paul,Wheaton_David,Wheaton_David
+Grand_Slam_Cup,2,1991,12,22,1,Stich_Michael,Prpic_Goran,Stich_Michael
+Grand_Slam_Cup,2,1991,12,22,1,Yzaga_Jaime,Forget_Guy,Forget_Guy
+Grand_Slam_Cup,2,1991,12,22,1,Connors_Jimmy,Hlasek_Jakob,Hlasek_Jakob
+Grand_Slam_Cup,2,1991,12,22,1,Caratti_Cristiano,Lendl_Ivan,Lendl_Ivan
+Grand_Slam_Cup,2,1991,12,22,1,McEnroe_Patrick,Champion_Thierry,McEnroe_Patrick
+Grand_Slam_Cup,2,1991,12,22,1,Chang_Michael,Courier_Jim,Chang_Michael
+Grand_Slam_Cup,2,1991,12,22,2,Woodbridge_Todd,Wheaton_David,Wheaton_David
+Grand_Slam_Cup,2,1991,12,22,2,Stich_Michael,Forget_Guy,Stich_Michael
+Grand_Slam_Cup,2,1991,12,22,2,Hlasek_Jakob,Lendl_Ivan,Lendl_Ivan
+Grand_Slam_Cup,2,1991,12,22,2,McEnroe_Patrick,Chang_Michael,Chang_Michael
+Grand_Slam_Cup,2,1991,12,22,3,Wheaton_David,Stich_Michael,Wheaton_David
+Grand_Slam_Cup,2,1991,12,22,3,Lendl_Ivan,Chang_Michael,Chang_Michael
+Grand_Slam_Cup,2,1991,12,22,4,Wheaton_David,Chang_Michael,Wheaton_David

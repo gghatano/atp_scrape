@@ -1,0 +1,15 @@
+Dusseldorf,2,1974,07,14,1,Kodes_Jan,Koudelka_Stepan,Kodes_Jan
+Dusseldorf,2,1974,07,14,1,McDonald_Allan,Korpas_Attila,Korpas_Attila
+Dusseldorf,2,1974,07,14,1,Mignot_Bernard,Sakai_Toshiro,Mignot_Bernard
+Dusseldorf,2,1974,07,14,1,Wunschig_Max,Elschenbroich_Harald,Wunschig_Max
+Dusseldorf,2,1974,07,14,1,Hrebec_Jiri,Rheinberger_Robert,Hrebec_Jiri
+Dusseldorf,2,1974,07,14,1,Elvstrom_Lars,Kuhnke_Christian,Kuhnke_Christian
+Dusseldorf,2,1974,07,14,1,Pinner_Ulrich,Eastburn_John,Pinner_Ulrich
+Dusseldorf,2,1974,07,14,1,Gehring_Rolf,Gimeno_Andres,Gimeno_Andres
+Dusseldorf,2,1974,07,14,2,Kodes_Jan,Korpas_Attila,Kodes_Jan
+Dusseldorf,2,1974,07,14,2,Mignot_Bernard,Wunschig_Max,Mignot_Bernard
+Dusseldorf,2,1974,07,14,2,Hrebec_Jiri,Kuhnke_Christian,Hrebec_Jiri
+Dusseldorf,2,1974,07,14,2,Pinner_Ulrich,Gimeno_Andres,Pinner_Ulrich
+Dusseldorf,2,1974,07,14,3,Kodes_Jan,Mignot_Bernard,Mignot_Bernard
+Dusseldorf,2,1974,07,14,3,Hrebec_Jiri,Pinner_Ulrich,Hrebec_Jiri
+Dusseldorf,2,1974,07,14,4,Mignot_Bernard,Hrebec_Jiri,Mignot_Bernard

@@ -1,0 +1,15 @@
+Birmingham_WCT,2,1977,01,16,1,Connors_Jimmy,Mottram_BusterC,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-3_6-2
+Birmingham_WCT,2,1977,01,16,1,Okker_Tom,Drysdale_Cliff,Drysdale_Cliff,Birmingham_WCT,1977,01,16,6-1_7-5
+Birmingham_WCT,2,1977,01,16,1,Mayer_Sandy,Kodes_Jan,Mayer_Sandy,Birmingham_WCT,1977,01,16,6-2_6-2
+Birmingham_WCT,2,1977,01,16,1,Dibbs_Eddie,Orantes_Manuel,Dibbs_Eddie,Birmingham_WCT,1977,01,16,7-6(3)_1-6_6-1
+Birmingham_WCT,2,1977,01,16,1,Solomon_Harold,Gerulaitis_Vitas,Gerulaitis_Vitas,Birmingham_WCT,1977,01,16,6-1_3-6_6-4
+Birmingham_WCT,2,1977,01,16,1,Martin_Billy,Moore_Raymond,Moore_Raymond,Birmingham_WCT,1977,01,16,6-3_6-3
+Birmingham_WCT,2,1977,01,16,1,Scanlon_Bill,Mayer_Gene,Scanlon_Bill,Birmingham_WCT,1977,01,16,6-4_6-7(6)_6-2
+Birmingham_WCT,2,1977,01,16,1,Fibak_Wojtek,Nastase_Ilie,Nastase_Ilie,Birmingham_WCT,1977,01,16,6-3_6-2
+Birmingham_WCT,2,1977,01,16,2,Connors_Jimmy,Drysdale_Cliff,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-4_6-2
+Birmingham_WCT,2,1977,01,16,2,Mayer_Sandy,Dibbs_Eddie,Dibbs_Eddie,Birmingham_WCT,1977,01,16,6-4_6-3
+Birmingham_WCT,2,1977,01,16,2,Gerulaitis_Vitas,Moore_Raymond,Moore_Raymond,Birmingham_WCT,1977,01,16,6-4_4-6_7-6(3)
+Birmingham_WCT,2,1977,01,16,2,Scanlon_Bill,Nastase_Ilie,Scanlon_Bill,Birmingham_WCT,1977,01,16,7-6(4)_6-4
+Birmingham_WCT,2,1977,01,16,3,Connors_Jimmy,Dibbs_Eddie,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-4_6-3
+Birmingham_WCT,2,1977,01,16,3,Moore_Raymond,Scanlon_Bill,Scanlon_Bill,Birmingham_WCT,1977,01,16,6-7(3)_6-4_7-5
+Birmingham_WCT,2,1977,01,16,4,Connors_Jimmy,Scanlon_Bill,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-3_6-3

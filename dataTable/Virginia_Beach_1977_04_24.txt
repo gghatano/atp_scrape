@@ -1,0 +1,15 @@
+Virginia_Beach,2,1977,04,24,1,Gerulaitis_Vitas,Dominguez_Patrice,Gerulaitis_Vitas
+Virginia_Beach,2,1977,04,24,1,Scanlon_Bill,Taroczy_Balazs,Taroczy_Balazs
+Virginia_Beach,2,1977,04,24,1,Ruffels_Ray,Richey_Cliff,Ruffels_Ray
+Virginia_Beach,2,1977,04,24,1,Walts_Butch,Vilas_Guillermo,Vilas_Guillermo
+Virginia_Beach,2,1977,04,24,1,Nastase_Ilie,Amaya_Victor,Nastase_Ilie
+Virginia_Beach,2,1977,04,24,1,Moore_Raymond,Amritraj_Anand,Moore_Raymond
+Virginia_Beach,2,1977,04,24,1,Pasarell_Charlie,McEnroe_John,McEnroe_John
+Virginia_Beach,2,1977,04,24,1,Tiriac_Ion,Lutz_Robert,Lutz_Robert
+Virginia_Beach,2,1977,04,24,2,Gerulaitis_Vitas,Taroczy_Balazs,Gerulaitis_Vitas
+Virginia_Beach,2,1977,04,24,2,Ruffels_Ray,Vilas_Guillermo,Vilas_Guillermo
+Virginia_Beach,2,1977,04,24,2,Nastase_Ilie,Moore_Raymond,Nastase_Ilie
+Virginia_Beach,2,1977,04,24,2,McEnroe_John,Lutz_Robert,McEnroe_John
+Virginia_Beach,2,1977,04,24,3,Gerulaitis_Vitas,Vilas_Guillermo,Vilas_Guillermo
+Virginia_Beach,2,1977,04,24,3,Nastase_Ilie,McEnroe_John,Nastase_Ilie
+Virginia_Beach,2,1977,04,24,4,Vilas_Guillermo,Nastase_Ilie,Vilas_Guillermo

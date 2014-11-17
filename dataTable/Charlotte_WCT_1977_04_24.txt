@@ -1,0 +1,15 @@
+Charlotte_WCT,2,1977,04,24,1,Stockton_Dick,Okker_Tom,Okker_Tom
+Charlotte_WCT,2,1977,04,24,1,Barazzutti_Corrado,Amritraj_Vijay,Barazzutti_Corrado
+Charlotte_WCT,2,1977,04,24,1,Panatta_Adriano,Wilkison_Tim,Panatta_Adriano
+Charlotte_WCT,2,1977,04,24,1,Martin_Billy,Drysdale_Cliff,Drysdale_Cliff
+Charlotte_WCT,2,1977,04,24,1,Rosewall_Ken,Alexander_John,Alexander_John
+Charlotte_WCT,2,1977,04,24,1,Solomon_Harold,Case_Ross,Solomon_Harold
+Charlotte_WCT,2,1977,04,24,1,Sadri_John,Roche_Tony,Roche_Tony
+Charlotte_WCT,2,1977,04,24,1,Pattison_Andrew,Dibbs_Eddie,Dibbs_Eddie
+Charlotte_WCT,2,1977,04,24,2,Okker_Tom,Barazzutti_Corrado,Barazzutti_Corrado
+Charlotte_WCT,2,1977,04,24,2,Panatta_Adriano,Drysdale_Cliff,Panatta_Adriano
+Charlotte_WCT,2,1977,04,24,2,Alexander_John,Solomon_Harold,Alexander_John
+Charlotte_WCT,2,1977,04,24,2,Roche_Tony,Dibbs_Eddie,Dibbs_Eddie
+Charlotte_WCT,2,1977,04,24,3,Barazzutti_Corrado,Panatta_Adriano,Barazzutti_Corrado
+Charlotte_WCT,2,1977,04,24,3,Alexander_John,Dibbs_Eddie,Dibbs_Eddie
+Charlotte_WCT,2,1977,04,24,4,Barazzutti_Corrado,Dibbs_Eddie,Barazzutti_Corrado

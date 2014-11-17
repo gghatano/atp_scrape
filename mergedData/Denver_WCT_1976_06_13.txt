@@ -1,0 +1,15 @@
+Denver_WCT,2,1976,06,13,1,Rosewall_Ken,Martin_Billy,Martin_Billy,Denver_WCT,1976,06,13,4-6_7-5_6-4
+Denver_WCT,2,1976,06,13,1,Gottfried_Brian,Roche_Tony,Gottfried_Brian,Denver_WCT,1976,06,13,7-6(4)_6-3
+Denver_WCT,2,1976,06,13,1,Masters_Geoff,Pattison_Andrew,Masters_Geoff,Denver_WCT,1976,06,13,7-5_6-4
+Denver_WCT,2,1976,06,13,1,Case_Ross,Gerulaitis_Vitas,Case_Ross,Denver_WCT,1976,06,13,6-4_6-4
+Denver_WCT,2,1976,06,13,1,Ramirez_Raul,Stone_Allan,Ramirez_Raul,Denver_WCT,1976,06,13,6-3_6-4
+Denver_WCT,2,1976,06,13,1,Pasarell_Charlie,Borowiak_Jeff,Pasarell_Charlie,Denver_WCT,1976,06,13,2-6_7-6(2)_6-3
+Denver_WCT,2,1976,06,13,1,McNair_IVFred,Alexander_John,Alexander_John,Denver_WCT,1976,06,13,6-4_4-6_6-2
+Denver_WCT,2,1976,06,13,1,Dent_Phil,Connors_Jimmy,Connors_Jimmy,Denver_WCT,1976,06,13,6-4_7-5
+Denver_WCT,2,1976,06,13,2,Martin_Billy,Gottfried_Brian,Gottfried_Brian,Denver_WCT,1976,06,13,6-2_6-2
+Denver_WCT,2,1976,06,13,2,Masters_Geoff,Case_Ross,Case_Ross,Denver_WCT,1976,06,13,6-3_2-6_6-3
+Denver_WCT,2,1976,06,13,2,Ramirez_Raul,Pasarell_Charlie,Ramirez_Raul,Denver_WCT,1976,06,13,6-3_6-2
+Denver_WCT,2,1976,06,13,2,Alexander_John,Connors_Jimmy,Connors_Jimmy,Denver_WCT,1976,06,13,W/O
+Denver_WCT,2,1976,06,13,3,Gottfried_Brian,Case_Ross,Case_Ross,Denver_WCT,1976,06,13,6-3_6-7(4)_7-6(2)
+Denver_WCT,2,1976,06,13,3,Ramirez_Raul,Connors_Jimmy,Connors_Jimmy,Denver_WCT,1976,06,13,6-2_7-6(3)
+Denver_WCT,2,1976,06,13,4,Case_Ross,Connors_Jimmy,Connors_Jimmy,Denver_WCT,1976,06,13,7-6(1)_6-2

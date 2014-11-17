@@ -1,0 +1,7 @@
+Miami_WCT,2,1970,02,15,1,Laver_Rod,Bye,Laver_Rod,Miami_WCT,1970,02,15,
+Miami_WCT,2,1970,02,15,1,Gimeno_Andres,Okker_Tom,Gimeno_Andres,Miami_WCT,1970,02,15,3-6_6-4_6-0
+Miami_WCT,2,1970,02,15,1,Roche_Tony,Stolle_Fred,Roche_Tony,Miami_WCT,1970,02,15,6-4_6-4
+Miami_WCT,2,1970,02,15,1,Rosewall_Ken,Moore_Raymond,Rosewall_Ken,Miami_WCT,1970,02,15,6-1_7-5
+Miami_WCT,2,1970,02,15,2,Laver_Rod,Gimeno_Andres,Gimeno_Andres,Miami_WCT,1970,02,15,4-6_11-9_7-5
+Miami_WCT,2,1970,02,15,2,Roche_Tony,Rosewall_Ken,Rosewall_Ken,Miami_WCT,1970,02,15,9-7_2-6_6-2
+Miami_WCT,2,1970,02,15,3,Gimeno_Andres,Rosewall_Ken,Rosewall_Ken,Miami_WCT,1970,02,15,3-6_6-2_3-6_7-6_6-3

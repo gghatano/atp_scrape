@@ -1,0 +1,15 @@
+Johannesburg_WCT,2,1976,06,13,1,Vilas_Guillermo,Riessen_Marty,Vilas_Guillermo
+Johannesburg_WCT,2,1976,06,13,1,Case_Ross,Muller_Johnny,Case_Ross
+Johannesburg_WCT,2,1976,06,13,1,Mitton_Bernard,Warwick_Kim,Warwick_Kim
+Johannesburg_WCT,2,1976,06,13,1,Giltinan_Bob,Drysdale_Cliff,Drysdale_Cliff
+Johannesburg_WCT,2,1976,06,13,1,Okker_Tom,McMillan_Frew,Okker_Tom
+Johannesburg_WCT,2,1976,06,13,1,Pattison_Andrew,Masters_Geoff,Masters_Geoff
+Johannesburg_WCT,2,1976,06,13,1,Parun_Onny,Tanner_Roscoe,Parun_Onny
+Johannesburg_WCT,2,1976,06,13,1,Moore_Raymond,Borg_Bjorn,Moore_Raymond
+Johannesburg_WCT,2,1976,06,13,2,Vilas_Guillermo,Case_Ross,Case_Ross
+Johannesburg_WCT,2,1976,06,13,2,Warwick_Kim,Drysdale_Cliff,Drysdale_Cliff
+Johannesburg_WCT,2,1976,06,13,2,Okker_Tom,Masters_Geoff,Okker_Tom
+Johannesburg_WCT,2,1976,06,13,2,Parun_Onny,Moore_Raymond,Parun_Onny
+Johannesburg_WCT,2,1976,06,13,3,Case_Ross,Drysdale_Cliff,Drysdale_Cliff
+Johannesburg_WCT,2,1976,06,13,3,Okker_Tom,Parun_Onny,Parun_Onny
+Johannesburg_WCT,2,1976,06,13,4,Drysdale_Cliff,Parun_Onny,Parun_Onny

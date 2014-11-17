@@ -1,0 +1,15 @@
+Dallas,2,1985,04,14,1,McEnroe_John,Bye,McEnroe_John,Dallas,1985,04,14,
+Dallas,2,1985,04,14,1,Sundstrom_Henrik,Nystrom_Joakim,Nystrom_Joakim,Dallas,1985,04,14,6-3_6-3_6-4
+Dallas,2,1985,04,14,1,Wilander_Mats,Bye,Wilander_Mats,Dallas,1985,04,14,
+Dallas,2,1985,04,14,1,Gomez_Andres,Mayotte_Tim,Mayotte_Tim,Dallas,1985,04,14,7-6_6-4_6-2
+Dallas,2,1985,04,14,1,Jarryd_Anders,Edberg_Stefan,Edberg_Stefan,Dallas,1985,04,14,1-6_6-2_6-2_5-7_6-3
+Dallas,2,1985,04,14,1,Bye,Lendl_Ivan,Lendl_Ivan,Dallas,1985,04,14,
+Dallas,2,1985,04,14,1,Krickstein_Aaron,Teltscher_Eliot,Krickstein_Aaron,Dallas,1985,04,14,7-5_2-6_6-3_2-6_7-5
+Dallas,2,1985,04,14,1,Bye,Connors_Jimmy,Connors_Jimmy,Dallas,1985,04,14,
+Dallas,2,1985,04,14,2,McEnroe_John,Nystrom_Joakim,Nystrom_Joakim,Dallas,1985,04,14,6-4_7-6_6-3
+Dallas,2,1985,04,14,2,Wilander_Mats,Mayotte_Tim,Mayotte_Tim,Dallas,1985,04,14,6-3_6-1_7-6
+Dallas,2,1985,04,14,2,Edberg_Stefan,Lendl_Ivan,Lendl_Ivan,Dallas,1985,04,14,3-6_7-6_3-6_6-1_6-2
+Dallas,2,1985,04,14,2,Krickstein_Aaron,Connors_Jimmy,Connors_Jimmy,Dallas,1985,04,14,7-5_6-2_6-3
+Dallas,2,1985,04,14,3,Nystrom_Joakim,Mayotte_Tim,Mayotte_Tim,Dallas,1985,04,14,6-4_4-6_6-2_7-5
+Dallas,2,1985,04,14,3,Lendl_Ivan,Connors_Jimmy,Lendl_Ivan,Dallas,1985,04,14,6-3_2-1_RET
+Dallas,2,1985,04,14,4,Mayotte_Tim,Lendl_Ivan,Lendl_Ivan,Dallas,1985,04,14,7-6_6-4_6-1

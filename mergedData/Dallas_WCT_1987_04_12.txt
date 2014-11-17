@@ -1,0 +1,15 @@
+Dallas_WCT,2,1987,04,12,1,Curren_Kevin,Bye,Curren_Kevin,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Gomez_Andres,Bye,Gomez_Andres,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Wilander_Mats,Bye,Wilander_Mats,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Mecir_SrMiloslav,Bye,Mecir_SrMiloslav,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Bye,Noah_Yannick,Noah_Yannick,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Bye,McEnroe_John,McEnroe_John,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Bye,Mayotte_Tim,Mayotte_Tim,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,1,Bye,Edberg_Stefan,Edberg_Stefan,Dallas_WCT,1987,04,12,
+Dallas_WCT,2,1987,04,12,2,Curren_Kevin,Gomez_Andres,Gomez_Andres,Dallas_WCT,1987,04,12,6-7_7-6_6-7_6-4_6-2
+Dallas_WCT,2,1987,04,12,2,Wilander_Mats,Mecir_SrMiloslav,Mecir_SrMiloslav,Dallas_WCT,1987,04,12,6-1_6-1_6-3
+Dallas_WCT,2,1987,04,12,2,Noah_Yannick,McEnroe_John,McEnroe_John,Dallas_WCT,1987,04,12,7-6_6-2_4-6_6-3
+Dallas_WCT,2,1987,04,12,2,Mayotte_Tim,Edberg_Stefan,Edberg_Stefan,Dallas_WCT,1987,04,12,6-2_7-5_6-7_3-6_6-1
+Dallas_WCT,2,1987,04,12,3,Gomez_Andres,Mecir_SrMiloslav,Mecir_SrMiloslav,Dallas_WCT,1987,04,12,6-7_7-6_6-4_6-2
+Dallas_WCT,2,1987,04,12,3,McEnroe_John,Edberg_Stefan,McEnroe_John,Dallas_WCT,1987,04,12,7-6_6-7_7-6_6-4
+Dallas_WCT,2,1987,04,12,4,Mecir_SrMiloslav,McEnroe_John,Mecir_SrMiloslav,Dallas_WCT,1987,04,12,6-0_3-6_6-2_6-2

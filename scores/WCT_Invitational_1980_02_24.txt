@@ -1,0 +1,9 @@
+WCT_Invitational,1980,02,24,6-3_6-1
+WCT_Invitational,1980,02,24,6-2_6-1
+WCT_Invitational,1980,02,24,6-1_6-4
+WCT_Invitational,1980,02,24,6-4_6-4
+WCT_Invitational,1980,02,24,6-4_6-7_6-3
+WCT_Invitational,1980,02,24,7-6_6-2
+WCT_Invitational,1980,02,24,6-4_6-4
+WCT_Invitational,1980,02,24,6-3_6-4
+WCT_Invitational,1980,02,24,6-3_6-3

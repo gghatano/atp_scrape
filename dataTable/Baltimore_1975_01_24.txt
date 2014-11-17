@@ -1,0 +1,15 @@
+Baltimore,2,1975,01,24,1,Solomon_Harold,Lutz_Robert,Lutz_Robert
+Baltimore,2,1975,01,24,1,Van_Dillen_Erik,Masters_Geoff,Van_Dillen_Erik
+Baltimore,2,1975,01,24,1,Case_Ross,Gerken_Paul,Gerken_Paul
+Baltimore,2,1975,01,24,1,Stone_Allan,McMillan_Frew,Stone_Allan
+Baltimore,2,1975,01,24,1,Ruffels_Ray,Warwick_Kim,Ruffels_Ray
+Baltimore,2,1975,01,24,1,PhillipsMoore_Barry,Gottfried_Brian,Gottfried_Brian
+Baltimore,2,1975,01,24,1,Krulevitz_Steve,El_Shafei_Ismail,Krulevitz_Steve
+Baltimore,2,1975,01,24,1,Crealy_Dick,Roche_Tony,Roche_Tony
+Baltimore,2,1975,01,24,2,Lutz_Robert,Van_Dillen_Erik,Lutz_Robert
+Baltimore,2,1975,01,24,2,Gerken_Paul,Stone_Allan,Stone_Allan
+Baltimore,2,1975,01,24,2,Ruffels_Ray,Gottfried_Brian,Gottfried_Brian
+Baltimore,2,1975,01,24,2,Krulevitz_Steve,Roche_Tony,Roche_Tony
+Baltimore,2,1975,01,24,3,Lutz_Robert,Stone_Allan,Stone_Allan
+Baltimore,2,1975,01,24,3,Gottfried_Brian,Roche_Tony,Gottfried_Brian
+Baltimore,2,1975,01,24,4,Stone_Allan,Gottfried_Brian,Gottfried_Brian

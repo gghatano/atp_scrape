@@ -1,0 +1,15 @@
+Cairo,2,1977,03,27,1,Jauffret_Francois,Zirngibl_Werner,Jauffret_Francois
+Cairo,2,1977,03,27,1,Spear_Nicola,Bartlett_John,Spear_Nicola
+Cairo,2,1977,03,27,1,Dupre_Pat,Mohammed_AbdelGhani,Dupre_Pat
+Cairo,2,1977,03,27,1,Kronk_Paul,Taylor_Roger,Kronk_Paul
+Cairo,2,1977,03,27,1,Kary_Hans,Lewis_Richard,Lewis_Richard
+Cairo,2,1977,03,27,1,Letcher_Cliff,El_Shafei_Ismail,Letcher_Cliff
+Cairo,2,1977,03,27,1,Proisy_Patrick,Gebert_Frank,Gebert_Frank
+Cairo,2,1977,03,27,1,Borisov_Vadim,Fairlie_Brian,Fairlie_Brian
+Cairo,2,1977,03,27,2,Jauffret_Francois,Spear_Nicola,Jauffret_Francois
+Cairo,2,1977,03,27,2,Dupre_Pat,Kronk_Paul,Dupre_Pat
+Cairo,2,1977,03,27,2,Lewis_Richard,Letcher_Cliff,Letcher_Cliff
+Cairo,2,1977,03,27,2,Gebert_Frank,Fairlie_Brian,Gebert_Frank
+Cairo,2,1977,03,27,3,Jauffret_Francois,Dupre_Pat,Jauffret_Francois
+Cairo,2,1977,03,27,3,Letcher_Cliff,Gebert_Frank,Gebert_Frank
+Cairo,2,1977,03,27,4,Jauffret_Francois,Gebert_Frank,Jauffret_Francois

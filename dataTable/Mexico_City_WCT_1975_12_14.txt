@@ -1,0 +1,15 @@
+Mexico_City_WCT,2,1975,12,14,1,Vilas_Guillermo,Fillol_Sr_Jaime,Vilas_Guillermo
+Mexico_City_WCT,2,1975,12,14,1,Gottfried_Brian,Solomon_Harold,Gottfried_Brian
+Mexico_City_WCT,2,1975,12,14,1,Dibbs_Eddie,El_Shafei_Ismail,Dibbs_Eddie
+Mexico_City_WCT,2,1975,12,14,1,Montano_Emilio,Rosewall_Ken,Rosewall_Ken
+Mexico_City_WCT,2,1975,12,14,1,Ramirez_Raul,Crealy_Dick,Ramirez_Raul
+Mexico_City_WCT,2,1975,12,14,1,Gorman_Tom,Fairlie_Brian,Gorman_Tom
+Mexico_City_WCT,2,1975,12,14,1,Lara_Marcelo,Andrews_John,Lara_Marcelo
+Mexico_City_WCT,2,1975,12,14,1,Ball_Syd,Santana_Manuel,Ball_Syd
+Mexico_City_WCT,2,1975,12,14,2,Vilas_Guillermo,Gottfried_Brian,Vilas_Guillermo
+Mexico_City_WCT,2,1975,12,14,2,Dibbs_Eddie,Rosewall_Ken,Dibbs_Eddie
+Mexico_City_WCT,2,1975,12,14,2,Ramirez_Raul,Gorman_Tom,Ramirez_Raul
+Mexico_City_WCT,2,1975,12,14,2,Lara_Marcelo,Ball_Syd,Lara_Marcelo
+Mexico_City_WCT,2,1975,12,14,3,Vilas_Guillermo,Dibbs_Eddie,Dibbs_Eddie
+Mexico_City_WCT,2,1975,12,14,3,Ramirez_Raul,Lara_Marcelo,Ramirez_Raul
+Mexico_City_WCT,2,1975,12,14,4,Dibbs_Eddie,Ramirez_Raul,Ramirez_Raul

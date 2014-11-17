@@ -1,0 +1,15 @@
+La_Costa_WCT,2,1982,09,12,1,Vilas_Guillermo,Gildemeister_Hans,Vilas_Guillermo,La_Costa_WCT,1982,09,12,6-7_6-2_6-4
+La_Costa_WCT,2,1982,09,12,1,Buehning_Fritz,Taroczy_Balazs,Taroczy_Balazs,La_Costa_WCT,1982,09,12,4-6_6-3_6-4
+La_Costa_WCT,2,1982,09,12,1,Kriek_Johan,Manson_Bruce,Kriek_Johan,La_Costa_WCT,1982,09,12,6-3_5-7_6-3
+La_Costa_WCT,2,1982,09,12,1,Teltscher_Eliot,Teacher_Brian,Teacher_Brian,La_Costa_WCT,1982,09,12,6-3_5-7_7-5
+La_Costa_WCT,2,1982,09,12,1,Dupre_Pat,Sadri_John,Sadri_John,La_Costa_WCT,1982,09,12,6-3_1-6_6-1
+La_Costa_WCT,2,1982,09,12,1,Ramirez_Raul,Higueras_Jose,Higueras_Jose,La_Costa_WCT,1982,09,12,6-4_6-2
+La_Costa_WCT,2,1982,09,12,1,Lutz_Robert,Tanner_Roscoe,Tanner_Roscoe,La_Costa_WCT,1982,09,12,7-5_6-3
+La_Costa_WCT,2,1982,09,12,1,Warwick_Kim,Clerc_JoseLuis,Warwick_Kim,La_Costa_WCT,1982,09,12,W/O
+La_Costa_WCT,2,1982,09,12,2,Vilas_Guillermo,Taroczy_Balazs,Taroczy_Balazs,La_Costa_WCT,1982,09,12,6-3_6-4
+La_Costa_WCT,2,1982,09,12,2,Kriek_Johan,Teacher_Brian,Kriek_Johan,La_Costa_WCT,1982,09,12,6-4_4-6_6-1
+La_Costa_WCT,2,1982,09,12,2,Sadri_John,Higueras_Jose,Sadri_John,La_Costa_WCT,1982,09,12,7-6_6-1
+La_Costa_WCT,2,1982,09,12,2,Tanner_Roscoe,Warwick_Kim,Tanner_Roscoe,La_Costa_WCT,1982,09,12,4-6_6-3_7-6
+La_Costa_WCT,2,1982,09,12,3,Taroczy_Balazs,Kriek_Johan,Kriek_Johan,La_Costa_WCT,1982,09,12,7-5_6-0
+La_Costa_WCT,2,1982,09,12,3,Sadri_John,Tanner_Roscoe,Tanner_Roscoe,La_Costa_WCT,1982,09,12,4-6_7-6_6-4
+La_Costa_WCT,2,1982,09,12,4,Kriek_Johan,Tanner_Roscoe,Kriek_Johan,La_Costa_WCT,1982,09,12,6-0_4-6_6-0_6-4

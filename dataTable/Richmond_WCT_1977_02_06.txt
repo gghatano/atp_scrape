@@ -1,0 +1,15 @@
+Richmond_WCT,2,1977,02,06,1,Connors_Jimmy,Case_Ross,Case_Ross
+Richmond_WCT,2,1977,02,06,1,Stockton_Dick,Barazzutti_Corrado,Barazzutti_Corrado
+Richmond_WCT,2,1977,02,06,1,Alexander_John,Gerulaitis_Vitas,Gerulaitis_Vitas
+Richmond_WCT,2,1977,02,06,1,Amritraj_Vijay,Panatta_Adriano,Panatta_Adriano
+Richmond_WCT,2,1977,02,06,1,Orantes_Manuel,Kodes_Jan,Orantes_Manuel
+Richmond_WCT,2,1977,02,06,1,Parun_Onny,Okker_Tom,Okker_Tom
+Richmond_WCT,2,1977,02,06,1,Roche_Tony,Fibak_Wojtek,Roche_Tony
+Richmond_WCT,2,1977,02,06,1,Drysdale_Cliff,Nastase_Ilie,Nastase_Ilie
+Richmond_WCT,2,1977,02,06,2,Case_Ross,Barazzutti_Corrado,Barazzutti_Corrado
+Richmond_WCT,2,1977,02,06,2,Gerulaitis_Vitas,Panatta_Adriano,Gerulaitis_Vitas
+Richmond_WCT,2,1977,02,06,2,Orantes_Manuel,Okker_Tom,Okker_Tom
+Richmond_WCT,2,1977,02,06,2,Roche_Tony,Nastase_Ilie,Roche_Tony
+Richmond_WCT,2,1977,02,06,3,Barazzutti_Corrado,Gerulaitis_Vitas,Gerulaitis_Vitas
+Richmond_WCT,2,1977,02,06,3,Okker_Tom,Roche_Tony,Okker_Tom
+Richmond_WCT,2,1977,02,06,4,Gerulaitis_Vitas,Okker_Tom,Okker_Tom

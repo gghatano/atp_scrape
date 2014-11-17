@@ -1,0 +1,15 @@
+Charlotte_WCT,2,1976,06,13,1,Dibbs_Eddie,Stone_Allan,Dibbs_Eddie,Charlotte_WCT,1976,06,13,6-3_6-3
+Charlotte_WCT,2,1976,06,13,1,Richey_Cliff,Martin_Billy,Richey_Cliff,Charlotte_WCT,1976,06,13,6-1_2-6_6-1
+Charlotte_WCT,2,1976,06,13,1,Mayer_Sandy,Roche_Tony,Roche_Tony,Charlotte_WCT,1976,06,13,6-2_6-2
+Charlotte_WCT,2,1976,06,13,1,Case_Ross,Newcombe_John,Case_Ross,Charlotte_WCT,1976,06,13,6-0_6-4
+Charlotte_WCT,2,1976,06,13,1,Stockton_Dick,Borowiak_Jeff,Stockton_Dick,Charlotte_WCT,1976,06,13,4-6_6-3_6-4
+Charlotte_WCT,2,1976,06,13,1,Van_DillenErik,Gerulaitis_Vitas,Gerulaitis_Vitas,Charlotte_WCT,1976,06,13,6-1_6-2
+Charlotte_WCT,2,1976,06,13,1,Masters_Geoff,Pasarell_Charlie,Masters_Geoff,Charlotte_WCT,1976,06,13,6-1_6-2
+Charlotte_WCT,2,1976,06,13,1,Solomon_Harold,Rosewall_Ken,Rosewall_Ken,Charlotte_WCT,1976,06,13,6-2_6-1
+Charlotte_WCT,2,1976,06,13,2,Dibbs_Eddie,Richey_Cliff,Dibbs_Eddie,Charlotte_WCT,1976,06,13,5-7_6-1_7-5
+Charlotte_WCT,2,1976,06,13,2,Roche_Tony,Case_Ross,Roche_Tony,Charlotte_WCT,1976,06,13,7-6_7-6
+Charlotte_WCT,2,1976,06,13,2,Stockton_Dick,Gerulaitis_Vitas,Gerulaitis_Vitas,Charlotte_WCT,1976,06,13,DEF
+Charlotte_WCT,2,1976,06,13,2,Masters_Geoff,Rosewall_Ken,Rosewall_Ken,Charlotte_WCT,1976,06,13,6-2_6-3
+Charlotte_WCT,2,1976,06,13,3,Dibbs_Eddie,Roche_Tony,Roche_Tony,Charlotte_WCT,1976,06,13,6-4_6-2
+Charlotte_WCT,2,1976,06,13,3,Gerulaitis_Vitas,Rosewall_Ken,Gerulaitis_Vitas,Charlotte_WCT,1976,06,13,7-5_6-2
+Charlotte_WCT,2,1976,06,13,4,Roche_Tony,Gerulaitis_Vitas,Roche_Tony,Charlotte_WCT,1976,06,13,6-3_3-6_6-1

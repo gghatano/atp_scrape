@@ -1,0 +1,15 @@
+Tournament_of_Champions_WCT,2,1977,09,25,1,Nastase_Ilie,Scanlon_Bill,Nastase_Ilie
+Tournament_of_Champions_WCT,2,1977,09,25,1,Rosewall_Ken,Fibak_Wojtek,Rosewall_Ken
+Tournament_of_Champions_WCT,2,1977,09,25,1,Dibbs_Eddie,Drysdale_Cliff,Dibbs_Eddie
+Tournament_of_Champions_WCT,2,1977,09,25,1,Amritraj_Vijay,Panatta_Adriano,Amritraj_Vijay
+Tournament_of_Champions_WCT,2,1977,09,25,1,Stockton_Dick,Alexander_John,Stockton_Dick
+Tournament_of_Champions_WCT,2,1977,09,25,1,Connors_Jimmy,Richey_Cliff,Connors_Jimmy
+Tournament_of_Champions_WCT,2,1977,09,25,1,Dent_Phil,Parun_Onny,Dent_Phil
+Tournament_of_Champions_WCT,2,1977,09,25,1,Solomon_Harold,Cox_Mark,Solomon_Harold
+Tournament_of_Champions_WCT,2,1977,09,25,2,Nastase_Ilie,Rosewall_Ken,Rosewall_Ken
+Tournament_of_Champions_WCT,2,1977,09,25,2,Dibbs_Eddie,Amritraj_Vijay,Dibbs_Eddie
+Tournament_of_Champions_WCT,2,1977,09,25,2,Stockton_Dick,Connors_Jimmy,Stockton_Dick
+Tournament_of_Champions_WCT,2,1977,09,25,2,Dent_Phil,Solomon_Harold,Solomon_Harold
+Tournament_of_Champions_WCT,2,1977,09,25,3,Rosewall_Ken,Dibbs_Eddie,Rosewall_Ken
+Tournament_of_Champions_WCT,2,1977,09,25,3,Stockton_Dick,Solomon_Harold,Solomon_Harold
+Tournament_of_Champions_WCT,2,1977,09,25,4,Rosewall_Ken,Solomon_Harold,Solomon_Harold

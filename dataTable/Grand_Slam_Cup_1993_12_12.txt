@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1993,12,12,1,Sampras_Pete,Muster_Thomas,Sampras_Pete
+Grand_Slam_Cup,2,1993,12,12,1,Chang_Michael,Masur_Wally,Chang_Michael
+Grand_Slam_Cup,2,1993,12,12,1,Bruguera_Sergi,Larsson_Magnus,Bruguera_Sergi
+Grand_Slam_Cup,2,1993,12,12,1,Korda_Petr,Volkov_Alexander,Korda_Petr
+Grand_Slam_Cup,2,1993,12,12,1,Stich_Michael,Washington_MaliVai,Stich_Michael
+Grand_Slam_Cup,2,1993,12,12,1,Steven_Brett,Pioline_Cedric,Steven_Brett
+Grand_Slam_Cup,2,1993,12,12,1,Becker_Boris,Ferreira_Wayne,Ferreira_Wayne
+Grand_Slam_Cup,2,1993,12,12,1,Martin_Todd,Edberg_Stefan,Edberg_Stefan
+Grand_Slam_Cup,2,1993,12,12,2,Sampras_Pete,Chang_Michael,Sampras_Pete
+Grand_Slam_Cup,2,1993,12,12,2,Bruguera_Sergi,Korda_Petr,Korda_Petr
+Grand_Slam_Cup,2,1993,12,12,2,Stich_Michael,Steven_Brett,Stich_Michael
+Grand_Slam_Cup,2,1993,12,12,2,Ferreira_Wayne,Edberg_Stefan,Edberg_Stefan
+Grand_Slam_Cup,2,1993,12,12,3,Sampras_Pete,Korda_Petr,Korda_Petr
+Grand_Slam_Cup,2,1993,12,12,3,Stich_Michael,Edberg_Stefan,Stich_Michael
+Grand_Slam_Cup,2,1993,12,12,4,Korda_Petr,Stich_Michael,Korda_Petr

@@ -1,0 +1,12 @@
+WCT_Challenge_Cup,1977,11,20,6-5_5-6_6-4
+WCT_Challenge_Cup,1977,11,20,6-3_6-1
+WCT_Challenge_Cup,1977,11,20,3-6_6-4_6-3
+WCT_Challenge_Cup,1977,11,20,6-2_6-1
+WCT_Challenge_Cup,1977,11,20,6-5_6-4
+WCT_Challenge_Cup,1977,11,20,5-6_6-4_6-4
+WCT_Challenge_Cup,1977,11,20,6-5_6-5
+WCT_Challenge_Cup,1977,11,20,5-6_6-4_6-4
+WCT_Challenge_Cup,1977,11,20,5-6_6-4_6-5
+WCT_Challenge_Cup,1977,11,20,2-6_6-5_6-5
+WCT_Challenge_Cup,1977,11,20,6-3_5-6_6-4
+WCT_Challenge_Cup,1977,11,20,6-0_6-2

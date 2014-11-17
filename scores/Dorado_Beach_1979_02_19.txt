@@ -1,0 +1,9 @@
+Dorado_Beach,1979,02,19,6-3_6-1
+Dorado_Beach,1979,02,19,6-3_6-2
+Dorado_Beach,1979,02,19,6-3_2-6_6-4
+Dorado_Beach,1979,02,19,6-0_6-4
+Dorado_Beach,1979,02,19,6-5_6-3
+Dorado_Beach,1979,02,19,6-3_6-4
+Dorado_Beach,1979,02,19,6-4_6-5
+Dorado_Beach,1979,02,19,6-2_6-2
+Dorado_Beach,1979,02,19,6-4_2-6_6-1

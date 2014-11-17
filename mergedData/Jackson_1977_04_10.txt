@@ -1,0 +1,15 @@
+Jackson,2,1977,04,10,1,Rosewall_Ken,Owens_Charles,Rosewall_Ken,Jackson,1977,04,10,6-1_6-1
+Jackson,2,1977,04,10,1,McMillan_Frew,Mayer_Gene,Mayer_Gene,Jackson,1977,04,10,6-1_6-2
+Jackson,2,1977,04,10,1,Teacher_Brian,McNair_IVFred,Teacher_Brian,Jackson,1977,04,10,6-1_6-3
+Jackson,2,1977,04,10,1,Pattison_Andrew,Dent_Phil,Pattison_Andrew,Jackson,1977,04,10,7-5_6-2
+Jackson,2,1977,04,10,1,Richey_Cliff,Ycaza_Ricardo,Richey_Cliff,Jackson,1977,04,10,6-1_7-5
+Jackson,2,1977,04,10,1,Stewart_Sherwood,Martin_Billy,Martin_Billy,Jackson,1977,04,10,7-6_6-1
+Jackson,2,1977,04,10,1,Fleming_Peter,Hewitt_Bob,Hewitt_Bob,Jackson,1977,04,10,6-4_6-4
+Jackson,2,1977,04,10,1,Amritraj_Anand,Scanlon_Bill,Scanlon_Bill,Jackson,1977,04,10,7-6_7-5
+Jackson,2,1977,04,10,2,Rosewall_Ken,Mayer_Gene,Rosewall_Ken,Jackson,1977,04,10,6-2_6-1
+Jackson,2,1977,04,10,2,Teacher_Brian,Pattison_Andrew,Teacher_Brian,Jackson,1977,04,10,6-4_6-4
+Jackson,2,1977,04,10,2,Richey_Cliff,Martin_Billy,Richey_Cliff,Jackson,1977,04,10,7-6_5-7_6-3
+Jackson,2,1977,04,10,2,Hewitt_Bob,Scanlon_Bill,Scanlon_Bill,Jackson,1977,04,10,6-4_6-0
+Jackson,2,1977,04,10,3,Rosewall_Ken,Teacher_Brian,Teacher_Brian,Jackson,1977,04,10,6-2_6-0
+Jackson,2,1977,04,10,3,Richey_Cliff,Scanlon_Bill,Scanlon_Bill,Jackson,1977,04,10,7-6_6-4
+Jackson,2,1977,04,10,4,Teacher_Brian,Scanlon_Bill,Teacher_Brian,Jackson,1977,04,10,6-3_6-3

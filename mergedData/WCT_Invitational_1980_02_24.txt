@@ -1,0 +1,9 @@
+WCT_Invitational,2,1980,02,24,1,Connors_Jimmy,Alexander_John,Connors_Jimmy,WCT_Invitational,1980,02,24,6-3_6-1
+WCT_Invitational,2,1980,02,24,1,Dibbs_Eddie,Amritraj_Vijay,Amritraj_Vijay,WCT_Invitational,1980,02,24,6-2_6-1
+WCT_Invitational,2,1980,02,24,1,Borg_Bjorn,Nastase_Ilie,Borg_Bjorn,WCT_Invitational,1980,02,24,6-1_6-4
+WCT_Invitational,2,1980,02,24,2,Connors_Jimmy,Amritraj_Vijay,Connors_Jimmy,WCT_Invitational,1980,02,24,6-4_6-4
+WCT_Invitational,2,1980,02,24,3,Connors_Jimmy,Borg_Bjorn,Nastase_Ilie,WCT_Invitational,1980,02,24,6-4_6-7_6-3
+WCT_Invitational,2,1980,02,24,4,Connors_Jimmy,Amritraj_Vijay,Amritraj_Vijay,WCT_Invitational,1980,02,24,7-6_6-2
+,WCT_Invitational,1980,02,24,6-4_6-4
+,WCT_Invitational,1980,02,24,6-3_6-4
+,WCT_Invitational,1980,02,24,6-3_6-3

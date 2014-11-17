@@ -1,0 +1,15 @@
+Grand_Slam_Cup,1991,12,22,6-3_6-3
+Grand_Slam_Cup,1991,12,22,1-6_6-3_6-2
+Grand_Slam_Cup,1991,12,22,6-4_6-3
+Grand_Slam_Cup,1991,12,22,6-3_6-3
+Grand_Slam_Cup,1991,12,22,0-6_6-4_6-4
+Grand_Slam_Cup,1991,12,22,6-4_6-1
+Grand_Slam_Cup,1991,12,22,4-6_6-1_6-4
+Grand_Slam_Cup,1991,12,22,6-4_6-2
+Grand_Slam_Cup,1991,12,22,6-4_7-6
+Grand_Slam_Cup,1991,12,22,7-6_6-4
+Grand_Slam_Cup,1991,12,22,7-6_6-3
+Grand_Slam_Cup,1991,12,22,6-2_6-4
+Grand_Slam_Cup,1991,12,22,7-6_7-6_7-6
+Grand_Slam_Cup,1991,12,22,2-6_4-6_6-4_7-6_9-7
+Grand_Slam_Cup,1991,12,22,7-5_6-2_6-4

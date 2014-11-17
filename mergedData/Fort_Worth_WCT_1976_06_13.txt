@@ -1,0 +1,15 @@
+Fort_Worth_WCT,2,1976,06,13,1,Vilas_Guillermo,Cox_Mark,Vilas_Guillermo,Fort_Worth_WCT,1976,06,13,6-4_6-4
+Fort_Worth_WCT,2,1976,06,13,1,Drysdale_Cliff,Solomon_Harold,Solomon_Harold,Fort_Worth_WCT,1976,06,13,1-6_7-6(6)_6-3
+Fort_Worth_WCT,2,1976,06,13,1,Mayer_Sandy,Riessen_Marty,Mayer_Sandy,Fort_Worth_WCT,1976,06,13,6-1_7-5
+Fort_Worth_WCT,2,1976,06,13,1,Stewart_Sherwood,Alexander_John,Stewart_Sherwood,Fort_Worth_WCT,1976,06,13,6-1_6-7(6)_6-2
+Fort_Worth_WCT,2,1976,06,13,1,Dibbs_Eddie,Tanner_Roscoe,Tanner_Roscoe,Fort_Worth_WCT,1976,06,13,6-1_6-7(6)_7-5
+Fort_Worth_WCT,2,1976,06,13,1,Fillol_SrJaime,Gorman_Tom,Gorman_Tom,Fort_Worth_WCT,1976,06,13,2-6_6-3_6-4
+Fort_Worth_WCT,2,1976,06,13,1,Dent_Phil,Martin_Billy,Dent_Phil,Fort_Worth_WCT,1976,06,13,6-3_6-3
+Fort_Worth_WCT,2,1976,06,13,1,Richey_Cliff,Gerulaitis_Vitas,Richey_Cliff,Fort_Worth_WCT,1976,06,13,6-1_6-0
+Fort_Worth_WCT,2,1976,06,13,2,Vilas_Guillermo,Solomon_Harold,Vilas_Guillermo,Fort_Worth_WCT,1976,06,13,6-2_6-3
+Fort_Worth_WCT,2,1976,06,13,2,Mayer_Sandy,Stewart_Sherwood,Mayer_Sandy,Fort_Worth_WCT,1976,06,13,6-4_6-4
+Fort_Worth_WCT,2,1976,06,13,2,Tanner_Roscoe,Gorman_Tom,Tanner_Roscoe,Fort_Worth_WCT,1976,06,13,6-3_6-4
+Fort_Worth_WCT,2,1976,06,13,2,Dent_Phil,Richey_Cliff,Dent_Phil,Fort_Worth_WCT,1976,06,13,6-3_2-6_6-0
+Fort_Worth_WCT,2,1976,06,13,3,Vilas_Guillermo,Mayer_Sandy,Vilas_Guillermo,Fort_Worth_WCT,1976,06,13,6-2_6-2
+Fort_Worth_WCT,2,1976,06,13,3,Tanner_Roscoe,Dent_Phil,Dent_Phil,Fort_Worth_WCT,1976,06,13,6-4_6-4
+Fort_Worth_WCT,2,1976,06,13,4,Vilas_Guillermo,Dent_Phil,Vilas_Guillermo,Fort_Worth_WCT,1976,06,13,6-7(4)_6-1_6-1

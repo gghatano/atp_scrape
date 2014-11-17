@@ -1,0 +1,15 @@
+Vancouver_WCT,2,1970,09,28,1,Laver_Rod,Barthes_Pierre,Laver_Rod,Vancouver_WCT,1970,09,28,6-1_6-1
+Vancouver_WCT,2,1970,09,28,1,Gonzales_RichardPancho,Cox_Mark,Gonzales_RichardPancho,Vancouver_WCT,1970,09,28,6-4_6-2
+Vancouver_WCT,2,1970,09,28,1,Okker_Tom,El_ShafeiIsmail,Okker_Tom,Vancouver_WCT,1970,09,28,7-6_7-6
+Vancouver_WCT,2,1970,09,28,1,Drysdale_Cliff,Roche_Tony,Drysdale_Cliff,Vancouver_WCT,1970,09,28,2-6_6-4_6-1
+Vancouver_WCT,2,1970,09,28,1,Emerson_Roy,Pilic_Nikola,Emerson_Roy,Vancouver_WCT,1970,09,28,1-6_7-6_6-4
+Vancouver_WCT,2,1970,09,28,1,Riessen_Marty,Taylor_Roger,Riessen_Marty,Vancouver_WCT,1970,09,28,6-2_6-2
+Vancouver_WCT,2,1970,09,28,1,Gimeno_Andres,Stolle_Fred,Gimeno_Andres,Vancouver_WCT,1970,09,28,6-4_6-3
+Vancouver_WCT,2,1970,09,28,1,Newcombe_John,Stilwell_Graham,Newcombe_John,Vancouver_WCT,1970,09,28,6-1_6-3
+Vancouver_WCT,2,1970,09,28,2,Laver_Rod,Gonzales_RichardPancho,Laver_Rod,Vancouver_WCT,1970,09,28,6-3_7-5
+Vancouver_WCT,2,1970,09,28,2,Okker_Tom,Drysdale_Cliff,Okker_Tom,Vancouver_WCT,1970,09,28,6-3_6-4
+Vancouver_WCT,2,1970,09,28,2,Emerson_Roy,Riessen_Marty,Emerson_Roy,Vancouver_WCT,1970,09,28,6-3_6-1
+Vancouver_WCT,2,1970,09,28,2,Gimeno_Andres,Newcombe_John,Gimeno_Andres,Vancouver_WCT,1970,09,28,6-3_6-3
+Vancouver_WCT,2,1970,09,28,3,Laver_Rod,Okker_Tom,Laver_Rod,Vancouver_WCT,1970,09,28,6-4_6-0
+Vancouver_WCT,2,1970,09,28,3,Emerson_Roy,Gimeno_Andres,Emerson_Roy,Vancouver_WCT,1970,09,28,6-3_6-3
+Vancouver_WCT,2,1970,09,28,4,Laver_Rod,Emerson_Roy,Laver_Rod,Vancouver_WCT,1970,09,28,6-2_6-1_6-2

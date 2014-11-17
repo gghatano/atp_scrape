@@ -1,0 +1,15 @@
+Baltimore,2,1976,06,13,1,Borowiak_Jeff,Gorman_Tom,Gorman_Tom
+Baltimore,2,1976,06,13,1,Warwick_Kim,Richey_Cliff,Richey_Cliff
+Baltimore,2,1976,06,13,1,Dibbs_Eddie,Lutz_Robert,Dibbs_Eddie
+Baltimore,2,1976,06,13,1,Riessen_Marty,Hewitt_Bob,Riessen_Marty
+Baltimore,2,1976,06,13,1,McMillan_Frew,Case_Ross,Case_Ross
+Baltimore,2,1976,06,13,1,Masters_Geoff,Solomon_Harold,Solomon_Harold
+Baltimore,2,1976,06,13,1,Dent_Phil,Stockton_Dick,Dent_Phil
+Baltimore,2,1976,06,13,1,Stone_Allan,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1976,06,13,2,Gorman_Tom,Richey_Cliff,Gorman_Tom
+Baltimore,2,1976,06,13,2,Dibbs_Eddie,Riessen_Marty,Dibbs_Eddie
+Baltimore,2,1976,06,13,2,Case_Ross,Solomon_Harold,Solomon_Harold
+Baltimore,2,1976,06,13,2,Dent_Phil,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1976,06,13,3,Gorman_Tom,Dibbs_Eddie,Gorman_Tom
+Baltimore,2,1976,06,13,3,Solomon_Harold,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1976,06,13,4,Gorman_Tom,Nastase_Ilie,Gorman_Tom

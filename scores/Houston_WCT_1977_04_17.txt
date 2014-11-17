@@ -1,0 +1,15 @@
+Houston_WCT,1977,04,17,6-1_7-5
+Houston_WCT,1977,04,17,2-1_RET
+Houston_WCT,1977,04,17,6-2_6-3
+Houston_WCT,1977,04,17,7-5_6-3
+Houston_WCT,1977,04,17,3-6_6-2_7-5
+Houston_WCT,1977,04,17,6-4_6-4
+Houston_WCT,1977,04,17,3-6_7-6(2)_6-4
+Houston_WCT,1977,04,17,7-6(1)_6-2
+Houston_WCT,1977,04,17,1-6_6-3_6-4
+Houston_WCT,1977,04,17,7-6(1)_6-1
+Houston_WCT,1977,04,17,7-5_6-4
+Houston_WCT,1977,04,17,4-6_6-1_6-2
+Houston_WCT,1977,04,17,6-2_6-2
+Houston_WCT,1977,04,17,4-1_RET
+Houston_WCT,1977,04,17,7-6(4)_6-7(3)_6-1

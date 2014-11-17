@@ -1,0 +1,15 @@
+Amsterdam_WCT,1982,10,31,6-3_6-1
+Amsterdam_WCT,1982,10,31,6-3_6-1
+Amsterdam_WCT,1982,10,31,6-2_6-4
+Amsterdam_WCT,1982,10,31,6-0_6-4
+Amsterdam_WCT,1982,10,31,6-4_6-3
+Amsterdam_WCT,1982,10,31,6-4_1-6_6-3
+Amsterdam_WCT,1982,10,31,3-6_6-3_6-4
+Amsterdam_WCT,1982,10,31,6-3_6-2
+Amsterdam_WCT,1982,10,31,6-3_6-2
+Amsterdam_WCT,1982,10,31,6-4_6-7_6-4
+Amsterdam_WCT,1982,10,31,6-1_6-4
+Amsterdam_WCT,1982,10,31,6-2_7-5
+Amsterdam_WCT,1982,10,31,6-0_6-2
+Amsterdam_WCT,1982,10,31,6-1_6-4
+Amsterdam_WCT,1982,10,31,7-5_3-6_6-4_6-3

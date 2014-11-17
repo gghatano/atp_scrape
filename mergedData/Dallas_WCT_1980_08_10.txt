@@ -1,0 +1,7 @@
+Dallas_WCT,2,1980,08,10,1,McEnroe_John,Gunthardt_Heinz,McEnroe_John,Dallas_WCT,1980,08,10,6-2_6-1_6-0
+Dallas_WCT,2,1980,08,10,1,Kriek_Johan,Sadri_John,Kriek_Johan,Dallas_WCT,1980,08,10,7-5_6-4_7-5
+Dallas_WCT,2,1980,08,10,1,Lendl_Ivan,Amritraj_Vijay,Lendl_Ivan,Dallas_WCT,1980,08,10,6-4_6-1_6-3
+Dallas_WCT,2,1980,08,10,1,Scanlon_Bill,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1980,08,10,7-6_7-6_6-4
+Dallas_WCT,2,1980,08,10,2,McEnroe_John,Kriek_Johan,McEnroe_John,Dallas_WCT,1980,08,10,6-4_4-6_7-6_6-3
+Dallas_WCT,2,1980,08,10,2,Lendl_Ivan,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1980,08,10,6-4_7-5_6-3
+Dallas_WCT,2,1980,08,10,3,McEnroe_John,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1980,08,10,2-6_7-6_6-1_6-2

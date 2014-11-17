@@ -1,0 +1,15 @@
+Richmond_WCT,2,1976,06,13,1,Ashe_Arthur,McNair_IVFred,Ashe_Arthur,Richmond_WCT,1976,06,13,6-0_6-2
+Richmond_WCT,2,1976,06,13,1,Hrebec_Jiri,Kodes_Jan,Hrebec_Jiri,Richmond_WCT,1976,06,13,7-5_6-3
+Richmond_WCT,2,1976,06,13,1,Martin_Billy,Amritraj_Vijay,Martin_Billy,Richmond_WCT,1976,06,13,7-5_4-6_6-4
+Richmond_WCT,2,1976,06,13,1,Amritraj_Anand,Ramirez_Raul,Ramirez_Raul,Richmond_WCT,1976,06,13,6-4_6-4
+Richmond_WCT,2,1976,06,13,1,Tanner_Roscoe,Gottfried_Brian,Gottfried_Brian,Richmond_WCT,1976,06,13,6-3_6-4
+Richmond_WCT,2,1976,06,13,1,Case_Ross,McMillan_Frew,Case_Ross,Richmond_WCT,1976,06,13,6-1_7-6(3)
+Richmond_WCT,2,1976,06,13,1,Laver_Rod,Masters_Geoff,Masters_Geoff,Richmond_WCT,1976,06,13,6-1_6-1
+Richmond_WCT,2,1976,06,13,1,Riessen_Marty,Okker_Tom,Okker_Tom,Richmond_WCT,1976,06,13,6-2_6-2
+Richmond_WCT,2,1976,06,13,2,Ashe_Arthur,Hrebec_Jiri,Ashe_Arthur,Richmond_WCT,1976,06,13,6-4_6-1
+Richmond_WCT,2,1976,06,13,2,Martin_Billy,Ramirez_Raul,Ramirez_Raul,Richmond_WCT,1976,06,13,6-4_6-4
+Richmond_WCT,2,1976,06,13,2,Gottfried_Brian,Case_Ross,Gottfried_Brian,Richmond_WCT,1976,06,13,6-7(3)_6-4_6-1
+Richmond_WCT,2,1976,06,13,2,Masters_Geoff,Okker_Tom,Okker_Tom,Richmond_WCT,1976,06,13,6-2_6-2
+Richmond_WCT,2,1976,06,13,3,Ashe_Arthur,Ramirez_Raul,Ashe_Arthur,Richmond_WCT,1976,06,13,7-5_6-2
+Richmond_WCT,2,1976,06,13,3,Gottfried_Brian,Okker_Tom,Gottfried_Brian,Richmond_WCT,1976,06,13,6-1_6-4
+Richmond_WCT,2,1976,06,13,4,Ashe_Arthur,Gottfried_Brian,Ashe_Arthur,Richmond_WCT,1976,06,13,6-2_6-4

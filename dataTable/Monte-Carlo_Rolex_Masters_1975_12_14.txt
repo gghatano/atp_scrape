@@ -1,0 +1,15 @@
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Vilas_Guillermo,Hrebec_Jiri,Vilas_Guillermo
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Moore_Raymond,Giltinan_Bob,Moore_Raymond
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Hutka_Pavel,Jauffret_Francois,Jauffret_Francois
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Panatta_Adriano,Kodes_Jan,Panatta_Adriano
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Parun_Onny,Meiler_Karl,Meiler_Karl
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Riessen_Marty,Metreveli_Alex,Metreveli_Alex
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Fibak_Wojtek,Tanner_Roscoe,Fibak_Wojtek
+Monte-Carlo_Rolex_Masters,2,1975,12,14,1,Dominguez_Patrice,Borg_Bjorn,Borg_Bjorn
+Monte-Carlo_Rolex_Masters,2,1975,12,14,2,Vilas_Guillermo,Moore_Raymond,Vilas_Guillermo
+Monte-Carlo_Rolex_Masters,2,1975,12,14,2,Jauffret_Francois,Panatta_Adriano,Jauffret_Francois
+Monte-Carlo_Rolex_Masters,2,1975,12,14,2,Meiler_Karl,Metreveli_Alex,Meiler_Karl
+Monte-Carlo_Rolex_Masters,2,1975,12,14,2,Fibak_Wojtek,Borg_Bjorn,Fibak_Wojtek
+Monte-Carlo_Rolex_Masters,2,1975,12,14,3,Vilas_Guillermo,Jauffret_Francois,Vilas_Guillermo
+Monte-Carlo_Rolex_Masters,2,1975,12,14,3,Meiler_Karl,Fibak_Wojtek,Fibak_Wojtek
+Monte-Carlo_Rolex_Masters,2,1975,12,14,4,Vilas_Guillermo,Fibak_Wojtek,Vilas_Guillermo

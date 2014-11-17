@@ -1,0 +1,15 @@
+Paramus,2,1974,03,10,1,Mayer_Sandy,Amritraj_Anand,Mayer_Sandy
+Paramus,2,1974,03,10,1,Austin_Jeff,Prajoux_Belus,Austin_Jeff
+Paramus,2,1974,03,10,1,Fletcher_Ian,PintoBravo_Jaime,Fletcher_Ian
+Paramus,2,1974,03,10,1,Molina_Ivan,Feaver_John,Molina_Ivan
+Paramus,2,1974,03,10,1,Fassbender_Jurgen,Kalogeropoulos_Nicholas,Fassbender_Jurgen
+Paramus,2,1974,03,10,1,Gerulaitis_Vitas,Scott_Gene,Gerulaitis_Vitas
+Paramus,2,1974,03,10,1,Amritraj_Vijay,Siegel_Steve,Amritraj_Vijay
+Paramus,2,1974,03,10,1,Owens_Charles,Meiler_Karl,Owens_Charles
+Paramus,2,1974,03,10,2,Mayer_Sandy,Austin_Jeff,Mayer_Sandy
+Paramus,2,1974,03,10,2,Fletcher_Ian,Molina_Ivan,Fletcher_Ian
+Paramus,2,1974,03,10,2,Fassbender_Jurgen,Gerulaitis_Vitas,Fassbender_Jurgen
+Paramus,2,1974,03,10,2,Amritraj_Vijay,Owens_Charles,Amritraj_Vijay
+Paramus,2,1974,03,10,3,Mayer_Sandy,Fletcher_Ian,Mayer_Sandy
+Paramus,2,1974,03,10,3,Fassbender_Jurgen,Amritraj_Vijay,Fassbender_Jurgen
+Paramus,2,1974,03,10,4,Mayer_Sandy,Fassbender_Jurgen,Mayer_Sandy

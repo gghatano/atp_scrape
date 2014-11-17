@@ -1,0 +1,15 @@
+Roanoke,2,1974,01,27,1,Connors_Jimmy,Simpson_Jeff,Connors_Jimmy,Roanoke,1974,01,27,6-2_6-2
+Roanoke,2,1974,01,27,1,Molina_Ivan,Amritraj_Anand,Molina_Ivan,Roanoke,1974,01,27,7-5_6-3
+Roanoke,2,1974,01,27,1,Fletcher_Ian,Prajoux_Belus,Fletcher_Ian,Roanoke,1974,01,27,7-6_6-4
+Roanoke,2,1974,01,27,1,Gerulaitis_Vitas,Fassbender_Jurgen,Gerulaitis_Vitas,Roanoke,1974,01,27,4-6_6-4_6-4
+Roanoke,2,1974,01,27,1,Meiler_Karl,PintoBravo_Jaime,Meiler_Karl,Roanoke,1974,01,27,2-6_6-1_6-3
+Roanoke,2,1974,01,27,1,Crookenden_Ian,Mayer_Sandy,Crookenden_Ian,Roanoke,1974,01,27,6-4_6-3
+Roanoke,2,1974,01,27,1,Austin_Jeff,Kalogeropoulos_Nicholas,Austin_Jeff,Roanoke,1974,01,27,6-4_3-6_6-3
+Roanoke,2,1974,01,27,1,Feaver_John,Amritraj_Vijay,Amritraj_Vijay,Roanoke,1974,01,27,4-6_6-2_6-1
+Roanoke,2,1974,01,27,2,Connors_Jimmy,Molina_Ivan,Connors_Jimmy,Roanoke,1974,01,27,4-6_6-1_6-3
+Roanoke,2,1974,01,27,2,Fletcher_Ian,Gerulaitis_Vitas,Gerulaitis_Vitas,Roanoke,1974,01,27,6-4_6-1
+Roanoke,2,1974,01,27,2,Meiler_Karl,Crookenden_Ian,Meiler_Karl,Roanoke,1974,01,27,6-3_6-3
+Roanoke,2,1974,01,27,2,Austin_Jeff,Amritraj_Vijay,Amritraj_Vijay,Roanoke,1974,01,27,4-6_6-3_6-3
+Roanoke,2,1974,01,27,3,Connors_Jimmy,Gerulaitis_Vitas,Connors_Jimmy,Roanoke,1974,01,27,6-4_6-4
+Roanoke,2,1974,01,27,3,Meiler_Karl,Amritraj_Vijay,Meiler_Karl,Roanoke,1974,01,27,6-1_7-6
+Roanoke,2,1974,01,27,4,Connors_Jimmy,Meiler_Karl,Connors_Jimmy,Roanoke,1974,01,27,6-4_6-3

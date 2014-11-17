@@ -1,0 +1,15 @@
+Dusseldorf,2,1972,07,30,1,Nastase_Ilie,Jovanovic_Boro,Nastase_Ilie,Dusseldorf,1972,07,30,6-1_6-2_5-7_6-4
+Dusseldorf,2,1972,07,30,1,Meiler_Karl,Mulligan_Martin,Meiler_Karl,Dusseldorf,1972,07,30,6-8_6-4_7-5_6-3
+Dusseldorf,2,1972,07,30,1,Elschenbroich_Harald,Gulyas_Istvan,Gulyas_Istvan,Dusseldorf,1972,07,30,6-3_6-3_3-6_3-6_6-2
+Dusseldorf,2,1972,07,30,1,Baranyi_Szabolcz,PhillipsMoore_Barry,Baranyi_Szabolcz,Dusseldorf,1972,07,30,6-3_6-1_6-0
+Dusseldorf,2,1972,07,30,1,Kuhnke_Christian,Koch_Thomas,Kuhnke_Christian,Dusseldorf,1972,07,30,3-6_2-6_6-4_6-4_6-3
+Dusseldorf,2,1972,07,30,1,Fassbender_Jurgen,McMillan_Frew,Fassbender_Jurgen,Dusseldorf,1972,07,30,6-3_6-4_6-2
+Dusseldorf,2,1972,07,30,1,Bungert_Wilhelm,Ulrich_Jorgen,Bungert_Wilhelm,Dusseldorf,1972,07,30,7-5_6-3_6-3
+Dusseldorf,2,1972,07,30,1,Pohmann_HansJurgen,Tiriac_Ion,Tiriac_Ion,Dusseldorf,1972,07,30,6-3_6-3_6-1
+Dusseldorf,2,1972,07,30,2,Nastase_Ilie,Meiler_Karl,Nastase_Ilie,Dusseldorf,1972,07,30,3-6_6-3_8-6_9-8
+Dusseldorf,2,1972,07,30,2,Gulyas_Istvan,Baranyi_Szabolcz,Baranyi_Szabolcz,Dusseldorf,1972,07,30,6-1_6-1_6-4
+Dusseldorf,2,1972,07,30,2,Kuhnke_Christian,Fassbender_Jurgen,Fassbender_Jurgen,Dusseldorf,1972,07,30,6-0_6-2_6-3
+Dusseldorf,2,1972,07,30,2,Bungert_Wilhelm,Tiriac_Ion,Tiriac_Ion,Dusseldorf,1972,07,30,6-0_5-7_6-2_3-6_6-3
+Dusseldorf,2,1972,07,30,3,Nastase_Ilie,Baranyi_Szabolcz,Nastase_Ilie,Dusseldorf,1972,07,30,6-1_9-8_6-1
+Dusseldorf,2,1972,07,30,3,Fassbender_Jurgen,Tiriac_Ion,Fassbender_Jurgen,Dusseldorf,1972,07,30,6-1_5-7_7-5_6-3
+Dusseldorf,2,1972,07,30,4,Nastase_Ilie,Fassbender_Jurgen,Nastase_Ilie,Dusseldorf,1972,07,30,6-0_6-2_6-1

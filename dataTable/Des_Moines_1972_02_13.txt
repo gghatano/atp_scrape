@@ -1,0 +1,15 @@
+Des_Moines,2,1972,02,13,1,Richey_Cliff,Pietrangeli_Nicola,Richey_Cliff
+Des_Moines,2,1972,02,13,1,Rahim_Haroon,McManus_Jim,Rahim_Haroon
+Des_Moines,2,1972,02,13,1,Koch_Thomas,Parun_Onny,Koch_Thomas
+Des_Moines,2,1972,02,13,1,Goven_Georges,Zednik_Vladimir,Goven_Georges
+Des_Moines,2,1972,02,13,1,Gonzales_Richard_Pancho,Watson_Jim,Gonzales_Richard_Pancho
+Des_Moines,2,1972,02,13,1,Osborne_Jim,Panatta_Adriano,Osborne_Jim
+Des_Moines,2,1972,02,13,1,Gisbert_Sr_Juan,Ramirez_Raul,Gisbert_Sr_Juan
+Des_Moines,2,1972,02,13,1,Battrick_Gerald,Tanner_Roscoe,Battrick_Gerald
+Des_Moines,2,1972,02,13,2,Richey_Cliff,Rahim_Haroon,Rahim_Haroon
+Des_Moines,2,1972,02,13,2,Koch_Thomas,Goven_Georges,Goven_Georges
+Des_Moines,2,1972,02,13,2,Gonzales_Richard_Pancho,Osborne_Jim,Gonzales_Richard_Pancho
+Des_Moines,2,1972,02,13,2,Gisbert_Sr_Juan,Battrick_Gerald,Gisbert_Sr_Juan
+Des_Moines,2,1972,02,13,3,Rahim_Haroon,Goven_Georges,Goven_Georges
+Des_Moines,2,1972,02,13,3,Gonzales_Richard_Pancho,Gisbert_Sr_Juan,Gonzales_Richard_Pancho
+Des_Moines,2,1972,02,13,4,Goven_Georges,Gonzales_Richard_Pancho,Gonzales_Richard_Pancho

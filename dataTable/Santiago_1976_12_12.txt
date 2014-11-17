@@ -1,0 +1,15 @@
+Santiago,2,1976,12,12,1,Fillol_Sr_Jaime,Betancur_Alvaro,Fillol_Sr_Jaime
+Santiago,2,1976,12,12,1,Gildemeister_Hans,Munoz_Antonio,Gildemeister_Hans
+Santiago,2,1976,12,12,1,Gorostiaga_Eduardo,Kirmayr_Carlos,Kirmayr_Carlos
+Santiago,2,1976,12,12,1,Cornejo_Patricio,Kary_Hans,Kary_Hans
+Santiago,2,1976,12,12,1,Higueras_Jose,Ganzabal_Julian,Higueras_Jose
+Santiago,2,1976,12,12,1,Alvarez_Elio_Lito,Dibley_Colin,Alvarez_Elio_Lito
+Santiago,2,1976,12,12,1,Prajoux_Belus,Holmes_Norman,Prajoux_Belus
+Santiago,2,1976,12,12,1,Fillol_Alvaro,Bertolucci_Paolo,Fillol_Alvaro
+Santiago,2,1976,12,12,2,Fillol_Sr_Jaime,Gildemeister_Hans,Gildemeister_Hans
+Santiago,2,1976,12,12,2,Kirmayr_Carlos,Kary_Hans,Kirmayr_Carlos
+Santiago,2,1976,12,12,2,Higueras_Jose,Alvarez_Elio_Lito,Higueras_Jose
+Santiago,2,1976,12,12,2,Prajoux_Belus,Fillol_Alvaro,Prajoux_Belus
+Santiago,2,1976,12,12,3,Gildemeister_Hans,Kirmayr_Carlos,Kirmayr_Carlos
+Santiago,2,1976,12,12,3,Higueras_Jose,Prajoux_Belus,Higueras_Jose
+Santiago,2,1976,12,12,4,Kirmayr_Carlos,Higueras_Jose,Higueras_Jose

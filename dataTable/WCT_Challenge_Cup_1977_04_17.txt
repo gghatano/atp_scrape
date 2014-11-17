@@ -1,0 +1,3 @@
+WCT_Challenge_Cup,2,1977,04,17,1,Connors_Jimmy,Gerulaitis_Vitas,Connors_Jimmy
+WCT_Challenge_Cup,2,1977,04,17,1,Orantes_Manuel,Nastase_Ilie,Nastase_Ilie
+WCT_Challenge_Cup,2,1977,04,17,2,Connors_Jimmy,Nastase_Ilie,Nastase_Ilie

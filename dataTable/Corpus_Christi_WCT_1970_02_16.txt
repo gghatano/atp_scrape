@@ -1,0 +1,7 @@
+Corpus_Christi_WCT,2,1970,02,16,1,Newcombe_John,Cox_Mark,Newcombe_John
+Corpus_Christi_WCT,2,1970,02,16,1,Gimeno_Andres,Ralston_Dennis,Gimeno_Andres
+Corpus_Christi_WCT,2,1970,02,16,1,Buchholz_Earl_Butch,Stolle_Fred,Buchholz_Earl_Butch
+Corpus_Christi_WCT,2,1970,02,16,1,Rosewall_Ken,Moore_Raymond,Rosewall_Ken
+Corpus_Christi_WCT,2,1970,02,16,2,Newcombe_John,Gimeno_Andres,Newcombe_John
+Corpus_Christi_WCT,2,1970,02,16,2,Buchholz_Earl_Butch,Rosewall_Ken,Rosewall_Ken
+Corpus_Christi_WCT,2,1970,02,16,3,Newcombe_John,Rosewall_Ken,Rosewall_Ken

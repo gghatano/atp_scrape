@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1992,12,13,1,Edberg_Stefan,Stich_Michael,Stich_Michael,Grand_Slam_Cup,1992,12,13,7-6_6-7_8-6
+Grand_Slam_Cup,2,1992,12,13,1,Sanchez_Emilio,Krajicek_Richard,Krajicek_Richard,Grand_Slam_Cup,1992,12,13,6-3_6-2
+Grand_Slam_Cup,2,1992,12,13,1,Sampras_Pete,Volkov_Alexander,Sampras_Pete,Grand_Slam_Cup,1992,12,13,6-3_6-4
+Grand_Slam_Cup,2,1992,12,13,1,Leconte_Henri,Ferreira_Wayne,Leconte_Henri,Grand_Slam_Cup,1992,12,13,3-6_6-3_6-0
+Grand_Slam_Cup,2,1992,12,13,1,McEnroe_John,Kulti_Nicklas,McEnroe_John,Grand_Slam_Cup,1992,12,13,6-1_6-4
+Grand_Slam_Cup,2,1992,12,13,1,Forget_Guy,Ivanisevic_Goran,Ivanisevic_Goran,Grand_Slam_Cup,1992,12,13,7-5_6-4
+Grand_Slam_Cup,2,1992,12,13,1,Korda_Petr,Masur_Wally,Korda_Petr,Grand_Slam_Cup,1992,12,13,2-6_7-5_6-4
+Grand_Slam_Cup,2,1992,12,13,1,Chang_Michael,Agassi_Andre,Chang_Michael,Grand_Slam_Cup,1992,12,13,6-4_6-2
+Grand_Slam_Cup,2,1992,12,13,2,Stich_Michael,Krajicek_Richard,Stich_Michael,Grand_Slam_Cup,1992,12,13,7-6_7-5
+Grand_Slam_Cup,2,1992,12,13,2,Sampras_Pete,Leconte_Henri,Sampras_Pete,Grand_Slam_Cup,1992,12,13,7-6_6-4
+Grand_Slam_Cup,2,1992,12,13,2,McEnroe_John,Ivanisevic_Goran,Ivanisevic_Goran,Grand_Slam_Cup,1992,12,13,3-6_6-4_6-2
+Grand_Slam_Cup,2,1992,12,13,2,Korda_Petr,Chang_Michael,Chang_Michael,Grand_Slam_Cup,1992,12,13,6-3_6-4
+Grand_Slam_Cup,2,1992,12,13,3,Stich_Michael,Sampras_Pete,Stich_Michael,Grand_Slam_Cup,1992,12,13,7-6_7-6_3-6_7-6
+Grand_Slam_Cup,2,1992,12,13,3,Ivanisevic_Goran,Chang_Michael,Chang_Michael,Grand_Slam_Cup,1992,12,13,6-7_6-2_6-4_3-6_6-3
+Grand_Slam_Cup,2,1992,12,13,4,Stich_Michael,Chang_Michael,Stich_Michael,Grand_Slam_Cup,1992,12,13,6-2_6-3_6-2

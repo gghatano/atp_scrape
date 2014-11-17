@@ -1,0 +1,15 @@
+Dayton_Indoor,2,1975,02,03,1,Gottfried_Brian,Moore_Raymond,Gottfried_Brian,Dayton_Indoor,1975,02,03,6-1_6-2
+Dayton_Indoor,2,1975,02,03,1,Dent_Phil,Ruffels_Ray,Dent_Phil,Dayton_Indoor,1975,02,03,6-7_6-3_7-6
+Dayton_Indoor,2,1975,02,03,1,Alexander_John,Gerken_Paul,Alexander_John,Dayton_Indoor,1975,02,03,7-6_3-6_6-3
+Dayton_Indoor,2,1975,02,03,1,Kakoulia_Teimuraz,Case_Ross,Kakoulia_Teimuraz,Dayton_Indoor,1975,02,03,7-6_6-3
+Dayton_Indoor,2,1975,02,03,1,Van_DillenErik,El_ShafeiIsmail,Van_DillenErik,Dayton_Indoor,1975,02,03,7-6_6-0
+Dayton_Indoor,2,1975,02,03,1,Molina_Ivan,Solomon_Harold,Solomon_Harold,Dayton_Indoor,1975,02,03,6-0_6-2
+Dayton_Indoor,2,1975,02,03,1,Peckskamp_John,Stone_Allan,Stone_Allan,Dayton_Indoor,1975,02,03,6-1_6-2
+Dayton_Indoor,2,1975,02,03,1,Masters_Geoff,Metreveli_Alex,Masters_Geoff,Dayton_Indoor,1975,02,03,7-6_7-5
+Dayton_Indoor,2,1975,02,03,2,Gottfried_Brian,Dent_Phil,Gottfried_Brian,Dayton_Indoor,1975,02,03,4-6_6-3_6-1
+Dayton_Indoor,2,1975,02,03,2,Alexander_John,Kakoulia_Teimuraz,Kakoulia_Teimuraz,Dayton_Indoor,1975,02,03,2-6_6-3_6-4
+Dayton_Indoor,2,1975,02,03,2,Van_DillenErik,Solomon_Harold,Van_DillenErik,Dayton_Indoor,1975,02,03,5-7_7-6_6-4
+Dayton_Indoor,2,1975,02,03,2,Stone_Allan,Masters_Geoff,Masters_Geoff,Dayton_Indoor,1975,02,03,6-2_6-4
+Dayton_Indoor,2,1975,02,03,3,Gottfried_Brian,Kakoulia_Teimuraz,Gottfried_Brian,Dayton_Indoor,1975,02,03,6-2_6-4
+Dayton_Indoor,2,1975,02,03,3,Van_DillenErik,Masters_Geoff,Masters_Geoff,Dayton_Indoor,1975,02,03,6-4_7-6
+Dayton_Indoor,2,1975,02,03,4,Gottfried_Brian,Masters_Geoff,Gottfried_Brian,Dayton_Indoor,1975,02,03,6-4_4-6_6-4

@@ -1,0 +1,15 @@
+Omaha,2,1972,02,06,1,Goven_Georges,Gorman_Tom,Goven_Georges
+Omaha,2,1972,02,06,1,Fillol_Sr_Jaime,Olmedo_Alejandro,Fillol_Sr_Jaime
+Omaha,2,1972,02,06,1,Tiriac_Ion,Froehling_Frank,Tiriac_Ion
+Omaha,2,1972,02,06,1,Gimeno_Andres,Brown_William,Gimeno_Andres
+Omaha,2,1972,02,06,1,Connors_Jimmy,Holecek_Milan,Connors_Jimmy
+Omaha,2,1972,02,06,1,Orantes_Manuel,Edlefsen_Tom,Orantes_Manuel
+Omaha,2,1972,02,06,1,Koch_Thomas,Van_Dillen_Erik,Koch_Thomas
+Omaha,2,1972,02,06,1,Nastase_Ilie,Belkin_Mike,Nastase_Ilie
+Omaha,2,1972,02,06,2,Goven_Georges,Fillol_Sr_Jaime,Goven_Georges
+Omaha,2,1972,02,06,2,Tiriac_Ion,Gimeno_Andres,Tiriac_Ion
+Omaha,2,1972,02,06,2,Connors_Jimmy,Orantes_Manuel,Connors_Jimmy
+Omaha,2,1972,02,06,2,Koch_Thomas,Nastase_Ilie,Nastase_Ilie
+Omaha,2,1972,02,06,3,Goven_Georges,Tiriac_Ion,Tiriac_Ion
+Omaha,2,1972,02,06,3,Connors_Jimmy,Nastase_Ilie,Nastase_Ilie
+Omaha,2,1972,02,06,4,Tiriac_Ion,Nastase_Ilie,Nastase_Ilie

@@ -1,0 +1,15 @@
+Grand_Slam_Cup,1990,12,23,6-4_4-6_7-5
+Grand_Slam_Cup,1990,12,23,6-3_6-4
+Grand_Slam_Cup,1990,12,23,5-7_6-2_7-5
+Grand_Slam_Cup,1990,12,23,7-6_7-6
+Grand_Slam_Cup,1990,12,23,2-6_6-3_6-4
+Grand_Slam_Cup,1990,12,23,6-3_6-4
+Grand_Slam_Cup,1990,12,23,7-6_6-7_6-3
+Grand_Slam_Cup,1990,12,23,6-4_6-0
+Grand_Slam_Cup,1990,12,23,7-6_6-3
+Grand_Slam_Cup,1990,12,23,7-6_6-7_8-6
+Grand_Slam_Cup,1990,12,23,6-7_6-4_6-3
+Grand_Slam_Cup,1990,12,23,6-2_7-6
+Grand_Slam_Cup,1990,12,23,6-3_6-4_6-4
+Grand_Slam_Cup,1990,12,23,6-3_3-6_7-6_2-6_6-4
+Grand_Slam_Cup,1990,12,23,6-3_6-4_6-2

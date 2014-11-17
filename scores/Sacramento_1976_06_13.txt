@@ -1,0 +1,15 @@
+Sacramento,1976,06,13,6-0_6-1
+Sacramento,1976,06,13,7-6_6-3
+Sacramento,1976,06,13,7-5_6-3
+Sacramento,1976,06,13,7-6_6-1
+Sacramento,1976,06,13,7-5_7-6
+Sacramento,1976,06,13,6-2_6-4
+Sacramento,1976,06,13,3-6_7-6_6-4
+Sacramento,1976,06,13,7-6_3-6_6-3
+Sacramento,1976,06,13,7-6_6-1
+Sacramento,1976,06,13,7-6_1-6_6-4
+Sacramento,1976,06,13,7-6_2-6_6-3
+Sacramento,1976,06,13,6-3_4-6_7-5
+Sacramento,1976,06,13,6-2_4-6_6-4
+Sacramento,1976,06,13,5-7_6-4_7-5
+Sacramento,1976,06,13,6-2_7-6

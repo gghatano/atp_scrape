@@ -1,0 +1,15 @@
+Baltimore,2,1972,01,16,1,Graebner_Clark,Bye,Graebner_Clark
+Baltimore,2,1972,01,16,1,Fillol_Sr_Jaime,Bye,Fillol_Sr_Jaime
+Baltimore,2,1972,01,16,1,Connors_Jimmy,Bye,Connors_Jimmy
+Baltimore,2,1972,01,16,1,Tiriac_Ion,Bye,Tiriac_Ion
+Baltimore,2,1972,01,16,1,Barthes_Pierre,Bye,Barthes_Pierre
+Baltimore,2,1972,01,16,1,Froehling_Frank,Bye,Froehling_Frank
+Baltimore,2,1972,01,16,1,Rahim_Haroon,Bye,Rahim_Haroon
+Baltimore,2,1972,01,16,1,Bye,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1972,01,16,2,Graebner_Clark,Fillol_Sr_Jaime,Graebner_Clark
+Baltimore,2,1972,01,16,2,Connors_Jimmy,Tiriac_Ion,Connors_Jimmy
+Baltimore,2,1972,01,16,2,Barthes_Pierre,Froehling_Frank,Barthes_Pierre
+Baltimore,2,1972,01,16,2,Rahim_Haroon,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1972,01,16,3,Graebner_Clark,Connors_Jimmy,Connors_Jimmy
+Baltimore,2,1972,01,16,3,Barthes_Pierre,Nastase_Ilie,Nastase_Ilie
+Baltimore,2,1972,01,16,4,Connors_Jimmy,Nastase_Ilie,Nastase_Ilie

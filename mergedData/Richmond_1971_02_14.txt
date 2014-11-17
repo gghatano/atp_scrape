@@ -1,0 +1,15 @@
+Richmond,2,1971,02,14,1,Newcombe_John,Van_DillenErik,Newcombe_John,Richmond,1971,02,14,6-4_6-2
+Richmond,2,1971,02,14,1,Gorman_Tom,Riessen_Marty,Gorman_Tom,Richmond,1971,02,14,6-4_3-6_6-2
+Richmond,2,1971,02,14,1,Nastase_Ilie,Pasarell_Charlie,Nastase_Ilie,Richmond,1971,02,14,6-7_7-5_7-5
+Richmond,2,1971,02,14,1,Gimeno_Andres,Franulovic_Zeljko,Gimeno_Andres,Richmond,1971,02,14,6-7_6-3_6-1
+Richmond,2,1971,02,14,1,Ralston_Dennis,Kodes_Jan,Ralston_Dennis,Richmond,1971,02,14,6-4_4-6_6-1
+Richmond,2,1971,02,14,1,Ashe_Arthur,Tiriac_Ion,Ashe_Arthur,Richmond,1971,02,14,7-5_6-0
+Richmond,2,1971,02,14,1,Graebner_Clark,El_ShafeiIsmail,Graebner_Clark,Richmond,1971,02,14,6-1_6-2
+Richmond,2,1971,02,14,1,Rosewall_Ken,Ulrich_Torben,Rosewall_Ken,Richmond,1971,02,14,6-2_6-3
+Richmond,2,1971,02,14,2,Newcombe_John,Gorman_Tom,Newcombe_John,Richmond,1971,02,14,4-6_7-6_7-6
+Richmond,2,1971,02,14,2,Nastase_Ilie,Gimeno_Andres,Nastase_Ilie,Richmond,1971,02,14,3-6_6-3_7-6
+Richmond,2,1971,02,14,2,Ralston_Dennis,Ashe_Arthur,Ashe_Arthur,Richmond,1971,02,14,6-0_6-4
+Richmond,2,1971,02,14,2,Graebner_Clark,Rosewall_Ken,Graebner_Clark,Richmond,1971,02,14,6-4_6-4
+Richmond,2,1971,02,14,3,Newcombe_John,Nastase_Ilie,Nastase_Ilie,Richmond,1971,02,14,6-2_4-6_7-6
+Richmond,2,1971,02,14,3,Ashe_Arthur,Graebner_Clark,Ashe_Arthur,Richmond,1971,02,14,7-6_6-2
+Richmond,2,1971,02,14,4,Nastase_Ilie,Ashe_Arthur,Nastase_Ilie,Richmond,1971,02,14,3-6_6-2_6-4

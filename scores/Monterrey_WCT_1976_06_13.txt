@@ -1,0 +1,15 @@
+Monterrey_WCT,1976,06,13,W/O
+Monterrey_WCT,1976,06,13,6-4_6-0
+Monterrey_WCT,1976,06,13,6-2_7-6(6)
+Monterrey_WCT,1976,06,13,3-6_6-3_7-6(5)
+Monterrey_WCT,1976,06,13,W/O
+Monterrey_WCT,1976,06,13,7-6(3)_2-6_7-6(5)
+Monterrey_WCT,1976,06,13,6-4_6-1
+Monterrey_WCT,1976,06,13,7-5_7-5
+Monterrey_WCT,1976,06,13,6-4_6-2
+Monterrey_WCT,1976,06,13,6-3_6-1
+Monterrey_WCT,1976,06,13,6-1_6-4
+Monterrey_WCT,1976,06,13,6-2_6-7(6)_7-6(2)
+Monterrey_WCT,1976,06,13,7-6(3)_7-5
+Monterrey_WCT,1976,06,13,6-4_6-2
+Monterrey_WCT,1976,06,13,7-6(6)_6-2

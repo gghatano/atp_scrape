@@ -1,0 +1,15 @@
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Stockton_Dick,Solomon_Harold,Stockton_Dick,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-3_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Amritraj_Vijay,Orantes_Manuel,Amritraj_Vijay,ABN_AMRO_World_Tennis_Tournament,1976,12,11,1-6_7-6(6)_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Barazzutti_Corrado,Moore_Raymond,Barazzutti_Corrado,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-4_3-6_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Fibak_Wojtek,Dibbs_Eddie,Fibak_Wojtek,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-2_4-6_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Drysdale_Cliff,Parun_Onny,Drysdale_Cliff,ABN_AMRO_World_Tennis_Tournament,1976,12,11,7-6(4)_7-6(4)
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Okker_Tom,Cox_Mark,Cox_Mark,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-3_4-6_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Alexander_John,Panatta_Adriano,Alexander_John,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-2_1-0
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,1,Kodes_Jan,Nastase_Ilie,Nastase_Ilie,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-4_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,2,Stockton_Dick,Amritraj_Vijay,Stockton_Dick,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-1_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,2,Barazzutti_Corrado,Fibak_Wojtek,Fibak_Wojtek,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-0_6-1
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,2,Drysdale_Cliff,Cox_Mark,Cox_Mark,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-3_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,2,Alexander_John,Nastase_Ilie,Nastase_Ilie,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-4_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,3,Stockton_Dick,Fibak_Wojtek,Stockton_Dick,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-7(6)_7-6(5)_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,3,Cox_Mark,Nastase_Ilie,Nastase_Ilie,ABN_AMRO_World_Tennis_Tournament,1976,12,11,6-4_7-6(5)
+ABN_AMRO_World_Tennis_Tournament,2,1976,12,11,4,Stockton_Dick,Nastase_Ilie,Stockton_Dick,ABN_AMRO_World_Tennis_Tournament,1976,12,11,2-6_6-3_6-3

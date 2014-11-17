@@ -1,0 +1,15 @@
+Monterrey_WCT,2,1976,06,13,1,Nastase_Ilie,Masters_Geoff,Masters_Geoff
+Monterrey_WCT,2,1976,06,13,1,Amritraj_Vijay,Gerulaitis_Vitas,Gerulaitis_Vitas
+Monterrey_WCT,2,1976,06,13,1,Gorman_Tom,Gottfried_Brian,Gottfried_Brian
+Monterrey_WCT,2,1976,06,13,1,Mayer_Sandy,Dibbs_Eddie,Dibbs_Eddie
+Monterrey_WCT,2,1976,06,13,1,Fillol_Sr_Jaime,Montano_Emilio,Montano_Emilio
+Monterrey_WCT,2,1976,06,13,1,Case_Ross,Solomon_Harold,Solomon_Harold
+Monterrey_WCT,2,1976,06,13,1,Richey_Cliff,Amritraj_Anand,Richey_Cliff
+Monterrey_WCT,2,1976,06,13,1,Stewart_Sherwood,Ramirez_Raul,Ramirez_Raul
+Monterrey_WCT,2,1976,06,13,2,Masters_Geoff,Gerulaitis_Vitas,Gerulaitis_Vitas
+Monterrey_WCT,2,1976,06,13,2,Gottfried_Brian,Dibbs_Eddie,Dibbs_Eddie
+Monterrey_WCT,2,1976,06,13,2,Montano_Emilio,Solomon_Harold,Solomon_Harold
+Monterrey_WCT,2,1976,06,13,2,Richey_Cliff,Ramirez_Raul,Ramirez_Raul
+Monterrey_WCT,2,1976,06,13,3,Gerulaitis_Vitas,Dibbs_Eddie,Dibbs_Eddie
+Monterrey_WCT,2,1976,06,13,3,Solomon_Harold,Ramirez_Raul,Solomon_Harold
+Monterrey_WCT,2,1976,06,13,4,Dibbs_Eddie,Solomon_Harold,Dibbs_Eddie

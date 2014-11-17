@@ -1,0 +1,15 @@
+Tucson_WCT,2,1970,10,12,1,Emerson_Roy,Bye,Emerson_Roy,Tucson_WCT,1970,10,12,
+Tucson_WCT,2,1970,10,12,1,Barthes_Pierre,Snyder_Dave,Barthes_Pierre,Tucson_WCT,1970,10,12,6-4_6-4
+Tucson_WCT,2,1970,10,12,1,Ralston_Dennis,Bye,Ralston_Dennis,Tucson_WCT,1970,10,12,
+Tucson_WCT,2,1970,10,12,1,Cox_Mark,Cheney_Brian,Cox_Mark,Tucson_WCT,1970,10,12,6-4_6-3
+Tucson_WCT,2,1970,10,12,1,Stilwell_Graham,Ulrich_Torben,Stilwell_Graham,Tucson_WCT,1970,10,12,7-5_6-1
+Tucson_WCT,2,1970,10,12,1,Gonzales_RichardPancho,Bye,Gonzales_RichardPancho,Tucson_WCT,1970,10,12,
+Tucson_WCT,2,1970,10,12,1,Riessen_Marty,El_ShafeiIsmail,Riessen_Marty,Tucson_WCT,1970,10,12,6-3_6-0
+Tucson_WCT,2,1970,10,12,1,Taylor_Roger,Bye,Taylor_Roger,Tucson_WCT,1970,10,12,
+Tucson_WCT,2,1970,10,12,2,Emerson_Roy,Barthes_Pierre,Emerson_Roy,Tucson_WCT,1970,10,12,6-4_3-6_7-5
+Tucson_WCT,2,1970,10,12,2,Ralston_Dennis,Cox_Mark,Ralston_Dennis,Tucson_WCT,1970,10,12,6-3_1-6_7-6
+Tucson_WCT,2,1970,10,12,2,Stilwell_Graham,Gonzales_RichardPancho,Gonzales_RichardPancho,Tucson_WCT,1970,10,12,6-4_6-3
+Tucson_WCT,2,1970,10,12,2,Riessen_Marty,Taylor_Roger,Riessen_Marty,Tucson_WCT,1970,10,12,7-6_6-4
+Tucson_WCT,2,1970,10,12,3,Emerson_Roy,Ralston_Dennis,Emerson_Roy,Tucson_WCT,1970,10,12,6-7_7-6_6-4
+Tucson_WCT,2,1970,10,12,3,Gonzales_RichardPancho,Riessen_Marty,Riessen_Marty,Tucson_WCT,1970,10,12,4-6_6-4_6-1
+Tucson_WCT,2,1970,10,12,4,Emerson_Roy,Riessen_Marty,Riessen_Marty,Tucson_WCT,1970,10,12,6-1_6-4

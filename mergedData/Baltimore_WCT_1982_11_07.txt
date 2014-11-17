@@ -1,0 +1,15 @@
+Baltimore_WCT,2,1982,11,07,1,Vilas_Guillermo,Stockton_Dick,Vilas_Guillermo,Baltimore_WCT,1982,11,07,6-2_6-4
+Baltimore_WCT,2,1982,11,07,1,Scanlon_Bill,Damiani_JoseLuis,Scanlon_Bill,Baltimore_WCT,1982,11,07,6-2_6-3
+Baltimore_WCT,2,1982,11,07,1,Arias_Jimmy,Stolle_Fred,Arias_Jimmy,Baltimore_WCT,1982,11,07,6-4_7-6
+Baltimore_WCT,2,1982,11,07,1,Andrews_Andy,Amritraj_Vijay,Amritraj_Vijay,Baltimore_WCT,1982,11,07,6-3_7-5
+Baltimore_WCT,2,1982,11,07,1,Martinez_Mario,Moor_Terry,Martinez_Mario,Baltimore_WCT,1982,11,07,2-6_7-5_6-1
+Baltimore_WCT,2,1982,11,07,1,Taroczy_Balazs,Curren_Kevin,Curren_Kevin,Baltimore_WCT,1982,11,07,6-3_6-2
+Baltimore_WCT,2,1982,11,07,1,Sadri_John,Edmondson_Mark,Sadri_John,Baltimore_WCT,1982,11,07,6-3_4-6_6-3
+Baltimore_WCT,2,1982,11,07,1,McNamee_Paul,McNamara_Peter,McNamee_Paul,Baltimore_WCT,1982,11,07,7-6_4-6_6-4
+Baltimore_WCT,2,1982,11,07,2,Vilas_Guillermo,Scanlon_Bill,Vilas_Guillermo,Baltimore_WCT,1982,11,07,6-2_6-0
+Baltimore_WCT,2,1982,11,07,2,Arias_Jimmy,Amritraj_Vijay,Arias_Jimmy,Baltimore_WCT,1982,11,07,6-3_6-3
+Baltimore_WCT,2,1982,11,07,2,Martinez_Mario,Curren_Kevin,Curren_Kevin,Baltimore_WCT,1982,11,07,6-1_6-1
+Baltimore_WCT,2,1982,11,07,2,Sadri_John,McNamee_Paul,McNamee_Paul,Baltimore_WCT,1982,11,07,3-6_6-3_6-4
+Baltimore_WCT,2,1982,11,07,3,Vilas_Guillermo,Arias_Jimmy,Vilas_Guillermo,Baltimore_WCT,1982,11,07,7-5_3-6_6-1
+Baltimore_WCT,2,1982,11,07,3,Curren_Kevin,McNamee_Paul,McNamee_Paul,Baltimore_WCT,1982,11,07,3-6_6-3_6-3
+Baltimore_WCT,2,1982,11,07,4,Vilas_Guillermo,McNamee_Paul,McNamee_Paul,Baltimore_WCT,1982,11,07,4-6_7-5_7-5_2-6_6-3

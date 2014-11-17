@@ -1,0 +1,15 @@
+Washington_WCT,1975,12,14,6-4_6-2
+Washington_WCT,1975,12,14,6-3_7-6(6)
+Washington_WCT,1975,12,14,6-2_2-6_6-3
+Washington_WCT,1975,12,14,6-3_3-6_6-2
+Washington_WCT,1975,12,14,6-3_6-3
+Washington_WCT,1975,12,14,6-3_6-1
+Washington_WCT,1975,12,14,7-6(6)_4-6_7-5
+Washington_WCT,1975,12,14,7-6(3)_7-6(0)
+Washington_WCT,1975,12,14,6-2_6-4
+Washington_WCT,1975,12,14,6-2_6-0
+Washington_WCT,1975,12,14,6-3_6-4
+Washington_WCT,1975,12,14,5-7_6-1_6-4
+Washington_WCT,1975,12,14,6-4_6-4
+Washington_WCT,1975,12,14,6-4_6-4
+Washington_WCT,1975,12,14,6-3_6-1

@@ -1,0 +1,15 @@
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Taroczy_Balazs,Cox_Mark,Taroczy_Balazs,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-1
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Okker_Tom,Barazzutti_Corrado,Barazzutti_Corrado,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-3
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Orantes_Manuel,Kodes_Jan,Kodes_Jan,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-3
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Jauffret_Francois,Fibak_Wojtek,Fibak_Wojtek,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Dibbs_Eddie,Parun_Onny,Dibbs_Eddie,Monte-Carlo_Rolex_Masters,1976,12,11,5-7_6-1_7-5
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Borg_Bjorn,Amritraj_Vijay,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1976,12,11,6-2_6-2
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Andersson_Birger,Panatta_Adriano,Panatta_Adriano,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-4
+Monte-Carlo_Rolex_Masters,2,1976,12,11,1,Vilas_Guillermo,Tiriac_Ion,Vilas_Guillermo,Monte-Carlo_Rolex_Masters,1976,12,11,1-6_6-3_6-4
+Monte-Carlo_Rolex_Masters,2,1976,12,11,2,Taroczy_Balazs,Barazzutti_Corrado,Barazzutti_Corrado,Monte-Carlo_Rolex_Masters,1976,12,11,4-6_6-4_6-1
+Monte-Carlo_Rolex_Masters,2,1976,12,11,2,Kodes_Jan,Fibak_Wojtek,Kodes_Jan,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-4
+Monte-Carlo_Rolex_Masters,2,1976,12,11,2,Dibbs_Eddie,Borg_Bjorn,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,2,1976,12,11,2,Panatta_Adriano,Vilas_Guillermo,Vilas_Guillermo,Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,2,1976,12,11,3,Barazzutti_Corrado,Kodes_Jan,Barazzutti_Corrado,Monte-Carlo_Rolex_Masters,1976,12,11,5-7_7-6(6)_7-5
+Monte-Carlo_Rolex_Masters,2,1976,12,11,3,Borg_Bjorn,Vilas_Guillermo,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1976,12,11,6-2_6-3
+Monte-Carlo_Rolex_Masters,2,1976,12,11,4,Barazzutti_Corrado,Borg_Bjorn,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1976,12,11,6-3_7-5_6-0

@@ -1,0 +1,15 @@
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,
+Baltimore,1972,01,16,7-5_6-1
+Baltimore,1972,01,16,6-2_6-7_6-2
+Baltimore,1972,01,16,6-4_6-4
+Baltimore,1972,01,16,6-2_6-1
+Baltimore,1972,01,16,6-2_7-5
+Baltimore,1972,01,16,6-3_6-2
+Baltimore,1972,01,16,1-6_6-4_7-6

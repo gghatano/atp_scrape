@@ -1,0 +1,15 @@
+Vancouver_WCT,1970,09,28,6-1_6-1
+Vancouver_WCT,1970,09,28,6-4_6-2
+Vancouver_WCT,1970,09,28,7-6_7-6
+Vancouver_WCT,1970,09,28,2-6_6-4_6-1
+Vancouver_WCT,1970,09,28,1-6_7-6_6-4
+Vancouver_WCT,1970,09,28,6-2_6-2
+Vancouver_WCT,1970,09,28,6-4_6-3
+Vancouver_WCT,1970,09,28,6-1_6-3
+Vancouver_WCT,1970,09,28,6-3_7-5
+Vancouver_WCT,1970,09,28,6-3_6-4
+Vancouver_WCT,1970,09,28,6-3_6-1
+Vancouver_WCT,1970,09,28,6-3_6-3
+Vancouver_WCT,1970,09,28,6-4_6-0
+Vancouver_WCT,1970,09,28,6-3_6-3
+Vancouver_WCT,1970,09,28,6-2_6-1_6-2

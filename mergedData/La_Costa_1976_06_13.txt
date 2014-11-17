@@ -1,0 +1,15 @@
+La_Costa,2,1976,06,13,1,Connors_Jimmy,Tiriac_Ion,Connors_Jimmy,La_Costa,1976,06,13,6-0_6-4
+La_Costa,2,1976,06,13,1,Pecci_SrVictor,Ruffels_Ray,Ruffels_Ray,La_Costa,1976,06,13,7-6_7-6
+La_Costa,2,1976,06,13,1,Fleming_Peter,Whitlinger_John,Fleming_Peter,La_Costa,1976,06,13,6-2_6-7_6-2
+La_Costa,2,1976,06,13,1,Walts_Butch,Tanner_Roscoe,Tanner_Roscoe,La_Costa,1976,06,13,7-6_6-3
+La_Costa,2,1976,06,13,1,Nastase_Ilie,Ball_Syd,Nastase_Ilie,La_Costa,1976,06,13,6-4_6-4
+La_Costa,2,1976,06,13,1,Riessen_Marty,Van_DillenErik,Van_DillenErik,La_Costa,1976,06,13,6-3_3-6_6-4
+La_Costa,2,1976,06,13,1,Mayer_Sandy,Rahim_Haroon,Mayer_Sandy,La_Costa,1976,06,13,7-6_3-6_6-2
+La_Costa,2,1976,06,13,1,Dibley_Colin,Vilas_Guillermo,Vilas_Guillermo,La_Costa,1976,06,13,6-2_6-4
+La_Costa,2,1976,06,13,2,Connors_Jimmy,Ruffels_Ray,Connors_Jimmy,La_Costa,1976,06,13,7-5_6-2
+La_Costa,2,1976,06,13,2,Fleming_Peter,Tanner_Roscoe,Tanner_Roscoe,La_Costa,1976,06,13,6-7_7-5_7-6
+La_Costa,2,1976,06,13,2,Nastase_Ilie,Van_DillenErik,Nastase_Ilie,La_Costa,1976,06,13,6-4_6-3
+La_Costa,2,1976,06,13,2,Mayer_Sandy,Vilas_Guillermo,Vilas_Guillermo,La_Costa,1976,06,13,7-6_6-2
+La_Costa,2,1976,06,13,3,Connors_Jimmy,Tanner_Roscoe,Connors_Jimmy,La_Costa,1976,06,13,6-4_6-4
+La_Costa,2,1976,06,13,3,Nastase_Ilie,Vilas_Guillermo,Nastase_Ilie,La_Costa,1976,06,13,7-6_6-0
+La_Costa,2,1976,06,13,4,Connors_Jimmy,Nastase_Ilie,Nastase_Ilie,La_Costa,1976,06,13,4-6_6-0_6-1

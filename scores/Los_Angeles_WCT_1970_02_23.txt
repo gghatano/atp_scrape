@@ -1,0 +1,7 @@
+Los_Angeles_WCT,1970,02,23,6-2_7-5
+Los_Angeles_WCT,1970,02,23,7-6_4-6_6-2
+Los_Angeles_WCT,1970,02,23,
+Los_Angeles_WCT,1970,02,23,
+Los_Angeles_WCT,1970,02,23,6-3_6-4
+Los_Angeles_WCT,1970,02,23,7-6_7-6
+Los_Angeles_WCT,1970,02,23,7-5_4-6_6-1

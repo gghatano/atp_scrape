@@ -1,0 +1,15 @@
+Monterrey_WCT,2,1977,03,06,1,Rosewall_Ken,Gerulaitis_Vitas,Gerulaitis_Vitas
+Monterrey_WCT,2,1977,03,06,1,Martin_Billy,Orantes_Manuel,Orantes_Manuel
+Monterrey_WCT,2,1977,03,06,1,Ramirez_Raul,Case_Ross,Ramirez_Raul
+Monterrey_WCT,2,1977,03,06,1,Villela_Jesus,Drysdale_Cliff,Drysdale_Cliff
+Monterrey_WCT,2,1977,03,06,1,Scanlon_Bill,Chavez_Roberto,Scanlon_Bill
+Monterrey_WCT,2,1977,03,06,1,Alexander_John,Solomon_Harold,Solomon_Harold
+Monterrey_WCT,2,1977,03,06,1,Fibak_Wojtek,Mayer_Gene,Fibak_Wojtek
+Monterrey_WCT,2,1977,03,06,1,Laver_Rod,Dibbs_Eddie,Dibbs_Eddie
+Monterrey_WCT,2,1977,03,06,2,Gerulaitis_Vitas,Orantes_Manuel,Gerulaitis_Vitas
+Monterrey_WCT,2,1977,03,06,2,Ramirez_Raul,Drysdale_Cliff,Drysdale_Cliff
+Monterrey_WCT,2,1977,03,06,2,Scanlon_Bill,Solomon_Harold,Scanlon_Bill
+Monterrey_WCT,2,1977,03,06,2,Fibak_Wojtek,Dibbs_Eddie,Fibak_Wojtek
+Monterrey_WCT,2,1977,03,06,3,Gerulaitis_Vitas,Drysdale_Cliff,Gerulaitis_Vitas
+Monterrey_WCT,2,1977,03,06,3,Scanlon_Bill,Fibak_Wojtek,Fibak_Wojtek
+Monterrey_WCT,2,1977,03,06,4,Gerulaitis_Vitas,Fibak_Wojtek,Fibak_Wojtek

@@ -1,0 +1,15 @@
+Adelaide,2,1974,12,15,1,Borg_Bjorn,Machette_Mike,Borg_Bjorn,Adelaide,1974,12,15,6-1_6-1
+Adelaide,2,1974,12,15,1,Marten_Ulrich,Bye,Marten_Ulrich,Adelaide,1974,12,15,
+Adelaide,2,1974,12,15,1,Giltinan_Bob,Beust_Patrice,Giltinan_Bob,Adelaide,1974,12,15,6-7_6-0_6-2
+Adelaide,2,1974,12,15,1,Dibley_Colin,Johansson_Kjell,Dibley_Colin,Adelaide,1974,12,15,5-7_6-2_6-3
+Adelaide,2,1974,12,15,1,Parun_Onny,Elschenbroich_Harald,Parun_Onny,Adelaide,1974,12,15,6-7_6-2_6-2
+Adelaide,2,1974,12,15,1,Pinner_Ulrich,Gehring_Rolf,Pinner_Ulrich,Adelaide,1974,12,15,6-3_6-3
+Adelaide,2,1974,12,15,1,Letcher_Cliff,Anderson_Mal,Letcher_Cliff,Adelaide,1974,12,15,6-2_6-7_8-6
+Adelaide,2,1974,12,15,1,Metreveli_Alex,Spear_Nicola,Metreveli_Alex,Adelaide,1974,12,15,6-2_3-6_6-2
+Adelaide,2,1974,12,15,2,Borg_Bjorn,Marten_Ulrich,Borg_Bjorn,Adelaide,1974,12,15,6-1_6-1
+Adelaide,2,1974,12,15,2,Giltinan_Bob,Dibley_Colin,Dibley_Colin,Adelaide,1974,12,15,7-6_4-6_9-7
+Adelaide,2,1974,12,15,2,Parun_Onny,Pinner_Ulrich,Parun_Onny,Adelaide,1974,12,15,6-2_6-4
+Adelaide,2,1974,12,15,2,Letcher_Cliff,Metreveli_Alex,Metreveli_Alex,Adelaide,1974,12,15,6-7_7-5_9-7
+Adelaide,2,1974,12,15,3,Borg_Bjorn,Dibley_Colin,Borg_Bjorn,Adelaide,1974,12,15,6-4_6-4
+Adelaide,2,1974,12,15,3,Parun_Onny,Metreveli_Alex,Parun_Onny,Adelaide,1974,12,15,6-3_6-4
+Adelaide,2,1974,12,15,4,Borg_Bjorn,Parun_Onny,Borg_Bjorn,Adelaide,1974,12,15,6-4_6-4_3-6_6-2

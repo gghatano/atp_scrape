@@ -1,0 +1,15 @@
+Paramus,2,1973,03,18,1,Nastase_Ilie,Bye,Nastase_Ilie
+Paramus,2,1973,03,18,1,Siegel_Steve,Bye,Siegel_Steve
+Paramus,2,1973,03,18,1,Graebner_Clark,Bye,Graebner_Clark
+Paramus,2,1973,03,18,1,Tiriac_Ion,Bye,Tiriac_Ion
+Paramus,2,1973,03,18,1,Gisbert_Sr_Juan,Bye,Gisbert_Sr_Juan
+Paramus,2,1973,03,18,1,Gerulaitis_Vitas,Bye,Gerulaitis_Vitas
+Paramus,2,1973,03,18,1,Mayer_Sandy,Bye,Mayer_Sandy
+Paramus,2,1973,03,18,1,Connors_Jimmy,Bye,Connors_Jimmy
+Paramus,2,1973,03,18,2,Nastase_Ilie,Siegel_Steve,Nastase_Ilie
+Paramus,2,1973,03,18,2,Graebner_Clark,Tiriac_Ion,Graebner_Clark
+Paramus,2,1973,03,18,2,Gisbert_Sr_Juan,Gerulaitis_Vitas,Gisbert_Sr_Juan
+Paramus,2,1973,03,18,2,Mayer_Sandy,Connors_Jimmy,Connors_Jimmy
+Paramus,2,1973,03,18,3,Nastase_Ilie,Graebner_Clark,Graebner_Clark
+Paramus,2,1973,03,18,3,Gisbert_Sr_Juan,Connors_Jimmy,Connors_Jimmy
+Paramus,2,1973,03,18,4,Graebner_Clark,Connors_Jimmy,Connors_Jimmy

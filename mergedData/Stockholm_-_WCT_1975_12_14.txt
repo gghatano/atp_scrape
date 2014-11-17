@@ -1,0 +1,15 @@
+Stockholm_-_WCT,2,1975,12,14,1,Borg_Bjorn,Giltinan_Bob,Borg_Bjorn,Stockholm_-_WCT,1975,12,14,6-4_3-6_6-3
+Stockholm_-_WCT,2,1975,12,14,1,Hrebec_Jiri,Panatta_Adriano,Panatta_Adriano,Stockholm_-_WCT,1975,12,14,6-2_7-6(0)
+Stockholm_-_WCT,2,1975,12,14,1,Edmondson_Mark,Andersson_Birger,Edmondson_Mark,Stockholm_-_WCT,1975,12,14,6-3_6-2
+Stockholm_-_WCT,2,1975,12,14,1,Kodes_Jan,Nastase_Ilie,Nastase_Ilie,Stockholm_-_WCT,1975,12,14,6-3_6-2
+Stockholm_-_WCT,2,1975,12,14,1,Okker_Tom,Crealy_Dick,Okker_Tom,Stockholm_-_WCT,1975,12,14,6-4_6-4
+Stockholm_-_WCT,2,1975,12,14,1,Zabrodsky_Jan,Metreveli_Alex,Metreveli_Alex,Stockholm_-_WCT,1975,12,14,6-1_6-2
+Stockholm_-_WCT,2,1975,12,14,1,Norberg_Rolf,Fibak_Wojtek,Fibak_Wojtek,Stockholm_-_WCT,1975,12,14,6-1_6-0
+Stockholm_-_WCT,2,1975,12,14,1,Meiler_Karl,Vilas_Guillermo,Vilas_Guillermo,Stockholm_-_WCT,1975,12,14,6-4_6-0
+Stockholm_-_WCT,2,1975,12,14,2,Borg_Bjorn,Panatta_Adriano,Panatta_Adriano,Stockholm_-_WCT,1975,12,14,5-7_6-3_6-1
+Stockholm_-_WCT,2,1975,12,14,2,Edmondson_Mark,Nastase_Ilie,Nastase_Ilie,Stockholm_-_WCT,1975,12,14,3-6_6-3_6-0
+Stockholm_-_WCT,2,1975,12,14,2,Okker_Tom,Metreveli_Alex,Okker_Tom,Stockholm_-_WCT,1975,12,14,6-3_6-2
+Stockholm_-_WCT,2,1975,12,14,2,Fibak_Wojtek,Vilas_Guillermo,Fibak_Wojtek,Stockholm_-_WCT,1975,12,14,4-6_7-5_7-6(3)
+Stockholm_-_WCT,2,1975,12,14,3,Panatta_Adriano,Nastase_Ilie,Nastase_Ilie,Stockholm_-_WCT,1975,12,14,7-6(6)_6-2
+Stockholm_-_WCT,2,1975,12,14,3,Okker_Tom,Fibak_Wojtek,Fibak_Wojtek,Stockholm_-_WCT,1975,12,14,6-4_7-5
+Stockholm_-_WCT,2,1975,12,14,4,Nastase_Ilie,Fibak_Wojtek,Fibak_Wojtek,Stockholm_-_WCT,1975,12,14,6-4_7-6(6)

@@ -1,0 +1,15 @@
+Rome_WCT,2,1975,12,14,1,Okker_Tom,Van_DillenErik,Okker_Tom,Rome_WCT,1975,12,14,6-3_6-3
+Rome_WCT,2,1975,12,14,1,El_ShafeiIsmail,Stockton_Dick,Stockton_Dick,Rome_WCT,1975,12,14,6-3_6-2
+Rome_WCT,2,1975,12,14,1,Lutz_Robert,Fairlie_Brian,Lutz_Robert,Rome_WCT,1975,12,14,7-5_5-7_6-4
+Rome_WCT,2,1975,12,14,1,Drysdale_Cliff,Laver_Rod,Drysdale_Cliff,Rome_WCT,1975,12,14,6-4_6-3
+Rome_WCT,2,1975,12,14,1,Panatta_Adriano,McMillan_Frew,Panatta_Adriano,Rome_WCT,1975,12,14,7-6(4)_6-2
+Rome_WCT,2,1975,12,14,1,Crealy_Dick,Cox_Mark,Cox_Mark,Rome_WCT,1975,12,14,6-4_1-6_6-3
+Rome_WCT,2,1975,12,14,1,Smith_Stan,Meiler_Karl,Smith_Stan,Rome_WCT,1975,12,14,DEF
+Rome_WCT,2,1975,12,14,1,Fibak_Wojtek,Ashe_Arthur,Ashe_Arthur,Rome_WCT,1975,12,14,6-2_6-3
+Rome_WCT,2,1975,12,14,2,Okker_Tom,Stockton_Dick,Stockton_Dick,Rome_WCT,1975,12,14,6-3_6-2
+Rome_WCT,2,1975,12,14,2,Lutz_Robert,Drysdale_Cliff,Lutz_Robert,Rome_WCT,1975,12,14,6-1_6-3
+Rome_WCT,2,1975,12,14,2,Panatta_Adriano,Cox_Mark,Panatta_Adriano,Rome_WCT,1975,12,14,4-6_7-5_6-3
+Rome_WCT,2,1975,12,14,2,Smith_Stan,Ashe_Arthur,Ashe_Arthur,Rome_WCT,1975,12,14,5-7_6-4_6-4
+Rome_WCT,2,1975,12,14,3,Stockton_Dick,Lutz_Robert,Lutz_Robert,Rome_WCT,1975,12,14,DEF
+Rome_WCT,2,1975,12,14,3,Panatta_Adriano,Ashe_Arthur,Ashe_Arthur,Rome_WCT,1975,12,14,6-3_6-2
+Rome_WCT,2,1975,12,14,4,Lutz_Robert,Ashe_Arthur,Ashe_Arthur,Rome_WCT,1975,12,14,6-2_0-6_6-3

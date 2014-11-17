@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1990,12,23,1,Edberg_Stefan,Chang_Michael,Chang_Michael
+Grand_Slam_Cup,2,1990,12,23,1,Leconte_Henri,Muster_Thomas,Leconte_Henri
+Grand_Slam_Cup,2,1990,12,23,1,Sampras_Pete,Cherkasov_Andrei,Sampras_Pete
+Grand_Slam_Cup,2,1990,12,23,1,Curren_Kevin,Ivanisevic_Goran,Ivanisevic_Goran
+Grand_Slam_Cup,2,1990,12,23,1,Svensson_Jonas,Gilbert_Brad,Gilbert_Brad
+Grand_Slam_Cup,2,1990,12,23,1,Krickstein_Aaron,Gomez_Andres,Krickstein_Aaron
+Grand_Slam_Cup,2,1990,12,23,1,Wheaton_David,Noah_Yannick,Wheaton_David
+Grand_Slam_Cup,2,1990,12,23,1,Bergstrom_Christian,Lendl_Ivan,Lendl_Ivan
+Grand_Slam_Cup,2,1990,12,23,2,Chang_Michael,Leconte_Henri,Chang_Michael
+Grand_Slam_Cup,2,1990,12,23,2,Sampras_Pete,Ivanisevic_Goran,Sampras_Pete
+Grand_Slam_Cup,2,1990,12,23,2,Gilbert_Brad,Krickstein_Aaron,Gilbert_Brad
+Grand_Slam_Cup,2,1990,12,23,2,Wheaton_David,Lendl_Ivan,Wheaton_David
+Grand_Slam_Cup,2,1990,12,23,3,Chang_Michael,Sampras_Pete,Sampras_Pete
+Grand_Slam_Cup,2,1990,12,23,3,Gilbert_Brad,Wheaton_David,Gilbert_Brad
+Grand_Slam_Cup,2,1990,12,23,4,Sampras_Pete,Gilbert_Brad,Sampras_Pete

@@ -1,0 +1,7 @@
+Los_Angeles_WCT,2,1970,02,23,1,Ralston_Dennis,Gimeno_Andres,Ralston_Dennis,Los_Angeles_WCT,1970,02,23,6-2_7-5
+Los_Angeles_WCT,2,1970,02,23,1,Gonzales_RichardPancho,Moore_Raymond,Gonzales_RichardPancho,Los_Angeles_WCT,1970,02,23,7-6_4-6_6-2
+Los_Angeles_WCT,2,1970,02,23,1,Stolle_Fred,Bye,Stolle_Fred,Los_Angeles_WCT,1970,02,23,
+Los_Angeles_WCT,2,1970,02,23,1,Laver_Rod,Bye,Laver_Rod,Los_Angeles_WCT,1970,02,23,
+Los_Angeles_WCT,2,1970,02,23,2,Ralston_Dennis,Gonzales_RichardPancho,Ralston_Dennis,Los_Angeles_WCT,1970,02,23,6-3_6-4
+Los_Angeles_WCT,2,1970,02,23,2,Stolle_Fred,Laver_Rod,Laver_Rod,Los_Angeles_WCT,1970,02,23,7-6_7-6
+Los_Angeles_WCT,2,1970,02,23,3,Ralston_Dennis,Laver_Rod,Ralston_Dennis,Los_Angeles_WCT,1970,02,23,7-5_4-6_6-1

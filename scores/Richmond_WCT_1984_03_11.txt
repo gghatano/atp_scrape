@@ -1,0 +1,15 @@
+Richmond_WCT,1984,03,11,6-3_6-4
+Richmond_WCT,1984,03,11,6-2_2-6_7-5
+Richmond_WCT,1984,03,11,6-2_6-3
+Richmond_WCT,1984,03,11,7-5_6-3
+Richmond_WCT,1984,03,11,3-6_6-3_6-3
+Richmond_WCT,1984,03,11,7-5_6-3
+Richmond_WCT,1984,03,11,6-3_6-3
+Richmond_WCT,1984,03,11,1-6_7-6_7-6
+Richmond_WCT,1984,03,11,6-3_6-2
+Richmond_WCT,1984,03,11,6-3_4-6_7-5
+Richmond_WCT,1984,03,11,7-6_6-4
+Richmond_WCT,1984,03,11,7-5_4-6_7-5
+Richmond_WCT,1984,03,11,6-7_6-3_6-1
+Richmond_WCT,1984,03,11,3-6_6-4_6-1
+Richmond_WCT,1984,03,11,6-3_7-6

@@ -1,0 +1,7 @@
+Naples_WCT,2,1982,10,31,1,Lendl_Ivan,Gunthardt_Heinz,Lendl_Ivan,Naples_WCT,1982,10,31,6-4_6-2_6-2
+Naples_WCT,2,1982,10,31,1,Kriek_Johan,Higueras_Jose,Kriek_Johan,Naples_WCT,1982,10,31,6-3_1-4_RET
+Naples_WCT,2,1982,10,31,1,Clerc_JoseLuis,Smid_Tomas,Smid_Tomas,Naples_WCT,1982,10,31,6-3_6-2_6-4
+Naples_WCT,2,1982,10,31,1,Fibak_Wojtek,Vilas_Guillermo,Fibak_Wojtek,Naples_WCT,1982,10,31,6-3_6-3_7-6
+Naples_WCT,2,1982,10,31,2,Lendl_Ivan,Kriek_Johan,Lendl_Ivan,Naples_WCT,1982,10,31,6-4_6-4_7-5
+Naples_WCT,2,1982,10,31,2,Smid_Tomas,Fibak_Wojtek,Fibak_Wojtek,Naples_WCT,1982,10,31,6-1_6-3_5-7_6-1
+Naples_WCT,2,1982,10,31,3,Lendl_Ivan,Fibak_Wojtek,Lendl_Ivan,Naples_WCT,1982,10,31,6-4_6-2_6-1

@@ -1,0 +1,15 @@
+Richmond,2,1971,02,14,1,Newcombe_John,Van_Dillen_Erik,Newcombe_John
+Richmond,2,1971,02,14,1,Gorman_Tom,Riessen_Marty,Gorman_Tom
+Richmond,2,1971,02,14,1,Nastase_Ilie,Pasarell_Charlie,Nastase_Ilie
+Richmond,2,1971,02,14,1,Gimeno_Andres,Franulovic_Zeljko,Gimeno_Andres
+Richmond,2,1971,02,14,1,Ralston_Dennis,Kodes_Jan,Ralston_Dennis
+Richmond,2,1971,02,14,1,Ashe_Arthur,Tiriac_Ion,Ashe_Arthur
+Richmond,2,1971,02,14,1,Graebner_Clark,El_Shafei_Ismail,Graebner_Clark
+Richmond,2,1971,02,14,1,Rosewall_Ken,Ulrich_Torben,Rosewall_Ken
+Richmond,2,1971,02,14,2,Newcombe_John,Gorman_Tom,Newcombe_John
+Richmond,2,1971,02,14,2,Nastase_Ilie,Gimeno_Andres,Nastase_Ilie
+Richmond,2,1971,02,14,2,Ralston_Dennis,Ashe_Arthur,Ashe_Arthur
+Richmond,2,1971,02,14,2,Graebner_Clark,Rosewall_Ken,Graebner_Clark
+Richmond,2,1971,02,14,3,Newcombe_John,Nastase_Ilie,Nastase_Ilie
+Richmond,2,1971,02,14,3,Ashe_Arthur,Graebner_Clark,Ashe_Arthur
+Richmond,2,1971,02,14,4,Nastase_Ilie,Ashe_Arthur,Nastase_Ilie

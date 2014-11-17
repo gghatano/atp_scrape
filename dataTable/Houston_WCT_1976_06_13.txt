@@ -1,0 +1,15 @@
+Houston_WCT,2,1976,06,13,1,Dibbs_Eddie,Stone_Allan,Dibbs_Eddie
+Houston_WCT,2,1976,06,13,1,Gorman_Tom,Lutz_Robert,Lutz_Robert
+Houston_WCT,2,1976,06,13,1,Smith_Stan,Dent_Phil,Dent_Phil
+Houston_WCT,2,1976,06,13,1,Laver_Rod,Rosewall_Ken,Rosewall_Ken
+Houston_WCT,2,1976,06,13,1,Nastase_Ilie,Fillol_Sr_Jaime,Nastase_Ilie
+Houston_WCT,2,1976,06,13,1,Pasarell_Charlie,Solomon_Harold,Solomon_Harold
+Houston_WCT,2,1976,06,13,1,Gerulaitis_Vitas,Richey_Cliff,Gerulaitis_Vitas
+Houston_WCT,2,1976,06,13,1,Alexander_John,Connors_Jimmy,Alexander_John
+Houston_WCT,2,1976,06,13,2,Dibbs_Eddie,Lutz_Robert,Dibbs_Eddie
+Houston_WCT,2,1976,06,13,2,Dent_Phil,Rosewall_Ken,Rosewall_Ken
+Houston_WCT,2,1976,06,13,2,Nastase_Ilie,Solomon_Harold,Solomon_Harold
+Houston_WCT,2,1976,06,13,2,Gerulaitis_Vitas,Alexander_John,Gerulaitis_Vitas
+Houston_WCT,2,1976,06,13,3,Dibbs_Eddie,Rosewall_Ken,Rosewall_Ken
+Houston_WCT,2,1976,06,13,3,Solomon_Harold,Gerulaitis_Vitas,Solomon_Harold
+Houston_WCT,2,1976,06,13,4,Rosewall_Ken,Solomon_Harold,Solomon_Harold

@@ -1,0 +1,9 @@
+Dorado_Beach,2,1979,02,19,1,Connors_Jimmy,Gerulaitis_Vitas,Connors_Jimmy,Dorado_Beach,1979,02,19,6-3_6-1
+Dorado_Beach,2,1979,02,19,1,Orantes_Manuel,Nastase_Ilie,Gerulaitis_Vitas,Dorado_Beach,1979,02,19,6-3_6-2
+Dorado_Beach,2,1979,02,19,1,Fleming_Peter,Panatta_Adriano,Fleming_Peter,Dorado_Beach,1979,02,19,6-3_2-6_6-4
+Dorado_Beach,2,1979,02,19,2,Connors_Jimmy,Gerulaitis_Vitas,Connors_Jimmy,Dorado_Beach,1979,02,19,6-0_6-4
+Dorado_Beach,2,1979,02,19,3,Connors_Jimmy,Fleming_Peter,Panatta_Adriano,Dorado_Beach,1979,02,19,6-5_6-3
+Dorado_Beach,2,1979,02,19,4,Connors_Jimmy,Gerulaitis_Vitas,Gerulaitis_Vitas,Dorado_Beach,1979,02,19,6-3_6-4
+,Dorado_Beach,1979,02,19,6-4_6-5
+,Dorado_Beach,1979,02,19,6-2_6-2
+,Dorado_Beach,1979,02,19,6-4_2-6_6-1

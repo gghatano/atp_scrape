@@ -1,0 +1,15 @@
+Indianapolis_WCT,1975,12,14,2-6_7-6(1)_6-1
+Indianapolis_WCT,1975,12,14,6-0_6-3
+Indianapolis_WCT,1975,12,14,6-2_RET
+Indianapolis_WCT,1975,12,14,6-2_6-3
+Indianapolis_WCT,1975,12,14,6-3_6-4
+Indianapolis_WCT,1975,12,14,6-3_6-2
+Indianapolis_WCT,1975,12,14,6-1_4-6_6-3
+Indianapolis_WCT,1975,12,14,4-6_6-4_6-4
+Indianapolis_WCT,1975,12,14,6-4_6-1
+Indianapolis_WCT,1975,12,14,6-3_6-1
+Indianapolis_WCT,1975,12,14,7-6(4)_6-4
+Indianapolis_WCT,1975,12,14,6-4_7-6
+Indianapolis_WCT,1975,12,14,6-1_6-2
+Indianapolis_WCT,1975,12,14,7-6(4)_2-6_6-4
+Indianapolis_WCT,1975,12,14,6-2_6-7(6)_6-4

@@ -1,0 +1,15 @@
+Des_Moines,2,1972,02,13,1,Richey_Cliff,Pietrangeli_Nicola,Richey_Cliff,Des_Moines,1972,02,13,6-2_6-4
+Des_Moines,2,1972,02,13,1,Rahim_Haroon,McManus_Jim,Rahim_Haroon,Des_Moines,1972,02,13,6-4_7-6
+Des_Moines,2,1972,02,13,1,Koch_Thomas,Parun_Onny,Koch_Thomas,Des_Moines,1972,02,13,6-4_6-1
+Des_Moines,2,1972,02,13,1,Goven_Georges,Zednik_Vladimir,Goven_Georges,Des_Moines,1972,02,13,6-7_6-2_6-3
+Des_Moines,2,1972,02,13,1,Gonzales_RichardPancho,Watson_Jim,Gonzales_RichardPancho,Des_Moines,1972,02,13,6-0_6-3
+Des_Moines,2,1972,02,13,1,Osborne_Jim,Panatta_Adriano,Osborne_Jim,Des_Moines,1972,02,13,6-7_6-2_6-1
+Des_Moines,2,1972,02,13,1,Gisbert_SrJuan,Ramirez_Raul,Gisbert_SrJuan,Des_Moines,1972,02,13,6-2_6-3
+Des_Moines,2,1972,02,13,1,Battrick_Gerald,Tanner_Roscoe,Battrick_Gerald,Des_Moines,1972,02,13,7-5_2-6_6-1
+Des_Moines,2,1972,02,13,2,Richey_Cliff,Rahim_Haroon,Rahim_Haroon,Des_Moines,1972,02,13,7-6_7-5
+Des_Moines,2,1972,02,13,2,Koch_Thomas,Goven_Georges,Goven_Georges,Des_Moines,1972,02,13,7-6_7-6
+Des_Moines,2,1972,02,13,2,Gonzales_RichardPancho,Osborne_Jim,Gonzales_RichardPancho,Des_Moines,1972,02,13,6-4_7-6
+Des_Moines,2,1972,02,13,2,Gisbert_SrJuan,Battrick_Gerald,Gisbert_SrJuan,Des_Moines,1972,02,13,3-6_6-4_6-3
+Des_Moines,2,1972,02,13,3,Rahim_Haroon,Goven_Georges,Goven_Georges,Des_Moines,1972,02,13,0-6_7-6_6-1
+Des_Moines,2,1972,02,13,3,Gonzales_RichardPancho,Gisbert_SrJuan,Gonzales_RichardPancho,Des_Moines,1972,02,13,6-4_6-2
+Des_Moines,2,1972,02,13,4,Goven_Georges,Gonzales_RichardPancho,Gonzales_RichardPancho,Des_Moines,1972,02,13,3-6_4-6_6-3_6-4_6-2

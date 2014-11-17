@@ -1,0 +1,15 @@
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Drysdale_Cliff,Case_Ross,Drysdale_Cliff
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Nastase_Ilie,Baraldi_Luis,Nastase_Ilie
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Chavez_Roberto,Kodes_Jan,Kodes_Jan
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Barazzutti_Corrado,Panatta_Adriano,Panatta_Adriano
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Roche_Tony,Gerulaitis_Vitas,Gerulaitis_Vitas
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Gonzalez_Adolfo,Fibak_Wojtek,Fibak_Wojtek
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Orantes_Manuel,Llamas_Jose,Orantes_Manuel
+Abierto_Mexicano_Telcel,2,1977,02,13,1,Okker_Tom,Rosewall_Ken,Rosewall_Ken
+Abierto_Mexicano_Telcel,2,1977,02,13,2,Drysdale_Cliff,Nastase_Ilie,Nastase_Ilie
+Abierto_Mexicano_Telcel,2,1977,02,13,2,Kodes_Jan,Panatta_Adriano,Panatta_Adriano
+Abierto_Mexicano_Telcel,2,1977,02,13,2,Gerulaitis_Vitas,Fibak_Wojtek,Fibak_Wojtek
+Abierto_Mexicano_Telcel,2,1977,02,13,2,Orantes_Manuel,Rosewall_Ken,Rosewall_Ken
+Abierto_Mexicano_Telcel,2,1977,02,13,3,Nastase_Ilie,Panatta_Adriano,Nastase_Ilie
+Abierto_Mexicano_Telcel,2,1977,02,13,3,Fibak_Wojtek,Rosewall_Ken,Fibak_Wojtek
+Abierto_Mexicano_Telcel,2,1977,02,13,4,Nastase_Ilie,Fibak_Wojtek,Nastase_Ilie

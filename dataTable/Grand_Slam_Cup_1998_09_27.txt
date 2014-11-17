@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1998,09,27,1,Korda_Petr,Bye,Korda_Petr
+Grand_Slam_Cup,2,1998,09,27,1,Pioline_Cedric,Agassi_Andre,Agassi_Andre
+Grand_Slam_Cup,2,1998,09,27,1,Bye,Ivanisevic_Goran,Ivanisevic_Goran
+Grand_Slam_Cup,2,1998,09,27,1,Kucera_Karol,Arazi_Hicham,Kucera_Karol
+Grand_Slam_Cup,2,1998,09,27,1,Henman_Tim,Bjorkman_Jonas,Bjorkman_Jonas
+Grand_Slam_Cup,2,1998,09,27,1,Bye,Philippoussis_Mark,Philippoussis_Mark
+Grand_Slam_Cup,2,1998,09,27,1,Escude_Nicolas,Mantilla_Felix,Mantilla_Felix
+Grand_Slam_Cup,2,1998,09,27,1,Bye,Rios_Marcelo,Rios_Marcelo
+Grand_Slam_Cup,2,1998,09,27,2,Korda_Petr,Agassi_Andre,Agassi_Andre
+Grand_Slam_Cup,2,1998,09,27,2,Ivanisevic_Goran,Kucera_Karol,Kucera_Karol
+Grand_Slam_Cup,2,1998,09,27,2,Bjorkman_Jonas,Philippoussis_Mark,Philippoussis_Mark
+Grand_Slam_Cup,2,1998,09,27,2,Mantilla_Felix,Rios_Marcelo,Rios_Marcelo
+Grand_Slam_Cup,2,1998,09,27,3,Agassi_Andre,Kucera_Karol,Agassi_Andre
+Grand_Slam_Cup,2,1998,09,27,3,Philippoussis_Mark,Rios_Marcelo,Rios_Marcelo
+Grand_Slam_Cup,2,1998,09,27,4,Agassi_Andre,Rios_Marcelo,Rios_Marcelo

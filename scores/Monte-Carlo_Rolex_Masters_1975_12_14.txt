@@ -1,0 +1,15 @@
+Monte-Carlo_Rolex_Masters,1975,12,14,6-1_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-4_6-4
+Monte-Carlo_Rolex_Masters,1975,12,14,3-6_6-1_6-2
+Monte-Carlo_Rolex_Masters,1975,12,14,6-4_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-3_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-3_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-4_6-2
+Monte-Carlo_Rolex_Masters,1975,12,14,6-2_6-2
+Monte-Carlo_Rolex_Masters,1975,12,14,6-1_6-2
+Monte-Carlo_Rolex_Masters,1975,12,14,6-3_6-4
+Monte-Carlo_Rolex_Masters,1975,12,14,6-4_3-6_6-1
+Monte-Carlo_Rolex_Masters,1975,12,14,7-6(3)_6-4
+Monte-Carlo_Rolex_Masters,1975,12,14,6-4_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-3_6-3
+Monte-Carlo_Rolex_Masters,1975,12,14,6-1_6-1_6-4

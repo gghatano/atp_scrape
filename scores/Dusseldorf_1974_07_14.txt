@@ -1,0 +1,15 @@
+Dusseldorf,1974,07,14,6-2_6-4
+Dusseldorf,1974,07,14,6-1_6-4
+Dusseldorf,1974,07,14,7-5_6-3
+Dusseldorf,1974,07,14,7-5_6-7_6-1
+Dusseldorf,1974,07,14,6-4_6-4
+Dusseldorf,1974,07,14,6-2_6-4
+Dusseldorf,1974,07,14,6-3_7-6
+Dusseldorf,1974,07,14,6-2_6-0
+Dusseldorf,1974,07,14,6-2_6-3
+Dusseldorf,1974,07,14,7-6_6-2
+Dusseldorf,1974,07,14,1-6_6-4_8-6
+Dusseldorf,1974,07,14,6-2_6-2
+Dusseldorf,1974,07,14,4-6_6-2_6-3_6-1
+Dusseldorf,1974,07,14,6-2_6-4_4-6_6-1
+Dusseldorf,1974,07,14,6-1_6-0_0-6_6-4

@@ -1,0 +1,15 @@
+Vancouver_WCT,2,1970,09,28,1,Laver_Rod,Barthes_Pierre,Laver_Rod
+Vancouver_WCT,2,1970,09,28,1,Gonzales_Richard_Pancho,Cox_Mark,Gonzales_Richard_Pancho
+Vancouver_WCT,2,1970,09,28,1,Okker_Tom,El_Shafei_Ismail,Okker_Tom
+Vancouver_WCT,2,1970,09,28,1,Drysdale_Cliff,Roche_Tony,Drysdale_Cliff
+Vancouver_WCT,2,1970,09,28,1,Emerson_Roy,Pilic_Nikola,Emerson_Roy
+Vancouver_WCT,2,1970,09,28,1,Riessen_Marty,Taylor_Roger,Riessen_Marty
+Vancouver_WCT,2,1970,09,28,1,Gimeno_Andres,Stolle_Fred,Gimeno_Andres
+Vancouver_WCT,2,1970,09,28,1,Newcombe_John,Stilwell_Graham,Newcombe_John
+Vancouver_WCT,2,1970,09,28,2,Laver_Rod,Gonzales_Richard_Pancho,Laver_Rod
+Vancouver_WCT,2,1970,09,28,2,Okker_Tom,Drysdale_Cliff,Okker_Tom
+Vancouver_WCT,2,1970,09,28,2,Emerson_Roy,Riessen_Marty,Emerson_Roy
+Vancouver_WCT,2,1970,09,28,2,Gimeno_Andres,Newcombe_John,Gimeno_Andres
+Vancouver_WCT,2,1970,09,28,3,Laver_Rod,Okker_Tom,Laver_Rod
+Vancouver_WCT,2,1970,09,28,3,Emerson_Roy,Gimeno_Andres,Emerson_Roy
+Vancouver_WCT,2,1970,09,28,4,Laver_Rod,Emerson_Roy,Laver_Rod

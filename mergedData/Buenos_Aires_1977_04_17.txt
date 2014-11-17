@@ -1,0 +1,15 @@
+Buenos_Aires,2,1977,04,17,1,Vilas_Guillermo,Gratz_Roberto,Vilas_Guillermo,Buenos_Aires,1977,04,17,6-1_6-3
+Buenos_Aires,2,1977,04,17,1,DallaFontana_Fernando,Ganzabal_Julian,DallaFontana_Fernando,Buenos_Aires,1977,04,17,6-0_6-0
+Buenos_Aires,2,1977,04,17,1,Bertolucci_Paolo,Santiago_JuanCarlos,Bertolucci_Paolo,Buenos_Aires,1977,04,17,6-4_7-5
+Buenos_Aires,2,1977,04,17,1,Tiriac_Ion,Soriano_Lorenzo,Tiriac_Ion,Buenos_Aires,1977,04,17,6-3_6-2
+Buenos_Aires,2,1977,04,17,1,Cano_Ricardo,Alvarez_ElioLito,Cano_Ricardo,Buenos_Aires,1977,04,17,3-6_6-2_6-2
+Buenos_Aires,2,1977,04,17,1,Taroczy_Balazs,Aubone_Roberto,Taroczy_Balazs,Buenos_Aires,1977,04,17,6-4_6-2
+Buenos_Aires,2,1977,04,17,1,Richey_Cliff,Lando_Carlos,Richey_Cliff,Buenos_Aires,1977,04,17,6-1_6-2
+Buenos_Aires,2,1977,04,17,1,Fibak_Wojtek,Romani_Hector,Fibak_Wojtek,Buenos_Aires,1977,04,17,6-3_6-3
+Buenos_Aires,2,1977,04,17,2,Vilas_Guillermo,DallaFontana_Fernando,Vilas_Guillermo,Buenos_Aires,1977,04,17,6-2_6-4
+Buenos_Aires,2,1977,04,17,2,Bertolucci_Paolo,Tiriac_Ion,Bertolucci_Paolo,Buenos_Aires,1977,04,17,6-3_9-7
+Buenos_Aires,2,1977,04,17,2,Cano_Ricardo,Taroczy_Balazs,Cano_Ricardo,Buenos_Aires,1977,04,17,6-3_6-3
+Buenos_Aires,2,1977,04,17,2,Richey_Cliff,Fibak_Wojtek,Fibak_Wojtek,Buenos_Aires,1977,04,17,9-7_6-3
+Buenos_Aires,2,1977,04,17,3,Vilas_Guillermo,Bertolucci_Paolo,Vilas_Guillermo,Buenos_Aires,1977,04,17,6-3_6-2
+Buenos_Aires,2,1977,04,17,3,Cano_Ricardo,Fibak_Wojtek,Fibak_Wojtek,Buenos_Aires,1977,04,17,6-3_9-7
+Buenos_Aires,2,1977,04,17,4,Vilas_Guillermo,Fibak_Wojtek,Vilas_Guillermo,Buenos_Aires,1977,04,17,6-4_6-3_6-0

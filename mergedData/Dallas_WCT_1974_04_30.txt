@@ -1,0 +1,7 @@
+Dallas_WCT,2,1974,04,30,1,Laver_Rod,Smith_Stan,Smith_Stan,Dallas_WCT,1974,04,30,6-7(6)_6-4_6-4_7-5
+Dallas_WCT,2,1974,04,30,1,Newcombe_John,Okker_Tom,Newcombe_John,Dallas_WCT,1974,04,30,6-3_6-3_6-2
+Dallas_WCT,2,1974,04,30,1,Kodes_Jan,Nastase_Ilie,Kodes_Jan,Dallas_WCT,1974,04,30,7-6(3)_6-1_7-5
+Dallas_WCT,2,1974,04,30,1,Ashe_Arthur,Borg_Bjorn,Borg_Bjorn,Dallas_WCT,1974,04,30,7-5_6-4_7-6
+Dallas_WCT,2,1974,04,30,2,Smith_Stan,Newcombe_John,Newcombe_John,Dallas_WCT,1974,04,30,6-1_3-6_7-6(3)_6-2
+Dallas_WCT,2,1974,04,30,2,Kodes_Jan,Borg_Bjorn,Borg_Bjorn,Dallas_WCT,1974,04,30,4-6_6-4_6-3_6-2
+Dallas_WCT,2,1974,04,30,3,Newcombe_John,Borg_Bjorn,Newcombe_John,Dallas_WCT,1974,04,30,4-6_6-3_6-3_6-2

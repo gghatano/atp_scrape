@@ -1,0 +1,7 @@
+Dallas_WCT,2,1975,04,29,1,Ashe_Arthur,Cox_Mark,Ashe_Arthur,Dallas_WCT,1975,04,29,1-6_6-4_6-4_7-6(4)
+Dallas_WCT,2,1975,04,29,1,Alexander_John,Tanner_Roscoe,Alexander_John,Dallas_WCT,1975,04,29,6-3_6-2_6-3
+Dallas_WCT,2,1975,04,29,1,Borg_Bjorn,Ramirez_Raul,Borg_Bjorn,Dallas_WCT,1975,04,29,7-6(5)_7-6(5)_6-0
+Dallas_WCT,2,1975,04,29,1,Laver_Rod,Solomon_Harold,Laver_Rod,Dallas_WCT,1975,04,29,4-6_6-0_6-2_3-6_6-3
+Dallas_WCT,2,1975,04,29,2,Ashe_Arthur,Alexander_John,Ashe_Arthur,Dallas_WCT,1975,04,29,3-6_6-1_6-3_6-4
+Dallas_WCT,2,1975,04,29,2,Borg_Bjorn,Laver_Rod,Borg_Bjorn,Dallas_WCT,1975,04,29,7-6(2)_3-6_5-7_7-6(2)_6-2
+Dallas_WCT,2,1975,04,29,3,Ashe_Arthur,Borg_Bjorn,Ashe_Arthur,Dallas_WCT,1975,04,29,3-6_6-4_6-4_6-0

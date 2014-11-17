@@ -1,0 +1,15 @@
+Monterrey_WCT,1977,03,06,4-6_7-6(3)_6-4
+Monterrey_WCT,1977,03,06,6-4_6-4
+Monterrey_WCT,1977,03,06,6-2_7-6(5)
+Monterrey_WCT,1977,03,06,6-0_6-1
+Monterrey_WCT,1977,03,06,6-1_6-2
+Monterrey_WCT,1977,03,06,6-4_4-6_6-2
+Monterrey_WCT,1977,03,06,W/O
+Monterrey_WCT,1977,03,06,2-6_6-3_6-2
+Monterrey_WCT,1977,03,06,6-3_6-2
+Monterrey_WCT,1977,03,06,6-3_6-4
+Monterrey_WCT,1977,03,06,6-3_6-4
+Monterrey_WCT,1977,03,06,6-3_4-6_4-2_RET
+Monterrey_WCT,1977,03,06,6-1_6-3
+Monterrey_WCT,1977,03,06,6-4_6-1
+Monterrey_WCT,1977,03,06,6-4_6-3

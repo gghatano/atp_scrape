@@ -1,0 +1,15 @@
+Grand_Slam_Cup,1997,10,05,6-4_3-6_6-2
+Grand_Slam_Cup,1997,10,05,6-3_6-2
+Grand_Slam_Cup,1997,10,05,4-6_6-1_7-5
+Grand_Slam_Cup,1997,10,05,6-4_6-3
+Grand_Slam_Cup,1997,10,05,7-6_2-2_RET
+Grand_Slam_Cup,1997,10,05,6-3_5-3_RET
+Grand_Slam_Cup,1997,10,05,6-7_6-3_6-1
+Grand_Slam_Cup,1997,10,05,6-2_6-3
+Grand_Slam_Cup,1997,10,05,7-6_6-4
+Grand_Slam_Cup,1997,10,05,6-7_6-3_6-1
+Grand_Slam_Cup,1997,10,05,7-5_6-3
+Grand_Slam_Cup,1997,10,05,6-1_7-6
+Grand_Slam_Cup,1997,10,05,3-6_7-6_7-6_6-2
+Grand_Slam_Cup,1997,10,05,7-5_3-6_6-7_7-6_9-7
+Grand_Slam_Cup,1997,10,05,6-2_6-4_7-5

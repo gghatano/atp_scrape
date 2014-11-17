@@ -1,0 +1,15 @@
+Atlanta_WCT,2,1975,12,14,1,Borg_Bjorn,Dent_Phil,Borg_Bjorn,Atlanta_WCT,1975,12,14,6-4_6-1
+Atlanta_WCT,2,1975,12,14,1,Borowiak_Jeff,Martin_Billy,Borowiak_Jeff,Atlanta_WCT,1975,12,14,6-3_5-7_6-2
+Atlanta_WCT,2,1975,12,14,1,Metreveli_Alex,Warwick_Kim,Metreveli_Alex,Atlanta_WCT,1975,12,14,6-2_4-6_6-2
+Atlanta_WCT,2,1975,12,14,1,Meiler_Karl,Kodes_Jan,Kodes_Jan,Atlanta_WCT,1975,12,14,7-5_6-1
+Atlanta_WCT,2,1975,12,14,1,Alexander_John,Giltinan_Bob,Alexander_John,Atlanta_WCT,1975,12,14,7-6(2)_2-6_6-4
+Atlanta_WCT,2,1975,12,14,1,Crealy_Dick,Pattison_Andrew,Pattison_Andrew,Atlanta_WCT,1975,12,14,7-5_3-6_7-6(4)
+Atlanta_WCT,2,1975,12,14,1,Hrebec_Jiri,Fibak_Wojtek,Fibak_Wojtek,Atlanta_WCT,1975,12,14,6-4_5-7_6-3
+Atlanta_WCT,2,1975,12,14,1,Franulovic_Zeljko,Nastase_Ilie,Nastase_Ilie,Atlanta_WCT,1975,12,14,6-3_6-2
+Atlanta_WCT,2,1975,12,14,2,Borg_Bjorn,Borowiak_Jeff,Borowiak_Jeff,Atlanta_WCT,1975,12,14,3-6_6-4_6-4
+Atlanta_WCT,2,1975,12,14,2,Metreveli_Alex,Kodes_Jan,Metreveli_Alex,Atlanta_WCT,1975,12,14,4-6_6-4_6-1
+Atlanta_WCT,2,1975,12,14,2,Alexander_John,Pattison_Andrew,Alexander_John,Atlanta_WCT,1975,12,14,6-4_7-6(6)
+Atlanta_WCT,2,1975,12,14,2,Fibak_Wojtek,Nastase_Ilie,Nastase_Ilie,Atlanta_WCT,1975,12,14,6-3_6-1
+Atlanta_WCT,2,1975,12,14,3,Borowiak_Jeff,Metreveli_Alex,Borowiak_Jeff,Atlanta_WCT,1975,12,14,6-2_4-6_6-1
+Atlanta_WCT,2,1975,12,14,3,Alexander_John,Nastase_Ilie,Nastase_Ilie,Atlanta_WCT,1975,12,14,7-5_6-2
+Atlanta_WCT,2,1975,12,14,4,Borowiak_Jeff,Nastase_Ilie,Nastase_Ilie,Atlanta_WCT,1975,12,14,6-2_6-4

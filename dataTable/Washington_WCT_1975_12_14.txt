@@ -1,0 +1,15 @@
+Washington_WCT,2,1975,12,14,1,Dibbs_Eddie,Pattison_Andrew,Dibbs_Eddie
+Washington_WCT,2,1975,12,14,1,Warwick_Kim,Newcombe_John,Newcombe_John
+Washington_WCT,2,1975,12,14,1,Moore_Raymond,Drysdale_Cliff,Moore_Raymond
+Washington_WCT,2,1975,12,14,1,Richey_Cliff,Solomon_Harold,Solomon_Harold
+Washington_WCT,2,1975,12,14,1,Cox_Mark,McNair_IV_Fred,Cox_Mark
+Washington_WCT,2,1975,12,14,1,Stewart_Sherwood,Pasarell_Charlie,Pasarell_Charlie
+Washington_WCT,2,1975,12,14,1,Metreveli_Alex,Stone_Allan,Stone_Allan
+Washington_WCT,2,1975,12,14,1,Parun_Onny,Roche_Tony,Parun_Onny
+Washington_WCT,2,1975,12,14,2,Dibbs_Eddie,Newcombe_John,Newcombe_John
+Washington_WCT,2,1975,12,14,2,Moore_Raymond,Solomon_Harold,Solomon_Harold
+Washington_WCT,2,1975,12,14,2,Cox_Mark,Pasarell_Charlie,Pasarell_Charlie
+Washington_WCT,2,1975,12,14,2,Stone_Allan,Parun_Onny,Parun_Onny
+Washington_WCT,2,1975,12,14,3,Newcombe_John,Solomon_Harold,Solomon_Harold
+Washington_WCT,2,1975,12,14,3,Pasarell_Charlie,Parun_Onny,Parun_Onny
+Washington_WCT,2,1975,12,14,4,Solomon_Harold,Parun_Onny,Solomon_Harold

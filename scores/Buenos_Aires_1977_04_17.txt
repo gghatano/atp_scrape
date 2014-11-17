@@ -1,0 +1,15 @@
+Buenos_Aires,1977,04,17,6-1_6-3
+Buenos_Aires,1977,04,17,6-0_6-0
+Buenos_Aires,1977,04,17,6-4_7-5
+Buenos_Aires,1977,04,17,6-3_6-2
+Buenos_Aires,1977,04,17,3-6_6-2_6-2
+Buenos_Aires,1977,04,17,6-4_6-2
+Buenos_Aires,1977,04,17,6-1_6-2
+Buenos_Aires,1977,04,17,6-3_6-3
+Buenos_Aires,1977,04,17,6-2_6-4
+Buenos_Aires,1977,04,17,6-3_9-7
+Buenos_Aires,1977,04,17,6-3_6-3
+Buenos_Aires,1977,04,17,9-7_6-3
+Buenos_Aires,1977,04,17,6-3_6-2
+Buenos_Aires,1977,04,17,6-3_9-7
+Buenos_Aires,1977,04,17,6-4_6-3_6-0

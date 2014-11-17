@@ -1,0 +1,15 @@
+Casablanca_WCT,2,1970,06,14,1,Gimeno_Andres,Bowrey_Bill,Gimeno_Andres
+Casablanca_WCT,2,1970,06,14,1,El_Shafei_Ismail,Ralston_Dennis,El_Shafei_Ismail
+Casablanca_WCT,2,1970,06,14,1,Barthes_Pierre,MacKay_Barry,Barthes_Pierre
+Casablanca_WCT,2,1970,06,14,1,Taylor_Roger,Bye,Taylor_Roger
+Casablanca_WCT,2,1970,06,14,1,Pilic_Nikola,Ulrich_Torben,Pilic_Nikola
+Casablanca_WCT,2,1970,06,14,1,Riessen_Marty,Holmberg_Ron,Riessen_Marty
+Casablanca_WCT,2,1970,06,14,1,Cox_Mark,Davidson_Owen,Cox_Mark
+Casablanca_WCT,2,1970,06,14,1,Newcombe_John,Stilwell_Graham,Newcombe_John
+Casablanca_WCT,2,1970,06,14,2,Gimeno_Andres,El_Shafei_Ismail,Gimeno_Andres
+Casablanca_WCT,2,1970,06,14,2,Barthes_Pierre,Taylor_Roger,Barthes_Pierre
+Casablanca_WCT,2,1970,06,14,2,Pilic_Nikola,Riessen_Marty,Pilic_Nikola
+Casablanca_WCT,2,1970,06,14,2,Cox_Mark,Newcombe_John,Newcombe_John
+Casablanca_WCT,2,1970,06,14,3,Gimeno_Andres,Barthes_Pierre,Gimeno_Andres
+Casablanca_WCT,2,1970,06,14,3,Pilic_Nikola,Newcombe_John,Newcombe_John
+Casablanca_WCT,2,1970,06,14,4,Gimeno_Andres,Newcombe_John,Newcombe_John

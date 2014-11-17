@@ -1,0 +1,7 @@
+Dallas_WCT,2,1975,04,29,1,Ashe_Arthur,Cox_Mark,Ashe_Arthur
+Dallas_WCT,2,1975,04,29,1,Alexander_John,Tanner_Roscoe,Alexander_John
+Dallas_WCT,2,1975,04,29,1,Borg_Bjorn,Ramirez_Raul,Borg_Bjorn
+Dallas_WCT,2,1975,04,29,1,Laver_Rod,Solomon_Harold,Laver_Rod
+Dallas_WCT,2,1975,04,29,2,Ashe_Arthur,Alexander_John,Ashe_Arthur
+Dallas_WCT,2,1975,04,29,2,Borg_Bjorn,Laver_Rod,Borg_Bjorn
+Dallas_WCT,2,1975,04,29,3,Ashe_Arthur,Borg_Bjorn,Ashe_Arthur

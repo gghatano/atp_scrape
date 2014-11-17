@@ -1,0 +1,15 @@
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Amritraj_Vijay,Montano_Emilio,Amritraj_Vijay
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,James_John,Thung_Rolf,James_John
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Hardie_George,Amritraj_Ashok,Hardie_George
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Kronk_Paul,Turner_Steven,Kronk_Paul
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Dibley_Colin,Austin_Jeff,Dibley_Colin
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Teacher_Brian,Moor_Terry,Teacher_Brian
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Kachel_Chris,Amritraj_Anand,Amritraj_Anand
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,1,Svensson_Tenny,Estep_Mike,Estep_Mike
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,2,Amritraj_Vijay,James_John,Amritraj_Vijay
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,2,Hardie_George,Kronk_Paul,Kronk_Paul
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,2,Dibley_Colin,Teacher_Brian,Teacher_Brian
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,2,Amritraj_Anand,Estep_Mike,Estep_Mike
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,3,Amritraj_Vijay,Kronk_Paul,Amritraj_Vijay
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,3,Teacher_Brian,Estep_Mike,Teacher_Brian
+Hall_of_Fame_Tennis_Championships,2,1976,09,19,4,Amritraj_Vijay,Teacher_Brian,Amritraj_Vijay

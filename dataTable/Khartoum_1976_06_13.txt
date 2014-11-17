@@ -1,0 +1,15 @@
+Khartoum,2,1976,06,13,1,Molina_Ivan,Rheinberger_Robert,Molina_Ivan
+Khartoum,2,1976,06,13,1,Marks_John,Estep_Mike,Estep_Mike
+Khartoum,2,1976,06,13,1,Pala_Frantisek,Suyderhoud_Terry,Pala_Frantisek
+Khartoum,2,1976,06,13,1,Feaver_John,Holmes_Norman,Holmes_Norman
+Khartoum,2,1976,06,13,1,Edmondson_Mark,Sotiriu_Nicolas,Edmondson_Mark
+Khartoum,2,1976,06,13,1,Neely_Armistead,Wayman_Michael,Wayman_Michael
+Khartoum,2,1976,06,13,1,Bahrami_Mansour,Marcu_Gavorielle,Marcu_Gavorielle
+Khartoum,2,1976,06,13,1,Roepcke_Thies,Koch_Thomas,Koch_Thomas
+Khartoum,2,1976,06,13,2,Molina_Ivan,Estep_Mike,Estep_Mike
+Khartoum,2,1976,06,13,2,Pala_Frantisek,Holmes_Norman,Pala_Frantisek
+Khartoum,2,1976,06,13,2,Edmondson_Mark,Wayman_Michael,Edmondson_Mark
+Khartoum,2,1976,06,13,2,Marcu_Gavorielle,Koch_Thomas,Koch_Thomas
+Khartoum,2,1976,06,13,3,Estep_Mike,Pala_Frantisek,Estep_Mike
+Khartoum,2,1976,06,13,3,Edmondson_Mark,Koch_Thomas,Koch_Thomas
+Khartoum,2,1976,06,13,4,Estep_Mike,Koch_Thomas,Estep_Mike

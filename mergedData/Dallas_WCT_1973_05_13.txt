@@ -1,0 +1,7 @@
+Dallas_WCT,2,1973,05,13,1,Smith_Stan,Alexander_John,Smith_Stan,Dallas_WCT,1973,05,13,6-4_6-2_6-1
+Dallas_WCT,2,1973,05,13,1,Laver_Rod,Emerson_Roy,Laver_Rod,Dallas_WCT,1973,05,13,7-5_6-2_7-5
+Dallas_WCT,2,1973,05,13,1,Ashe_Arthur,Riessen_Marty,Ashe_Arthur,Dallas_WCT,1973,05,13,7-6(3)_4-6_7-5_3-6_6-1
+Dallas_WCT,2,1973,05,13,1,Rosewall_Ken,Taylor_Roger,Rosewall_Ken,Dallas_WCT,1973,05,13,4-6_6-2_6-7(5)_6-1_6-4
+Dallas_WCT,2,1973,05,13,2,Smith_Stan,Laver_Rod,Smith_Stan,Dallas_WCT,1973,05,13,4-6_6-4_7-6(2)_7-5
+Dallas_WCT,2,1973,05,13,2,Ashe_Arthur,Rosewall_Ken,Ashe_Arthur,Dallas_WCT,1973,05,13,6-4_6-2_5-7_1-6_6-2
+Dallas_WCT,2,1973,05,13,3,Smith_Stan,Ashe_Arthur,Smith_Stan,Dallas_WCT,1973,05,13,6-3_6-3_4-6_6-4

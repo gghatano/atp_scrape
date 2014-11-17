@@ -1,0 +1,15 @@
+Tournament_of_Champions_WCT,1977,09,25,6-1_6-1
+Tournament_of_Champions_WCT,1977,09,25,1-6_6-3_6-3
+Tournament_of_Champions_WCT,1977,09,25,3-6_6-5_6-2
+Tournament_of_Champions_WCT,1977,09,25,2-6_6-3_6-3
+Tournament_of_Champions_WCT,1977,09,25,6-4_6-4
+Tournament_of_Champions_WCT,1977,09,25,2-6_6-1_6-1
+Tournament_of_Champions_WCT,1977,09,25,6-5_5-6_6-4
+Tournament_of_Champions_WCT,1977,09,25,6-3_6-3
+Tournament_of_Champions_WCT,1977,09,25,6-3_6-3
+Tournament_of_Champions_WCT,1977,09,25,6-5_6-3
+Tournament_of_Champions_WCT,1977,09,25,DEF
+Tournament_of_Champions_WCT,1977,09,25,4-6_6-0_6-2
+Tournament_of_Champions_WCT,1977,09,25,6-2_6-2
+Tournament_of_Champions_WCT,1977,09,25,6-4_6-4
+Tournament_of_Champions_WCT,1977,09,25,6-5_6-2_2-6_0-6_6-3

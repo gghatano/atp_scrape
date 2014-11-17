@@ -1,0 +1,15 @@
+U.S._National_Indoor_Tennis_Championships,1975,12,14,4-6_6-2_6-2
+U.S._National_Indoor_Tennis_Championships,1975,12,14,1-6_7-6(4)_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-2_6-0
+U.S._National_Indoor_Tennis_Championships,1975,12,14,5-7_6-3_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-3_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-2_6-7(5)_7-6(0)
+U.S._National_Indoor_Tennis_Championships,1975,12,14,7-6(5)_7-6(3)
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-2_6-2
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-4_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-7(6)_6-3_6-2
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-4_7-6(6)
+U.S._National_Indoor_Tennis_Championships,1975,12,14,1-6_6-4_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,2-6_7-5_7-6(1)
+U.S._National_Indoor_Tennis_Championships,1975,12,14,7-6(1)_6-3
+U.S._National_Indoor_Tennis_Championships,1975,12,14,6-2_0-6_6-0

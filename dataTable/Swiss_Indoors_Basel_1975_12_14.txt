@@ -1,0 +1,15 @@
+Swiss_Indoors_Basel,2,1975,12,14,1,Kodes_Jan,Gauvain_Herve,Kodes_Jan
+Swiss_Indoors_Basel,2,1975,12,14,1,Kanderal_Petr,Dowdeswell_Colin,Kanderal_Petr
+Swiss_Indoors_Basel,2,1975,12,14,1,PhillipsMoore_Barry,McMillan_Frew,McMillan_Frew
+Swiss_Indoors_Basel,2,1975,12,14,1,Thung_Rolf,Meiler_Karl,Meiler_Karl
+Swiss_Indoors_Basel,2,1975,12,14,1,Barthes_Pierre,Hrebec_Jiri,Hrebec_Jiri
+Swiss_Indoors_Basel,2,1975,12,14,1,Crealy_Dick,Sturdza_Dimitri,Crealy_Dick
+Swiss_Indoors_Basel,2,1975,12,14,1,Kronk_Paul,Mignot_Bernard,Kronk_Paul
+Swiss_Indoors_Basel,2,1975,12,14,1,Alvarez_Elio_Lito,Okker_Tom,Okker_Tom
+Swiss_Indoors_Basel,2,1975,12,14,2,Kodes_Jan,Kanderal_Petr,Kodes_Jan
+Swiss_Indoors_Basel,2,1975,12,14,2,McMillan_Frew,Meiler_Karl,Meiler_Karl
+Swiss_Indoors_Basel,2,1975,12,14,2,Hrebec_Jiri,Crealy_Dick,Hrebec_Jiri
+Swiss_Indoors_Basel,2,1975,12,14,2,Kronk_Paul,Okker_Tom,Okker_Tom
+Swiss_Indoors_Basel,2,1975,12,14,3,Kodes_Jan,Meiler_Karl,Kodes_Jan
+Swiss_Indoors_Basel,2,1975,12,14,3,Hrebec_Jiri,Okker_Tom,Hrebec_Jiri
+Swiss_Indoors_Basel,2,1975,12,14,4,Kodes_Jan,Hrebec_Jiri,Kodes_Jan

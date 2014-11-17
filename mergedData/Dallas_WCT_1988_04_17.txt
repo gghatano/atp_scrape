@@ -1,0 +1,15 @@
+Dallas_WCT,2,1988,04,17,1,Becker_Boris,Bye,Becker_Boris,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Gomez_Andres,Bye,Gomez_Andres,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Cash_Pat,Bye,Cash_Pat,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Gilbert_Brad,Bye,Gilbert_Brad,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Bye,Mayotte_Tim,Mayotte_Tim,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Bye,Noah_Yannick,Noah_Yannick,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Bye,Jaite_Martin,Jaite_Martin,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,1,Bye,Edberg_Stefan,Edberg_Stefan,Dallas_WCT,1988,04,17,
+Dallas_WCT,2,1988,04,17,2,Becker_Boris,Gomez_Andres,Becker_Boris,Dallas_WCT,1988,04,17,6-4_3-6_6-2_6-4
+Dallas_WCT,2,1988,04,17,2,Cash_Pat,Gilbert_Brad,Gilbert_Brad,Dallas_WCT,1988,04,17,7-6(3)_4-6_7-6(1)_6-4
+Dallas_WCT,2,1988,04,17,2,Mayotte_Tim,Noah_Yannick,Noah_Yannick,Dallas_WCT,1988,04,17,6-4_6-3_6-3
+Dallas_WCT,2,1988,04,17,2,Jaite_Martin,Edberg_Stefan,Edberg_Stefan,Dallas_WCT,1988,04,17,6-4_6-3_6-0
+Dallas_WCT,2,1988,04,17,3,Becker_Boris,Gilbert_Brad,Becker_Boris,Dallas_WCT,1988,04,17,6-4_6-2_6-1
+Dallas_WCT,2,1988,04,17,3,Noah_Yannick,Edberg_Stefan,Edberg_Stefan,Dallas_WCT,1988,04,17,6-2_4-6_6-3_6-3
+Dallas_WCT,2,1988,04,17,4,Becker_Boris,Edberg_Stefan,Becker_Boris,Dallas_WCT,1988,04,17,6-4_1-6_7-5_6-2

@@ -1,0 +1,15 @@
+Charlotte_WCT,1976,06,13,6-3_6-3
+Charlotte_WCT,1976,06,13,6-1_2-6_6-1
+Charlotte_WCT,1976,06,13,6-2_6-2
+Charlotte_WCT,1976,06,13,6-0_6-4
+Charlotte_WCT,1976,06,13,4-6_6-3_6-4
+Charlotte_WCT,1976,06,13,6-1_6-2
+Charlotte_WCT,1976,06,13,6-1_6-2
+Charlotte_WCT,1976,06,13,6-2_6-1
+Charlotte_WCT,1976,06,13,5-7_6-1_7-5
+Charlotte_WCT,1976,06,13,7-6_7-6
+Charlotte_WCT,1976,06,13,DEF
+Charlotte_WCT,1976,06,13,6-2_6-3
+Charlotte_WCT,1976,06,13,6-4_6-2
+Charlotte_WCT,1976,06,13,7-5_6-2
+Charlotte_WCT,1976,06,13,6-3_3-6_6-1

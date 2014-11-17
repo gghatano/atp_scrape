@@ -1,0 +1,15 @@
+Columbus_WCT,2,1976,06,13,1,Alexander_John,Pattison_Andrew,Pattison_Andrew,Columbus_WCT,1976,06,13,7-6(3)_6-7(5)_6-3
+Columbus_WCT,2,1976,06,13,1,McMillan_Frew,Warwick_Kim,Warwick_Kim,Columbus_WCT,1976,06,13,7-5_6-2
+Columbus_WCT,2,1976,06,13,1,Drysdale_Cliff,Ralston_Dennis,Drysdale_Cliff,Columbus_WCT,1976,06,13,6-2_6-1
+Columbus_WCT,2,1976,06,13,1,Martin_Billy,Okker_Tom,Okker_Tom,Columbus_WCT,1976,06,13,6-4_7-5
+Columbus_WCT,2,1976,06,13,1,Cox_Mark,Stockton_Dick,Stockton_Dick,Columbus_WCT,1976,06,13,6-4_6-0
+Columbus_WCT,2,1976,06,13,1,Dent_Phil,Mitton_Bernard,Dent_Phil,Columbus_WCT,1976,06,13,7-6(3)_6-3
+Columbus_WCT,2,1976,06,13,1,Metreveli_Alex,Franulovic_Zeljko,Metreveli_Alex,Columbus_WCT,1976,06,13,4-6_7-6(2)_7-5
+Columbus_WCT,2,1976,06,13,1,Hewitt_Bob,Ashe_Arthur,Ashe_Arthur,Columbus_WCT,1976,06,13,6-2_6-1
+Columbus_WCT,2,1976,06,13,2,Pattison_Andrew,Warwick_Kim,Pattison_Andrew,Columbus_WCT,1976,06,13,W/O
+Columbus_WCT,2,1976,06,13,2,Drysdale_Cliff,Okker_Tom,Drysdale_Cliff,Columbus_WCT,1976,06,13,3-6_7-6(5)_7-6(5)
+Columbus_WCT,2,1976,06,13,2,Stockton_Dick,Dent_Phil,Dent_Phil,Columbus_WCT,1976,06,13,6-3_4-6_6-2
+Columbus_WCT,2,1976,06,13,2,Metreveli_Alex,Ashe_Arthur,Ashe_Arthur,Columbus_WCT,1976,06,13,6-2_6-1
+Columbus_WCT,2,1976,06,13,3,Pattison_Andrew,Drysdale_Cliff,Pattison_Andrew,Columbus_WCT,1976,06,13,6-3_6-4
+Columbus_WCT,2,1976,06,13,3,Dent_Phil,Ashe_Arthur,Ashe_Arthur,Columbus_WCT,1976,06,13,6-2_7-5
+Columbus_WCT,2,1976,06,13,4,Pattison_Andrew,Ashe_Arthur,Ashe_Arthur,Columbus_WCT,1976,06,13,3-6_6-3_7-6(4)

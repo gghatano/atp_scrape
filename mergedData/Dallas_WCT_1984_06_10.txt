@@ -1,0 +1,15 @@
+Dallas_WCT,2,1984,06,10,1,McEnroe_John,Bye,McEnroe_John,Dallas_WCT,1984,06,10,
+Dallas_WCT,2,1984,06,10,1,Gerulaitis_Vitas,Scanlon_Bill,Gerulaitis_Vitas,Dallas_WCT,1984,06,10,2-6_5-7_7-6_6-3_6-2
+Dallas_WCT,2,1984,06,10,1,Curren_Kevin,Dickson_Mark,Curren_Kevin,Dallas_WCT,1984,06,10,3-6_4-6_6-3_6-4_6-3
+Dallas_WCT,2,1984,06,10,1,Bye,Kriek_Johan,Kriek_Johan,Dallas_WCT,1984,06,10,
+Dallas_WCT,2,1984,06,10,1,Arias_Jimmy,Bye,Arias_Jimmy,Dallas_WCT,1984,06,10,
+Dallas_WCT,2,1984,06,10,1,Teltscher_Eliot,Sundstrom_Henrik,Teltscher_Eliot,Dallas_WCT,1984,06,10,6-2_6-1_4-6_6-2
+Dallas_WCT,2,1984,06,10,1,Smid_Tomas,Mayotte_Tim,Mayotte_Tim,Dallas_WCT,1984,06,10,6-2_4-6_7-6_6-3
+Dallas_WCT,2,1984,06,10,1,Bye,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1984,06,10,
+Dallas_WCT,2,1984,06,10,2,McEnroe_John,Gerulaitis_Vitas,McEnroe_John,Dallas_WCT,1984,06,10,6-3_6-1_6-3
+Dallas_WCT,2,1984,06,10,2,Curren_Kevin,Kriek_Johan,Curren_Kevin,Dallas_WCT,1984,06,10,4-6_3-6_6-1_6-4_6-1
+Dallas_WCT,2,1984,06,10,2,Arias_Jimmy,Teltscher_Eliot,Arias_Jimmy,Dallas_WCT,1984,06,10,6-4_6-4_7-5
+Dallas_WCT,2,1984,06,10,2,Mayotte_Tim,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1984,06,10,4-6_7-5_6-3_6-3
+Dallas_WCT,2,1984,06,10,3,McEnroe_John,Curren_Kevin,McEnroe_John,Dallas_WCT,1984,06,10,6-3_6-3_6-4
+Dallas_WCT,2,1984,06,10,3,Arias_Jimmy,Connors_Jimmy,Connors_Jimmy,Dallas_WCT,1984,06,10,6-0_7-6_6-2
+Dallas_WCT,2,1984,06,10,4,McEnroe_John,Connors_Jimmy,McEnroe_John,Dallas_WCT,1984,06,10,6-1_6-2_6-3

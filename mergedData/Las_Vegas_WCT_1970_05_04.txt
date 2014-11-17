@@ -1,0 +1,15 @@
+Las_Vegas_WCT,2,1970,05,04,1,Laver_Rod,Moore_Raymond,Laver_Rod,Las_Vegas_WCT,1970,05,04,4-6_7-5_6-2
+Las_Vegas_WCT,2,1970,05,04,1,Stolle_Fred,Ralston_Dennis,Stolle_Fred,Las_Vegas_WCT,1970,05,04,6-4_4-6_7-5
+Las_Vegas_WCT,2,1970,05,04,1,Newcombe_John,Taylor_Roger,Newcombe_John,Las_Vegas_WCT,1970,05,04,4-6_6-3_6-2
+Las_Vegas_WCT,2,1970,05,04,1,Emerson_Roy,Holmberg_Ron,Emerson_Roy,Las_Vegas_WCT,1970,05,04,8-6_4-6_6-3
+Las_Vegas_WCT,2,1970,05,04,1,Gimeno_Andres,Drysdale_Cliff,Gimeno_Andres,Las_Vegas_WCT,1970,05,04,8-6_6-2
+Las_Vegas_WCT,2,1970,05,04,1,Gonzales_RichardPancho,Ulrich_Torben,Gonzales_RichardPancho,Las_Vegas_WCT,1970,05,04,6-4_3-6_6-3
+Las_Vegas_WCT,2,1970,05,04,1,Rosewall_Ken,Buchholz_EarlButch,Rosewall_Ken,Las_Vegas_WCT,1970,05,04,6-0_6-0
+Las_Vegas_WCT,2,1970,05,04,1,Roche_Tony,Segura_Pancho,Roche_Tony,Las_Vegas_WCT,1970,05,04,6-4_6-3
+Las_Vegas_WCT,2,1970,05,04,2,Laver_Rod,Stolle_Fred,Laver_Rod,Las_Vegas_WCT,1970,05,04,1-6_8-6_6-1
+Las_Vegas_WCT,2,1970,05,04,2,Newcombe_John,Emerson_Roy,Emerson_Roy,Las_Vegas_WCT,1970,05,04,1-6_7-5_6-4
+Las_Vegas_WCT,2,1970,05,04,2,Gimeno_Andres,Gonzales_RichardPancho,Gonzales_RichardPancho,Las_Vegas_WCT,1970,05,04,8-6_6-4
+Las_Vegas_WCT,2,1970,05,04,2,Rosewall_Ken,Roche_Tony,Roche_Tony,Las_Vegas_WCT,1970,05,04,6-1_3-6_6-1
+Las_Vegas_WCT,2,1970,05,04,3,Laver_Rod,Emerson_Roy,Laver_Rod,Las_Vegas_WCT,1970,05,04,6-3_3-6_6-2_3-6_6-3
+Las_Vegas_WCT,2,1970,05,04,3,Gonzales_RichardPancho,Roche_Tony,Gonzales_RichardPancho,Las_Vegas_WCT,1970,05,04,6-3_6-3_6-4
+Las_Vegas_WCT,2,1970,05,04,4,Laver_Rod,Gonzales_RichardPancho,Gonzales_RichardPancho,Las_Vegas_WCT,1970,05,04,6-1_7-5_5-7_6-3

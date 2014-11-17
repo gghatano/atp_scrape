@@ -1,0 +1,15 @@
+Richmond_WCT,1977,02,06,W/O
+Richmond_WCT,1977,02,06,6-4_6-2
+Richmond_WCT,1977,02,06,6-4_6-7(2)_6-2
+Richmond_WCT,1977,02,06,6-4_6-4
+Richmond_WCT,1977,02,06,6-4_6-3
+Richmond_WCT,1977,02,06,6-3_6-2
+Richmond_WCT,1977,02,06,6-1_4-6_6-4
+Richmond_WCT,1977,02,06,6-2_6-3
+Richmond_WCT,1977,02,06,6-4_6-1
+Richmond_WCT,1977,02,06,6-3_4-6_6-3
+Richmond_WCT,1977,02,06,7-6(4)_6-2
+Richmond_WCT,1977,02,06,6-4_6-3
+Richmond_WCT,1977,02,06,6-3_3-6_7-5
+Richmond_WCT,1977,02,06,6-1_7-5
+Richmond_WCT,1977,02,06,3-6_6-3_6-4

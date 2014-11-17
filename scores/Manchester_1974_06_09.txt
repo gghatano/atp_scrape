@@ -1,0 +1,15 @@
+Manchester,1974,06,09,6-1_6-3
+Manchester,1974,06,09,6-2_5-7_6-1
+Manchester,1974,06,09,6-1_6-4
+Manchester,1974,06,09,6-3_6-4
+Manchester,1974,06,09,6-3_6-1
+Manchester,1974,06,09,6-3_4-6_6-4
+Manchester,1974,06,09,6-3_6-3
+Manchester,1974,06,09,3-6_6-3_6-4
+Manchester,1974,06,09,6-4_6-2
+Manchester,1974,06,09,2-6_6-3_6-3
+Manchester,1974,06,09,6-4_2-1_RET
+Manchester,1974,06,09,9-7_6-1
+Manchester,1974,06,09,13-11_6-4
+Manchester,1974,06,09,6-1_6-8_6-3
+Manchester,1974,06,09,13-11_6-2

@@ -1,0 +1,7 @@
+Dallas_WCT,2,1982,09,12,1,McEnroe_John,Scanlon_Bill,McEnroe_John,Dallas_WCT,1982,09,12,5-7_6-4_2-6_7-6(8)_6-4
+Dallas_WCT,2,1982,09,12,1,Smid_Tomas,Dibbs_Eddie,Dibbs_Eddie,Dallas_WCT,1982,09,12,6-4_7-6(5)_6-3
+Dallas_WCT,2,1982,09,12,1,Clerc_JoseLuis,Amritraj_Vijay,Amritraj_Vijay,Dallas_WCT,1982,09,12,6-7(4)_6-2_6-2_2-6_6-4
+Dallas_WCT,2,1982,09,12,1,Fibak_Wojtek,Lendl_Ivan,Lendl_Ivan,Dallas_WCT,1982,09,12,6-1_6-4_3-6_7-6(5)
+Dallas_WCT,2,1982,09,12,2,McEnroe_John,Dibbs_Eddie,McEnroe_John,Dallas_WCT,1982,09,12,6-4_6-4_7-6(7)
+Dallas_WCT,2,1982,09,12,2,Amritraj_Vijay,Lendl_Ivan,Lendl_Ivan,Dallas_WCT,1982,09,12,6-1_6-0_7-5
+Dallas_WCT,2,1982,09,12,3,McEnroe_John,Lendl_Ivan,Lendl_Ivan,Dallas_WCT,1982,09,12,6-2_3-6_6-3_6-3

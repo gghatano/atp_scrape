@@ -1,0 +1,9 @@
+Forest_Hills_WCT,2,1978,07,11,1,Gerulaitis_Vitas,Dent_Phil,Gerulaitis_Vitas,Forest_Hills_WCT,1978,07,11,6-1_7-6
+Forest_Hills_WCT,2,1978,07,11,1,Nastase_Ilie,Stockton_Dick,Nastase_Ilie,Forest_Hills_WCT,1978,07,11,5-7_7-5_6-3
+Forest_Hills_WCT,2,1978,07,11,2,Gerulaitis_Vitas,Nastase_Ilie,McEnroe_John,Forest_Hills_WCT,1978,07,11,6-2_6-3
+Forest_Hills_WCT,2,1978,07,11,3,Gerulaitis_Vitas,Stockton_Dick,Stockton_Dick,Forest_Hills_WCT,1978,07,11,6-3_6-2
+Forest_Hills_WCT,2,1978,07,11,4,Dent_Phil,Nastase_Ilie,Dent_Phil,Forest_Hills_WCT,1978,07,11,7-6_3-6_6-3
+,Forest_Hills_WCT,1978,07,11,6-1_6-2
+,Forest_Hills_WCT,1978,07,11,7-5_6-1
+,Forest_Hills_WCT,1978,07,11,5-7_7-6_6-4
+,Forest_Hills_WCT,1978,07,11,1-6_6-4_7-5

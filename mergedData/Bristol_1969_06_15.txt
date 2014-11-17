@@ -1,0 +1,7 @@
+Bristol,2,1969,06,15,1,Emerson_Roy,Crealy_Dick,Emerson_Roy,Bristol,1969,06,15,6-1_9-7
+Bristol,2,1969,06,15,1,Rosewall_Ken,Ashe_Arthur,Rosewall_Ken,Bristol,1969,06,15,6-3_4-6_6-4
+Bristol,2,1969,06,15,1,Barthes_Pierre,Newcombe_John,Barthes_Pierre,Bristol,1969,06,15,9-11_8-6_7-5
+Bristol,2,1969,06,15,1,Graebner_Clark,Drysdale_Cliff,Graebner_Clark,Bristol,1969,06,15,6-1_6-4
+Bristol,2,1969,06,15,2,Emerson_Roy,Rosewall_Ken,Rosewall_Ken,Bristol,1969,06,15,7-5_6-4
+Bristol,2,1969,06,15,2,Barthes_Pierre,Graebner_Clark,Barthes_Pierre,Bristol,1969,06,15,10-8_6-4
+Bristol,2,1969,06,15,3,Rosewall_Ken,Barthes_Pierre,Rosewall_Ken,Bristol,1969,06,15,8-10_6-3_6-1

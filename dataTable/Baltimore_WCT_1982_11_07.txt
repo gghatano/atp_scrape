@@ -1,0 +1,15 @@
+Baltimore_WCT,2,1982,11,07,1,Vilas_Guillermo,Stockton_Dick,Vilas_Guillermo
+Baltimore_WCT,2,1982,11,07,1,Scanlon_Bill,Damiani_Jose_Luis,Scanlon_Bill
+Baltimore_WCT,2,1982,11,07,1,Arias_Jimmy,Stolle_Fred,Arias_Jimmy
+Baltimore_WCT,2,1982,11,07,1,Andrews_Andy,Amritraj_Vijay,Amritraj_Vijay
+Baltimore_WCT,2,1982,11,07,1,Martinez_Mario,Moor_Terry,Martinez_Mario
+Baltimore_WCT,2,1982,11,07,1,Taroczy_Balazs,Curren_Kevin,Curren_Kevin
+Baltimore_WCT,2,1982,11,07,1,Sadri_John,Edmondson_Mark,Sadri_John
+Baltimore_WCT,2,1982,11,07,1,McNamee_Paul,McNamara_Peter,McNamee_Paul
+Baltimore_WCT,2,1982,11,07,2,Vilas_Guillermo,Scanlon_Bill,Vilas_Guillermo
+Baltimore_WCT,2,1982,11,07,2,Arias_Jimmy,Amritraj_Vijay,Arias_Jimmy
+Baltimore_WCT,2,1982,11,07,2,Martinez_Mario,Curren_Kevin,Curren_Kevin
+Baltimore_WCT,2,1982,11,07,2,Sadri_John,McNamee_Paul,McNamee_Paul
+Baltimore_WCT,2,1982,11,07,3,Vilas_Guillermo,Arias_Jimmy,Vilas_Guillermo
+Baltimore_WCT,2,1982,11,07,3,Curren_Kevin,McNamee_Paul,McNamee_Paul
+Baltimore_WCT,2,1982,11,07,4,Vilas_Guillermo,McNamee_Paul,McNamee_Paul

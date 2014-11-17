@@ -1,0 +1,15 @@
+Kansas_City,2,1972,02,13,1,Nastase_Ilie,Belkin_Mike,Nastase_Ilie
+Kansas_City,2,1972,02,13,1,Edlefsen_Tom,Fillol_Sr_Jaime,Edlefsen_Tom
+Kansas_City,2,1972,02,13,1,Barthes_Pierre,Gorman_Tom,Barthes_Pierre
+Kansas_City,2,1972,02,13,1,Orantes_Manuel,Bengtson_Ove_Nils,Orantes_Manuel
+Kansas_City,2,1972,02,13,1,Tiriac_Ion,Olmedo_Alejandro,Tiriac_Ion
+Kansas_City,2,1972,02,13,1,Franulovic_Zeljko,Cornejo_Patricio,Franulovic_Zeljko
+Kansas_City,2,1972,02,13,1,Van_Dillen_Erik,Gimeno_Andres,Van_Dillen_Erik
+Kansas_City,2,1972,02,13,1,Graebner_Clark,Holecek_Milan,Graebner_Clark
+Kansas_City,2,1972,02,13,2,Nastase_Ilie,Edlefsen_Tom,Edlefsen_Tom
+Kansas_City,2,1972,02,13,2,Barthes_Pierre,Orantes_Manuel,Barthes_Pierre
+Kansas_City,2,1972,02,13,2,Tiriac_Ion,Franulovic_Zeljko,Franulovic_Zeljko
+Kansas_City,2,1972,02,13,2,Van_Dillen_Erik,Graebner_Clark,Van_Dillen_Erik
+Kansas_City,2,1972,02,13,3,Edlefsen_Tom,Barthes_Pierre,Edlefsen_Tom
+Kansas_City,2,1972,02,13,3,Franulovic_Zeljko,Van_Dillen_Erik,Van_Dillen_Erik
+Kansas_City,2,1972,02,13,4,Edlefsen_Tom,Van_Dillen_Erik,Edlefsen_Tom

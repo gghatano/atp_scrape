@@ -1,0 +1,15 @@
+Hobart,2,1972,01,23,1,Metreveli_Alex,Bye,Metreveli_Alex
+Hobart,2,1972,01,23,1,Case_Ross,Bye,Case_Ross
+Hobart,2,1972,01,23,1,Dominguez_Patrice,Bye,Dominguez_Patrice
+Hobart,2,1972,01,23,1,Trickey_John,Bye,Trickey_John
+Hobart,2,1972,01,23,1,NGodrella_Wanaro,Bye,NGodrella_Wanaro
+Hobart,2,1972,01,23,1,Dibley_Colin,Bye,Dibley_Colin
+Hobart,2,1972,01,23,1,Cooper_John,Bye,Cooper_John
+Hobart,2,1972,01,23,1,Bye,Fletcher_Ian,Fletcher_Ian
+Hobart,2,1972,01,23,2,Metreveli_Alex,Case_Ross,Metreveli_Alex
+Hobart,2,1972,01,23,2,Dominguez_Patrice,Trickey_John,Dominguez_Patrice
+Hobart,2,1972,01,23,2,NGodrella_Wanaro,Dibley_Colin,NGodrella_Wanaro
+Hobart,2,1972,01,23,2,Cooper_John,Fletcher_Ian,Cooper_John
+Hobart,2,1972,01,23,3,Metreveli_Alex,Dominguez_Patrice,Metreveli_Alex
+Hobart,2,1972,01,23,3,NGodrella_Wanaro,Cooper_John,NGodrella_Wanaro
+Hobart,2,1972,01,23,4,Metreveli_Alex,NGodrella_Wanaro,Metreveli_Alex

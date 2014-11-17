@@ -1,0 +1,15 @@
+Copenhagen,2,1975,12,14,1,Lundstedt_Bengt,Holmes_Norman,Lundstedt_Bengt
+Copenhagen,2,1975,12,14,1,Simbera_Jan,Thamin_Jacques,Simbera_Jan
+Copenhagen,2,1975,12,14,1,Palm_Douglas,Johansson_Kjell,Palm_Douglas
+Copenhagen,2,1975,12,14,1,Elvstrom_Lars,Feaver_John,Elvstrom_Lars
+Copenhagen,2,1975,12,14,1,Timonen_Matti,Svensson_Tenny,Timonen_Matti
+Copenhagen,2,1975,12,14,1,Caujolle_JeanFrancois,Christensen_Tom,Caujolle_JeanFrancois
+Copenhagen,2,1975,12,14,1,Pisecky_Jan,Hagna_P,Pisecky_Jan
+Copenhagen,2,1975,12,14,1,Kanderal_Petr,Andersson_Birger,Kanderal_Petr
+Copenhagen,2,1975,12,14,2,Lundstedt_Bengt,Simbera_Jan,Simbera_Jan
+Copenhagen,2,1975,12,14,2,Palm_Douglas,Elvstrom_Lars,Elvstrom_Lars
+Copenhagen,2,1975,12,14,2,Timonen_Matti,Caujolle_JeanFrancois,Caujolle_JeanFrancois
+Copenhagen,2,1975,12,14,2,Pisecky_Jan,Kanderal_Petr,Kanderal_Petr
+Copenhagen,2,1975,12,14,3,Simbera_Jan,Elvstrom_Lars,Elvstrom_Lars
+Copenhagen,2,1975,12,14,3,Caujolle_JeanFrancois,Kanderal_Petr,Caujolle_JeanFrancois
+Copenhagen,2,1975,12,14,4,Elvstrom_Lars,Caujolle_JeanFrancois,Elvstrom_Lars

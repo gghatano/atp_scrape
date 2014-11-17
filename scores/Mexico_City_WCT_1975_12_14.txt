@@ -1,0 +1,15 @@
+Mexico_City_WCT,1975,12,14,6-4_6-2
+Mexico_City_WCT,1975,12,14,7-6(2)_6-1
+Mexico_City_WCT,1975,12,14,7-6(4)_6-1
+Mexico_City_WCT,1975,12,14,6-1_6-3
+Mexico_City_WCT,1975,12,14,W/O
+Mexico_City_WCT,1975,12,14,7-6(2)_6-2
+Mexico_City_WCT,1975,12,14,7-6(0)_6-3
+Mexico_City_WCT,1975,12,14,6-3_6-3
+Mexico_City_WCT,1975,12,14,7-6(5)_6-3
+Mexico_City_WCT,1975,12,14,6-4_4-6_6-2
+Mexico_City_WCT,1975,12,14,7-6(6)_6-2
+Mexico_City_WCT,1975,12,14,6-7(5)_7-6(2)_6-2
+Mexico_City_WCT,1975,12,14,3-6_7-6(5)_7-6(4)
+Mexico_City_WCT,1975,12,14,6-4_6-3
+Mexico_City_WCT,1975,12,14,7-6(4)_6-2

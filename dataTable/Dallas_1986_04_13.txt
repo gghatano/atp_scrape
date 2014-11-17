@@ -1,0 +1,15 @@
+Dallas,2,1986,04,13,1,Wilander_Mats,Bye,Wilander_Mats
+Dallas,2,1986,04,13,1,Kriek_Johan,Gilbert_Brad,Kriek_Johan
+Dallas,2,1986,04,13,1,Tulasne_Thierry,Jarryd_Anders,Jarryd_Anders
+Dallas,2,1986,04,13,1,Nystrom_Joakim,Bye,Nystrom_Joakim
+Dallas,2,1986,04,13,1,Edberg_Stefan,Bye,Edberg_Stefan
+Dallas,2,1986,04,13,1,Noah_Yannick,Anger_Matt,Noah_Yannick
+Dallas,2,1986,04,13,1,Mecir_Sr_Miloslav,Annacone_Paul,Annacone_Paul
+Dallas,2,1986,04,13,1,Becker_Boris,Bye,Becker_Boris
+Dallas,2,1986,04,13,2,Wilander_Mats,Kriek_Johan,Wilander_Mats
+Dallas,2,1986,04,13,2,Jarryd_Anders,Nystrom_Joakim,Jarryd_Anders
+Dallas,2,1986,04,13,2,Edberg_Stefan,Noah_Yannick,Edberg_Stefan
+Dallas,2,1986,04,13,2,Annacone_Paul,Becker_Boris,Becker_Boris
+Dallas,2,1986,04,13,3,Wilander_Mats,Jarryd_Anders,Jarryd_Anders
+Dallas,2,1986,04,13,3,Edberg_Stefan,Becker_Boris,Becker_Boris
+Dallas,2,1986,04,13,4,Jarryd_Anders,Becker_Boris,Jarryd_Anders

@@ -1,0 +1,15 @@
+Grand_Slam_Cup,1998,09,27,
+Grand_Slam_Cup,1998,09,27,6-0_6-0
+Grand_Slam_Cup,1998,09,27,
+Grand_Slam_Cup,1998,09,27,6-4_6-4
+Grand_Slam_Cup,1998,09,27,7-5_6-3
+Grand_Slam_Cup,1998,09,27,
+Grand_Slam_Cup,1998,09,27,6-3_6-3
+Grand_Slam_Cup,1998,09,27,
+Grand_Slam_Cup,1998,09,27,4-6_6-0_6-1
+Grand_Slam_Cup,1998,09,27,5-7_6-4_8-6
+Grand_Slam_Cup,1998,09,27,4-6_7-6_6-1
+Grand_Slam_Cup,1998,09,27,7-6_7-5
+Grand_Slam_Cup,1998,09,27,7-6_6-7_2-6_7-5_6-0
+Grand_Slam_Cup,1998,09,27,7-6_6-3_6-4
+Grand_Slam_Cup,1998,09,27,6-4_2-6_7-6_5-7_6-3

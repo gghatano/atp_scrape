@@ -1,0 +1,15 @@
+Dallas_WCT,2,1983,05,15,1,Lendl_Ivan,Bye,Lendl_Ivan
+Dallas_WCT,2,1983,05,15,1,Denton_Steve,McNamee_Paul,Denton_Steve
+Dallas_WCT,2,1983,05,15,1,Scanlon_Bill,Taroczy_Balazs,Scanlon_Bill
+Dallas_WCT,2,1983,05,15,1,Bye,Curren_Kevin,Curren_Kevin
+Dallas_WCT,2,1983,05,15,1,Vilas_Guillermo,Bye,Vilas_Guillermo
+Dallas_WCT,2,1983,05,15,1,Gerulaitis_Vitas,Clerc_JoseLuis,Gerulaitis_Vitas
+Dallas_WCT,2,1983,05,15,1,Fibak_Wojtek,Smid_Tomas,Smid_Tomas
+Dallas_WCT,2,1983,05,15,1,Bye,McEnroe_John,McEnroe_John
+Dallas_WCT,2,1983,05,15,2,Lendl_Ivan,Denton_Steve,Lendl_Ivan
+Dallas_WCT,2,1983,05,15,2,Scanlon_Bill,Curren_Kevin,Scanlon_Bill
+Dallas_WCT,2,1983,05,15,2,Vilas_Guillermo,Gerulaitis_Vitas,Gerulaitis_Vitas
+Dallas_WCT,2,1983,05,15,2,Smid_Tomas,McEnroe_John,McEnroe_John
+Dallas_WCT,2,1983,05,15,3,Lendl_Ivan,Scanlon_Bill,Lendl_Ivan
+Dallas_WCT,2,1983,05,15,3,Gerulaitis_Vitas,McEnroe_John,McEnroe_John
+Dallas_WCT,2,1983,05,15,4,Lendl_Ivan,McEnroe_John,McEnroe_John

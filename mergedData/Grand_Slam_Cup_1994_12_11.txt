@@ -1,0 +1,15 @@
+Grand_Slam_Cup,2,1994,12,11,1,Sampras_Pete,Yzaga_Jaime,Sampras_Pete,Grand_Slam_Cup,1994,12,11,6-2_6-4
+Grand_Slam_Cup,2,1994,12,11,1,Berasategui_Alberto,Chang_Michael,Chang_Michael,Grand_Slam_Cup,1994,12,11,6-1_7-5
+Grand_Slam_Cup,2,1994,12,11,1,Becker_Boris,Ferreira_Wayne,Becker_Boris,Grand_Slam_Cup,1994,12,11,5-7_6-4_6-3
+Grand_Slam_Cup,2,1994,12,11,1,Bjorkman_Jonas,Ivanisevic_Goran,Ivanisevic_Goran,Grand_Slam_Cup,1994,12,11,6-4_6-2
+Grand_Slam_Cup,2,1994,12,11,1,Martin_Todd,Novacek_Karel,Martin_Todd,Grand_Slam_Cup,1994,12,11,7-6_6-4
+Grand_Slam_Cup,2,1994,12,11,1,Medvedev_Andrei,Bruguera_Sergi,Bruguera_Sergi,Grand_Slam_Cup,1994,12,11,5-7_6-4_6-0
+Grand_Slam_Cup,2,1994,12,11,1,Edberg_Stefan,Larsson_Magnus,Larsson_Magnus,Grand_Slam_Cup,1994,12,11,6-4_6-7_8-6
+Grand_Slam_Cup,2,1994,12,11,1,Muster_Thomas,Agassi_Andre,Agassi_Andre,Grand_Slam_Cup,1994,12,11,6-3_7-5
+Grand_Slam_Cup,2,1994,12,11,2,Sampras_Pete,Chang_Michael,Sampras_Pete,Grand_Slam_Cup,1994,12,11,6-4_6-3
+Grand_Slam_Cup,2,1994,12,11,2,Becker_Boris,Ivanisevic_Goran,Ivanisevic_Goran,Grand_Slam_Cup,1994,12,11,6-4_6-1
+Grand_Slam_Cup,2,1994,12,11,2,Martin_Todd,Bruguera_Sergi,Martin_Todd,Grand_Slam_Cup,1994,12,11,6-4_7-6
+Grand_Slam_Cup,2,1994,12,11,2,Larsson_Magnus,Agassi_Andre,Larsson_Magnus,Grand_Slam_Cup,1994,12,11,6-3_1-6_6-0
+Grand_Slam_Cup,2,1994,12,11,3,Sampras_Pete,Ivanisevic_Goran,Sampras_Pete,Grand_Slam_Cup,1994,12,11,5-7_6-3_6-4_6-7_10-8
+Grand_Slam_Cup,2,1994,12,11,3,Martin_Todd,Larsson_Magnus,Larsson_Magnus,Grand_Slam_Cup,1994,12,11,6-4_6-1_6-1
+Grand_Slam_Cup,2,1994,12,11,4,Sampras_Pete,Larsson_Magnus,Larsson_Magnus,Grand_Slam_Cup,1994,12,11,7-6_4-6_7-6_6-4

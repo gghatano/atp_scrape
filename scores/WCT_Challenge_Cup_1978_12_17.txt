@@ -1,0 +1,12 @@
+WCT_Challenge_Cup,1978,12,17,2-6_6-4_6-4
+WCT_Challenge_Cup,1978,12,17,6-5_3-6_6-4
+WCT_Challenge_Cup,1978,12,17,6-3_6-2
+WCT_Challenge_Cup,1978,12,17,3-6_6-5_6-1
+WCT_Challenge_Cup,1978,12,17,6-5_4-6_6-4
+WCT_Challenge_Cup,1978,12,17,6-5_6-4
+WCT_Challenge_Cup,1978,12,17,3-6_6-5_6-4
+WCT_Challenge_Cup,1978,12,17,6-4_6-2
+WCT_Challenge_Cup,1978,12,17,6-4_6-2
+WCT_Challenge_Cup,1978,12,17,4-6_6-2_6-4
+WCT_Challenge_Cup,1978,12,17,6-1_6-3
+WCT_Challenge_Cup,1978,12,17,6-2_6-4

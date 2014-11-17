@@ -1,0 +1,9 @@
+Forest_Hills_WCT,1979,07,15,6-1_6-2
+Forest_Hills_WCT,1979,07,15,7-6_7-6
+Forest_Hills_WCT,1979,07,15,5-7_6-4_6-3
+Forest_Hills_WCT,1979,07,15,6-2_6-2
+Forest_Hills_WCT,1979,07,15,6-1_6-2
+Forest_Hills_WCT,1979,07,15,3-6_7-5_7-6
+Forest_Hills_WCT,1979,07,15,4-6_7-6_6-2
+Forest_Hills_WCT,1979,07,15,7-5_3-6_7-5
+Forest_Hills_WCT,1979,07,15,7-6_1-6_7-6

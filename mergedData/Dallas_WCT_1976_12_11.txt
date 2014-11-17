@@ -1,0 +1,7 @@
+Dallas_WCT,2,1976,12,11,1,Connors_Jimmy,Panatta_Adriano,Connors_Jimmy,Dallas_WCT,1976,12,11,6-4_7-5_6-4
+Dallas_WCT,2,1976,12,11,1,Nastase_Ilie,Dibbs_Eddie,Dibbs_Eddie,Dallas_WCT,1976,12,11,6-1_4-6_6-2_6-3
+Dallas_WCT,2,1976,12,11,1,Gerulaitis_Vitas,Fibak_Wojtek,Gerulaitis_Vitas,Dallas_WCT,1976,12,11,1-6_3-6_6-0_6-2_6-3
+Dallas_WCT,2,1976,12,11,1,Stockton_Dick,Drysdale_Cliff,Stockton_Dick,Dallas_WCT,1976,12,11,7-5_6-7_7-6_6-2
+Dallas_WCT,2,1976,12,11,2,Connors_Jimmy,Dibbs_Eddie,Connors_Jimmy,Dallas_WCT,1976,12,11,6-4_7-5_6-1
+Dallas_WCT,2,1976,12,11,2,Gerulaitis_Vitas,Stockton_Dick,Stockton_Dick,Dallas_WCT,1976,12,11,7-6_3-6_6-7_6-3_6-3
+Dallas_WCT,2,1976,12,11,3,Connors_Jimmy,Stockton_Dick,Connors_Jimmy,Dallas_WCT,1976,12,11,6-7_6-1_6-4_6-3

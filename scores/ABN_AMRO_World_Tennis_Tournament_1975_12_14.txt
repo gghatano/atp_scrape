@@ -1,0 +1,15 @@
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,7-5_6-2
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-2_5-7_7-5
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-0_2-6_6-3
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-0_6-2
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-1_6-2
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-4_6-4
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,5-0_RET
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,DEF
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-1_6-4
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-2_6-3
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-4_6-3
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-4_6-2
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-4_4-6_6-4
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,5-7_7-5_6-2
+ABN_AMRO_World_Tennis_Tournament,1975,12,14,6-3_6-3

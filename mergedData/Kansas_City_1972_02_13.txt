@@ -1,0 +1,15 @@
+Kansas_City,2,1972,02,13,1,Nastase_Ilie,Belkin_Mike,Nastase_Ilie,Kansas_City,1972,02,13,6-4_6-0
+Kansas_City,2,1972,02,13,1,Edlefsen_Tom,Fillol_SrJaime,Edlefsen_Tom,Kansas_City,1972,02,13,2-6_6-4_7-5
+Kansas_City,2,1972,02,13,1,Barthes_Pierre,Gorman_Tom,Barthes_Pierre,Kansas_City,1972,02,13,6-4_2-6_7-6
+Kansas_City,2,1972,02,13,1,Orantes_Manuel,Bengtson_OveNils,Orantes_Manuel,Kansas_City,1972,02,13,6-2_6-4
+Kansas_City,2,1972,02,13,1,Tiriac_Ion,Olmedo_Alejandro,Tiriac_Ion,Kansas_City,1972,02,13,6-4_6-3
+Kansas_City,2,1972,02,13,1,Franulovic_Zeljko,Cornejo_Patricio,Franulovic_Zeljko,Kansas_City,1972,02,13,6-2_6-4
+Kansas_City,2,1972,02,13,1,Van_DillenErik,Gimeno_Andres,Van_DillenErik,Kansas_City,1972,02,13,7-5_6-2
+Kansas_City,2,1972,02,13,1,Graebner_Clark,Holecek_Milan,Graebner_Clark,Kansas_City,1972,02,13,7-5_6-2
+Kansas_City,2,1972,02,13,2,Nastase_Ilie,Edlefsen_Tom,Edlefsen_Tom,Kansas_City,1972,02,13,3-6_6-3_7-6
+Kansas_City,2,1972,02,13,2,Barthes_Pierre,Orantes_Manuel,Barthes_Pierre,Kansas_City,1972,02,13,1-6_7-6_6-1
+Kansas_City,2,1972,02,13,2,Tiriac_Ion,Franulovic_Zeljko,Franulovic_Zeljko,Kansas_City,1972,02,13,1-6_6-3_6-2
+Kansas_City,2,1972,02,13,2,Van_DillenErik,Graebner_Clark,Van_DillenErik,Kansas_City,1972,02,13,6-2_6-4
+Kansas_City,2,1972,02,13,3,Edlefsen_Tom,Barthes_Pierre,Edlefsen_Tom,Kansas_City,1972,02,13,6-7_7-6_6-4
+Kansas_City,2,1972,02,13,3,Franulovic_Zeljko,Van_DillenErik,Van_DillenErik,Kansas_City,1972,02,13,6-0_4-6_6-3
+Kansas_City,2,1972,02,13,4,Edlefsen_Tom,Van_DillenErik,Edlefsen_Tom,Kansas_City,1972,02,13,6-3_6-3

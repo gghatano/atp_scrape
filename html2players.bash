@@ -3,9 +3,9 @@
 dir=$(dirname $0)
 
 file=$1
-pid=$$
+# file=$(ls htmls | grep Event)
 
-[ $# -ne 1 ] && { echo "Usage : Unput html file name" ; exit 0 ; }
+[ $# -ne 1 ] && { echo "Usage : Input html file name" ; exit 0 ; }
 
 ## tournament title
 title=$(cat $dir/htmls/$file | 
@@ -24,18 +24,28 @@ sed 's/[^0-9\.]//g')
 
 tournamentGrade=$(echo $file | cut -d"_" -f 1,2)
 
-echo $date
+# echo $date
 echo $title
-echo $tournamentGrade
+# echo $tournamentGrade
 
-echo $title > $dir/players/${tournamentGrade}_${date}.txt.$pid
+tournamentGradeNum=$(echo $tournamentGrade | cut -d"_" -f 2)
+year=$(echo $date | cut -d"." -f 3)
+month=$(echo $date | cut -d"." -f 2)
+day=$(echo $date | cut -d"." -f 1)
+tournamentName=$(echo $title | sed -e 's/ /_/g' -e 's/.$//')
+
+# echo $tournamentName, $year, $month, $day
+
+fileName="$dir/players/players_${tournamentName}_${year}_${month}_${day}.txt"
+
+echo $tournamentName,$tournamentGradeNum > $fileName
 
 cat $dir/htmls/$file | 
-gsed 's/col_[0-9]/\nplayer_%\n/' | 
-grep -E '(player|Bye)' |
-sed -e 's/<[^>]*>//g' -e 's/ //g'| 
-grep -E '(_|,|Bye)' | 
-gsed 's/player_//' | 
-gsed 's/,/_/g' | 
-gsed 's/\n/,/g' >> $dir/players/${tournamentGrade}_${date}.txt.$pid
+gsed 's/col_[0-9]/\nplayers_%\n/' | 
+grep -E '(Player1Link|Bye|players_)' |
+sed -e 's/<[^>]*>//g' -e 's/^ *//' | 
+gsed -e 's/,//g' -e 's/ /_/g' | 
+gsed -e 's/players_//' -e 's/,/_/g' -e 's/[^%]$//' | 
+gsed 's/\n/,/g'   >> $fileName
+
 

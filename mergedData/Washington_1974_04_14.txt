@@ -1,0 +1,15 @@
+Washington,2,1974,04,14,1,Connors_Jimmy,Bye,Connors_Jimmy,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Crookenden_Ian,Bye,Crookenden_Ian,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Amritraj_Vijay,Bye,Amritraj_Vijay,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Fletcher_Ian,Bye,Fletcher_Ian,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Owens_Charles,Bye,Owens_Charles,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Gerulaitis_Vitas,Bye,Gerulaitis_Vitas,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Meiler_Karl,Bye,Meiler_Karl,Washington,1974,04,14,
+Washington,2,1974,04,14,1,Bye,Bertram_Byron,Bertram_Byron,Washington,1974,04,14,
+Washington,2,1974,04,14,2,Connors_Jimmy,Crookenden_Ian,Connors_Jimmy,Washington,1974,04,14,6-7_6-1_6-4
+Washington,2,1974,04,14,2,Amritraj_Vijay,Fletcher_Ian,Amritraj_Vijay,Washington,1974,04,14,6-7_6-2_6-4
+Washington,2,1974,04,14,2,Owens_Charles,Gerulaitis_Vitas,Owens_Charles,Washington,1974,04,14,6-7_6-4_6-2
+Washington,2,1974,04,14,2,Meiler_Karl,Bertram_Byron,Meiler_Karl,Washington,1974,04,14,6-7_6-4_6-2
+Washington,2,1974,04,14,3,Connors_Jimmy,Amritraj_Vijay,Amritraj_Vijay,Washington,1974,04,14,DEF
+Washington,2,1974,04,14,3,Owens_Charles,Meiler_Karl,Meiler_Karl,Washington,1974,04,14,7-5_6-4
+Washington,2,1974,04,14,4,Amritraj_Vijay,Meiler_Karl,Amritraj_Vijay,Washington,1974,04,14,6-4_6-3

@@ -1,0 +1,15 @@
+Dayton_Indoor,1975,02,03,6-1_6-2
+Dayton_Indoor,1975,02,03,6-7_6-3_7-6
+Dayton_Indoor,1975,02,03,7-6_3-6_6-3
+Dayton_Indoor,1975,02,03,7-6_6-3
+Dayton_Indoor,1975,02,03,7-6_6-0
+Dayton_Indoor,1975,02,03,6-0_6-2
+Dayton_Indoor,1975,02,03,6-1_6-2
+Dayton_Indoor,1975,02,03,7-6_7-5
+Dayton_Indoor,1975,02,03,4-6_6-3_6-1
+Dayton_Indoor,1975,02,03,2-6_6-3_6-4
+Dayton_Indoor,1975,02,03,5-7_7-6_6-4
+Dayton_Indoor,1975,02,03,6-2_6-4
+Dayton_Indoor,1975,02,03,6-2_6-4
+Dayton_Indoor,1975,02,03,6-4_7-6
+Dayton_Indoor,1975,02,03,6-4_4-6_6-4

@@ -1,0 +1,15 @@
+Roanoke,2,1973,01,28,1,Connors_Jimmy,Bye,Connors_Jimmy,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,PintoBravo_Jaime,Bye,PintoBravo_Jaime,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Vasquez_Tito,Bye,Vasquez_Tito,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Seewagen_Butch,Bye,Seewagen_Butch,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Fletcher_Ian,Bye,Fletcher_Ian,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Crookenden_Ian,Bye,Crookenden_Ian,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Paish_John,Bye,Paish_John,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,1,Gisbert_SrJuan,Bye,Gisbert_SrJuan,Roanoke,1973,01,28,
+Roanoke,2,1973,01,28,2,Connors_Jimmy,PintoBravo_Jaime,Connors_Jimmy,Roanoke,1973,01,28,7-5_6-2
+Roanoke,2,1973,01,28,2,Vasquez_Tito,Seewagen_Butch,Vasquez_Tito,Roanoke,1973,01,28,4-6_6-1_6-0
+Roanoke,2,1973,01,28,2,Fletcher_Ian,Crookenden_Ian,Fletcher_Ian,Roanoke,1973,01,28,7-5_3-6_7-6
+Roanoke,2,1973,01,28,2,Paish_John,Gisbert_SrJuan,Paish_John,Roanoke,1973,01,28,6-4_6-4
+Roanoke,2,1973,01,28,3,Connors_Jimmy,Vasquez_Tito,Connors_Jimmy,Roanoke,1973,01,28,6-4_6-3
+Roanoke,2,1973,01,28,3,Fletcher_Ian,Paish_John,Fletcher_Ian,Roanoke,1973,01,28,6-3_6-7_6-0
+Roanoke,2,1973,01,28,4,Connors_Jimmy,Fletcher_Ian,Connors_Jimmy,Roanoke,1973,01,28,6-2_6-3

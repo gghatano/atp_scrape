@@ -1,0 +1,12 @@
+WCT_Challenge_Cup,2,1979,12,09,1,Borg_Bjorn,Kriek_Johan,Borg_Bjorn,WCT_Challenge_Cup,1979,12,09,6-1_6-2
+WCT_Challenge_Cup,2,1979,12,09,1,Dupre_Pat,Gildemeister_Hans,Gildemeister_Hans,WCT_Challenge_Cup,1979,12,09,6-2_7-5
+WCT_Challenge_Cup,2,1979,12,09,1,Gullikson_Tim,Nastase_Ilie,Nastase_Ilie,WCT_Challenge_Cup,1979,12,09,6-3_7-5
+WCT_Challenge_Cup,2,1979,12,09,1,Fleming_Peter,Connors_Jimmy,Connors_Jimmy,WCT_Challenge_Cup,1979,12,09,6-3_6-3
+WCT_Challenge_Cup,2,1979,12,09,2,Borg_Bjorn,Gildemeister_Hans,Borg_Bjorn,WCT_Challenge_Cup,1979,12,09,6-4_6-2
+WCT_Challenge_Cup,2,1979,12,09,2,Nastase_Ilie,Connors_Jimmy,Gildemeister_Hans,WCT_Challenge_Cup,1979,12,09,6-3_6-3
+WCT_Challenge_Cup,2,1979,12,09,3,Borg_Bjorn,Gildemeister_Hans,Gullikson_Tim,WCT_Challenge_Cup,1979,12,09,6-1_2-6_6-4
+WCT_Challenge_Cup,2,1979,12,09,3,Gullikson_Tim,Connors_Jimmy,Connors_Jimmy,WCT_Challenge_Cup,1979,12,09,4-6_7-6_6-2
+WCT_Challenge_Cup,2,1979,12,09,4,Borg_Bjorn,Kriek_Johan,Borg_Bjorn,WCT_Challenge_Cup,1979,12,09,6-2_6-2
+WCT_Challenge_Cup,2,1979,12,09,4,Gullikson_Tim,Connors_Jimmy,Kriek_Johan,WCT_Challenge_Cup,1979,12,09,6-2_7-6
+,WCT_Challenge_Cup,1979,12,09,6-1_2-6_6-4
+,WCT_Challenge_Cup,1979,12,09,7-5_6-3

@@ -1,0 +1,15 @@
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-1
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-3
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-3
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,1976,12,11,5-7_6-1_7-5
+Monte-Carlo_Rolex_Masters,1976,12,11,6-2_6-2
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-4
+Monte-Carlo_Rolex_Masters,1976,12,11,1-6_6-3_6-4
+Monte-Carlo_Rolex_Masters,1976,12,11,4-6_6-4_6-1
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-4
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,1976,12,11,6-4_6-2
+Monte-Carlo_Rolex_Masters,1976,12,11,5-7_7-6(6)_7-5
+Monte-Carlo_Rolex_Masters,1976,12,11,6-2_6-3
+Monte-Carlo_Rolex_Masters,1976,12,11,6-3_7-5_6-0

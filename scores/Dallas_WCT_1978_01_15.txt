@@ -1,0 +1,15 @@
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,
+Dallas_WCT,1978,01,15,4-6_6-2_6-1_6-0
+Dallas_WCT,1978,01,15,6-1_2-6_6-2_6-1
+Dallas_WCT,1978,01,15,6-3_6-3_6-0
+Dallas_WCT,1978,01,15,6-4_2-6_1-6_6-1_6-3
+Dallas_WCT,1978,01,15,W/O
+Dallas_WCT,1978,01,15,6-2_7-6_6-4
+Dallas_WCT,1978,01,15,6-3_6-2_6-1

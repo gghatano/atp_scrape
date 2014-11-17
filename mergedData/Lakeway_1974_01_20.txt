@@ -1,0 +1,13 @@
+Lakeway,2,1974,01,20,1,Richey_Cliff,Laver_Rod,Richey_Cliff,Lakeway,1974,01,20,0-6_7-5_6-2
+Lakeway,2,1974,01,20,1,Okker_Tom,Metreveli_Alex,Okker_Tom,Lakeway,1974,01,20,0-6_6-3_6-2
+Lakeway,2,1974,01,20,1,Riessen_Marty,Taylor_Roger,Riessen_Marty,Lakeway,1974,01,20,6-4_6-4
+Lakeway,2,1974,01,20,1,Ashe_Arthur,Drysdale_Cliff,Ashe_Arthur,Lakeway,1974,01,20,6-4_2-6_6-4
+Lakeway,2,1974,01,20,2,Richey_Cliff,Okker_Tom,Alexander_John,Lakeway,1974,01,20,6-4_7-6
+Lakeway,2,1974,01,20,2,Riessen_Marty,Ashe_Arthur,Tanner_Roscoe,Lakeway,1974,01,20,6-2_6-4
+Lakeway,2,1974,01,20,2,Alexander_John,Tanner_Roscoe,Richey_Cliff,Lakeway,1974,01,20,3-6_6-1_6-4
+Lakeway,2,1974,01,20,3,Richey_Cliff,Nastase_Ilie,Nastase_Ilie,Lakeway,1974,01,20,6-4_2-6_7-6
+Lakeway,2,1974,01,20,3,Riessen_Marty,Alexander_John,Riessen_Marty,Lakeway,1974,01,20,6-3_6-3
+Lakeway,2,1974,01,20,4,Richey_Cliff,Alexander_John,Alexander_John,Lakeway,1974,01,20,6-4_3-6_6-3
+,Lakeway,1974,01,20,6-1_6-1
+,Lakeway,1974,01,20,4-6_7-6_7-5
+,Lakeway,1974,01,20,7-6_6-1
