@@ -32,6 +32,8 @@ Australian Open,1,1970,02,01,1,Okker_Tom,Bye,Okker_Tom
   
   です. 
 
+  対戦者に入っている"Bye"は, シード勝ち上がりの相手です. 勝率計算の際は除いてください. 
+
 - network.md 
 
   勝敗関係をネットワークで可視化しました. 
