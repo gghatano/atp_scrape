@@ -12,7 +12,7 @@ Negev_Israel_Open,2,1996,03,31,1,Apell_Jan,Kulti_Nicklas,Apell_Jan,Negev_Israel_
 Negev_Israel_Open,2,1996,03,31,1,Fetterlein_Frederik,Prinosil_David,Prinosil_David,Negev_Israel_Open,1996,03,31,6-1_6-2
 Negev_Israel_Open,2,1996,03,31,1,Gustafsson_Magnus,Roux_Lionel,Gustafsson_Magnus,Negev_Israel_Open,1996,03,31,6-2_6-4
 Negev_Israel_Open,2,1996,03,31,1,Holm_Henrik,Jarryd_Anders,Jarryd_Anders,Negev_Israel_Open,1996,03,31,6-3_6-2
-Negev_Israel_Open,2,1996,03,31,1,Golmard_Jerome,Van_HerckJohan,Golmard_Jerome,Negev_Israel_Open,1996,03,31,4-6_6-3_6-4
+Negev_Israel_Open,2,1996,03,31,1,Golmard_Jerome,Van_Herck_Johan,Golmard_Jerome,Negev_Israel_Open,1996,03,31,4-6_6-3_6-4
 Negev_Israel_Open,2,1996,03,31,1,Chesnokov_Andrei,Vacek_Daniel,Vacek_Daniel,Negev_Israel_Open,1996,03,31,4-6_6-1_6-4
 Negev_Israel_Open,2,1996,03,31,2,Kafelnikov_Yevgeny,Norman_Dick,Kafelnikov_Yevgeny,Negev_Israel_Open,1996,03,31,4-6_6-3_6-4
 Negev_Israel_Open,2,1996,03,31,2,Kiefer_Nicolas,Tarango_Jeff,Tarango_Jeff,Negev_Israel_Open,1996,03,31,3-6_6-3_7-6(7)

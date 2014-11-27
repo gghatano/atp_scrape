@@ -2,9 +2,9 @@ Aegon_Championships,2,1988,06,12,1,Edberg_Stefan,Barr_Shane,Edberg_Stefan,Aegon_
 Aegon_Championships,2,1988,06,12,1,Shaw_Steve,Smith_Roger,Smith_Roger,Aegon_Championships,1988,06,12,3-6_6-2_6-4
 Aegon_Championships,2,1988,06,12,1,Bahrami_Mansour,Baur_Patrick,Baur_Patrick,Aegon_Championships,1988,06,12,2-6_6-0_3-0_RET
 Aegon_Championships,2,1988,06,12,1,Davis_Marty,Kriek_Johan,Kriek_Johan,Aegon_Championships,1988,06,12,5-7_6-2_6-3
-Aegon_Championships,2,1988,06,12,1,Van_RensburgChristo,Nelson_Todd,Van_RensburgChristo,Aegon_Championships,1988,06,12,7-6_7-5
+Aegon_Championships,2,1988,06,12,1,Van_Rensburg_Christo,Nelson_Todd,Van_Rensburg_Christo,Aegon_Championships,1988,06,12,7-6_7-5
 Aegon_Championships,2,1988,06,12,1,Pridham_Chris,Doohan_Peter,Pridham_Chris,Aegon_Championships,1988,06,12,6-2_6-3
-Aegon_Championships,2,1988,06,12,1,Giammalva_JrSammy,Stoltenberg_Jason,Stoltenberg_Jason,Aegon_Championships,1988,06,12,6-3_4-6_6-2
+Aegon_Championships,2,1988,06,12,1,Giammalva_Jr_Sammy,Stoltenberg_Jason,Stoltenberg_Jason,Aegon_Championships,1988,06,12,6-3_4-6_6-2
 Aegon_Championships,2,1988,06,12,1,Wilkison_Tim,Fitzgerald_John,Fitzgerald_John,Aegon_Championships,1988,06,12,6-3_6-2
 Aegon_Championships,2,1988,06,12,1,Connors_Jimmy,Purcell_Mel,Connors_Jimmy,Aegon_Championships,1988,06,12,6-3_6-4
 Aegon_Championships,2,1988,06,12,1,Anger_Matt,Seguso_Robert,Seguso_Robert,Aegon_Championships,1988,06,12,6-4_7-5
@@ -32,7 +32,7 @@ Aegon_Championships,2,1988,06,12,1,Frana_Javier,Reneberg_Richey,Frana_Javier,Aeg
 Aegon_Championships,2,1988,06,12,1,Aldrich_Pieter,Cash_Pat,Cash_Pat,Aegon_Championships,1988,06,12,6-0_6-1
 Aegon_Championships,2,1988,06,12,2,Edberg_Stefan,Smith_Roger,Edberg_Stefan,Aegon_Championships,1988,06,12,6-2_6-1
 Aegon_Championships,2,1988,06,12,2,Baur_Patrick,Kriek_Johan,Kriek_Johan,Aegon_Championships,1988,06,12,6-7_7-5_8-6
-Aegon_Championships,2,1988,06,12,2,Van_RensburgChristo,Pridham_Chris,Van_RensburgChristo,Aegon_Championships,1988,06,12,6-2_6-0
+Aegon_Championships,2,1988,06,12,2,Van_Rensburg_Christo,Pridham_Chris,Van_Rensburg_Christo,Aegon_Championships,1988,06,12,6-2_6-0
 Aegon_Championships,2,1988,06,12,2,Stoltenberg_Jason,Fitzgerald_John,Stoltenberg_Jason,Aegon_Championships,1988,06,12,7-6_7-5
 Aegon_Championships,2,1988,06,12,2,Connors_Jimmy,Seguso_Robert,Connors_Jimmy,Aegon_Championships,1988,06,12,6-3_6-7_10-8
 Aegon_Championships,2,1988,06,12,2,Visser_Danie,Forget_Guy,Forget_Guy,Aegon_Championships,1988,06,12,6-2_6-3
@@ -47,14 +47,14 @@ Aegon_Championships,2,1988,06,12,2,DeVries_Steve,Curren_Kevin,Curren_Kevin,Aegon
 Aegon_Championships,2,1988,06,12,2,Flach_Ken,Cahill_Darren,Cahill_Darren,Aegon_Championships,1988,06,12,2-6_7-5_6-3
 Aegon_Championships,2,1988,06,12,2,Frana_Javier,Cash_Pat,Cash_Pat,Aegon_Championships,1988,06,12,6-1_6-1
 Aegon_Championships,2,1988,06,12,3,Edberg_Stefan,Kriek_Johan,Edberg_Stefan,Aegon_Championships,1988,06,12,4-6_6-1_6-2
-Aegon_Championships,2,1988,06,12,3,Van_RensburgChristo,Stoltenberg_Jason,Van_RensburgChristo,Aegon_Championships,1988,06,12,6-1_6-2
+Aegon_Championships,2,1988,06,12,3,Van_Rensburg_Christo,Stoltenberg_Jason,Van_Rensburg_Christo,Aegon_Championships,1988,06,12,6-1_6-2
 Aegon_Championships,2,1988,06,12,3,Connors_Jimmy,Forget_Guy,Forget_Guy,Aegon_Championships,1988,06,12,6-4_7-6
 Aegon_Championships,2,1988,06,12,3,Krishnan_Ramesh,Dyke_Broderick,Dyke_Broderick,Aegon_Championships,1988,06,12,6-3_3-6_6-2
 Aegon_Championships,2,1988,06,12,3,Mansdorf_Amos,Jelen_Eric,Jelen_Eric,Aegon_Championships,1988,06,12,6-2_6-2
 Aegon_Championships,2,1988,06,12,3,Scanlon_Bill,Becker_Boris,Becker_Boris,Aegon_Championships,1988,06,12,6-3_6-4
 Aegon_Championships,2,1988,06,12,3,Pate_David,Curren_Kevin,Curren_Kevin,Aegon_Championships,1988,06,12,7-6_6-3
 Aegon_Championships,2,1988,06,12,3,Cahill_Darren,Cash_Pat,Cahill_Darren,Aegon_Championships,1988,06,12,7-6_6-4
-Aegon_Championships,2,1988,06,12,4,Edberg_Stefan,Van_RensburgChristo,Edberg_Stefan,Aegon_Championships,1988,06,12,7-5_5-7_6-4
+Aegon_Championships,2,1988,06,12,4,Edberg_Stefan,Van_Rensburg_Christo,Edberg_Stefan,Aegon_Championships,1988,06,12,7-5_5-7_6-4
 Aegon_Championships,2,1988,06,12,4,Forget_Guy,Dyke_Broderick,Forget_Guy,Aegon_Championships,1988,06,12,7-6_6-4
 Aegon_Championships,2,1988,06,12,4,Jelen_Eric,Becker_Boris,Becker_Boris,Aegon_Championships,1988,06,12,7-5_6-2
 Aegon_Championships,2,1988,06,12,4,Curren_Kevin,Cahill_Darren,Cahill_Darren,Aegon_Championships,1988,06,12,7-5_7-6

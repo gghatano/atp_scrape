@@ -11,7 +11,7 @@ Brisbane,2,1985,10,13,1,Evernden_Kelly,Dyke_Broderick,Evernden_Kelly,Brisbane,19
 Brisbane,2,1985,10,13,1,Cahill_Darren,Cain_Tom,Cahill_Darren,Brisbane,1985,10,13,6-4_2-6_6-3
 Brisbane,2,1985,10,13,1,Cassidy_Dan,Schultz_Bud,Schultz_Bud,Brisbane,1985,10,13,7-6_6-2
 Brisbane,2,1985,10,13,1,Teacher_Brian,Layendecker_Glenn,Layendecker_Glenn,Brisbane,1985,10,13,7-6_7-6
-Brisbane,2,1985,10,13,1,Nelson_Todd,Miller_CraigA,Nelson_Todd,Brisbane,1985,10,13,6-7_6-2_6-1
+Brisbane,2,1985,10,13,1,Nelson_Todd,Miller_Craig_A,Nelson_Todd,Brisbane,1985,10,13,6-7_6-2_6-1
 Brisbane,2,1985,10,13,1,Hogstedt_Thomas,Freeman_Marcel,Freeman_Marcel,Brisbane,1985,10,13,7-6_6-0
 Brisbane,2,1985,10,13,1,Macpherson_David,Testerman_Ben,Testerman_Ben,Brisbane,1985,10,13,6-4_6-4
 Brisbane,2,1985,10,13,2,Annacone_Paul,Carter_Peter,Annacone_Paul,Brisbane,1985,10,13,6-4_6-3

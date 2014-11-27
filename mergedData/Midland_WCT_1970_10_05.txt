@@ -1,5 +1,5 @@
 Midland_WCT,2,1970,10,05,1,Newcombe_John,Cox_Mark,Newcombe_John,Midland_WCT,1970,10,05,6-4_6-4
-Midland_WCT,2,1970,10,05,1,Stilwell_Graham,El_ShafeiIsmail,Stilwell_Graham,Midland_WCT,1970,10,05,6-3_5-7_6-2
+Midland_WCT,2,1970,10,05,1,Stilwell_Graham,El_Shafei_Ismail,Stilwell_Graham,Midland_WCT,1970,10,05,6-3_5-7_6-2
 Midland_WCT,2,1970,10,05,1,Okker_Tom,Davidson_Owen,Okker_Tom,Midland_WCT,1970,10,05,6-4_7-6
 Midland_WCT,2,1970,10,05,1,Taylor_Roger,Barthes_Pierre,Taylor_Roger,Midland_WCT,1970,10,05,7-6_6-3
 Midland_WCT,2,1970,10,05,2,Newcombe_John,Stilwell_Graham,Newcombe_John,Midland_WCT,1970,10,05,6-3_6-3

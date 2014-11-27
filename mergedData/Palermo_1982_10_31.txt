@@ -11,7 +11,7 @@ Palermo,2,1982,10,31,1,Panatta_Adriano,Avendano_Juan,Avendano_Juan,Palermo,1982,
 Palermo,2,1982,10,31,1,Pierola_Alejandro,LopezMaeso_Jose,LopezMaeso_Jose,Palermo,1982,10,31,5-7_7-5_7-5
 Palermo,2,1982,10,31,1,Tous_Alberto,Taroczy_Balazs,Taroczy_Balazs,Palermo,1982,10,31,6-4_6-4
 Palermo,2,1982,10,31,1,Arraya_Pablo,Allan_Trevor,Arraya_Pablo,Palermo,1982,10,31,6-4_6-3
-Palermo,2,1982,10,31,1,Damiani_JoseLuis,Rinaldini_Gianluca,Rinaldini_Gianluca,Palermo,1982,10,31,4-6_6-2_6-2
+Palermo,2,1982,10,31,1,Damiani_Jose_Luis,Rinaldini_Gianluca,Rinaldini_Gianluca,Palermo,1982,10,31,4-6_6-2_6-2
 Palermo,2,1982,10,31,1,Ocleppo_Gianni,Martinez_Mario,Martinez_Mario,Palermo,1982,10,31,2-6_7-6_6-3
 Palermo,2,1982,10,31,1,Ostoja_Marko,Gomez_Andres,Gomez_Andres,Palermo,1982,10,31,5-7_6-2_6-0
 Palermo,2,1982,10,31,2,Brown_Jimmy,Zugarelli_Antonio,Brown_Jimmy,Palermo,1982,10,31,6-3_6-4

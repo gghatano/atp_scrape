@@ -1,10 +1,10 @@
 Heineken_Open,2,1975,12,14,1,Parun_Onny,Bedel_Dominique,Parun_Onny,Heineken_Open,1975,12,14,7-6_7-5
 Heineken_Open,2,1975,12,14,1,Langsford_Peter,Elschenbroich_Harald,Elschenbroich_Harald,Heineken_Open,1975,12,14,4-6_6-4_6-1
 Heineken_Open,2,1975,12,14,1,Dibley_Colin,Cowley_Wayne,Dibley_Colin,Heineken_Open,1975,12,14,6-2_7-6
-Heineken_Open,2,1975,12,14,1,Simpson_Jeff,Carpenter_KeithA,Simpson_Jeff,Heineken_Open,1975,12,14,6-3_7-6
+Heineken_Open,2,1975,12,14,1,Simpson_Jeff,Carpenter_Keith_A,Simpson_Jeff,Heineken_Open,1975,12,14,6-3_7-6
 Heineken_Open,2,1975,12,14,1,Lloyd_John,Parun_Tony,Lloyd_John,Heineken_Open,1975,12,14,6-3_2-6_6-3
 Heineken_Open,2,1975,12,14,1,Crealy_Dick,Hagelauer_Patrice,Crealy_Dick,Heineken_Open,1975,12,14,7-6_6-3
-Heineken_Open,2,1975,12,14,1,Lewis_NZLChris,Zirngibl_Werner,Zirngibl_Werner,Heineken_Open,1975,12,14,6-4_6-4
+Heineken_Open,2,1975,12,14,1,Lewis_NZL_Chris,Zirngibl_Werner,Zirngibl_Werner,Heineken_Open,1975,12,14,6-4_6-4
 Heineken_Open,2,1975,12,14,1,Whittaker_A,Moore_Raymond,Moore_Raymond,Heineken_Open,1975,12,14,6-2_6-2
 Heineken_Open,2,1975,12,14,1,Fairlie_Brian,Marten_Ulrich,Fairlie_Brian,Heineken_Open,1975,12,14,6-3_6-4
 Heineken_Open,2,1975,12,14,1,Hawkes_Richard,Letcher_Cliff,Hawkes_Richard,Heineken_Open,1975,12,14,6-3_2-6_6-3

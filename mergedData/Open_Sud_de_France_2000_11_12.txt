@@ -1,6 +1,6 @@
 Open_Sud_de_France,2,2000,11,12,1,Kuerten_Gustavo,Pavel_Andrei,Kuerten_Gustavo,Open_Sud_de_France,2000,11,12,7-6(5)_6-4
 Open_Sud_de_France,2,2000,11,12,1,Costa_Albert,Llodra_Michael,Llodra_Michael,Open_Sud_de_France,2000,11,12,7-6(6)_1-6_6-3
-Open_Sud_de_France,2,2000,11,12,1,El_AynaouiYounes,Ilie_Andrew,El_AynaouiYounes,Open_Sud_de_France,2000,11,12,7-6(5)_7-6(4)
+Open_Sud_de_France,2,2000,11,12,1,El_Aynaoui_Younes,Ilie_Andrew,El_Aynaoui_Younes,Open_Sud_de_France,2000,11,12,7-6(5)_7-6(4)
 Open_Sud_de_France,2,2000,11,12,1,Gaudio_Gaston,Rafter_Patrick,Rafter_Patrick,Open_Sud_de_France,2000,11,12,6-4_4-6_6-4
 Open_Sud_de_France,2,2000,11,12,1,Enqvist_Thomas,Grosjean_Sebastien,Enqvist_Thomas,Open_Sud_de_France,2000,11,12,4-6_6-3_6-4
 Open_Sud_de_France,2,2000,11,12,1,Bachelot_JeanFrancois,Alami_Karim,Bachelot_JeanFrancois,Open_Sud_de_France,2000,11,12,5-7_7-6(1)_6-4
@@ -12,10 +12,10 @@ Open_Sud_de_France,2,2000,11,12,1,Puerta_Mariano,Chang_Michael,Puerta_Mariano,Op
 Open_Sud_de_France,2,2000,11,12,1,Sluiter_Raemon,Corretja_Alex,Sluiter_Raemon,Open_Sud_de_France,2000,11,12,6-4_7-6(2)
 Open_Sud_de_France,2,2000,11,12,1,Pioline_Cedric,Kucera_Karol,Kucera_Karol,Open_Sud_de_France,2000,11,12,6-4_7-6(5)
 Open_Sud_de_France,2,2000,11,12,1,Federer_Roger,Escude_Nicolas,Federer_Roger,Open_Sud_de_France,2000,11,12,6-3_7-6(3)
-Open_Sud_de_France,2,2000,11,12,1,Haas_Tommy,Di_PasqualeArnaud,Haas_Tommy,Open_Sud_de_France,2000,11,12,6-3_6-3
+Open_Sud_de_France,2,2000,11,12,1,Haas_Tommy,Di_Pasquale_Arnaud,Haas_Tommy,Open_Sud_de_France,2000,11,12,6-3_6-3
 Open_Sud_de_France,2,2000,11,12,1,Sargsian_Sargis,Agassi_Andre,Agassi_Andre,Open_Sud_de_France,2000,11,12,6-7(3)_6-1_6-4
 Open_Sud_de_France,2,2000,11,12,2,Kuerten_Gustavo,Llodra_Michael,Kuerten_Gustavo,Open_Sud_de_France,2000,11,12,7-5_7-6(4)
-Open_Sud_de_France,2,2000,11,12,2,El_AynaouiYounes,Rafter_Patrick,Rafter_Patrick,Open_Sud_de_France,2000,11,12,7-6(4)_6-2
+Open_Sud_de_France,2,2000,11,12,2,El_Aynaoui_Younes,Rafter_Patrick,Rafter_Patrick,Open_Sud_de_France,2000,11,12,7-6(4)_6-2
 Open_Sud_de_France,2,2000,11,12,2,Enqvist_Thomas,Bachelot_JeanFrancois,Enqvist_Thomas,Open_Sud_de_France,2000,11,12,6-3_6-7(3)_6-3
 Open_Sud_de_France,2,2000,11,12,2,Arazi_Hicham,Philippoussis_Mark,Arazi_Hicham,Open_Sud_de_France,2000,11,12,6-3_3-6_7-5
 Open_Sud_de_France,2,2000,11,12,2,Squillari_Franco,Clement_Arnaud,Clement_Arnaud,Open_Sud_de_France,2000,11,12,3-6_6-2_6-3

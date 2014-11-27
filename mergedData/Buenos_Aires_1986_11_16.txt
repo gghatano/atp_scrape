@@ -13,7 +13,7 @@ Buenos_Aires,2,1986,11,16,1,Ingaramo_Marcelo,Maciel_Francisco,Maciel_Francisco,B
 Buenos_Aires,2,1986,11,16,1,Kirmayr_Carlos,PerezRoldan_Guillermo,PerezRoldan_Guillermo,Buenos_Aires,1986,11,16,6-4_6-3
 Buenos_Aires,2,1986,11,16,1,Chapacu_Hugo,Acuna_Ricardo,Chapacu_Hugo,Buenos_Aires,1986,11,16,6-4_6-2
 Buenos_Aires,2,1986,11,16,1,Steeb_CarlUwe,Vajda_Marian,Steeb_CarlUwe,Buenos_Aires,1986,11,16,6-3_6-2
-Buenos_Aires,2,1986,11,16,1,Tiberti_Gustavo,De_LaPenaHoracio,De_LaPenaHoracio,Buenos_Aires,1986,11,16,7-6_7-5
+Buenos_Aires,2,1986,11,16,1,Tiberti_Gustavo,De_La_Pena_Horacio,De_La_Pena_Horacio,Buenos_Aires,1986,11,16,7-6_7-5
 Buenos_Aires,2,1986,11,16,2,Jaite_Martin,Davin_Franco,Davin_Franco,Buenos_Aires,1986,11,16,6-4_7-5
 Buenos_Aires,2,1986,11,16,2,Vacarezza_Gerardo,Ganzabal_Alejandro,Ganzabal_Alejandro,Buenos_Aires,1986,11,16,6-2_6-4
 Buenos_Aires,2,1986,11,16,2,Skoff_Horst,Arguello_Roberto,Arguello_Roberto,Buenos_Aires,1986,11,16,7-6_5-7_6-4
@@ -21,7 +21,7 @@ Buenos_Aires,2,1986,11,16,2,LopezMaeso_Jose,Kist_Cesar,LopezMaeso_Jose,Buenos_Ai
 Buenos_Aires,2,1986,11,16,2,Berger_Jay,Pistolesi_Claudio,Berger_Jay,Buenos_Aires,1986,11,16,2-6_6-2_6-4
 Buenos_Aires,2,1986,11,16,2,Frana_Javier,Maciel_Francisco,Maciel_Francisco,Buenos_Aires,1986,11,16,6-4_3-6_6-1
 Buenos_Aires,2,1986,11,16,2,PerezRoldan_Guillermo,Chapacu_Hugo,PerezRoldan_Guillermo,Buenos_Aires,1986,11,16,3-6_6-0_6-0
-Buenos_Aires,2,1986,11,16,2,Steeb_CarlUwe,De_LaPenaHoracio,Steeb_CarlUwe,Buenos_Aires,1986,11,16,6-3_6-4
+Buenos_Aires,2,1986,11,16,2,Steeb_CarlUwe,De_La_Pena_Horacio,Steeb_CarlUwe,Buenos_Aires,1986,11,16,6-3_6-4
 Buenos_Aires,2,1986,11,16,3,Davin_Franco,Ganzabal_Alejandro,Davin_Franco,Buenos_Aires,1986,11,16,6-3_7-5
 Buenos_Aires,2,1986,11,16,3,Arguello_Roberto,LopezMaeso_Jose,Arguello_Roberto,Buenos_Aires,1986,11,16,6-0_6-4
 Buenos_Aires,2,1986,11,16,3,Berger_Jay,Maciel_Francisco,Berger_Jay,Buenos_Aires,1986,11,16,6-4_3-6_7-5

@@ -10,7 +10,7 @@ Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Volandri_Filippo,Tuksar_Sasa,Volandri_Fi
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Hernandez_Oscar,GarciaLopez_Guillermo,GarciaLopez_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,6-2_6-2
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Norman_Dick,Tipsarevic_Janko,Tipsarevic_Janko,Vegeta_Croatia_Open_Umag,2005,07,31,6-0_6-0
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Kuerten_Gustavo,Robredo_Tommy,Robredo_Tommy,Vegeta_Croatia_Open_Umag,2005,07,31,6-4_6-4
-Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Ferrero_JuanCarlos,Nieminen_Jarkko,Ferrero_JuanCarlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-0_3-1_RET
+Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Ferrero_Juan_Carlos,Nieminen_Jarkko,Ferrero_Juan_Carlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-0_3-1_RET
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Calatrava_Alex,Djokovic_Novak,Djokovic_Novak,Vegeta_Croatia_Open_Umag,2005,07,31,6-1_6-4
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Mackin_Alan,Mantilla_Felix,Mantilla_Felix,Vegeta_Croatia_Open_Umag,2005,07,31,6-2_6-1
 Vegeta_Croatia_Open_Umag,2,2005,07,31,1,Krajan_Zeljko,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,5-7_6-3_6-4
@@ -20,12 +20,12 @@ Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Ferrer_David,Vicente_Fernando,Ferrer_Dav
 Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Vliegen_Kristof,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Volandri_Filippo,GarciaLopez_Guillermo,Volandri_Filippo,Vegeta_Croatia_Open_Umag,2005,07,31,6-1_6-1
 Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Tipsarevic_Janko,Robredo_Tommy,Robredo_Tommy,Vegeta_Croatia_Open_Umag,2005,07,31,6-3_6-1
-Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Ferrero_JuanCarlos,Djokovic_Novak,Ferrero_JuanCarlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-4_6-2
+Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Ferrero_Juan_Carlos,Djokovic_Novak,Ferrero_Juan_Carlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-4_6-2
 Vegeta_Croatia_Open_Umag,2,2005,07,31,2,Mantilla_Felix,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,3-6_6-2_6-1
 Vegeta_Croatia_Open_Umag,2,2005,07,31,3,Dlouhy_Lukas,Novak_Jiri,Novak_Jiri,Vegeta_Croatia_Open_Umag,2005,07,31,6-0_6-3
 Vegeta_Croatia_Open_Umag,2,2005,07,31,3,Ferrer_David,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-4_0-6_6-3
 Vegeta_Croatia_Open_Umag,2,2005,07,31,3,Volandri_Filippo,Robredo_Tommy,Volandri_Filippo,Vegeta_Croatia_Open_Umag,2005,07,31,3-6_6-3_6-3
-Vegeta_Croatia_Open_Umag,2,2005,07,31,3,Ferrero_JuanCarlos,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,6-3_6-0
+Vegeta_Croatia_Open_Umag,2,2005,07,31,3,Ferrero_Juan_Carlos,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,6-3_6-0
 Vegeta_Croatia_Open_Umag,2,2005,07,31,4,Novak_Jiri,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2005,07,31,6-4_6-4
 Vegeta_Croatia_Open_Umag,2,2005,07,31,4,Volandri_Filippo,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,4-6_6-3_6-2
 Vegeta_Croatia_Open_Umag,2,2005,07,31,5,Moya_Carlos,Coria_Guillermo,Coria_Guillermo,Vegeta_Croatia_Open_Umag,2005,07,31,6-2_4-6_6-2

@@ -1,4 +1,4 @@
-Portugal_Open,2,2003,04,13,1,Novak_Jiri,van_LottumJohn,van_LottumJohn,Portugal_Open,2003,04,13,6-7(5)_6-4_7-5
+Portugal_Open,2,2003,04,13,1,Novak_Jiri,van_Lottum_John,van_Lottum_John,Portugal_Open,2003,04,13,6-7(5)_6-4_7-5
 Portugal_Open,2,2003,04,13,1,Verdasco_Fernando,Blanco_Galo,Blanco_Galo,Portugal_Open,2003,04,13,7-6(3)_1-6_6-4
 Portugal_Open,2,2003,04,13,1,Levy_Harel,Verkerk_Martin,Levy_Harel,Portugal_Open,2003,04,13,6-3_7-6(4)
 Portugal_Open,2,2003,04,13,1,Gaudenzi_Andrea,Robredo_Tommy,Robredo_Tommy,Portugal_Open,2003,04,13,6-3_6-1
@@ -14,7 +14,7 @@ Portugal_Open,2,2003,04,13,1,Mirnyi_Max,Martin_Alberto,Mirnyi_Max,Portugal_Open,
 Portugal_Open,2,2003,04,13,1,Hanescu_Victor,Rochus_Christophe,Hanescu_Victor,Portugal_Open,2003,04,13,6-3_6-2
 Portugal_Open,2,2003,04,13,1,Sluiter_Raemon,Mota_Bernardo,Mota_Bernardo,Portugal_Open,2003,04,13,7-6(1)_3-6_7-6(3)
 Portugal_Open,2,2003,04,13,1,Lopez_Feliciano,Schuettler_Rainer,Lopez_Feliciano,Portugal_Open,2003,04,13,6-1_4-6_7-5
-Portugal_Open,2,2003,04,13,2,van_LottumJohn,Blanco_Galo,Blanco_Galo,Portugal_Open,2003,04,13,6-1_6-3
+Portugal_Open,2,2003,04,13,2,van_Lottum_John,Blanco_Galo,Blanco_Galo,Portugal_Open,2003,04,13,6-1_6-3
 Portugal_Open,2,2003,04,13,2,Levy_Harel,Robredo_Tommy,Robredo_Tommy,Portugal_Open,2003,04,13,6-3_6-1
 Portugal_Open,2,2003,04,13,2,Gonzalez_Fernando,Acasuso_Jose,Gonzalez_Fernando,Portugal_Open,2003,04,13,6-1_6-3
 Portugal_Open,2,2003,04,13,2,Calleri_Agustin,Nieminen_Jarkko,Calleri_Agustin,Portugal_Open,2003,04,13,6-3_6-4

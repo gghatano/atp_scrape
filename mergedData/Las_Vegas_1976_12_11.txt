@@ -1,4 +1,4 @@
-Las_Vegas,2,1976,12,11,1,Connors_Jimmy,Bengtson_OveNils,Connors_Jimmy,Las_Vegas,1976,12,11,6-2_5-7_6-2
+Las_Vegas,2,1976,12,11,1,Connors_Jimmy,Bengtson_Ove_Nils,Connors_Jimmy,Las_Vegas,1976,12,11,6-2_5-7_6-2
 Las_Vegas,2,1976,12,11,1,Gullikson_Tom,Amritraj_Vijay,Gullikson_Tom,Las_Vegas,1976,12,11,6-4_7-6
 Las_Vegas,2,1976,12,11,1,Drysdale_Cliff,Parun_Onny,Drysdale_Cliff,Las_Vegas,1976,12,11,6-3_2-6_6-3
 Las_Vegas,2,1976,12,11,1,Mitton_Bernard,Smith_Stan,Smith_Stan,Las_Vegas,1976,12,11,4-6_6-3_6-1
@@ -8,7 +8,7 @@ Las_Vegas,2,1976,12,11,1,Dent_Phil,Hewitt_Bob,Hewitt_Bob,Las_Vegas,1976,12,11,2-
 Las_Vegas,2,1976,12,11,1,Edmondson_Mark,Tanner_Roscoe,Edmondson_Mark,Las_Vegas,1976,12,11,4-6_6-4_6-3
 Las_Vegas,2,1976,12,11,1,Ramirez_Raul,Borowiak_Jeff,Ramirez_Raul,Las_Vegas,1976,12,11,6-4_6-1
 Las_Vegas,2,1976,12,11,1,Teacher_Brian,Fairlie_Brian,Teacher_Brian,Las_Vegas,1976,12,11,6-3_6-3
-Las_Vegas,2,1976,12,11,1,Fillol_SrJaime,Masters_Geoff,Fillol_SrJaime,Las_Vegas,1976,12,11,6-3_7-6
+Las_Vegas,2,1976,12,11,1,Fillol_Sr_Jaime,Masters_Geoff,Fillol_Sr_Jaime,Las_Vegas,1976,12,11,6-3_7-6
 Las_Vegas,2,1976,12,11,1,Martin_Billy,Lutz_Robert,Lutz_Robert,Las_Vegas,1976,12,11,6-1_6-3
 Las_Vegas,2,1976,12,11,1,Cox_Mark,Laver_Rod,Laver_Rod,Las_Vegas,1976,12,11,6-2_6-3
 Las_Vegas,2,1976,12,11,1,Dibley_Colin,Richey_Cliff,Dibley_Colin,Las_Vegas,1976,12,11,6-3_2-6_6-4
@@ -19,12 +19,12 @@ Las_Vegas,2,1976,12,11,2,Drysdale_Cliff,Smith_Stan,Smith_Stan,Las_Vegas,1976,12,
 Las_Vegas,2,1976,12,11,2,Rosewall_Ken,Alexander_John,Alexander_John,Las_Vegas,1976,12,11,3-6_7-5_6-3
 Las_Vegas,2,1976,12,11,2,Hewitt_Bob,Edmondson_Mark,Hewitt_Bob,Las_Vegas,1976,12,11,6-4_6-1
 Las_Vegas,2,1976,12,11,2,Ramirez_Raul,Teacher_Brian,Ramirez_Raul,Las_Vegas,1976,12,11,6-7_7-6_6-3
-Las_Vegas,2,1976,12,11,2,Fillol_SrJaime,Lutz_Robert,Fillol_SrJaime,Las_Vegas,1976,12,11,7-6_6-1
+Las_Vegas,2,1976,12,11,2,Fillol_Sr_Jaime,Lutz_Robert,Fillol_Sr_Jaime,Las_Vegas,1976,12,11,7-6_6-1
 Las_Vegas,2,1976,12,11,2,Laver_Rod,Dibley_Colin,Dibley_Colin,Las_Vegas,1976,12,11,6-4_3-6_6-2
 Las_Vegas,2,1976,12,11,2,Scanlon_Bill,Riessen_Marty,Riessen_Marty,Las_Vegas,1976,12,11,7-6_7-6
 Las_Vegas,2,1976,12,11,3,Connors_Jimmy,Smith_Stan,Connors_Jimmy,Las_Vegas,1976,12,11,6-1_6-3
 Las_Vegas,2,1976,12,11,3,Alexander_John,Hewitt_Bob,Hewitt_Bob,Las_Vegas,1976,12,11,6-4_6-7_6-2
-Las_Vegas,2,1976,12,11,3,Ramirez_Raul,Fillol_SrJaime,Ramirez_Raul,Las_Vegas,1976,12,11,6-4_6-2
+Las_Vegas,2,1976,12,11,3,Ramirez_Raul,Fillol_Sr_Jaime,Ramirez_Raul,Las_Vegas,1976,12,11,6-4_6-2
 Las_Vegas,2,1976,12,11,3,Dibley_Colin,Riessen_Marty,Dibley_Colin,Las_Vegas,1976,12,11,6-2_4-6_7-6
 Las_Vegas,2,1976,12,11,4,Connors_Jimmy,Hewitt_Bob,Connors_Jimmy,Las_Vegas,1976,12,11,6-3_7-5
 Las_Vegas,2,1976,12,11,4,Ramirez_Raul,Dibley_Colin,Ramirez_Raul,Las_Vegas,1976,12,11,6-4_7-6

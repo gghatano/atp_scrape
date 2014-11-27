@@ -8,7 +8,7 @@ Houston,2,1985,03,02,1,Gunnarsson_Jan,Kuharszky_Zoltan,Gunnarsson_Jan,Houston,19
 Houston,2,1985,03,02,1,Fleming_Peter,Holmes_Greg,Fleming_Peter,Houston,1985,03,02,6-2_6-1
 Houston,2,1985,03,02,1,Krishnan_Ramesh,Perkiss_Shahar,Perkiss_Shahar,Houston,1985,03,02,6-4_3-6_6-2
 Houston,2,1985,03,02,1,Moor_Terry,Kohlberg_Andy,Moor_Terry,Houston,1985,03,02,3-6_6-1_6-2
-Houston,2,1985,03,02,1,Dickson_Mark,Giammalva_JrSammy,Dickson_Mark,Houston,1985,03,02,6-3_6-2
+Houston,2,1985,03,02,1,Dickson_Mark,Giammalva_Jr_Sammy,Dickson_Mark,Houston,1985,03,02,6-3_6-2
 Houston,2,1985,03,02,1,Cassidy_Dan,Arias_Jimmy,Arias_Jimmy,Houston,1985,03,02,6-3_6-4
 Houston,2,1985,03,02,1,Mayotte_Tim,Sadri_John,Mayotte_Tim,Houston,1985,03,02,6-3_6-4
 Houston,2,1985,03,02,1,Westphal_Michael,Bauer_Mike,Bauer_Mike,Houston,1985,03,02,6-4_7-5

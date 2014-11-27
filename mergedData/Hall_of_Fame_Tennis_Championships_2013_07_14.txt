@@ -5,7 +5,7 @@ Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Bossel_Adrien,Ram_Rajeev,Ram_Ra
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Sijsling_Igor,Viola_Matteo,Sijsling_Igor,Hall_of_Fame_Tennis_Championships,2013,07,14,6-4_6-1
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Levine_Jesse,Sugita_Yuichi,Sugita_Yuichi,Hall_of_Fame_Tennis_Championships,2013,07,14,7-5_7-5
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Russell_Michael,Marchenko_Illya,Russell_Michael,Hall_of_Fame_Tennis_Championships,2013,07,14,6-1_4-6_6-4
-Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Kuznetsov_Alex,De_SchepperKenny,Kuznetsov_Alex,Hall_of_Fame_Tennis_Championships,2013,07,14,6-3_6-4
+Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Kuznetsov_Alex,De_Schepper_Kenny,Kuznetsov_Alex,Hall_of_Fame_Tennis_Championships,2013,07,14,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Matosevic_Marinko,Sock_Jack,Sock_Jack,Hall_of_Fame_Tennis_Championships,2013,07,14,6-2_RET
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Hernych_Jan,Pavic_Ante,Hernych_Jan,Hall_of_Fame_Tennis_Championships,2013,07,14,7-6(6)_6-3
 Hall_of_Fame_Tennis_Championships,2,2013,07,14,1,Amritraj_Prakash,Cipolla_Flavio,Amritraj_Prakash,Hall_of_Fame_Tennis_Championships,2013,07,14,6-2_6-3

@@ -11,8 +11,8 @@ Open_13,2,1999,02,07,1,Pozzi_Gianluca,Roux_Lionel,Pozzi_Gianluca,Open_13,1999,02
 Open_13,2,1999,02,07,1,Prinosil_David,Carlsen_Kenneth,Carlsen_Kenneth,Open_13,1999,02,07,7-6(4)_4-6_6-3
 Open_13,2,1999,02,07,1,Saulnier_Cyril,Rosset_Marc,Rosset_Marc,Open_13,1999,02,07,6-2_3-6_6-1
 Open_13,2,1999,02,07,1,Vacek_Daniel,Santoro_Fabrice,Santoro_Fabrice,Open_13,1999,02,07,6-2_6-3
-Open_13,2,1999,02,07,1,Gimelstob_Justin,Di_PasqualeArnaud,Di_PasqualeArnaud,Open_13,1999,02,07,4-6_6-1_6-4
-Open_13,2,1999,02,07,1,Marin_JuanAntonio,Hrbaty_Dominik,Hrbaty_Dominik,Open_13,1999,02,07,6-2_6-1
+Open_13,2,1999,02,07,1,Gimelstob_Justin,Di_Pasquale_Arnaud,Di_Pasquale_Arnaud,Open_13,1999,02,07,4-6_6-1_6-4
+Open_13,2,1999,02,07,1,Marin_Juan_Antonio,Hrbaty_Dominik,Hrbaty_Dominik,Open_13,1999,02,07,6-2_6-1
 Open_13,2,1999,02,07,1,Schalken_Sjeng,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Open_13,1999,02,07,6-3_6-2
 Open_13,2,1999,02,07,2,Federer_Roger,Golmard_Jerome,Federer_Roger,Open_13,1999,02,07,6-7(6)_7-6(5)_7-6(5)
 Open_13,2,1999,02,07,2,Clement_Arnaud,Boutter_Julien,Clement_Arnaud,Open_13,1999,02,07,6-2_6-3
@@ -20,7 +20,7 @@ Open_13,2,1999,02,07,2,Pioline_Cedric,Medvedev_Andrei,Pioline_Cedric,Open_13,199
 Open_13,2,1999,02,07,2,Pavel_Andrei,Escude_Nicolas,Escude_Nicolas,Open_13,1999,02,07,0-6_7-6(2)_7-5
 Open_13,2,1999,02,07,2,Raoux_Guillaume,Pozzi_Gianluca,Pozzi_Gianluca,Open_13,1999,02,07,4-6_6-4_6-4
 Open_13,2,1999,02,07,2,Carlsen_Kenneth,Rosset_Marc,Rosset_Marc,Open_13,1999,02,07,6-3_6-2
-Open_13,2,1999,02,07,2,Santoro_Fabrice,Di_PasqualeArnaud,Santoro_Fabrice,Open_13,1999,02,07,6-1_6-3
+Open_13,2,1999,02,07,2,Santoro_Fabrice,Di_Pasquale_Arnaud,Santoro_Fabrice,Open_13,1999,02,07,6-1_6-3
 Open_13,2,1999,02,07,2,Hrbaty_Dominik,Kafelnikov_Yevgeny,Hrbaty_Dominik,Open_13,1999,02,07,6-7(4)_6-4_6-2
 Open_13,2,1999,02,07,3,Federer_Roger,Clement_Arnaud,Clement_Arnaud,Open_13,1999,02,07,6-3_6-3
 Open_13,2,1999,02,07,3,Pioline_Cedric,Escude_Nicolas,Pioline_Cedric,Open_13,1999,02,07,7-6(7)_7-6(5)

@@ -12,8 +12,8 @@ Las_Vegas,2,1975,04,29,1,Gottfried_Brian,Case_Ross,Case_Ross,Las_Vegas,1975,04,2
 Las_Vegas,2,1975,04,29,1,Amritraj_Anand,Riessen_Marty,Riessen_Marty,Las_Vegas,1975,04,29,6-3_7-6
 Las_Vegas,2,1975,04,29,1,Alexander_John,Pasarell_Charlie,Alexander_John,Las_Vegas,1975,04,29,6-3_7-5
 Las_Vegas,2,1975,04,29,1,Dent_Phil,Ramirez_Raul,Dent_Phil,Las_Vegas,1975,04,29,6-3_3-6_6-3
-Las_Vegas,2,1975,04,29,1,Fillol_SrJaime,Gorman_Tom,Fillol_SrJaime,Las_Vegas,1975,04,29,6-4_7-5
-Las_Vegas,2,1975,04,29,1,Van_DillenErik,Laver_Rod,Laver_Rod,Las_Vegas,1975,04,29,6-7_6-0_6-4
+Las_Vegas,2,1975,04,29,1,Fillol_Sr_Jaime,Gorman_Tom,Fillol_Sr_Jaime,Las_Vegas,1975,04,29,6-4_7-5
+Las_Vegas,2,1975,04,29,1,Van_Dillen_Erik,Laver_Rod,Laver_Rod,Las_Vegas,1975,04,29,6-7_6-0_6-4
 Las_Vegas,2,1975,04,29,2,Newcombe_John,Lutz_Robert,Lutz_Robert,Las_Vegas,1975,04,29,6-4_7-6
 Las_Vegas,2,1975,04,29,2,Solomon_Harold,Tanner_Roscoe,Tanner_Roscoe,Las_Vegas,1975,04,29,6-3_6-2
 Las_Vegas,2,1975,04,29,2,Smith_Stan,Amritraj_Vijay,Amritraj_Vijay,Las_Vegas,1975,04,29,6-3_6-4
@@ -21,11 +21,11 @@ Las_Vegas,2,1975,04,29,2,Dibbs_Eddie,Rosewall_Ken,Rosewall_Ken,Las_Vegas,1975,04
 Las_Vegas,2,1975,04,29,2,Stone_Allan,Richey_Cliff,Richey_Cliff,Las_Vegas,1975,04,29,6-2_6-2
 Las_Vegas,2,1975,04,29,2,Case_Ross,Riessen_Marty,Case_Ross,Las_Vegas,1975,04,29,2-6_6-1_7-5
 Las_Vegas,2,1975,04,29,2,Alexander_John,Dent_Phil,Alexander_John,Las_Vegas,1975,04,29,6-0_6-3
-Las_Vegas,2,1975,04,29,2,Fillol_SrJaime,Laver_Rod,Fillol_SrJaime,Las_Vegas,1975,04,29,6-3_7-6
+Las_Vegas,2,1975,04,29,2,Fillol_Sr_Jaime,Laver_Rod,Fillol_Sr_Jaime,Las_Vegas,1975,04,29,6-3_7-6
 Las_Vegas,2,1975,04,29,3,Lutz_Robert,Tanner_Roscoe,Tanner_Roscoe,Las_Vegas,1975,04,29,6-3_6-2
 Las_Vegas,2,1975,04,29,3,Amritraj_Vijay,Rosewall_Ken,Rosewall_Ken,Las_Vegas,1975,04,29,6-2_6-3
 Las_Vegas,2,1975,04,29,3,Richey_Cliff,Case_Ross,Case_Ross,Las_Vegas,1975,04,29,6-3_1-6_7-6
-Las_Vegas,2,1975,04,29,3,Alexander_John,Fillol_SrJaime,Alexander_John,Las_Vegas,1975,04,29,6-3_7-6
+Las_Vegas,2,1975,04,29,3,Alexander_John,Fillol_Sr_Jaime,Alexander_John,Las_Vegas,1975,04,29,6-3_7-6
 Las_Vegas,2,1975,04,29,4,Tanner_Roscoe,Rosewall_Ken,Tanner_Roscoe,Las_Vegas,1975,04,29,6-2_7-6
 Las_Vegas,2,1975,04,29,4,Case_Ross,Alexander_John,Case_Ross,Las_Vegas,1975,04,29,6-3_6-3
 Las_Vegas,2,1975,04,29,5,Tanner_Roscoe,Case_Ross,Tanner_Roscoe,Las_Vegas,1975,04,29,5-7_7-5_7-6

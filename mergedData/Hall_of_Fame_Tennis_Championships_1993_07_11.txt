@@ -8,7 +8,7 @@ Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Saceanu_Christian,Baur_Patrick,
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Borwick_Neil,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1993,07,11,6-7(9)_6-3_7-6(3)
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Black_Byron,Thorne_Kenny,Black_Byron,Hall_of_Fame_Tennis_Championships,1993,07,11,6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,MacPhie_Brian,Doyle_Grant,MacPhie_Brian,Hall_of_Fame_Tennis_Championships,1993,07,11,4-6_7-5_6-4
-Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Jensen_Luke,Van_RensburgChristo,Van_RensburgChristo,Hall_of_Fame_Tennis_Championships,1993,07,11,7-6(4)_6-3
+Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Jensen_Luke,Van_Rensburg_Christo,Van_Rensburg_Christo,Hall_of_Fame_Tennis_Championships,1993,07,11,7-6(4)_6-3
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Schmidt_Richard,Frana_Javier,Frana_Javier,Hall_of_Fame_Tennis_Championships,1993,07,11,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Pereira_Nicolas,Stolle_Sandon,Stolle_Sandon,Hall_of_Fame_Tennis_Championships,1993,07,11,6-2_6-3
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,1,Groen_Sander,Thoms_Arne,Thoms_Arne,Hall_of_Fame_Tennis_Championships,1993,07,11,6-4_6-3
@@ -19,7 +19,7 @@ Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Rusedski_Greg,Tieleman_Laurence
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Stafford_Grant,Rafter_Patrick,Stafford_Grant,Hall_of_Fame_Tennis_Championships,1993,07,11,6-2_6-3
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Baur_Patrick,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1993,07,11,6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Black_Byron,MacPhie_Brian,MacPhie_Brian,Hall_of_Fame_Tennis_Championships,1993,07,11,6-3_7-6(4)
-Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Van_RensburgChristo,Frana_Javier,Frana_Javier,Hall_of_Fame_Tennis_Championships,1993,07,11,6-4_6-1
+Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Van_Rensburg_Christo,Frana_Javier,Frana_Javier,Hall_of_Fame_Tennis_Championships,1993,07,11,6-4_6-1
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Stolle_Sandon,Thoms_Arne,Thoms_Arne,Hall_of_Fame_Tennis_Championships,1993,07,11,7-6(7)_5-7_6-3
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,2,Witt_David,Herrera_Luis,Herrera_Luis,Hall_of_Fame_Tennis_Championships,1993,07,11,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1993,07,11,3,Matsuoka_Shuzo,Rusedski_Greg,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,1993,07,11,6-7(1)_6-4_6-4

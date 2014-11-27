@@ -11,7 +11,7 @@ Oslo,2,1974,11,24,1,LoyoMayo_Joaquin,Zugarelli_Antonio,LoyoMayo_Joaquin,Oslo,197
 Oslo,2,1974,11,24,1,Andersson_Birger,Stilwell_Graham,Andersson_Birger,Oslo,1974,11,24,6-2_3-6_7-6
 Oslo,2,1974,11,24,1,Stenninger_Erik,Gerken_Paul,Gerken_Paul,Oslo,1974,11,24,6-3_6-3
 Oslo,2,1974,11,24,1,Rahim_Haroon,Svensson_Tenny,Rahim_Haroon,Oslo,1974,11,24,6-7_6-4_6-3
-Oslo,2,1974,11,24,1,Elvstrom_Lars,Bengtson_OveNils,Bengtson_OveNils,Oslo,1974,11,24,6-3_6-1
+Oslo,2,1974,11,24,1,Elvstrom_Lars,Bengtson_Ove_Nils,Bengtson_Ove_Nils,Oslo,1974,11,24,6-3_6-1
 Oslo,2,1974,11,24,1,Norberg_Rolf,Fibak_Wojtek,Fibak_Wojtek,Oslo,1974,11,24,6-3_6-3
 Oslo,2,1974,11,24,1,Cruz_Sergio,Borowiak_Jeff,Borowiak_Jeff,Oslo,1974,11,24,7-5_6-3
 Oslo,2,1974,11,24,2,Hewitt_Bob,Hegna_Per,Hewitt_Bob,Oslo,1974,11,24,6-3_6-2
@@ -20,7 +20,7 @@ Oslo,2,1974,11,24,2,Meiler_Karl,Battrick_Gerald,Meiler_Karl,Oslo,1974,11,24,6-1_
 Oslo,2,1974,11,24,2,Gerulaitis_Vitas,Palm_Douglas,Gerulaitis_Vitas,Oslo,1974,11,24,6-0_6-3
 Oslo,2,1974,11,24,2,Lundquist_JanEric,LoyoMayo_Joaquin,LoyoMayo_Joaquin,Oslo,1974,11,24,6-4_4-6_6-3
 Oslo,2,1974,11,24,2,Andersson_Birger,Gerken_Paul,Gerken_Paul,Oslo,1974,11,24,4-6_7-6_7-6
-Oslo,2,1974,11,24,2,Rahim_Haroon,Bengtson_OveNils,Rahim_Haroon,Oslo,1974,11,24,7-6_6-7_6-3
+Oslo,2,1974,11,24,2,Rahim_Haroon,Bengtson_Ove_Nils,Rahim_Haroon,Oslo,1974,11,24,7-6_6-7_6-3
 Oslo,2,1974,11,24,2,Fibak_Wojtek,Borowiak_Jeff,Borowiak_Jeff,Oslo,1974,11,24,6-3_7-6
 Oslo,2,1974,11,24,3,Hewitt_Bob,Kary_Hans,Hewitt_Bob,Oslo,1974,11,24,7-6_6-1
 Oslo,2,1974,11,24,3,Meiler_Karl,Gerulaitis_Vitas,Meiler_Karl,Oslo,1974,11,24,7-6_4-6_6-3

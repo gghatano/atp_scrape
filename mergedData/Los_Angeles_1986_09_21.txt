@@ -1,4 +1,4 @@
-Los_Angeles,2,1986,09,21,1,Edberg_Stefan,Giammalva_JrSammy,Edberg_Stefan,Los_Angeles,1986,09,21,7-5_4-6_6-3
+Los_Angeles,2,1986,09,21,1,Edberg_Stefan,Giammalva_Jr_Sammy,Edberg_Stefan,Los_Angeles,1986,09,21,7-5_4-6_6-3
 Los_Angeles,2,1986,09,21,1,Davis_Marty,Dyke_Broderick,Dyke_Broderick,Los_Angeles,1986,09,21,6-7_6-1_7-6
 Los_Angeles,2,1986,09,21,1,Rostagno_Derrick,Davis_Scott,Rostagno_Derrick,Los_Angeles,1986,09,21,6-3_6-3
 Los_Angeles,2,1986,09,21,1,Pugh_Jim,Krickstein_Aaron,Krickstein_Aaron,Los_Angeles,1986,09,21,6-3_7-5

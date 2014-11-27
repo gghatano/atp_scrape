@@ -3,14 +3,14 @@ Toulouse,2,1996,10,20,1,Roux_Lionel,Gaudenzi_Andrea,Roux_Lionel,Toulouse,1996,10
 Toulouse,2,1996,10,20,1,OBrien_Alex,Stanoytchev_Orlin,Stanoytchev_Orlin,Toulouse,1996,10,20,6-2_4-6_7-6(5)
 Toulouse,2,1996,10,20,1,Mutis_Olivier,Guardiola_Thierry,Guardiola_Thierry,Toulouse,1996,10,20,6-1_4-6_6-4
 Toulouse,2,1996,10,20,1,Boetsch_Arnaud,Karbacher_Bernd,Karbacher_Bernd,Toulouse,1996,10,20,2-6_6-2_6-3
-Toulouse,2,1996,10,20,1,Dewulf_Filip,Benfele_AlvarezEmilio,Dewulf_Filip,Toulouse,1996,10,20,3-6_6-4_6-3
+Toulouse,2,1996,10,20,1,Dewulf_Filip,Benfele_Alvarez_Emilio,Dewulf_Filip,Toulouse,1996,10,20,3-6_6-4_6-3
 Toulouse,2,1996,10,20,1,Larsson_Magnus,Champion_Thierry,Larsson_Magnus,Toulouse,1996,10,20,6-1_6-0
-Toulouse,2,1996,10,20,1,VilocaPuig_JuanAlbert,Rosset_Marc,Rosset_Marc,Toulouse,1996,10,20,6-2_6-2
+Toulouse,2,1996,10,20,1,VilocaPuig_Juan_Albert,Rosset_Marc,Rosset_Marc,Toulouse,1996,10,20,6-2_6-2
 Toulouse,2,1996,10,20,1,Haarhuis_Paul,Eltingh_Jacco,Eltingh_Jacco,Toulouse,1996,10,20,4-6_6-3_6-3
 Toulouse,2,1996,10,20,1,Arazi_Hicham,Burillo_Jordi,Arazi_Hicham,Toulouse,1996,10,20,6-3_6-4
 Toulouse,2,1996,10,20,1,Forget_Guy,Raoux_Guillaume,Raoux_Guillaume,Toulouse,1996,10,20,7-6(6)_3-6_6-1
 Toulouse,2,1996,10,20,1,Santoro_Fabrice,Philippoussis_Mark,Philippoussis_Mark,Toulouse,1996,10,20,6-3_3-6_7-6(1)
-Toulouse,2,1996,10,20,1,Woodforde_Mark,El_AynaouiYounes,Woodforde_Mark,Toulouse,1996,10,20,6-3_3-6_6-3
+Toulouse,2,1996,10,20,1,Woodforde_Mark,El_Aynaoui_Younes,Woodforde_Mark,Toulouse,1996,10,20,6-3_3-6_6-3
 Toulouse,2,1996,10,20,1,Chesnokov_Andrei,Johansson_Thomas,Johansson_Thomas,Toulouse,1996,10,20,6-4_6-2
 Toulouse,2,1996,10,20,1,Bruguera_Sergi,Schalken_Sjeng,Bruguera_Sergi,Toulouse,1996,10,20,4-6_7-6(3)_7-6(3)
 Toulouse,2,1996,10,20,1,Delaitre_Olivier,Pioline_Cedric,Pioline_Cedric,Toulouse,1996,10,20,4-6_6-3_6-2

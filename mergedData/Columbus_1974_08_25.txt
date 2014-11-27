@@ -7,8 +7,8 @@ Columbus,2,1974,08,25,1,Delaney_Jim,Dell_Dick,Delaney_Jim,Columbus,1974,08,25,6-
 Columbus,2,1974,08,25,1,Dibley_Colin,Amritraj_Anand,Dibley_Colin,Columbus,1974,08,25,6-3_6-4
 Columbus,2,1974,08,25,1,Merry_Lee,Amritraj_Vijay,Amritraj_Vijay,Columbus,1974,08,25,6-4_6-2
 Columbus,2,1974,08,25,1,Lutz_Robert,Lall_Premjit,Lutz_Robert,Columbus,1974,08,25,6-1_6-2
-Columbus,2,1974,08,25,1,McNair_IVFred,Whitlinger_John,Whitlinger_John,Columbus,1974,08,25,6-7_6-2_6-4
-Columbus,2,1974,08,25,1,Van_DillenErik,Kreiss_Robert,Kreiss_Robert,Columbus,1974,08,25,6-4_6-3
+Columbus,2,1974,08,25,1,McNair_IV_Fred,Whitlinger_John,Whitlinger_John,Columbus,1974,08,25,6-7_6-2_6-4
+Columbus,2,1974,08,25,1,Van_Dillen_Erik,Kreiss_Robert,Kreiss_Robert,Columbus,1974,08,25,6-4_6-3
 Columbus,2,1974,08,25,1,Barth_Roy,Tanner_Roscoe,Tanner_Roscoe,Columbus,1974,08,25,6-2_4-6_6-1
 Columbus,2,1974,08,25,1,Fisher_Rick,Edlefsen_Tom,Fisher_Rick,Columbus,1974,08,25,6-7_6-4_6-3
 Columbus,2,1974,08,25,1,Yuill_John,Teacher_Brian,Yuill_John,Columbus,1974,08,25,6-3_4-6_6-2

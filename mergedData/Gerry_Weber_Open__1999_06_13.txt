@@ -9,7 +9,7 @@ Gerry_Weber_Open_,2,1999,06,13,1,Pozzi_Gianluca,Mantilla_Felix,Pozzi_Gianluca,Ge
 Gerry_Weber_Open_,2,1999,06,13,1,Haas_Tommy,Raoux_Guillaume,Haas_Tommy,Gerry_Weber_Open_,1999,06,13,6-4_7-5
 Gerry_Weber_Open_,2,1999,06,13,1,Medvedev_Andrei,Dreekmann_Hendrik,Dreekmann_Hendrik,Gerry_Weber_Open_,1999,06,13,6-1_5-7_6-4
 Gerry_Weber_Open_,2,1999,06,13,1,Stark_Jonathan,Gimelstob_Justin,Gimelstob_Justin,Gerry_Weber_Open_,1999,06,13,6-3_6-4
-Gerry_Weber_Open_,2,1999,06,13,1,van_LottumJohn,Kulti_Nicklas,Kulti_Nicklas,Gerry_Weber_Open_,1999,06,13,6-1_6-1
+Gerry_Weber_Open_,2,1999,06,13,1,van_Lottum_John,Kulti_Nicklas,Kulti_Nicklas,Gerry_Weber_Open_,1999,06,13,6-1_6-1
 Gerry_Weber_Open_,2,1999,06,13,1,Golmard_Jerome,Schalken_Sjeng,Schalken_Sjeng,Gerry_Weber_Open_,1999,06,13,7-5_6-0
 Gerry_Weber_Open_,2,1999,06,13,1,BurriezaLopez_Oscar,Larsson_Magnus,BurriezaLopez_Oscar,Gerry_Weber_Open_,1999,06,13,6-7(4)_7-5_7-6(5)
 Gerry_Weber_Open_,2,1999,06,13,1,Prinosil_David,Ullyett_Kevin,Prinosil_David,Gerry_Weber_Open_,1999,06,13,6-3_7-5

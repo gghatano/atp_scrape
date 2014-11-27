@@ -12,7 +12,7 @@ Citi_Open,2,2012,08,05,1,Serra_Florent,Baker_Brian,Serra_Florent,Citi_Open,2012,
 Citi_Open,2,2012,08,05,1,Zopp_Jurgen,Anderson_Kevin,Anderson_Kevin,Citi_Open,2012,08,05,6-3_6-2
 Citi_Open,2,2012,08,05,1,Andujar_Pablo,Blake_James,Blake_James,Citi_Open,2012,08,05,4-6_6-2_6-2
 Citi_Open,2,2012,08,05,1,Chiudinelli_Marco,Zeballos_Horacio,Chiudinelli_Marco,Citi_Open,2012,08,05,7-5_7-5
-Citi_Open,2,2012,08,05,1,Ramirez_HidalgoRuben,Ebden_Matthew,Ramirez_HidalgoRuben,Citi_Open,2012,08,05,6-3_6-2
+Citi_Open,2,2012,08,05,1,Ramirez_Hidalgo_Ruben,Ebden_Matthew,Ramirez_Hidalgo_Ruben,Citi_Open,2012,08,05,6-3_6-2
 Citi_Open,2,2012,08,05,1,Cipolla_Flavio,Dolgopolov_Alexandr,Dolgopolov_Alexandr,Citi_Open,2012,08,05,6-1_6-3
 Citi_Open,2,2012,08,05,2,Fish_Mardy,Berankis_Ricardas,Fish_Mardy,Citi_Open,2012,08,05,6-3_6-1
 Citi_Open,2,2012,08,05,2,Malisse_Xavier,Chardy_Jeremy,Malisse_Xavier,Citi_Open,2012,08,05,6-3_6-2
@@ -21,7 +21,7 @@ Citi_Open,2,2012,08,05,2,Matosevic_Marinko,Kamke_Tobias,Kamke_Tobias,Citi_Open,2
 Citi_Open,2,2012,08,05,2,Querrey_Sam,Becker_Benjamin,Querrey_Sam,Citi_Open,2012,08,05,6-4_6-3
 Citi_Open,2,2012,08,05,2,Serra_Florent,Anderson_Kevin,Anderson_Kevin,Citi_Open,2012,08,05,6-4_6-4
 Citi_Open,2,2012,08,05,2,Blake_James,Chiudinelli_Marco,Blake_James,Citi_Open,2012,08,05,6-2_6-4
-Citi_Open,2,2012,08,05,2,Ramirez_HidalgoRuben,Dolgopolov_Alexandr,Dolgopolov_Alexandr,Citi_Open,2012,08,05,6-1_6-3
+Citi_Open,2,2012,08,05,2,Ramirez_Hidalgo_Ruben,Dolgopolov_Alexandr,Dolgopolov_Alexandr,Citi_Open,2012,08,05,6-1_6-3
 Citi_Open,2,2012,08,05,3,Fish_Mardy,Malisse_Xavier,Fish_Mardy,Citi_Open,2012,08,05,6-3_6-4
 Citi_Open,2,2012,08,05,3,Haas_Tommy,Kamke_Tobias,Haas_Tommy,Citi_Open,2012,08,05,6-1_6-2
 Citi_Open,2,2012,08,05,3,Querrey_Sam,Anderson_Kevin,Querrey_Sam,Citi_Open,2012,08,05,6-4_6-4

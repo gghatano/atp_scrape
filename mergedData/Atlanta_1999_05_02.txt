@@ -1,5 +1,5 @@
 Atlanta,2,1999,05,02,1,Rafter_Patrick,Rodriguez_Martin,Rodriguez_Martin,Atlanta,1999,05,02,7-6(5)_7-6(5)
-Atlanta,2,1999,05,02,1,Horna_Luis,Marin_JuanAntonio,Marin_JuanAntonio,Atlanta,1999,05,02,6-4_6-3
+Atlanta,2,1999,05,02,1,Horna_Luis,Marin_Juan_Antonio,Marin_Juan_Antonio,Atlanta,1999,05,02,6-4_6-3
 Atlanta,2,1999,05,02,1,Courier_Jim,Tillstrom_Mikael,Courier_Jim,Atlanta,1999,05,02,6-3_6-4
 Atlanta,2,1999,05,02,1,Gimelstob_Justin,Gambill_JanMichael,Gimelstob_Justin,Atlanta,1999,05,02,6-0_6-4
 Atlanta,2,1999,05,02,1,Spadea_Vincent,Mirnyi_Max,Mirnyi_Max,Atlanta,1999,05,02,7-5_6-3
@@ -10,11 +10,11 @@ Atlanta,2,1999,05,02,1,Draper_Scott,Canas_Guillermo,Canas_Guillermo,Atlanta,1999
 Atlanta,2,1999,05,02,1,Martin_Alberto,Labadze_Irakli,Martin_Alberto,Atlanta,1999,05,02,6-2_4-6_7-6(4)
 Atlanta,2,1999,05,02,1,Woodbridge_Todd,Koubek_Stefan,Koubek_Stefan,Atlanta,1999,05,02,6-2_7-6(4)
 Atlanta,2,1999,05,02,1,Pozzi_Gianluca,Chang_Michael,Chang_Michael,Atlanta,1999,05,02,6-4_6-2
-Atlanta,2,1999,05,02,1,Larsson_Magnus,Van_HerckJohan,Larsson_Magnus,Atlanta,1999,05,02,6-3_6-2
+Atlanta,2,1999,05,02,1,Larsson_Magnus,Van_Herck_Johan,Larsson_Magnus,Atlanta,1999,05,02,6-3_6-2
 Atlanta,2,1999,05,02,1,Norman_Magnus,Blanco_Galo,Blanco_Galo,Atlanta,1999,05,02,6-4_7-6(3)
 Atlanta,2,1999,05,02,1,Woodforde_Mark,Hewitt_Lleyton,Woodforde_Mark,Atlanta,1999,05,02,2-6_6-3_6-4
 Atlanta,2,1999,05,02,1,Goldstein_Paul,Stoltenberg_Jason,Stoltenberg_Jason,Atlanta,1999,05,02,6-4_6-1
-Atlanta,2,1999,05,02,2,Rodriguez_Martin,Marin_JuanAntonio,Rodriguez_Martin,Atlanta,1999,05,02,7-6(6)_6-3
+Atlanta,2,1999,05,02,2,Rodriguez_Martin,Marin_Juan_Antonio,Rodriguez_Martin,Atlanta,1999,05,02,7-6(6)_6-3
 Atlanta,2,1999,05,02,2,Courier_Jim,Gimelstob_Justin,Courier_Jim,Atlanta,1999,05,02,6-1_7-6(5)
 Atlanta,2,1999,05,02,2,Mirnyi_Max,Sargsian_Sargis,Sargsian_Sargis,Atlanta,1999,05,02,3-6_6-4_6-1
 Atlanta,2,1999,05,02,2,Filippini_Marcelo,Grosjean_Sebastien,Grosjean_Sebastien,Atlanta,1999,05,02,6-4_6-2

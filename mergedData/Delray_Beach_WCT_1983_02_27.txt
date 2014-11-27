@@ -12,7 +12,7 @@ Delray_Beach_WCT,2,1983,02,27,1,Bedel_Dominique,Arraya_Pablo,Bedel_Dominique,Del
 Delray_Beach_WCT,2,1983,02,27,1,Smid_Tomas,Curren_Kevin,Smid_Tomas,Delray_Beach_WCT,1983,02,27,6-2_6-0
 Delray_Beach_WCT,2,1983,02,27,1,Scanlon_Bill,Hocevar_Marcos,Scanlon_Bill,Delray_Beach_WCT,1983,02,27,6-2_6-0
 Delray_Beach_WCT,2,1983,02,27,1,Motta_Cassio,Forget_Guy,Motta_Cassio,Delray_Beach_WCT,1983,02,27,6-4_3-6_6-3
-Delray_Beach_WCT,2,1983,02,27,1,Mottram_BusterC,Elter_Peter,Mottram_BusterC,Delray_Beach_WCT,1983,02,27,6-2_6-3
+Delray_Beach_WCT,2,1983,02,27,1,Mottram_Buster_C,Elter_Peter,Mottram_Buster_C,Delray_Beach_WCT,1983,02,27,6-2_6-3
 Delray_Beach_WCT,2,1983,02,27,1,Moor_Terry,Vilas_Guillermo,Vilas_Guillermo,Delray_Beach_WCT,1983,02,27,6-2_6-3
 Delray_Beach_WCT,2,1983,02,27,2,Slozil_Pavel,Gullikson_Tim,Slozil_Pavel,Delray_Beach_WCT,1983,02,27,6-7_6-0_7-6
 Delray_Beach_WCT,2,1983,02,27,2,Sundstrom_Henrik,Fibak_Wojtek,Sundstrom_Henrik,Delray_Beach_WCT,1983,02,27,6-1_6-1
@@ -21,7 +21,7 @@ Delray_Beach_WCT,2,1983,02,27,2,Fromm_Eric,Fleming_Peter,Fromm_Eric,Delray_Beach
 Delray_Beach_WCT,2,1983,02,27,2,Kriek_Johan,Arias_Jimmy,Kriek_Johan,Delray_Beach_WCT,1983,02,27,6-4_4-6_6-1
 Delray_Beach_WCT,2,1983,02,27,2,Bedel_Dominique,Smid_Tomas,Smid_Tomas,Delray_Beach_WCT,1983,02,27,4-6_6-1_6-3
 Delray_Beach_WCT,2,1983,02,27,2,Scanlon_Bill,Motta_Cassio,Motta_Cassio,Delray_Beach_WCT,1983,02,27,6-4_7-6
-Delray_Beach_WCT,2,1983,02,27,2,Mottram_BusterC,Vilas_Guillermo,Vilas_Guillermo,Delray_Beach_WCT,1983,02,27,2-6_6-1_6-2
+Delray_Beach_WCT,2,1983,02,27,2,Mottram_Buster_C,Vilas_Guillermo,Vilas_Guillermo,Delray_Beach_WCT,1983,02,27,2-6_6-1_6-2
 Delray_Beach_WCT,2,1983,02,27,3,Slozil_Pavel,Sundstrom_Henrik,Slozil_Pavel,Delray_Beach_WCT,1983,02,27,7-6_6-1_7-5
 Delray_Beach_WCT,2,1983,02,27,3,Dibbs_Eddie,Fromm_Eric,Dibbs_Eddie,Delray_Beach_WCT,1983,02,27,6-2_6-4
 Delray_Beach_WCT,2,1983,02,27,3,Kriek_Johan,Smid_Tomas,Smid_Tomas,Delray_Beach_WCT,1983,02,27,6-2_6-3

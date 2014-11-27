@@ -3,7 +3,7 @@ Cairo,2,1977,03,27,1,Spear_Nicola,Bartlett_John,Spear_Nicola,Cairo,1977,03,27,6-
 Cairo,2,1977,03,27,1,Dupre_Pat,Mohammed_AbdelGhani,Dupre_Pat,Cairo,1977,03,27,6-4_6-0
 Cairo,2,1977,03,27,1,Kronk_Paul,Taylor_Roger,Kronk_Paul,Cairo,1977,03,27,7-6_6-2
 Cairo,2,1977,03,27,1,Kary_Hans,Lewis_Richard,Lewis_Richard,Cairo,1977,03,27,4-6_6-3_6-3
-Cairo,2,1977,03,27,1,Letcher_Cliff,El_ShafeiIsmail,Letcher_Cliff,Cairo,1977,03,27,6-2_3-6_6-4
+Cairo,2,1977,03,27,1,Letcher_Cliff,El_Shafei_Ismail,Letcher_Cliff,Cairo,1977,03,27,6-2_3-6_6-4
 Cairo,2,1977,03,27,1,Proisy_Patrick,Gebert_Frank,Gebert_Frank,Cairo,1977,03,27,6-2_3-6_7-6
 Cairo,2,1977,03,27,1,Borisov_Vadim,Fairlie_Brian,Fairlie_Brian,Cairo,1977,03,27,6-2_6-2
 Cairo,2,1977,03,27,2,Jauffret_Francois,Spear_Nicola,Jauffret_Francois,Cairo,1977,03,27,7-5_6-1

@@ -11,7 +11,7 @@ If_Stockholm_Open,2,1980,12,21,1,Lutz_Robert,Portes_Pascal,Lutz_Robert,If_Stockh
 If_Stockholm_Open,2,1980,12,21,1,Eriksson_Ulf,Kallquist_Jan,Eriksson_Ulf,If_Stockholm_Open,1980,12,21,6-4_5-7_6-4
 If_Stockholm_Open,2,1980,12,21,1,Hjertquist_Per,Solomon_Harold,Hjertquist_Per,If_Stockholm_Open,1980,12,21,6-2_6-1
 If_Stockholm_Open,2,1980,12,21,1,Teltscher_Eliot,Gimenez_Angel,Teltscher_Eliot,If_Stockholm_Open,1980,12,21,5-7_6-0_6-1
-If_Stockholm_Open,2,1980,12,21,1,Simonsson_Hans,Vant_HofRobert,Simonsson_Hans,If_Stockholm_Open,1980,12,21,6-2_7-5
+If_Stockholm_Open,2,1980,12,21,1,Simonsson_Hans,Vant_Hof_Robert,Simonsson_Hans,If_Stockholm_Open,1980,12,21,6-2_7-5
 If_Stockholm_Open,2,1980,12,21,1,McNamee_Paul,Pfister_Henry,McNamee_Paul,If_Stockholm_Open,1980,12,21,3-6_6-2_6-4
 If_Stockholm_Open,2,1980,12,21,1,McEnroe_John,Taroczy_Balazs,McEnroe_John,If_Stockholm_Open,1980,12,21,6-3_6-0
 If_Stockholm_Open,2,1980,12,21,2,Borg_Bjorn,Gunthardt_Heinz,Borg_Bjorn,If_Stockholm_Open,1980,12,21,6-2_6-3

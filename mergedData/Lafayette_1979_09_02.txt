@@ -6,7 +6,7 @@ Lafayette,2,1979,09,02,1,Amaya_Victor,Stewart_Sherwood,Amaya_Victor,Lafayette,19
 Lafayette,2,1979,09,02,1,Mitchell_Matt,Greenberg_Michael,Mitchell_Matt,Lafayette,1979,09,02,6-4_6-2
 Lafayette,2,1979,09,02,1,Stansbury_Cary,Delaney_Jim,Delaney_Jim,Lafayette,1979,09,02,6-3_6-4
 Lafayette,2,1979,09,02,1,Pasarell_Charlie,Riessen_Marty,Riessen_Marty,Lafayette,1979,09,02,7-5_6-2
-Lafayette,2,1979,09,02,1,Schneider_David,Van_PattenVincent,Van_PattenVincent,Lafayette,1979,09,02,6-2_6-4
+Lafayette,2,1979,09,02,1,Schneider_David,Van_Patten_Vincent,Van_Patten_Vincent,Lafayette,1979,09,02,6-2_6-4
 Lafayette,2,1979,09,02,1,Turpin_Jeff,Bertram_Byron,Bertram_Byron,Lafayette,1979,09,02,2-6_6-4_6-3
 Lafayette,2,1979,09,02,1,Friedler_Eric,Leonard_Tom,Leonard_Tom,Lafayette,1979,09,02,6-4_6-4
 Lafayette,2,1979,09,02,1,Fisher_Rick,Brash_Nial,Fisher_Rick,Lafayette,1979,09,02,6-1_6-4
@@ -18,14 +18,14 @@ Lafayette,2,1979,09,02,2,Hayes_John,Drewett_Brad,Drewett_Brad,Lafayette,1979,09,
 Lafayette,2,1979,09,02,2,Moore_Raymond,Curren_Kevin,Curren_Kevin,Lafayette,1979,09,02,6-3_6-4
 Lafayette,2,1979,09,02,2,Amaya_Victor,Mitchell_Matt,Amaya_Victor,Lafayette,1979,09,02,6-3_6-2
 Lafayette,2,1979,09,02,2,Delaney_Jim,Riessen_Marty,Riessen_Marty,Lafayette,1979,09,02,6-3_7-5
-Lafayette,2,1979,09,02,2,Van_PattenVincent,Bertram_Byron,Van_PattenVincent,Lafayette,1979,09,02,6-4_6-4
+Lafayette,2,1979,09,02,2,Van_Patten_Vincent,Bertram_Byron,Van_Patten_Vincent,Lafayette,1979,09,02,6-4_6-4
 Lafayette,2,1979,09,02,2,Leonard_Tom,Fisher_Rick,Fisher_Rick,Lafayette,1979,09,02,7-6_6-3
 Lafayette,2,1979,09,02,2,Gorman_Tom,Denton_Steve,Gorman_Tom,Lafayette,1979,09,02,7-6_3-6_6-1
 Lafayette,2,1979,09,02,2,Crawford_Randy,Dupre_Pat,Dupre_Pat,Lafayette,1979,09,02,6-0_4-6_7-5
 Lafayette,2,1979,09,02,3,Drewett_Brad,Curren_Kevin,Drewett_Brad,Lafayette,1979,09,02,7-6_2-6_6-3
 Lafayette,2,1979,09,02,3,Amaya_Victor,Riessen_Marty,Riessen_Marty,Lafayette,1979,09,02,6-4_7-6
-Lafayette,2,1979,09,02,3,Van_PattenVincent,Fisher_Rick,Van_PattenVincent,Lafayette,1979,09,02,3-6_6-1_6-1
+Lafayette,2,1979,09,02,3,Van_Patten_Vincent,Fisher_Rick,Van_Patten_Vincent,Lafayette,1979,09,02,3-6_6-1_6-1
 Lafayette,2,1979,09,02,3,Gorman_Tom,Dupre_Pat,Dupre_Pat,Lafayette,1979,09,02,6-4_6-4
 Lafayette,2,1979,09,02,4,Drewett_Brad,Riessen_Marty,Riessen_Marty,Lafayette,1979,09,02,6-1_6-3
-Lafayette,2,1979,09,02,4,Van_PattenVincent,Dupre_Pat,Dupre_Pat,Lafayette,1979,09,02,6-1_4-6_6-1
+Lafayette,2,1979,09,02,4,Van_Patten_Vincent,Dupre_Pat,Dupre_Pat,Lafayette,1979,09,02,6-1_4-6_6-1
 Lafayette,2,1979,09,02,5,Riessen_Marty,Dupre_Pat,Riessen_Marty,Lafayette,1979,09,02,6-4_5-7_6-2

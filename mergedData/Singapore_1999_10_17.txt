@@ -4,7 +4,7 @@ Singapore,2,1999,10,17,1,Chang_Michael,Paes_Leander,Chang_Michael,Singapore,1999
 Singapore,2,1999,10,17,1,Gimelstob_Justin,Gambill_JanMichael,Gambill_JanMichael,Singapore,1999,10,17,7-6(2)_6-4
 Singapore,2,1999,10,17,1,Hewitt_Lleyton,Goldstein_Paul,Hewitt_Lleyton,Singapore,1999,10,17,4-6_6-2_6-4
 Singapore,2,1999,10,17,1,Carlsen_Kenneth,Lareau_Sebastien,Carlsen_Kenneth,Singapore,1999,10,17,6-4_3-6_6-2
-Singapore,2,1999,10,17,1,Arthurs_Wayne,van_LottumJohn,van_LottumJohn,Singapore,1999,10,17,7-6(2)_7-6(7)
+Singapore,2,1999,10,17,1,Arthurs_Wayne,van_Lottum_John,van_Lottum_John,Singapore,1999,10,17,7-6(2)_7-6(7)
 Singapore,2,1999,10,17,1,Woodbridge_Todd,Schalken_Sjeng,Woodbridge_Todd,Singapore,1999,10,17,4-6_7-5_6-3
 Singapore,2,1999,10,17,1,Ilie_Andrew,Delgado_Ramon,Ilie_Andrew,Singapore,1999,10,17,6-2_6-2
 Singapore,2,1999,10,17,1,Huet_Stephane,Kulti_Nicklas,Huet_Stephane,Singapore,1999,10,17,7-5_6-4
@@ -17,13 +17,13 @@ Singapore,2,1999,10,17,1,Bryan_Bob,Philippoussis_Mark,Philippoussis_Mark,Singapo
 Singapore,2,1999,10,17,2,Rios_Marcelo,Nestor_Daniel,Rios_Marcelo,Singapore,1999,10,17,6-4_6-1
 Singapore,2,1999,10,17,2,Chang_Michael,Gambill_JanMichael,Gambill_JanMichael,Singapore,1999,10,17,6-2_7-6(4)
 Singapore,2,1999,10,17,2,Hewitt_Lleyton,Carlsen_Kenneth,Hewitt_Lleyton,Singapore,1999,10,17,6-1_6-2
-Singapore,2,1999,10,17,2,van_LottumJohn,Woodbridge_Todd,van_LottumJohn,Singapore,1999,10,17,6-4_6-0
+Singapore,2,1999,10,17,2,van_Lottum_John,Woodbridge_Todd,van_Lottum_John,Singapore,1999,10,17,6-4_6-0
 Singapore,2,1999,10,17,2,Ilie_Andrew,Huet_Stephane,Ilie_Andrew,Singapore,1999,10,17,7-6(6)_5-7_6-3
 Singapore,2,1999,10,17,2,Dupuis_Antony,Srichaphan_Paradorn,Srichaphan_Paradorn,Singapore,1999,10,17,6-4_6-1
 Singapore,2,1999,10,17,2,Bjorkman_Jonas,Tillstrom_Mikael,Tillstrom_Mikael,Singapore,1999,10,17,3-6_6-4_6-3
 Singapore,2,1999,10,17,2,Ljubicic_Ivan,Philippoussis_Mark,Ljubicic_Ivan,Singapore,1999,10,17,3-6_7-5_7-6(6)
 Singapore,2,1999,10,17,3,Rios_Marcelo,Gambill_JanMichael,Rios_Marcelo,Singapore,1999,10,17,6-4_6-4
-Singapore,2,1999,10,17,3,Hewitt_Lleyton,van_LottumJohn,Hewitt_Lleyton,Singapore,1999,10,17,6-4_6-2
+Singapore,2,1999,10,17,3,Hewitt_Lleyton,van_Lottum_John,Hewitt_Lleyton,Singapore,1999,10,17,6-4_6-2
 Singapore,2,1999,10,17,3,Ilie_Andrew,Srichaphan_Paradorn,Srichaphan_Paradorn,Singapore,1999,10,17,7-5_3-6_7-6(3)
 Singapore,2,1999,10,17,3,Tillstrom_Mikael,Ljubicic_Ivan,Tillstrom_Mikael,Singapore,1999,10,17,7-6(4)_4-6_6-3
 Singapore,2,1999,10,17,4,Rios_Marcelo,Hewitt_Lleyton,Rios_Marcelo,Singapore,1999,10,17,7-5_6-3

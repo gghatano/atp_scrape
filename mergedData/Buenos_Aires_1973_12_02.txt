@@ -12,7 +12,7 @@ Buenos_Aires,2,1973,12,02,1,Zuleta_Eduardo,Kary_Hans,Kary_Hans,Buenos_Aires,1973
 Buenos_Aires,2,1973,12,02,1,Gratz_Roberto,Vilas_Guillermo,Vilas_Guillermo,Buenos_Aires,1973,12,02,7-5_7-6
 Buenos_Aires,2,1973,12,02,1,Varela_Hugo,PintoBravo_Jaime,PintoBravo_Jaime,Buenos_Aires,1973,12,02,6-2_6-7_6-1
 Buenos_Aires,2,1973,12,02,1,Rivera_Juan,Johansson_Kjell,Johansson_Kjell,Buenos_Aires,1973,12,02,6-2_6-3
-Buenos_Aires,2,1973,12,02,1,Soriano_Lorenzo,Mandarino_JoseEdison,Mandarino_JoseEdison,Buenos_Aires,1973,12,02,6-1_6-0
+Buenos_Aires,2,1973,12,02,1,Soriano_Lorenzo,Mandarino_Jose_Edison,Mandarino_Jose_Edison,Buenos_Aires,1973,12,02,6-1_6-0
 Buenos_Aires,2,1973,12,02,1,Quintin_Thierry,Dibbs_Eddie,Dibbs_Eddie,Buenos_Aires,1973,12,02,6-2_6-3
 Buenos_Aires,2,1973,12,02,2,Borg_Bjorn,Cano_Ricardo,Borg_Bjorn,Buenos_Aires,1973,12,02,6-4_7-6
 Buenos_Aires,2,1973,12,02,2,Tiriac_Ion,Cornejo_Patricio,Tiriac_Ion,Buenos_Aires,1973,12,02,6-1_6-4
@@ -21,7 +21,7 @@ Buenos_Aires,2,1973,12,02,2,Franulovic_Zeljko,Koch_Thomas,Franulovic_Zeljko,Buen
 Buenos_Aires,2,1973,12,02,2,Chanfreau_JeanBaptiste,Ovici_Toma,Ovici_Toma,Buenos_Aires,1973,12,02,6-1_0-6_6-2
 Buenos_Aires,2,1973,12,02,2,Kary_Hans,Vilas_Guillermo,Vilas_Guillermo,Buenos_Aires,1973,12,02,6-2_6-1
 Buenos_Aires,2,1973,12,02,2,PintoBravo_Jaime,Johansson_Kjell,PintoBravo_Jaime,Buenos_Aires,1973,12,02,6-3_6-1
-Buenos_Aires,2,1973,12,02,2,Mandarino_JoseEdison,Dibbs_Eddie,Dibbs_Eddie,Buenos_Aires,1973,12,02,6-3_6-4
+Buenos_Aires,2,1973,12,02,2,Mandarino_Jose_Edison,Dibbs_Eddie,Dibbs_Eddie,Buenos_Aires,1973,12,02,6-3_6-4
 Buenos_Aires,2,1973,12,02,3,Borg_Bjorn,Tiriac_Ion,Borg_Bjorn,Buenos_Aires,1973,12,02,6-1_3-6_6-3
 Buenos_Aires,2,1973,12,02,3,Molina_Ivan,Franulovic_Zeljko,Molina_Ivan,Buenos_Aires,1973,12,02,6-4_2-6_6-3
 Buenos_Aires,2,1973,12,02,3,Ovici_Toma,Vilas_Guillermo,Vilas_Guillermo,Buenos_Aires,1973,12,02,6-4_6-3

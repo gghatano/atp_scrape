@@ -12,7 +12,7 @@ Portugal_Open,2,2009,05,10,1,Andujar_Pablo,Gicquel_Marc,Gicquel_Marc,Portugal_Op
 Portugal_Open,2,2009,05,10,1,Gil_Frederico,Blake_James,Blake_James,Portugal_Open,2009,05,10,5-7_6-4_6-2
 Portugal_Open,2,2009,05,10,1,Fish_Mardy,Gabashvili_Teymuraz,Fish_Mardy,Portugal_Open,2009,05,10,6-3_6-4
 Portugal_Open,2,2009,05,10,1,Navarro_Ivan,Martin_Alberto,Navarro_Ivan,Portugal_Open,2009,05,10,7-5_6-4
-Portugal_Open,2,2009,05,10,1,Ferrero_JuanCarlos,Kukushkin_Mikhail,Ferrero_JuanCarlos,Portugal_Open,2009,05,10,7-6(4)_6-3
+Portugal_Open,2,2009,05,10,1,Ferrero_Juan_Carlos,Kukushkin_Mikhail,Ferrero_Juan_Carlos,Portugal_Open,2009,05,10,7-6(4)_6-3
 Portugal_Open,2,2009,05,10,1,Golubev_Andrey,Davydenko_Nikolay,Davydenko_Nikolay,Portugal_Open,2009,05,10,6-1_7-6(4)
 Portugal_Open,2,2009,05,10,2,Simon_Gilles,Fognini_Fabio,Simon_Gilles,Portugal_Open,2009,05,10,6-0_7-5
 Portugal_Open,2,2009,05,10,2,Greul_Simon,Montanes_Albert,Montanes_Albert,Portugal_Open,2009,05,10,6-2_6-2
@@ -21,7 +21,7 @@ Portugal_Open,2,2009,05,10,2,Gonzalez_Maximo,Capdeville_Paul,Capdeville_Paul,Por
 Portugal_Open,2,2009,05,10,2,Serra_Florent,Monaco_Juan,Serra_Florent,Portugal_Open,2009,05,10,6-3_1-6_6-3
 Portugal_Open,2,2009,05,10,2,Gicquel_Marc,Blake_James,Blake_James,Portugal_Open,2009,05,10,7-6(6)_6-2
 Portugal_Open,2,2009,05,10,2,Fish_Mardy,Navarro_Ivan,Fish_Mardy,Portugal_Open,2009,05,10,2-6_6-1_6-4
-Portugal_Open,2,2009,05,10,2,Ferrero_JuanCarlos,Davydenko_Nikolay,Davydenko_Nikolay,Portugal_Open,2009,05,10,7-5_6-2
+Portugal_Open,2,2009,05,10,2,Ferrero_Juan_Carlos,Davydenko_Nikolay,Davydenko_Nikolay,Portugal_Open,2009,05,10,7-5_6-2
 Portugal_Open,2,2009,05,10,3,Simon_Gilles,Montanes_Albert,Montanes_Albert,Portugal_Open,2009,05,10,5-7_6-4_7-6(4)
 Portugal_Open,2,2009,05,10,3,Hernandez_Oscar,Capdeville_Paul,Capdeville_Paul,Portugal_Open,2009,05,10,4-6_6-1_6-4
 Portugal_Open,2,2009,05,10,3,Serra_Florent,Blake_James,Blake_James,Portugal_Open,2009,05,10,6-4_6-1

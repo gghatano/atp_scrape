@@ -1,5 +1,5 @@
 Bari,2,1985,04,21,1,Cancellotti_Francesco,Avendano_Juan,Cancellotti_Francesco,Bari,1985,04,21,7-6_6-2
-Bari,2,1985,04,21,1,Viver_RaulAntonio,Panatta_Claudio,Panatta_Claudio,Bari,1985,04,21,7-6_6-0
+Bari,2,1985,04,21,1,Viver_Raul_Antonio,Panatta_Claudio,Panatta_Claudio,Bari,1985,04,21,7-6_6-0
 Bari,2,1985,04,21,1,Navratil_Jaroslav,Pistolesi_Claudio,Pistolesi_Claudio,Bari,1985,04,21,6-2_6-2
 Bari,2,1985,04,21,1,Freeman_Marcel,Tulasne_Thierry,Freeman_Marcel,Bari,1985,04,21,6-4_1-6_6-3
 Bari,2,1985,04,21,1,Hlasek_Jakob,LopezMaeso_Jose,LopezMaeso_Jose,Bari,1985,04,21,6-4_6-2
@@ -8,7 +8,7 @@ Bari,2,1985,04,21,1,Arguello_Roberto,Cihak_Josef,Arguello_Roberto,Bari,1985,04,2
 Bari,2,1985,04,21,1,Adams_Egan,Arraya_Pablo,Arraya_Pablo,Bari,1985,04,21,6-4_6-3
 Bari,2,1985,04,21,1,Schwaier_Hans,Bottazzi_Luca,Schwaier_Hans,Bari,1985,04,21,7-6_6-1
 Bari,2,1985,04,21,1,Carlsson_Kent,Sanchez_Emilio,Sanchez_Emilio,Bari,1985,04,21,6-1_6-3
-Bari,2,1985,04,21,1,De_LaPenaHoracio,Schapers_Michiel,De_LaPenaHoracio,Bari,1985,04,21,6-3_7-5
+Bari,2,1985,04,21,1,De_La_Pena_Horacio,Schapers_Michiel,De_La_Pena_Horacio,Bari,1985,04,21,6-3_7-5
 Bari,2,1985,04,21,1,Mezzadri_Claudio,Perez_Diego,Perez_Diego,Bari,1985,04,21,6-3_6-2
 Bari,2,1985,04,21,1,Ganzabal_Alejandro,Brown_Jimmy,Ganzabal_Alejandro,Bari,1985,04,21,6-4_6-2
 Bari,2,1985,04,21,1,Portes_Pascal,Duncan_Lawson,Duncan_Lawson,Bari,1985,04,21,2-6_6-4_6-4
@@ -19,12 +19,12 @@ Bari,2,1985,04,21,2,Pistolesi_Claudio,Freeman_Marcel,Pistolesi_Claudio,Bari,1985
 Bari,2,1985,04,21,2,LopezMaeso_Jose,Cane_Paolo,LopezMaeso_Jose,Bari,1985,04,21,4-6_6-2_6-1
 Bari,2,1985,04,21,2,Arguello_Roberto,Arraya_Pablo,Arguello_Roberto,Bari,1985,04,21,7-5_6-3
 Bari,2,1985,04,21,2,Schwaier_Hans,Sanchez_Emilio,Schwaier_Hans,Bari,1985,04,21,6-7_6-4_6-4
-Bari,2,1985,04,21,2,De_LaPenaHoracio,Perez_Diego,De_LaPenaHoracio,Bari,1985,04,21,6-2_6-4
+Bari,2,1985,04,21,2,De_La_Pena_Horacio,Perez_Diego,De_La_Pena_Horacio,Bari,1985,04,21,6-2_6-4
 Bari,2,1985,04,21,2,Ganzabal_Alejandro,Duncan_Lawson,Duncan_Lawson,Bari,1985,04,21,6-1_6-1
 Bari,2,1985,04,21,2,Maurer_Andreas,Jaite_Martin,Jaite_Martin,Bari,1985,04,21,6-4_3-6_6-3
 Bari,2,1985,04,21,3,Panatta_Claudio,Pistolesi_Claudio,Panatta_Claudio,Bari,1985,04,21,7-6_6-0
 Bari,2,1985,04,21,3,LopezMaeso_Jose,Arguello_Roberto,LopezMaeso_Jose,Bari,1985,04,21,6-4_6-0
-Bari,2,1985,04,21,3,Schwaier_Hans,De_LaPenaHoracio,Schwaier_Hans,Bari,1985,04,21,7-5_6-4
+Bari,2,1985,04,21,3,Schwaier_Hans,De_La_Pena_Horacio,Schwaier_Hans,Bari,1985,04,21,7-5_6-4
 Bari,2,1985,04,21,3,Duncan_Lawson,Jaite_Martin,Duncan_Lawson,Bari,1985,04,21,3-6_7-5_6-3
 Bari,2,1985,04,21,4,Panatta_Claudio,LopezMaeso_Jose,Panatta_Claudio,Bari,1985,04,21,6-0_3-6_6-4
 Bari,2,1985,04,21,4,Schwaier_Hans,Duncan_Lawson,Duncan_Lawson,Bari,1985,04,21,6-3_6-2

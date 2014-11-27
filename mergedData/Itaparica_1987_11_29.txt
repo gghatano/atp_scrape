@@ -12,7 +12,7 @@ Itaparica,2,1987,11,29,1,Perez_Diego,Skoff_Horst,Perez_Diego,Itaparica,1987,11,2
 Itaparica,2,1987,11,29,1,Arraya_Pablo,Jaite_Martin,Jaite_Martin,Itaparica,1987,11,29,6-3_3-6_6-1
 Itaparica,2,1987,11,29,1,Agassi_Andre,Daher_Jose,Agassi_Andre,Itaparica,1987,11,29,5-7_6-0_6-3
 Itaparica,2,1987,11,29,1,Tous_Alberto,Yzaga_Jaime,Yzaga_Jaime,Itaparica,1987,11,29,6-2_6-4
-Itaparica,2,1987,11,29,1,De_LaPenaHoracio,Marcelino_Danilo,Marcelino_Danilo,Itaparica,1987,11,29,6-4_6-2
+Itaparica,2,1987,11,29,1,De_La_Pena_Horacio,Marcelino_Danilo,Marcelino_Danilo,Itaparica,1987,11,29,6-4_6-2
 Itaparica,2,1987,11,29,1,Saad_Roberto,Gilbert_Brad,Gilbert_Brad,Itaparica,1987,11,29,5-7_7-6_6-2
 Itaparica,2,1987,11,29,2,Gomez_Andres,Osterthun_Ricki,Gomez_Andres,Itaparica,1987,11,29,6-2_6-1
 Itaparica,2,1987,11,29,2,Sanchez_Javier,Smid_Tomas,Smid_Tomas,Itaparica,1987,11,29,3-6_7-6_6-4

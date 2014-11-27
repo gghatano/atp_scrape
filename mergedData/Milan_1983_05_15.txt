@@ -1,7 +1,7 @@
-Milan,2,1983,05,15,1,Lendl_Ivan,Van_PattenVincent,Lendl_Ivan,Milan,1983,05,15,4-6_7-5_6-3
+Milan,2,1983,05,15,1,Lendl_Ivan,Van_Patten_Vincent,Lendl_Ivan,Milan,1983,05,15,4-6_7-5_6-3
 Milan,2,1983,05,15,1,Panatta_Adriano,Mayotte_Tim,Mayotte_Tim,Milan,1983,05,15,7-6_6-3
-Milan,2,1983,05,15,1,Pfister_Henry,Lewis_NZLChris,Pfister_Henry,Milan,1983,05,15,6-1_3-6_6-3
-Milan,2,1983,05,15,1,De_PalmerMike,Mayer_Sandy,Mayer_Sandy,Milan,1983,05,15,6-2_6-7_6-4
+Milan,2,1983,05,15,1,Pfister_Henry,Lewis_NZL_Chris,Pfister_Henry,Milan,1983,05,15,6-1_3-6_6-3
+Milan,2,1983,05,15,1,De_Palmer_Mike,Mayer_Sandy,Mayer_Sandy,Milan,1983,05,15,6-2_6-7_6-4
 Milan,2,1983,05,15,1,Gerulaitis_Vitas,Simpson_Russell,Simpson_Russell,Milan,1983,05,15,6-7_6-4_6-3
 Milan,2,1983,05,15,1,Wilkison_Tim,Hooper_Chip,Hooper_Chip,Milan,1983,05,15,7-6_2-6_7-6
 Milan,2,1983,05,15,1,Hocevar_Marcos,Cane_Paolo,Hocevar_Marcos,Milan,1983,05,15,6-3_6-2

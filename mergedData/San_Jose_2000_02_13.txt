@@ -4,7 +4,7 @@ San_Jose,2,2000,02,13,1,Tieleman_Laurence,Liukko_Ville,Liukko_Ville,San_Jose,200
 San_Jose,2,2000,02,13,1,Salzenstein_Jeff,Ferreira_Wayne,Ferreira_Wayne,San_Jose,2000,02,13,6-4_6-4
 San_Jose,2,2000,02,13,1,Chang_Michael,Srichaphan_Paradorn,Chang_Michael,San_Jose,2000,02,13,7-5_6-4
 San_Jose,2,2000,02,13,1,Alonso_Julian,Mamiit_Cecil,Mamiit_Cecil,San_Jose,2000,02,13,6-4_6-4
-San_Jose,2,2000,02,13,1,Sargsian_Sargis,van_LottumJohn,Sargsian_Sargis,San_Jose,2000,02,13,6-2_6-3
+San_Jose,2,2000,02,13,1,Sargsian_Sargis,van_Lottum_John,Sargsian_Sargis,San_Jose,2000,02,13,6-2_6-3
 San_Jose,2,2000,02,13,1,Tillstrom_Mikael,Squillari_Franco,Tillstrom_Mikael,San_Jose,2000,02,13,7-5_7-5
 San_Jose,2,2000,02,13,1,Courier_Jim,Taino_Eric,Courier_Jim,San_Jose,2000,02,13,6-3_6-4
 San_Jose,2,2000,02,13,1,Gumy_Hernan,Woodbridge_Todd,Gumy_Hernan,San_Jose,2000,02,13,6-4_6-2

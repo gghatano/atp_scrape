@@ -1,7 +1,7 @@
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Stoltenberg_Jason,Pescosolido_Stefano,Stoltenberg_Jason,Hall_of_Fame_Tennis_Championships,1998,07,12,1-6_6-1_7-5
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Manta_Lorenzo,Hewitt_Lleyton,Hewitt_Lleyton,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_7-6(5)
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Wheaton_David,Burgsmuller_Lars,Wheaton_David,Hall_of_Fame_Tennis_Championships,1998,07,12,7-6(5)_6-2
-Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Sell_Michael,van_LottumJohn,van_LottumJohn,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_6-2
+Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Sell_Michael,van_Lottum_John,van_Lottum_John,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_6-2
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Tarango_Jeff,Blake_James,Tarango_Jeff,Hall_of_Fame_Tennis_Championships,1998,07,12,6-7(5)_6-4_7-5
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Gimelstob_Justin,OBrien_Alex,Gimelstob_Justin,Hall_of_Fame_Tennis_Championships,1998,07,12,4-6_6-4_7-5
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Godwin_Neville,Stolle_Sandon,Godwin_Neville,Hall_of_Fame_Tennis_Championships,1998,07,12,7-6(5)_7-5
@@ -15,14 +15,14 @@ Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Erlich_Eyal,Knowles_Mark,Knowle
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Ullyett_Kevin,Tieleman_Laurence,Tieleman_Laurence,Hall_of_Fame_Tennis_Championships,1998,07,12,6-3_7-5
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,1,Simian_Stephane,Woodforde_Mark,Woodforde_Mark,Hall_of_Fame_Tennis_Championships,1998,07,12,6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Stoltenberg_Jason,Hewitt_Lleyton,Stoltenberg_Jason,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_6-3
-Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Wheaton_David,van_LottumJohn,van_LottumJohn,Hall_of_Fame_Tennis_Championships,1998,07,12,7-5_1-6_6-3
+Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Wheaton_David,van_Lottum_John,van_Lottum_John,Hall_of_Fame_Tennis_Championships,1998,07,12,7-5_1-6_6-3
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Tarango_Jeff,Gimelstob_Justin,Gimelstob_Justin,Hall_of_Fame_Tennis_Championships,1998,07,12,3-6_6-1_7-6(4)
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Godwin_Neville,Lareau_Sebastien,Godwin_Neville,Hall_of_Fame_Tennis_Championships,1998,07,12,6-4_5-7_6-4
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Draper_Scott,Paes_Leander,Paes_Leander,Hall_of_Fame_Tennis_Championships,1998,07,12,7-5_6-4
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Schuettler_Rainer,Sargsian_Sargis,Schuettler_Rainer,Hall_of_Fame_Tennis_Championships,1998,07,12,6-2_6-7(0)_6-4
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Stafford_Grant,Knowles_Mark,Knowles_Mark,Hall_of_Fame_Tennis_Championships,1998,07,12,7-5_4-6_6-4
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,2,Tieleman_Laurence,Woodforde_Mark,Tieleman_Laurence,Hall_of_Fame_Tennis_Championships,1998,07,12,4-6_6-3_6-2
-Hall_of_Fame_Tennis_Championships,2,1998,07,12,3,Stoltenberg_Jason,van_LottumJohn,Stoltenberg_Jason,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_6-2
+Hall_of_Fame_Tennis_Championships,2,1998,07,12,3,Stoltenberg_Jason,van_Lottum_John,Stoltenberg_Jason,Hall_of_Fame_Tennis_Championships,1998,07,12,6-1_6-2
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,3,Gimelstob_Justin,Godwin_Neville,Godwin_Neville,Hall_of_Fame_Tennis_Championships,1998,07,12,6-7(2)_7-6(6)_6-3
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,3,Paes_Leander,Schuettler_Rainer,Paes_Leander,Hall_of_Fame_Tennis_Championships,1998,07,12,7-6(4)_6-2
 Hall_of_Fame_Tennis_Championships,2,1998,07,12,3,Knowles_Mark,Tieleman_Laurence,Tieleman_Laurence,Hall_of_Fame_Tennis_Championships,1998,07,12,6-4_7-5

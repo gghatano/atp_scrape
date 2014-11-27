@@ -1,5 +1,5 @@
 Baltimore,2,1977,01,23,1,Vilas_Guillermo,Fleming_Peter,Vilas_Guillermo,Baltimore,1977,01,23,6-2_3-6_6-3
-Baltimore,2,1977,01,23,1,McNair_IVFred,Gullikson_Tom,Gullikson_Tom,Baltimore,1977,01,23,4-6_6-3_6-3
+Baltimore,2,1977,01,23,1,McNair_IV_Fred,Gullikson_Tom,Gullikson_Tom,Baltimore,1977,01,23,4-6_6-3_6-3
 Baltimore,2,1977,01,23,1,Case_Ross,Power_Dale,Case_Ross,Baltimore,1977,01,23,6-4_3-6_7-5
 Baltimore,2,1977,01,23,1,Krulevitz_Steve,Metreveli_Alex,Metreveli_Alex,Baltimore,1977,01,23,6-4_6-3
 Baltimore,2,1977,01,23,1,Fibak_Wojtek,Gorman_Tom,Gorman_Tom,Baltimore,1977,01,23,6-3_7-6
@@ -11,7 +11,7 @@ Baltimore,2,1977,01,23,1,Mayer_Gene,Okker_Tom,Mayer_Gene,Baltimore,1977,01,23,3-
 Baltimore,2,1977,01,23,1,Pattison_Andrew,Waltke_Trey,Pattison_Andrew,Baltimore,1977,01,23,7-5_6-3
 Baltimore,2,1977,01,23,1,Scanlon_Bill,Kodes_Jan,Kodes_Jan,Baltimore,1977,01,23,6-4_6-2
 Baltimore,2,1977,01,23,1,Tiriac_Ion,Bertram_Byron,Bertram_Byron,Baltimore,1977,01,23,6-4_6-2
-Baltimore,2,1977,01,23,1,Walts_Butch,Mottram_BusterC,Mottram_BusterC,Baltimore,1977,01,23,6-4_6-1
+Baltimore,2,1977,01,23,1,Walts_Butch,Mottram_Buster_C,Mottram_Buster_C,Baltimore,1977,01,23,6-4_6-1
 Baltimore,2,1977,01,23,1,Mayer_Sandy,Kakoulia_Teimuraz,Mayer_Sandy,Baltimore,1977,01,23,6-3_6-3
 Baltimore,2,1977,01,23,1,Moor_Terry,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,6-3_6-2
 Baltimore,2,1977,01,23,2,Vilas_Guillermo,Gullikson_Tom,Vilas_Guillermo,Baltimore,1977,01,23,6-3_6-3
@@ -20,12 +20,12 @@ Baltimore,2,1977,01,23,2,Gorman_Tom,Rahim_Haroon,Gorman_Tom,Baltimore,1977,01,23
 Baltimore,2,1977,01,23,2,Moore_Raymond,Taylor_Roger,Taylor_Roger,Baltimore,1977,01,23,6-3_5-7_6-4
 Baltimore,2,1977,01,23,2,Martin_Billy,Mayer_Gene,Martin_Billy,Baltimore,1977,01,23,6-3_6-1
 Baltimore,2,1977,01,23,2,Pattison_Andrew,Kodes_Jan,Kodes_Jan,Baltimore,1977,01,23,6-2_7-5
-Baltimore,2,1977,01,23,2,Bertram_Byron,Mottram_BusterC,Mottram_BusterC,Baltimore,1977,01,23,6-4_6-1
+Baltimore,2,1977,01,23,2,Bertram_Byron,Mottram_Buster_C,Mottram_Buster_C,Baltimore,1977,01,23,6-4_6-1
 Baltimore,2,1977,01,23,2,Mayer_Sandy,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,5-7_7-6_7-5
 Baltimore,2,1977,01,23,3,Vilas_Guillermo,Case_Ross,Vilas_Guillermo,Baltimore,1977,01,23,7-5_6-3
 Baltimore,2,1977,01,23,3,Gorman_Tom,Taylor_Roger,Gorman_Tom,Baltimore,1977,01,23,6-3_6-2
 Baltimore,2,1977,01,23,3,Martin_Billy,Kodes_Jan,Kodes_Jan,Baltimore,1977,01,23,7-5_3-6_6-2
-Baltimore,2,1977,01,23,3,Mottram_BusterC,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,7-5_6-0
+Baltimore,2,1977,01,23,3,Mottram_Buster_C,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,7-5_6-0
 Baltimore,2,1977,01,23,4,Vilas_Guillermo,Gorman_Tom,Vilas_Guillermo,Baltimore,1977,01,23,6-4_6-4
 Baltimore,2,1977,01,23,4,Kodes_Jan,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,6-3_6-7_6-4
 Baltimore,2,1977,01,23,5,Vilas_Guillermo,Gottfried_Brian,Gottfried_Brian,Baltimore,1977,01,23,6-3_7-6

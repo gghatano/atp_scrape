@@ -8,7 +8,7 @@ Open_13,2,2009,02,22,1,Gabashvili_Teymuraz,Tursunov_Dmitry,Tursunov_Dmitry,Open_
 Open_13,2,2009,02,22,1,Ljubicic_Ivan,Lopez_Feliciano,Lopez_Feliciano,Open_13,2009,02,22,3-6_6-4_7-5
 Open_13,2,2009,02,22,1,Berdych_Tomas,Youzhny_Mikhail,Youzhny_Mikhail,Open_13,2009,02,22,6-4_6-7(2)_6-1
 Open_13,2,2009,02,22,1,Janowicz_Jerzy,Seppi_Andreas,Seppi_Andreas,Open_13,2009,02,22,7-6(5)_3-6_7-6(3)
-Open_13,2,2009,02,22,1,De_VoestRik,Llodra_Michael,Llodra_Michael,Open_13,2009,02,22,7-6(2)_6-1
+Open_13,2,2009,02,22,1,De_Voest_Rik,Llodra_Michael,Llodra_Michael,Open_13,2009,02,22,7-6(2)_6-1
 Open_13,2,2009,02,22,1,Mathieu_PaulHenri,Monfils_Gael,Mathieu_PaulHenri,Open_13,2009,02,22,4-6_6-4_7-5
 Open_13,2,2009,02,22,1,Bastl_George,Gicquel_Marc,Bastl_George,Open_13,2009,02,22,6-4_6-3
 Open_13,2,2009,02,22,1,Santoro_Fabrice,Benneteau_Julien,Benneteau_Julien,Open_13,2009,02,22,4-6_6-4_6-2

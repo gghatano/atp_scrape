@@ -2,7 +2,7 @@ Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Kafelnikov_Yevgeny,Clement_Arnaud,K
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Prinosil_David,Ilie_Andrew,Prinosil_David,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,6-3_6-2
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Vacek_Daniel,Youzhny_Mikhail,Vacek_Daniel,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,6-1_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Saulnier_Cyril,Novak_Jiri,Saulnier_Cyril,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,2-6_7-6(3)_6-4
-Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,El_AynaouiYounes,Escude_Nicolas,Escude_Nicolas,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,7-6(3)_7-6(5)
+Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,El_Aynaoui_Younes,Escude_Nicolas,Escude_Nicolas,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,7-6(3)_7-6(5)
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Kroslak_Jan,Siemerink_Jan,Kroslak_Jan,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,5-7_7-6(3)_7-6(3)
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Canas_Guillermo,Stoliarov_Andrei,Stoliarov_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,6-3_5-7_7-6(6)
 Kremlin_Cup_by_Bank_of_Moscow,2,1999,11,14,1,Mirnyi_Max,Medvedev_Andrei,Medvedev_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1999,11,14,6-2_6-4

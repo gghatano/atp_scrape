@@ -1,8 +1,8 @@
 Bologna,2,1987,06,14,1,Carlsson_Kent,Meinecke_Tore,Carlsson_Kent,Bologna,1987,06,14,6-1_6-4
-Bologna,2,1987,06,14,1,De_MiguelDavid,Rebolledo_Pedro,Rebolledo_Pedro,Bologna,1987,06,14,6-1_6-2
+Bologna,2,1987,06,14,1,De_Miguel_David,Rebolledo_Pedro,Rebolledo_Pedro,Bologna,1987,06,14,6-1_6-2
 Bologna,2,1987,06,14,1,Davin_Franco,Avendano_Juan,Davin_Franco,Bologna,1987,06,14,6-3_7-5
 Bologna,2,1987,06,14,1,Armellini_Marco,Casal_Sergio,Casal_Sergio,Bologna,1987,06,14,6-4_6-3
-Bologna,2,1987,06,14,1,Tulasne_Thierry,De_MinicisAlessandro,Tulasne_Thierry,Bologna,1987,06,14,3-6_6-4_6-4
+Bologna,2,1987,06,14,1,Tulasne_Thierry,De_Minicis_Alessandro,Tulasne_Thierry,Bologna,1987,06,14,3-6_6-4_6-4
 Bologna,2,1987,06,14,1,Cancellotti_Francesco,Lozano_Jorge,Cancellotti_Francesco,Bologna,1987,06,14,6-0_6-4
 Bologna,2,1987,06,14,1,Panatta_Claudio,Filippini_Marcelo,Panatta_Claudio,Bologna,1987,06,14,6-7_6-2_6-4
 Bologna,2,1987,06,14,1,Sundstrom_Henrik,Cane_Paolo,Cane_Paolo,Bologna,1987,06,14,6-4_1-6_6-2

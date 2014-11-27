@@ -5,7 +5,7 @@ Florence,2,1982,09,12,1,Ostoja_Marko,Giammalva_Tony,Ostoja_Marko,Florence,1982,0
 Florence,2,1982,09,12,1,Panatta_Adriano,Vines_Mark,Panatta_Adriano,Florence,1982,09,12,2-6_6-2_6-0
 Florence,2,1982,09,12,1,Gonzalez_Francisco,Simonsson_Stefan,Simonsson_Stefan,Florence,1982,09,12,6-1_7-6
 Florence,2,1982,09,12,1,Portes_Pascal,Caujolle_JeanFrancois,Portes_Pascal,Florence,1982,09,12,6-4_3-6_7-6
-Florence,2,1982,09,12,1,Giammalva_JrSammy,Fritz_Bernard,Fritz_Bernard,Florence,1982,09,12,1-6_6-4_6-0
+Florence,2,1982,09,12,1,Giammalva_Jr_Sammy,Fritz_Bernard,Fritz_Bernard,Florence,1982,09,12,1-6_6-4_6-0
 Florence,2,1982,09,12,1,Panatta_Claudio,Zivojinovic_Slobodan,Panatta_Claudio,Florence,1982,09,12,6-7_6-4_6-2
 Florence,2,1982,09,12,1,Hjertquist_Per,Casal_Sergio,Casal_Sergio,Florence,1982,09,12,4-6_6-1_6-0
 Florence,2,1982,09,12,1,Rinaldini_Gianluca,Gattiker_Alejandro,Rinaldini_Gianluca,Florence,1982,09,12,6-1_6-4

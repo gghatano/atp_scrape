@@ -1,9 +1,9 @@
 Washington_Indoor_WCT,2,1975,03,16,1,Alexander_John,Stilwell_Graham,Alexander_John,Washington_Indoor_WCT,1975,03,16,6-7(4)_6-4_6-4
-Washington_Indoor_WCT,2,1975,03,16,1,Drysdale_Cliff,Van_DillenErik,Drysdale_Cliff,Washington_Indoor_WCT,1975,03,16,6-1_7-6(0)
+Washington_Indoor_WCT,2,1975,03,16,1,Drysdale_Cliff,Van_Dillen_Erik,Drysdale_Cliff,Washington_Indoor_WCT,1975,03,16,6-1_7-6(0)
 Washington_Indoor_WCT,2,1975,03,16,1,Simpson_Russell,Cox_Mark,Cox_Mark,Washington_Indoor_WCT,1975,03,16,3-6_6-0_6-2
 Washington_Indoor_WCT,2,1975,03,16,1,Battrick_Gerald,Gerken_Paul,Gerken_Paul,Washington_Indoor_WCT,1975,03,16,6-7(0)_6-3_6-1
 Washington_Indoor_WCT,2,1975,03,16,1,Dent_Phil,Zednik_Vladimir,Dent_Phil,Washington_Indoor_WCT,1975,03,16,6-4_6-4
-Washington_Indoor_WCT,2,1975,03,16,1,Lara_Marcelo,Reid_GroverRaz,Lara_Marcelo,Washington_Indoor_WCT,1975,03,16,6-4_6-2
+Washington_Indoor_WCT,2,1975,03,16,1,Lara_Marcelo,Reid_Grover_Raz,Lara_Marcelo,Washington_Indoor_WCT,1975,03,16,6-4_6-2
 Washington_Indoor_WCT,2,1975,03,16,1,Russo_Gene,Amritraj_Anand,Amritraj_Anand,Washington_Indoor_WCT,1975,03,16,6-1_6-1
 Washington_Indoor_WCT,2,1975,03,16,1,Gorman_Tom,Smith_Stan,Smith_Stan,Washington_Indoor_WCT,1975,03,16,W/O
 Washington_Indoor_WCT,2,1975,03,16,1,Stockton_Dick,Richey_Cliff,Stockton_Dick,Washington_Indoor_WCT,1975,03,16,6-2_6-1

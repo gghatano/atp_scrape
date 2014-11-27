@@ -3,7 +3,7 @@ Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Pfister_Henry,Krishnan_Ramesh
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,McCain_Scott,Gottfried_Brian,Gottfried_Brian,Western__Southern_Open_-_Cincinnati,1984,08,26,4-6_6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Visser_Danie,McNamee_Paul,McNamee_Paul,Western__Southern_Open_-_Cincinnati,1984,08,26,3-6_7-5_6-3
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Leconte_Henri,Glickstein_Shlomo,Glickstein_Shlomo,Western__Southern_Open_-_Cincinnati,1984,08,26,1-6_7-5_6-3
-Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Denton_Steve,Van_PattenVincent,Van_PattenVincent,Western__Southern_Open_-_Cincinnati,1984,08,26,5-7_6-4_6-2
+Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Denton_Steve,Van_Patten_Vincent,Van_Patten_Vincent,Western__Southern_Open_-_Cincinnati,1984,08,26,5-7_6-4_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Drewett_Brad,Kohlberg_Andy,Kohlberg_Andy,Western__Southern_Open_-_Cincinnati,1984,08,26,6-3_4-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Iskersky_Erick,Jarryd_Anders,Jarryd_Anders,Western__Southern_Open_-_Cincinnati,1984,08,26,7-5_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Krickstein_Aaron,Perkiss_Shahar,Perkiss_Shahar,Western__Southern_Open_-_Cincinnati,1984,08,26,7-6_6-1
@@ -13,7 +13,7 @@ Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Dowdeswell_Colin,Teacher_Bria
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Shiras_Leif,Simpson_Russell,Simpson_Russell,Western__Southern_Open_-_Cincinnati,1984,08,26,7-6_6-4
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Bourne_Lloyd,Tarr_Derek,Tarr_Derek,Western__Southern_Open_-_Cincinnati,1984,08,26,7-6_6-3
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Masur_Wally,Holmes_Greg,Holmes_Greg,Western__Southern_Open_-_Cincinnati,1984,08,26,6-3_4-6_6-4
-Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Giammalva_JrSammy,Nystrom_Joakim,Nystrom_Joakim,Western__Southern_Open_-_Cincinnati,1984,08,26,6-1_6-2
+Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Giammalva_Jr_Sammy,Nystrom_Joakim,Nystrom_Joakim,Western__Southern_Open_-_Cincinnati,1984,08,26,6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Vilas_Guillermo,Gullikson_Tom,Vilas_Guillermo,Western__Southern_Open_-_Cincinnati,1984,08,26,7-6_6-7_7-6
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Odizor_Nduka,Harmon_Rodney,Harmon_Rodney,Western__Southern_Open_-_Cincinnati,1984,08,26,3-6_6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Doyle_Matt,Motta_Cassio,Doyle_Matt,Western__Southern_Open_-_Cincinnati,1984,08,26,7-5_6-2
@@ -32,7 +32,7 @@ Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Bauer_Mike,Feigl_Peter,Bauer_
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,1,Tanner_Roscoe,Connors_Jimmy,Connors_Jimmy,Western__Southern_Open_-_Cincinnati,1984,08,26,6-1_6-3
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Amritraj_Vijay,Krishnan_Ramesh,Krishnan_Ramesh,Western__Southern_Open_-_Cincinnati,1984,08,26,6-2_4-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Gottfried_Brian,McNamee_Paul,McNamee_Paul,Western__Southern_Open_-_Cincinnati,1984,08,26,6-3_6-1
-Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Glickstein_Shlomo,Van_PattenVincent,Glickstein_Shlomo,Western__Southern_Open_-_Cincinnati,1984,08,26,4-6_6-2_6-3
+Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Glickstein_Shlomo,Van_Patten_Vincent,Glickstein_Shlomo,Western__Southern_Open_-_Cincinnati,1984,08,26,4-6_6-2_6-3
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Kohlberg_Andy,Jarryd_Anders,Jarryd_Anders,Western__Southern_Open_-_Cincinnati,1984,08,26,6-0_6-2
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Perkiss_Shahar,Cassidy_Dan,Cassidy_Dan,Western__Southern_Open_-_Cincinnati,1984,08,26,6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1984,08,26,2,Purcell_Mel,Teacher_Brian,Purcell_Mel,Western__Southern_Open_-_Cincinnati,1984,08,26,4-6_7-6_7-5

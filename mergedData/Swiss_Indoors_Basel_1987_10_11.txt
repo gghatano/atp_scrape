@@ -11,7 +11,7 @@ Swiss_Indoors_Basel,2,1987,10,11,1,Maurer_Andreas,Sanchez_Javier,Maurer_Andreas,
 Swiss_Indoors_Basel,2,1987,10,11,1,Vajda_Marian,Vilas_Guillermo,Vajda_Marian,Swiss_Indoors_Basel,1987,10,11,6-3_6-3
 Swiss_Indoors_Basel,2,1987,10,11,1,Agassi_Andre,Jarryd_Anders,Agassi_Andre,Swiss_Indoors_Basel,1987,10,11,6-2_6-3
 Swiss_Indoors_Basel,2,1987,10,11,1,Smid_Tomas,Osterthun_Ricki,Smid_Tomas,Swiss_Indoors_Basel,1987,10,11,7-5_6-3
-Swiss_Indoors_Basel,2,1987,10,11,1,De_MiguelDavid,Agenor_Ronald,Agenor_Ronald,Swiss_Indoors_Basel,1987,10,11,6-1_6-4
+Swiss_Indoors_Basel,2,1987,10,11,1,De_Miguel_David,Agenor_Ronald,Agenor_Ronald,Swiss_Indoors_Basel,1987,10,11,6-1_6-4
 Swiss_Indoors_Basel,2,1987,10,11,1,Kuhnen_Patrik,Fibak_Wojtek,Kuhnen_Patrik,Swiss_Indoors_Basel,1987,10,11,6-3_7-6
 Swiss_Indoors_Basel,2,1987,10,11,1,Woodforde_Mark,Sanchez_Emilio,Woodforde_Mark,Swiss_Indoors_Basel,1987,10,11,7-6_6-3
 Swiss_Indoors_Basel,2,1987,10,11,2,Noah_Yannick,Casal_Sergio,Noah_Yannick,Swiss_Indoors_Basel,1987,10,11,4-6_6-2_7-5

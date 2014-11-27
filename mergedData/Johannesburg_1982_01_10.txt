@@ -1,7 +1,7 @@
 Johannesburg,2,1982,01,10,1,Gerulaitis_Vitas,Boileau_Bernard,Gerulaitis_Vitas,Johannesburg,1982,01,10,6-1_6-2
 Johannesburg,2,1982,01,10,1,Moor_Terry,Saviano_Nick,Moor_Terry,Johannesburg,1982,01,10,7-6_6-2
 Johannesburg,2,1982,01,10,1,Maurer_Andreas,Waltke_Trey,Maurer_Andreas,Johannesburg,1982,01,10,6-3_2-0_RET
-Johannesburg,2,1982,01,10,1,Pattison_Andrew,Damiani_JoseLuis,Pattison_Andrew,Johannesburg,1982,01,10,6-2_6-2
+Johannesburg,2,1982,01,10,1,Pattison_Andrew,Damiani_Jose_Luis,Pattison_Andrew,Johannesburg,1982,01,10,6-2_6-2
 Johannesburg,2,1982,01,10,1,Buehning_Fritz,Stewart_Sherwood,Stewart_Sherwood,Johannesburg,1982,01,10,7-6_6-2
 Johannesburg,2,1982,01,10,1,Denton_Steve,Taygan_Ferdi,Denton_Steve,Johannesburg,1982,01,10,6-7_6-4_6-3
 Johannesburg,2,1982,01,10,1,Sauer_Freddie,Eberhard_Klaus,Sauer_Freddie,Johannesburg,1982,01,10,5-7_7-6_6-1
@@ -10,9 +10,9 @@ Johannesburg,2,1982,01,10,1,Gehring_Rolf,Ocleppo_Gianni,Gehring_Rolf,Johannesbur
 Johannesburg,2,1982,01,10,1,Ycaza_Ricardo,Gullikson_Tom,Gullikson_Tom,Johannesburg,1982,01,10,6-3_6-0
 Johannesburg,2,1982,01,10,1,Glickstein_Shlomo,Simpson_Russell,Glickstein_Shlomo,Johannesburg,1982,01,10,6-4_6-2
 Johannesburg,2,1982,01,10,1,Curren_Kevin,Solomon_Harold,Solomon_Harold,Johannesburg,1982,01,10,6-4_6-4
-Johannesburg,2,1982,01,10,1,Gunthardt_Heinz,Viljoen_TianC,Viljoen_TianC,Johannesburg,1982,01,10,6-1_6-4
+Johannesburg,2,1982,01,10,1,Gunthardt_Heinz,Viljoen_Tian_C,Viljoen_Tian_C,Johannesburg,1982,01,10,6-1_6-4
 Johannesburg,2,1982,01,10,1,Krulevitz_Steve,Borowiak_Jeff,Borowiak_Jeff,Johannesburg,1982,01,10,7-6_4-6_6-4
-Johannesburg,2,1982,01,10,1,Mottram_BusterC,Giammalva_Tony,Mottram_BusterC,Johannesburg,1982,01,10,6-1_7-6
+Johannesburg,2,1982,01,10,1,Mottram_Buster_C,Giammalva_Tony,Mottram_Buster_C,Johannesburg,1982,01,10,6-1_7-6
 Johannesburg,2,1982,01,10,1,Visser_Danie,Warwick_Kim,Visser_Danie,Johannesburg,1982,01,10,6-4_7-6
 Johannesburg,2,1982,01,10,2,Gerulaitis_Vitas,Moor_Terry,Gerulaitis_Vitas,Johannesburg,1982,01,10,6-3_6-3
 Johannesburg,2,1982,01,10,2,Maurer_Andreas,Pattison_Andrew,Pattison_Andrew,Johannesburg,1982,01,10,6-1_6-4
@@ -20,12 +20,12 @@ Johannesburg,2,1982,01,10,2,Stewart_Sherwood,Denton_Steve,Denton_Steve,Johannesb
 Johannesburg,2,1982,01,10,2,Sauer_Freddie,Naude_Leon,Sauer_Freddie,Johannesburg,1982,01,10,7-6_2-6_6-2
 Johannesburg,2,1982,01,10,2,Gehring_Rolf,Gullikson_Tom,Gullikson_Tom,Johannesburg,1982,01,10,6-3_6-3
 Johannesburg,2,1982,01,10,2,Glickstein_Shlomo,Solomon_Harold,Glickstein_Shlomo,Johannesburg,1982,01,10,7-5_7-6
-Johannesburg,2,1982,01,10,2,Viljoen_TianC,Borowiak_Jeff,Borowiak_Jeff,Johannesburg,1982,01,10,7-6_0-6_6-4
-Johannesburg,2,1982,01,10,2,Mottram_BusterC,Visser_Danie,Mottram_BusterC,Johannesburg,1982,01,10,6-1_5-7_8-6
+Johannesburg,2,1982,01,10,2,Viljoen_Tian_C,Borowiak_Jeff,Borowiak_Jeff,Johannesburg,1982,01,10,7-6_0-6_6-4
+Johannesburg,2,1982,01,10,2,Mottram_Buster_C,Visser_Danie,Mottram_Buster_C,Johannesburg,1982,01,10,6-1_5-7_8-6
 Johannesburg,2,1982,01,10,3,Gerulaitis_Vitas,Pattison_Andrew,Gerulaitis_Vitas,Johannesburg,1982,01,10,6-1_6-1
 Johannesburg,2,1982,01,10,3,Denton_Steve,Sauer_Freddie,Denton_Steve,Johannesburg,1982,01,10,6-4_7-6
 Johannesburg,2,1982,01,10,3,Gullikson_Tom,Glickstein_Shlomo,Glickstein_Shlomo,Johannesburg,1982,01,10,7-6_6-4
-Johannesburg,2,1982,01,10,3,Borowiak_Jeff,Mottram_BusterC,Borowiak_Jeff,Johannesburg,1982,01,10,7-6_6-3
+Johannesburg,2,1982,01,10,3,Borowiak_Jeff,Mottram_Buster_C,Borowiak_Jeff,Johannesburg,1982,01,10,7-6_6-3
 Johannesburg,2,1982,01,10,4,Gerulaitis_Vitas,Denton_Steve,Gerulaitis_Vitas,Johannesburg,1982,01,10,7-6_6-3
 Johannesburg,2,1982,01,10,4,Glickstein_Shlomo,Borowiak_Jeff,Borowiak_Jeff,Johannesburg,1982,01,10,6-3_6-7_7-5
 Johannesburg,2,1982,01,10,5,Gerulaitis_Vitas,Borowiak_Jeff,Gerulaitis_Vitas,Johannesburg,1982,01,10,6-4_7-6_6-1

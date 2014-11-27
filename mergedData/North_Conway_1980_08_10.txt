@@ -13,7 +13,7 @@ North_Conway,2,1980,08,10,1,Pattison_Andrew,Scanlon_Bill,Pattison_Andrew,North_C
 North_Conway,2,1980,08,10,1,Gottfried_Brian,Urpi_Gabriel,Gottfried_Brian,North_Conway,1980,08,10,6-1_6-4
 North_Conway,2,1980,08,10,1,Purcell_Mel,Martinez_Mario,Purcell_Mel,North_Conway,1980,08,10,6-2_6-2
 North_Conway,2,1980,08,10,1,Nealon_Billy,Gullikson_Tom,Nealon_Billy,North_Conway,1980,08,10,1-6_6-2_6-1
-North_Conway,2,1980,08,10,1,Viver_RaulAntonio,Fibak_Wojtek,Fibak_Wojtek,North_Conway,1980,08,10,6-2_6-1
+North_Conway,2,1980,08,10,1,Viver_Raul_Antonio,Fibak_Wojtek,Fibak_Wojtek,North_Conway,1980,08,10,6-2_6-1
 North_Conway,2,1980,08,10,1,Noah_Yannick,Owens_Charles,Noah_Yannick,North_Conway,1980,08,10,6-4_6-2
 North_Conway,2,1980,08,10,1,Cahill_Mike,Yuill_John,Cahill_Mike,North_Conway,1980,08,10,6-3_6-2
 North_Conway,2,1980,08,10,1,Kohlberg_Andy,Shore_Mike,Kohlberg_Andy,North_Conway,1980,08,10,6-3_6-2
@@ -25,7 +25,7 @@ North_Conway,2,1980,08,10,1,Cain_Tom,Dibbs_Eddie,Dibbs_Eddie,North_Conway,1980,0
 North_Conway,2,1980,08,10,1,Higueras_Jose,Dent_Phil,Higueras_Jose,North_Conway,1980,08,10,6-1_6-2
 North_Conway,2,1980,08,10,1,Martin_Billy,Palin_Leo,Martin_Billy,North_Conway,1980,08,10,7-6_7-6
 North_Conway,2,1980,08,10,1,Moor_Terry,Schoenfield_Howard,Moor_Terry,North_Conway,1980,08,10,6-3_3-0_RET
-North_Conway,2,1980,08,10,1,Warwick_Kim,Pecci_SrVictor,Warwick_Kim,North_Conway,1980,08,10,3-6_6-4_6-1
+North_Conway,2,1980,08,10,1,Warwick_Kim,Pecci_Sr_Victor,Warwick_Kim,North_Conway,1980,08,10,3-6_6-4_6-1
 North_Conway,2,1980,08,10,1,Gildemeister_Hans,Gehring_Rolf,Gildemeister_Hans,North_Conway,1980,08,10,6-4_7-6
 North_Conway,2,1980,08,10,1,Franulovic_Zeljko,Petrovic_Glenn,Franulovic_Zeljko,North_Conway,1980,08,10,6-7_6-1_6-1
 North_Conway,2,1980,08,10,1,Prajoux_Belus,Hunter_Maurice,Prajoux_Belus,North_Conway,1980,08,10,6-0_7-5

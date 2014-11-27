@@ -11,8 +11,8 @@ MercedesCup,2,1985,09,15,1,Gullikson_Tom,Mitchell_Matt,Mitchell_Matt,MercedesCup
 MercedesCup,2,1985,09,15,1,Gullikson_Tim,Aguilera_Juan,Aguilera_Juan,MercedesCup,1985,09,15,4-6_6-2_6-3
 MercedesCup,2,1985,09,15,1,Drewett_Brad,Gilbert_Brad,Gilbert_Brad,MercedesCup,1985,09,15,6-2_7-6
 MercedesCup,2,1985,09,15,1,Schwaier_Hans,Lapidus_Jay,Schwaier_Hans,MercedesCup,1985,09,15,6-4_2-6_6-2
-MercedesCup,2,1985,09,15,1,Pecci_SrVictor,Riglewski_Udo,Riglewski_Udo,MercedesCup,1985,09,15,6-3_6-4
-MercedesCup,2,1985,09,15,1,Davis_Marty,De_LaPenaHoracio,De_LaPenaHoracio,MercedesCup,1985,09,15,0-6_7-6_7-5
+MercedesCup,2,1985,09,15,1,Pecci_Sr_Victor,Riglewski_Udo,Riglewski_Udo,MercedesCup,1985,09,15,6-3_6-4
+MercedesCup,2,1985,09,15,1,Davis_Marty,De_La_Pena_Horacio,De_La_Pena_Horacio,MercedesCup,1985,09,15,0-6_7-6_7-5
 MercedesCup,2,1985,09,15,1,Meinecke_Tore,Smid_Tomas,Smid_Tomas,MercedesCup,1985,09,15,4-6_6-3_6-4
 MercedesCup,2,1985,09,15,2,Lendl_Ivan,Amritraj_Vijay,Lendl_Ivan,MercedesCup,1985,09,15,6-3_6-2
 MercedesCup,2,1985,09,15,2,Agenor_Ronald,Higueras_Jose,Agenor_Ronald,MercedesCup,1985,09,15,6-3_6-3
@@ -21,7 +21,7 @@ MercedesCup,2,1985,09,15,2,Westphal_Michael,Gunnarsson_Jan,Gunnarsson_Jan,Merced
 MercedesCup,2,1985,09,15,2,Maurer_Andreas,Mitchell_Matt,Maurer_Andreas,MercedesCup,1985,09,15,6-3_4-6_6-1
 MercedesCup,2,1985,09,15,2,Aguilera_Juan,Gilbert_Brad,Gilbert_Brad,MercedesCup,1985,09,15,7-6_6-3
 MercedesCup,2,1985,09,15,2,Schwaier_Hans,Riglewski_Udo,Riglewski_Udo,MercedesCup,1985,09,15,6-2_6-2
-MercedesCup,2,1985,09,15,2,De_LaPenaHoracio,Smid_Tomas,Smid_Tomas,MercedesCup,1985,09,15,6-4_6-4
+MercedesCup,2,1985,09,15,2,De_La_Pena_Horacio,Smid_Tomas,Smid_Tomas,MercedesCup,1985,09,15,6-4_6-4
 MercedesCup,2,1985,09,15,3,Lendl_Ivan,Agenor_Ronald,Lendl_Ivan,MercedesCup,1985,09,15,6-1_6-3
 MercedesCup,2,1985,09,15,3,Clerc_JoseLuis,Gunnarsson_Jan,Clerc_JoseLuis,MercedesCup,1985,09,15,6-3_6-3
 MercedesCup,2,1985,09,15,3,Maurer_Andreas,Gilbert_Brad,Gilbert_Brad,MercedesCup,1985,09,15,6-0_6-3

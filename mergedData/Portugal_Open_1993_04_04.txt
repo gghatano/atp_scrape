@@ -1,7 +1,7 @@
-Portugal_Open,2,1993,04,04,1,Lendl_Ivan,Gorriz_MarcosAurelio,Lendl_Ivan,Portugal_Open,1993,04,04,6-1_6-3
+Portugal_Open,2,1993,04,04,1,Lendl_Ivan,Gorriz_Marcos_Aurelio,Lendl_Ivan,Portugal_Open,1993,04,04,6-1_6-3
 Portugal_Open,2,1993,04,04,1,Svensson_Jonas,Mancisidor_Alejo,Svensson_Jonas,Portugal_Open,1993,04,04,2-6_6-1_6-1
 Portugal_Open,2,1993,04,04,1,Markus_Gabriel,Marques_Nuno,Markus_Gabriel,Portugal_Open,1993,04,04,6-4_6-3
-Portugal_Open,2,1993,04,04,1,Gustafsson_Magnus,Benfele_AlvarezEmilio,Gustafsson_Magnus,Portugal_Open,1993,04,04,6-3_6-3
+Portugal_Open,2,1993,04,04,1,Gustafsson_Magnus,Benfele_Alvarez_Emilio,Gustafsson_Magnus,Portugal_Open,1993,04,04,6-3_6-3
 Portugal_Open,2,1993,04,04,1,Novacek_Karel,Clavet_Francisco,Novacek_Karel,Portugal_Open,1993,04,04,4-6_6-3_6-2
 Portugal_Open,2,1993,04,04,1,Mota_Bernardo,Carbonell_Tomas,Carbonell_Tomas,Portugal_Open,1993,04,04,6-3_6-1
 Portugal_Open,2,1993,04,04,1,Davin_Franco,Haarhuis_Paul,Haarhuis_Paul,Portugal_Open,1993,04,04,6-2_6-7(3)_6-3

@@ -1,6 +1,6 @@
 Cologne,2,1978,12,30,1,McEnroe_John,Maurer_Andreas,McEnroe_John,Cologne,1978,12,30,7-5_6-1
 Cologne,2,1978,12,30,1,Letcher_Cliff,Birner_Stanislav,Letcher_Cliff,Cologne,1978,12,30,7-6_1-6_6-3
-Cologne,2,1978,12,30,1,Dowdeswell_Colin,Bohrnstedt_DickR,Bohrnstedt_DickR,Cologne,1978,12,30,6-0_6-4
+Cologne,2,1978,12,30,1,Dowdeswell_Colin,Bohrnstedt_Dick_R,Bohrnstedt_Dick_R,Cologne,1978,12,30,6-0_6-4
 Cologne,2,1978,12,30,1,Svensson_Tenny,Kriek_Johan,Kriek_Johan,Cologne,1978,12,30,6-3_6-2
 Cologne,2,1978,12,30,1,Fibak_Wojtek,Gonzalez_Francisco,Fibak_Wojtek,Cologne,1978,12,30,6-3_6-3
 Cologne,2,1978,12,30,1,Taygan_Ferdi,McMillan_Frew,Taygan_Ferdi,Cologne,1978,12,30,6-3_6-3
@@ -15,7 +15,7 @@ Cologne,2,1978,12,30,1,Kodes_Jan,Gehring_Rolf,Kodes_Jan,Cologne,1978,12,30,6-1_2
 Cologne,2,1978,12,30,1,Mitton_Bernard,Munoz_Antonio,Munoz_Antonio,Cologne,1978,12,30,6-3_4-6_6-1
 Cologne,2,1978,12,30,1,Amritraj_Anand,Barazzutti_Corrado,Barazzutti_Corrado,Cologne,1978,12,30,6-2_6-4
 Cologne,2,1978,12,30,2,McEnroe_John,Letcher_Cliff,McEnroe_John,Cologne,1978,12,30,6-2_6-2
-Cologne,2,1978,12,30,2,Bohrnstedt_DickR,Kriek_Johan,Kriek_Johan,Cologne,1978,12,30,6-4_4-6_6-0
+Cologne,2,1978,12,30,2,Bohrnstedt_Dick_R,Kriek_Johan,Kriek_Johan,Cologne,1978,12,30,6-4_4-6_6-0
 Cologne,2,1978,12,30,2,Fibak_Wojtek,Taygan_Ferdi,Fibak_Wojtek,Cologne,1978,12,30,6-1_6-2
 Cologne,2,1978,12,30,2,Meiler_Karl,Amaya_Victor,Meiler_Karl,Cologne,1978,12,30,6-2_6-2
 Cologne,2,1978,12,30,2,Amritraj_Vijay,Waltke_Trey,Amritraj_Vijay,Cologne,1978,12,30,7-6_7-6

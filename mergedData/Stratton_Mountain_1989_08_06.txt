@@ -3,7 +3,7 @@ Stratton_Mountain,2,1989,08,06,1,Davis_Marty,Visser_Danie,Davis_Marty,Stratton_M
 Stratton_Mountain,2,1989,08,06,1,Wheaton_David,Laurendeau_Martin,Wheaton_David,Stratton_Mountain,1989,08,06,6-4_6-2
 Stratton_Mountain,2,1989,08,06,1,Leaycraft_Donni,Davis_Scott,Davis_Scott,Stratton_Mountain,1989,08,06,6-1_6-0
 Stratton_Mountain,2,1989,08,06,1,Courier_Jim,Brown_Jimmy,Courier_Jim,Stratton_Mountain,1989,08,06,6-3_7-5
-Stratton_Mountain,2,1989,08,06,1,Frana_Javier,Giammalva_JrSammy,Giammalva_JrSammy,Stratton_Mountain,1989,08,06,6-4_3-6_6-3
+Stratton_Mountain,2,1989,08,06,1,Frana_Javier,Giammalva_Jr_Sammy,Giammalva_Jr_Sammy,Stratton_Mountain,1989,08,06,6-4_3-6_6-3
 Stratton_Mountain,2,1989,08,06,1,Flach_Ken,Pech_Philippe,Flach_Ken,Stratton_Mountain,1989,08,06,6-4_6-3
 Stratton_Mountain,2,1989,08,06,1,McEnroe_Patrick,Goldie_Dan,Goldie_Dan,Stratton_Mountain,1989,08,06,6-1_6-4
 Stratton_Mountain,2,1989,08,06,1,Gilbert_Brad,Schmidt_Richard,Gilbert_Brad,Stratton_Mountain,1989,08,06,6-2_6-2
@@ -32,7 +32,7 @@ Stratton_Mountain,2,1989,08,06,1,Carlsson_Johan,Hogstedt_Thomas,Carlsson_Johan,S
 Stratton_Mountain,2,1989,08,06,1,Sampras_Pete,Chang_Michael,Chang_Michael,Stratton_Mountain,1989,08,06,6-4_6-4
 Stratton_Mountain,2,1989,08,06,2,Agassi_Andre,Davis_Marty,Agassi_Andre,Stratton_Mountain,1989,08,06,6-1_3-6_6-3
 Stratton_Mountain,2,1989,08,06,2,Wheaton_David,Davis_Scott,Wheaton_David,Stratton_Mountain,1989,08,06,6-1_6-4
-Stratton_Mountain,2,1989,08,06,2,Courier_Jim,Giammalva_JrSammy,Courier_Jim,Stratton_Mountain,1989,08,06,6-2_6-2
+Stratton_Mountain,2,1989,08,06,2,Courier_Jim,Giammalva_Jr_Sammy,Courier_Jim,Stratton_Mountain,1989,08,06,6-2_6-2
 Stratton_Mountain,2,1989,08,06,2,Flach_Ken,Goldie_Dan,Goldie_Dan,Stratton_Mountain,1989,08,06,6-7_6-1_7-6
 Stratton_Mountain,2,1989,08,06,2,Gilbert_Brad,Pozzi_Gianluca,Gilbert_Brad,Stratton_Mountain,1989,08,06,6-1_6-2
 Stratton_Mountain,2,1989,08,06,2,Aldrich_Pieter,Masur_Wally,Masur_Wally,Stratton_Mountain,1989,08,06,3-6_6-3_6-4

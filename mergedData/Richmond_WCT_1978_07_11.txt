@@ -6,8 +6,8 @@ Richmond_WCT,2,1978,07,11,1,Dibbs_Eddie,Fishbach_Mike,Dibbs_Eddie,Richmond_WCT,1
 Richmond_WCT,2,1978,07,11,1,Borowiak_Jeff,Franulovic_Zeljko,Franulovic_Zeljko,Richmond_WCT,1978,07,11,6-2_5-1_RET
 Richmond_WCT,2,1978,07,11,1,Laver_Rod,Kodes_Jan,Laver_Rod,Richmond_WCT,1978,07,11,6-1_6-3
 Richmond_WCT,2,1978,07,11,1,Cox_Mark,Orantes_Manuel,Cox_Mark,Richmond_WCT,1978,07,11,7-6_6-2
-Richmond_WCT,2,1978,07,11,1,Barazzutti_Corrado,Fillol_SrJaime,Barazzutti_Corrado,Richmond_WCT,1978,07,11,6-1_3-6_6-4
-Richmond_WCT,2,1978,07,11,1,Hewitt_Bob,Mottram_BusterC,Hewitt_Bob,Richmond_WCT,1978,07,11,4-0_RET
+Richmond_WCT,2,1978,07,11,1,Barazzutti_Corrado,Fillol_Sr_Jaime,Barazzutti_Corrado,Richmond_WCT,1978,07,11,6-1_3-6_6-4
+Richmond_WCT,2,1978,07,11,1,Hewitt_Bob,Mottram_Buster_C,Hewitt_Bob,Richmond_WCT,1978,07,11,4-0_RET
 Richmond_WCT,2,1978,07,11,1,Moore_Raymond,Fleming_Peter,Fleming_Peter,Richmond_WCT,1978,07,11,4-6_6-3_6-3
 Richmond_WCT,2,1978,07,11,1,Lutz_Robert,Gottfried_Brian,Gottfried_Brian,Richmond_WCT,1978,07,11,3-6_6-3_6-4
 Richmond_WCT,2,1978,07,11,1,Nastase_Ilie,Ashe_Arthur,Ashe_Arthur,Richmond_WCT,1978,07,11,3-6_7-5_6-3

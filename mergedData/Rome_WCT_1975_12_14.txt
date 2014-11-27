@@ -1,5 +1,5 @@
-Rome_WCT,2,1975,12,14,1,Okker_Tom,Van_DillenErik,Okker_Tom,Rome_WCT,1975,12,14,6-3_6-3
-Rome_WCT,2,1975,12,14,1,El_ShafeiIsmail,Stockton_Dick,Stockton_Dick,Rome_WCT,1975,12,14,6-3_6-2
+Rome_WCT,2,1975,12,14,1,Okker_Tom,Van_Dillen_Erik,Okker_Tom,Rome_WCT,1975,12,14,6-3_6-3
+Rome_WCT,2,1975,12,14,1,El_Shafei_Ismail,Stockton_Dick,Stockton_Dick,Rome_WCT,1975,12,14,6-3_6-2
 Rome_WCT,2,1975,12,14,1,Lutz_Robert,Fairlie_Brian,Lutz_Robert,Rome_WCT,1975,12,14,7-5_5-7_6-4
 Rome_WCT,2,1975,12,14,1,Drysdale_Cliff,Laver_Rod,Drysdale_Cliff,Rome_WCT,1975,12,14,6-4_6-3
 Rome_WCT,2,1975,12,14,1,Panatta_Adriano,McMillan_Frew,Panatta_Adriano,Rome_WCT,1975,12,14,7-6(4)_6-2

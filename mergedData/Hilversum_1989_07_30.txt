@@ -4,7 +4,7 @@ Hilversum,2,1989,07,30,1,Casal_Sergio,Lochbihler_Stefan,Casal_Sergio,Hilversum,1
 Hilversum,2,1989,07,30,1,Cihak_Josef,Novacek_Karel,Novacek_Karel,Hilversum,1989,07,30,2-6_6-3_7-6
 Hilversum,2,1989,07,30,1,Skoff_Horst,Riglewski_Udo,Skoff_Horst,Hilversum,1989,07,30,6-4_6-4
 Hilversum,2,1989,07,30,1,Nydahl_Tomas,Clavet_Francisco,Nydahl_Tomas,Hilversum,1989,07,30,6-1_6-7_7-6
-Hilversum,2,1989,07,30,1,Davids_HendrikJan,Pistolesi_Claudio,Pistolesi_Claudio,Hilversum,1989,07,30,6-1_6-4
+Hilversum,2,1989,07,30,1,Davids_Hendrik_Jan,Pistolesi_Claudio,Pistolesi_Claudio,Hilversum,1989,07,30,6-1_6-4
 Hilversum,2,1989,07,30,1,Carbonell_Tomas,Kok_Ralph,Carbonell_Tomas,Hilversum,1989,07,30,6-1_6-2
 Hilversum,2,1989,07,30,1,Cane_Paolo,Nyborg_Peter,Cane_Paolo,Hilversum,1989,07,30,6-4_6-7_6-1
 Hilversum,2,1989,07,30,1,Bulant_Jaroslav,Geyer_Christian,Geyer_Christian,Hilversum,1989,07,30,7-6_6-2

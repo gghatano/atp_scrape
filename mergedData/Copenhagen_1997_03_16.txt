@@ -5,13 +5,13 @@ Copenhagen,2,1997,03,16,1,Larsen_Thomas,Carlsen_Kenneth,Carlsen_Kenneth,Copenhag
 Copenhagen,2,1997,03,16,1,Radulescu_Alex,Kroslak_Jan,Kroslak_Jan,Copenhagen,1997,03,16,3-6_7-5_6-3
 Copenhagen,2,1997,03,16,1,Fromberg_Richard,Norman_Magnus,Norman_Magnus,Copenhagen,1997,03,16,6-4_6-4
 Copenhagen,2,1997,03,16,1,Volkov_Alexander,Olhovskiy_Andrei,Volkov_Alexander,Copenhagen,1997,03,16,6-4_7-6(4)
-Copenhagen,2,1997,03,16,1,Van_HerckJohan,Johansson_Thomas,Johansson_Thomas,Copenhagen,1997,03,16,6-4_7-5
+Copenhagen,2,1997,03,16,1,Van_Herck_Johan,Johansson_Thomas,Johansson_Thomas,Copenhagen,1997,03,16,6-4_7-5
 Copenhagen,2,1997,03,16,1,Kucera_Karol,Stanoytchev_Orlin,Kucera_Karol,Copenhagen,1997,03,16,6-3_6-0
 Copenhagen,2,1997,03,16,1,Fredriksson_Patrik,Santoro_Fabrice,Santoro_Fabrice,Copenhagen,1997,03,16,6-1_6-3
 Copenhagen,2,1997,03,16,1,Raoux_Guillaume,Steven_Brett,Raoux_Guillaume,Copenhagen,1997,03,16,6-4_7-5
 Copenhagen,2,1997,03,16,1,Champion_Thierry,Prinosil_David,Prinosil_David,Copenhagen,1997,03,16,7-6(6)_7-6(13)
 Copenhagen,2,1997,03,16,1,Vacek_Daniel,Fetterlein_Frederik,Fetterlein_Frederik,Copenhagen,1997,03,16,6-2_6-7(3)_6-2
-Copenhagen,2,1997,03,16,1,Benfele_AlvarezEmilio,Dewulf_Filip,Dewulf_Filip,Copenhagen,1997,03,16,6-1_6-1
+Copenhagen,2,1997,03,16,1,Benfele_Alvarez_Emilio,Dewulf_Filip,Dewulf_Filip,Copenhagen,1997,03,16,6-1_6-1
 Copenhagen,2,1997,03,16,1,Marques_Nuno,Furlan_Renzo,Marques_Nuno,Copenhagen,1997,03,16,6-3_6-7(7)_6-1
 Copenhagen,2,1997,03,16,1,Langvardt_Patrik,Damm_Martin,Damm_Martin,Copenhagen,1997,03,16,6-2_6-3
 Copenhagen,2,1997,03,16,2,Ullyett_Kevin,Burgsmuller_Lars,Burgsmuller_Lars,Copenhagen,1997,03,16,3-6_6-3_6-4

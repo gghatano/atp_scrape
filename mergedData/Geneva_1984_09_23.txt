@@ -4,7 +4,7 @@ Geneva,2,1984,09,23,1,Bengoechea_Eduardo,Hjertquist_Per,Bengoechea_Eduardo,Genev
 Geneva,2,1984,09,23,1,Tarr_Derek,Krickstein_Aaron,Krickstein_Aaron,Geneva,1984,09,23,6-4_6-2
 Geneva,2,1984,09,23,1,Smid_Tomas,Bardou_Jorge,Smid_Tomas,Geneva,1984,09,23,6-2_7-6
 Geneva,2,1984,09,23,1,Elter_Peter,Doohan_Peter,Elter_Peter,Geneva,1984,09,23,6-3_3-6_6-1
-Geneva,2,1984,09,23,1,Ganzabal_Alejandro,Viver_RaulAntonio,Ganzabal_Alejandro,Geneva,1984,09,23,1-6_7-6_6-2
+Geneva,2,1984,09,23,1,Ganzabal_Alejandro,Viver_Raul_Antonio,Ganzabal_Alejandro,Geneva,1984,09,23,1-6_7-6_6-2
 Geneva,2,1984,09,23,1,Colombo_Simone,Sanchez_Emilio,Colombo_Simone,Geneva,1984,09,23,6-3_6-3
 Geneva,2,1984,09,23,1,Pimek_Libor,Carlsson_Kent,Pimek_Libor,Geneva,1984,09,23,2-6_6-2_6-3
 Geneva,2,1984,09,23,1,Cihak_Josef,Fillol_Alvaro,Cihak_Josef,Geneva,1984,09,23,7-6_7-6

@@ -2,7 +2,7 @@ Florence,2,1980,08,10,1,Clerc_JoseLuis,Kachel_Chris,Clerc_JoseLuis,Florence,1980
 Florence,2,1980,08,10,1,Rafaitin_Gregoire,Bertolucci_Paolo,Bertolucci_Paolo,Florence,1980,08,10,6-4_7-6
 Florence,2,1980,08,10,1,Hrebec_Jiri,Ycaza_Ricardo,Hrebec_Jiri,Florence,1980,08,10,6-4_6-4
 Florence,2,1980,08,10,1,Maher_Warren,Panatta_Adriano,Panatta_Adriano,Florence,1980,08,10,6-2_6-3
-Florence,2,1980,08,10,1,Ocleppo_Gianni,Damiani_JoseLuis,Ocleppo_Gianni,Florence,1980,08,10,6-4_6-3
+Florence,2,1980,08,10,1,Ocleppo_Gianni,Damiani_Jose_Luis,Ocleppo_Gianni,Florence,1980,08,10,6-4_6-3
 Florence,2,1980,08,10,1,Proisy_Patrick,Zugarelli_Antonio,Zugarelli_Antonio,Florence,1980,08,10,4-6_6-3_6-4
 Florence,2,1980,08,10,1,Maurer_Andreas,Simonsson_Stefan,Simonsson_Stefan,Florence,1980,08,10,6-2_4-6_6-3
 Florence,2,1980,08,10,1,Soares_Joao,Munoz_Antonio,Munoz_Antonio,Florence,1980,08,10,2-6_6-3_7-6

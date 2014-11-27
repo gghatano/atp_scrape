@@ -1,4 +1,4 @@
-Open_13,2,1998,02,08,1,Kafelnikov_Yevgeny,VilocaPuig_JuanAlbert,Kafelnikov_Yevgeny,Open_13,1998,02,08,6-4_6-3
+Open_13,2,1998,02,08,1,Kafelnikov_Yevgeny,VilocaPuig_Juan_Albert,Kafelnikov_Yevgeny,Open_13,1998,02,08,6-4_6-3
 Open_13,2,1998,02,08,1,Voinea_Adrian,Ruud_Christian,Voinea_Adrian,Open_13,1998,02,08,7-6(2)_6-4
 Open_13,2,1998,02,08,1,Schalken_Sjeng,Clement_Arnaud,Clement_Arnaud,Open_13,1998,02,08,4-6_7-6(5)_6-0
 Open_13,2,1998,02,08,1,Roux_Lionel,Alonso_Julian,Alonso_Julian,Open_13,1998,02,08,6-7(3)_6-3_6-3
@@ -7,10 +7,10 @@ Open_13,2,1998,02,08,1,Boetsch_Arnaud,Martin_Alberto,Boetsch_Arnaud,Open_13,1998
 Open_13,2,1998,02,08,1,Goellner_MarcKevin,Gaudenzi_Andrea,Goellner_MarcKevin,Open_13,1998,02,08,7-6(3)_6-2
 Open_13,2,1998,02,08,1,Tillstrom_Mikael,Pioline_Cedric,Tillstrom_Mikael,Open_13,1998,02,08,7-6(3)_3-6_7-5
 Open_13,2,1998,02,08,1,Enqvist_Thomas,Burillo_Jordi,Enqvist_Thomas,Open_13,1998,02,08,6-4_6-3
-Open_13,2,1998,02,08,1,Di_PasqualeArnaud,Roig_Francisco,Roig_Francisco,Open_13,1998,02,08,6-3_3-6_7-6(1)
-Open_13,2,1998,02,08,1,Gustafsson_Magnus,Van_HerckJohan,Gustafsson_Magnus,Open_13,1998,02,08,6-7(1)_6-4_6-2
+Open_13,2,1998,02,08,1,Di_Pasquale_Arnaud,Roig_Francisco,Roig_Francisco,Open_13,1998,02,08,6-3_3-6_7-6(1)
+Open_13,2,1998,02,08,1,Gustafsson_Magnus,Van_Herck_Johan,Gustafsson_Magnus,Open_13,1998,02,08,6-7(1)_6-4_6-2
 Open_13,2,1998,02,08,1,Carbonell_Tomas,Bruguera_Sergi,Bruguera_Sergi,Open_13,1998,02,08,6-2_4-6_6-3
-Open_13,2,1998,02,08,1,Portas_Albert,Lopez_MoronAlex,Portas_Albert,Open_13,1998,02,08,6-3_6-3
+Open_13,2,1998,02,08,1,Portas_Albert,Lopez_Moron_Alex,Portas_Albert,Open_13,1998,02,08,6-3_6-3
 Open_13,2,1998,02,08,1,Nydahl_Tomas,Vacek_Daniel,Vacek_Daniel,Open_13,1998,02,08,7-6(10)_7-6(4)
 Open_13,2,1998,02,08,1,Tarango_Jeff,Grosjean_Sebastien,Grosjean_Sebastien,Open_13,1998,02,08,6-3_6-4
 Open_13,2,1998,02,08,1,Alami_Karim,Krajicek_Richard,Krajicek_Richard,Open_13,1998,02,08,6-4_6-3

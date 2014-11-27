@@ -7,7 +7,7 @@ Open_13,2,1993,02,07,1,Kuhnen_Patrik,Nijssen_Tom,Kuhnen_Patrik,Open_13,1993,02,0
 Open_13,2,1993,02,07,1,Thoms_Arne,Guardiola_Thierry,Thoms_Arne,Open_13,1993,02,07,7-6(4)_6-1
 Open_13,2,1993,02,07,1,Skoff_Horst,Boetsch_Arnaud,Boetsch_Arnaud,Open_13,1993,02,07,5-7_6-1_1-0_RET
 Open_13,2,1993,02,07,1,Rosset_Marc,Simian_Stephane,Rosset_Marc,Open_13,1993,02,07,7-6(9)_6-7(3)_7-6(3)
-Open_13,2,1993,02,07,1,Leconte_Henri,Van_RensburgChristo,Leconte_Henri,Open_13,1993,02,07,6-2_6-3
+Open_13,2,1993,02,07,1,Leconte_Henri,Van_Rensburg_Christo,Leconte_Henri,Open_13,1993,02,07,6-2_6-3
 Open_13,2,1993,02,07,1,Roux_Lionel,Gilbert_Rodolphe,Gilbert_Rodolphe,Open_13,1993,02,07,6-3_6-2
 Open_13,2,1993,02,07,1,Stadling_Mikael,Mansdorf_Amos,Mansdorf_Amos,Open_13,1993,02,07,6-4_6-2
 Open_13,2,1993,02,07,1,Hlasek_Jakob,Delaitre_Olivier,Hlasek_Jakob,Open_13,1993,02,07,7-6(5)_6-1

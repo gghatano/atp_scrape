@@ -8,7 +8,7 @@ Manila,2,1977,11,20,1,Wilkison_Tim,Feigl_Peter,Wilkison_Tim,Manila,1977,11,20,7-
 Manila,2,1977,11,20,1,Whitlinger_John,Case_Ross,Case_Ross,Manila,1977,11,20,6-0_6-7_6-2
 Manila,2,1977,11,20,1,Meiler_Karl,Rafon_Romeo,Meiler_Karl,Manila,1977,11,20,6-3_6-3
 Manila,2,1977,11,20,1,Moor_Terry,Fassbender_Jurgen,Moor_Terry,Manila,1977,11,20,3-6_7-6_6-3
-Manila,2,1977,11,20,1,Gullikson_Tom,El_ShafeiIsmail,Gullikson_Tom,Manila,1977,11,20,6-7_6-4_6-2
+Manila,2,1977,11,20,1,Gullikson_Tom,El_Shafei_Ismail,Gullikson_Tom,Manila,1977,11,20,6-7_6-4_6-2
 Manila,2,1977,11,20,1,Lara_Marcelo,Warwick_Kim,Lara_Marcelo,Manila,1977,11,20,6-2_7-5
 Manila,2,1977,11,20,1,Masters_Geoff,Fagel_Rick,Masters_Geoff,Manila,1977,11,20,3-6_6-3_6-3
 Manila,2,1977,11,20,1,Lewis_Richard,Stone_Allan,Lewis_Richard,Manila,1977,11,20,6-4_7-6

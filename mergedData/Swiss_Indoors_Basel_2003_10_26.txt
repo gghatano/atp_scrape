@@ -2,7 +2,7 @@ Swiss_Indoors_Basel,2,2003,10,26,1,Roddick_Andy,Scherrer_JeanClaude,Roddick_Andy
 Swiss_Indoors_Basel,2,2003,10,26,1,Lee_HyungTaik,Elseneer_Gilles,Elseneer_Gilles,Swiss_Indoors_Basel,2003,10,26,6-2_6-0
 Swiss_Indoors_Basel,2,2003,10,26,1,Rochus_Olivier,Mantilla_Felix,Rochus_Olivier,Swiss_Indoors_Basel,2003,10,26,6-7(4)_6-2_7-6(10)
 Swiss_Indoors_Basel,2,2003,10,26,1,Kratochvil_Michel,Robredo_Tommy,Robredo_Tommy,Swiss_Indoors_Basel,2003,10,26,6-4_6-4
-Swiss_Indoors_Basel,2,2003,10,26,1,Nalbandian_David,Ramirez_HidalgoRuben,Nalbandian_David,Swiss_Indoors_Basel,2003,10,26,6-4_6-0
+Swiss_Indoors_Basel,2,2003,10,26,1,Nalbandian_David,Ramirez_Hidalgo_Ruben,Nalbandian_David,Swiss_Indoors_Basel,2003,10,26,6-4_6-0
 Swiss_Indoors_Basel,2,2003,10,26,1,Clement_Arnaud,Mathieu_PaulHenri,Clement_Arnaud,Swiss_Indoors_Basel,2003,10,26,6-4_7-6(4)
 Swiss_Indoors_Basel,2,2003,10,26,1,Zib_Tomas,Wawrinka_Stan,Zib_Tomas,Swiss_Indoors_Basel,2003,10,26,7-6(0)_7-6(5)
 Swiss_Indoors_Basel,2,2003,10,26,1,Henman_Tim,Verkerk_Martin,Henman_Tim,Swiss_Indoors_Basel,2003,10,26,6-2_6-3

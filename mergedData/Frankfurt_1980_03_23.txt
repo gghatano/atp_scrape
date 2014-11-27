@@ -7,7 +7,7 @@ Frankfurt,2,1980,03,23,1,Denton_Steve,Smith_Stan,Smith_Stan,Frankfurt,1980,03,23
 Frankfurt,2,1980,03,23,1,Ramirez_Raul,Sadri_John,Ramirez_Raul,Frankfurt,1980,03,23,6-7_7-6_7-5
 Frankfurt,2,1980,03,23,1,Frawley_Rod,Alexander_John,Alexander_John,Frankfurt,1980,03,23,6-3_3-6_6-3
 Frankfurt,2,1980,03,23,1,Fibak_Wojtek,Gunthardt_Heinz,Gunthardt_Heinz,Frankfurt,1980,03,23,4-6_6-4_6-3
-Frankfurt,2,1980,03,23,1,Curren_Kevin,Mottram_BusterC,Mottram_BusterC,Frankfurt,1980,03,23,3-6_6-4_6-0
+Frankfurt,2,1980,03,23,1,Curren_Kevin,Mottram_Buster_C,Mottram_Buster_C,Frankfurt,1980,03,23,3-6_6-4_6-0
 Frankfurt,2,1980,03,23,1,Lendl_Ivan,Gottfried_Brian,Gottfried_Brian,Frankfurt,1980,03,23,7-6_6-2
 Frankfurt,2,1980,03,23,1,Pinner_Ulrich,Gomez_Andres,Pinner_Ulrich,Frankfurt,1980,03,23,1-6_6-4_6-1
 Frankfurt,2,1980,03,23,1,Palin_Leo,Dent_Phil,Dent_Phil,Frankfurt,1980,03,23,7-6_5-7_6-4
@@ -18,7 +18,7 @@ Frankfurt,2,1980,03,23,2,Gehring_Rolf,Gullikson_Tim,Gullikson_Tim,Frankfurt,1980
 Frankfurt,2,1980,03,23,2,Smid_Tomas,Amritraj_Vijay,Smid_Tomas,Frankfurt,1980,03,23,7-5_0-6_7-6
 Frankfurt,2,1980,03,23,2,Gildemeister_Hans,Smith_Stan,Smith_Stan,Frankfurt,1980,03,23,6-3_7-6
 Frankfurt,2,1980,03,23,2,Ramirez_Raul,Alexander_John,Ramirez_Raul,Frankfurt,1980,03,23,6-4_6-3
-Frankfurt,2,1980,03,23,2,Gunthardt_Heinz,Mottram_BusterC,Gunthardt_Heinz,Frankfurt,1980,03,23,6-2_2-6_6-2
+Frankfurt,2,1980,03,23,2,Gunthardt_Heinz,Mottram_Buster_C,Gunthardt_Heinz,Frankfurt,1980,03,23,6-2_2-6_6-2
 Frankfurt,2,1980,03,23,2,Gottfried_Brian,Pinner_Ulrich,Gottfried_Brian,Frankfurt,1980,03,23,3-6_6-2_6-2
 Frankfurt,2,1980,03,23,2,Dent_Phil,Walts_Butch,Walts_Butch,Frankfurt,1980,03,23,6-3_6-0
 Frankfurt,2,1980,03,23,2,Kriek_Johan,Scanlon_Bill,Kriek_Johan,Frankfurt,1980,03,23,7-6_4-6_6-2

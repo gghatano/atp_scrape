@@ -9,7 +9,7 @@ Wembley,2,1971,11,07,1,Kodes_Jan,Stolle_Fred,Kodes_Jan,Wembley,1971,11,07,6-3_4-
 Wembley,2,1971,11,07,1,Drysdale_Cliff,Barthes_Pierre,Drysdale_Cliff,Wembley,1971,11,07,6-1_6-3
 Wembley,2,1971,11,07,1,Graebner_Clark,Lutz_Robert,Graebner_Clark,Wembley,1971,11,07,W/O
 Wembley,2,1971,11,07,1,Laver_Rod,Taylor_Roger,Laver_Rod,Wembley,1971,11,07,7-5_8-6
-Wembley,2,1971,11,07,1,Goven_Georges,El_ShafeiIsmail,Goven_Georges,Wembley,1971,11,07,3-6_6-4_7-5
+Wembley,2,1971,11,07,1,Goven_Georges,El_Shafei_Ismail,Goven_Georges,Wembley,1971,11,07,3-6_6-4_7-5
 Wembley,2,1971,11,07,1,Hewitt_Bob,Riessen_Marty,Hewitt_Bob,Wembley,1971,11,07,9-8_6-4
 Wembley,2,1971,11,07,1,Alexander_John,Froehling_Frank,Alexander_John,Wembley,1971,11,07,7-5_6-2
 Wembley,2,1971,11,07,1,Ruffels_Ray,Smith_Stan,Ruffels_Ray,Wembley,1971,11,07,9-8_6-4

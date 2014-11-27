@@ -14,7 +14,7 @@ North_Conway,2,1979,12,25,1,Alexander_John,McNamara_Peter,McNamara_Peter,North_C
 North_Conway,2,1979,12,25,1,Maze_Bill,Edmondson_Mark,Maze_Bill,North_Conway,1979,12,25,6-4_7-5
 North_Conway,2,1979,12,25,1,Ycaza_Ricardo,Cahill_Mike,Cahill_Mike,North_Conway,1979,12,25,6-3_4-6_6-0
 North_Conway,2,1979,12,25,1,Maher_Warren,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway,1979,12,25,6-0_6-3
-North_Conway,2,1979,12,25,1,Pecci_SrVictor,Norback_Jan,Pecci_SrVictor,North_Conway,1979,12,25,6-3_6-1
+North_Conway,2,1979,12,25,1,Pecci_Sr_Victor,Norback_Jan,Pecci_Sr_Victor,North_Conway,1979,12,25,6-3_6-1
 North_Conway,2,1979,12,25,1,Dent_Phil,Gullikson_Tom,Gullikson_Tom,North_Conway,1979,12,25,6-3_3-6_6-4
 North_Conway,2,1979,12,25,1,Kronk_Paul,Richardson_Keith,Kronk_Paul,North_Conway,1979,12,25,5-7_6-3_6-4
 North_Conway,2,1979,12,25,1,Wilkison_Tim,Teacher_Brian,Teacher_Brian,North_Conway,1979,12,25,3-6_6-3_6-0
@@ -25,9 +25,9 @@ North_Conway,2,1979,12,25,1,Nunez_Juan,Vilas_Guillermo,Vilas_Guillermo,North_Con
 North_Conway,2,1979,12,25,1,Higueras_Jose,Joubert_Deon,Higueras_Jose,North_Conway,1979,12,25,6-1_6-0
 North_Conway,2,1979,12,25,1,Mayotte_Tim,Sadri_John,Sadri_John,North_Conway,1979,12,25,6-1_6-4
 North_Conway,2,1979,12,25,1,Dowdeswell_Colin,Madani_Ali,Dowdeswell_Colin,North_Conway,1979,12,25,7-6_6-0
-North_Conway,2,1979,12,25,1,Fillol_SrJaime,Gottfried_Brian,Gottfried_Brian,North_Conway,1979,12,25,7-5_6-1
+North_Conway,2,1979,12,25,1,Fillol_Sr_Jaime,Gottfried_Brian,Gottfried_Brian,North_Conway,1979,12,25,7-5_6-1
 North_Conway,2,1979,12,25,1,Barazzutti_Corrado,Krulevitz_Steve,Barazzutti_Corrado,North_Conway,1979,12,25,6-3_7-6
-North_Conway,2,1979,12,25,1,Waltke_Trey,Lewis_NZLChris,Waltke_Trey,North_Conway,1979,12,25,6-3_6-2
+North_Conway,2,1979,12,25,1,Waltke_Trey,Lewis_NZL_Chris,Waltke_Trey,North_Conway,1979,12,25,6-3_6-2
 North_Conway,2,1979,12,25,1,Bourne_Lloyd,Gardiner_Alvin,Bourne_Lloyd,North_Conway,1979,12,25,7-5_1-6_7-6
 North_Conway,2,1979,12,25,1,Winitsky_Van,Tanner_Roscoe,Tanner_Roscoe,North_Conway,1979,12,25,6-1_7-5
 North_Conway,2,1979,12,25,2,Connors_Jimmy,Gonzalez_Francisco,Gonzalez_Francisco,North_Conway,1979,12,25,W/O
@@ -38,7 +38,7 @@ North_Conway,2,1979,12,25,2,Solomon_Harold,Manson_Bruce,Solomon_Harold,North_Con
 North_Conway,2,1979,12,25,2,Ramirez_Raul,Orantes_Manuel,Ramirez_Raul,North_Conway,1979,12,25,6-4_6-0
 North_Conway,2,1979,12,25,2,McNamara_Peter,Maze_Bill,McNamara_Peter,North_Conway,1979,12,25,6-4_6-3
 North_Conway,2,1979,12,25,2,Cahill_Mike,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway,1979,12,25,6-2_6-1
-North_Conway,2,1979,12,25,2,Pecci_SrVictor,Gullikson_Tom,Pecci_SrVictor,North_Conway,1979,12,25,7-6_6-4
+North_Conway,2,1979,12,25,2,Pecci_Sr_Victor,Gullikson_Tom,Pecci_Sr_Victor,North_Conway,1979,12,25,7-6_6-4
 North_Conway,2,1979,12,25,2,Kronk_Paul,Teacher_Brian,Teacher_Brian,North_Conway,1979,12,25,6-4_6-3
 North_Conway,2,1979,12,25,2,Gullikson_Tim,Gehring_Rolf,Gehring_Rolf,North_Conway,1979,12,25,6-1_7-5
 North_Conway,2,1979,12,25,2,Walts_Butch,Vilas_Guillermo,Vilas_Guillermo,North_Conway,1979,12,25,6-3_3-6_6-1
@@ -50,13 +50,13 @@ North_Conway,2,1979,12,25,3,Gonzalez_Francisco,Taroczy_Balazs,Taroczy_Balazs,Nor
 North_Conway,2,1979,12,25,3,Case_Ross,Dibbs_Eddie,Dibbs_Eddie,North_Conway,1979,12,25,2-6_6-1_7-5
 North_Conway,2,1979,12,25,3,Solomon_Harold,Ramirez_Raul,Solomon_Harold,North_Conway,1979,12,25,6-4_6-2
 North_Conway,2,1979,12,25,3,McNamara_Peter,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway,1979,12,25,6-2_1-6_6-3
-North_Conway,2,1979,12,25,3,Pecci_SrVictor,Teacher_Brian,Pecci_SrVictor,North_Conway,1979,12,25,6-2_6-1
+North_Conway,2,1979,12,25,3,Pecci_Sr_Victor,Teacher_Brian,Pecci_Sr_Victor,North_Conway,1979,12,25,6-2_6-1
 North_Conway,2,1979,12,25,3,Gehring_Rolf,Vilas_Guillermo,Vilas_Guillermo,North_Conway,1979,12,25,3-6_7-5_6-1
 North_Conway,2,1979,12,25,3,Higueras_Jose,Gottfried_Brian,Higueras_Jose,North_Conway,1979,12,25,6-1_6-1
 North_Conway,2,1979,12,25,3,Barazzutti_Corrado,Tanner_Roscoe,Barazzutti_Corrado,North_Conway,1979,12,25,6-7_7-5_7-6
 North_Conway,2,1979,12,25,4,Taroczy_Balazs,Dibbs_Eddie,Dibbs_Eddie,North_Conway,1979,12,25,6-3_5-7_6-1
 North_Conway,2,1979,12,25,4,Solomon_Harold,Clerc_JoseLuis,Solomon_Harold,North_Conway,1979,12,25,6-3_6-1
-North_Conway,2,1979,12,25,4,Pecci_SrVictor,Vilas_Guillermo,Vilas_Guillermo,North_Conway,1979,12,25,6-4_6-0
+North_Conway,2,1979,12,25,4,Pecci_Sr_Victor,Vilas_Guillermo,Vilas_Guillermo,North_Conway,1979,12,25,6-4_6-0
 North_Conway,2,1979,12,25,4,Higueras_Jose,Barazzutti_Corrado,Higueras_Jose,North_Conway,1979,12,25,6-4_4-6_6-2
 North_Conway,2,1979,12,25,5,Dibbs_Eddie,Solomon_Harold,Solomon_Harold,North_Conway,1979,12,25,7-6_6-3
 North_Conway,2,1979,12,25,5,Vilas_Guillermo,Higueras_Jose,Higueras_Jose,North_Conway,1979,12,25,6-2_6-1

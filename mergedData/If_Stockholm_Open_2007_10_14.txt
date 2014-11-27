@@ -3,7 +3,7 @@ If_Stockholm_Open,2,2007,10,14,1,Wessels_Peter,Dancevic_Frank,Dancevic_Frank,If_
 If_Stockholm_Open,2,2007,10,14,1,Luczak_Peter,Becker_Benjamin,Luczak_Peter,If_Stockholm_Open,2007,10,14,2-6_6-3_6-4
 If_Stockholm_Open,2,2007,10,14,1,Kamke_Tobias,Nieminen_Jarkko,Nieminen_Jarkko,If_Stockholm_Open,2007,10,14,6-1_6-2
 If_Stockholm_Open,2,2007,10,14,1,Gremelmayr_Denis,Llodra_Michael,Llodra_Michael,If_Stockholm_Open,2007,10,14,6-3_6-2
-If_Stockholm_Open,2,2007,10,14,1,Del_PotroJuanMartin,Johansson_Thomas,Johansson_Thomas,If_Stockholm_Open,2007,10,14,6-4_1-0_RET
+If_Stockholm_Open,2,2007,10,14,1,Del_Potro_Juan_Martin,Johansson_Thomas,Johansson_Thomas,If_Stockholm_Open,2007,10,14,6-4_1-0_RET
 If_Stockholm_Open,2,2007,10,14,1,Delic_Amer,Ancic_Mario,Ancic_Mario,If_Stockholm_Open,2007,10,14,6-1_6-4
 If_Stockholm_Open,2,2007,10,14,1,Spadea_Vincent,Rehnquist_Bjorn,Rehnquist_Bjorn,If_Stockholm_Open,2007,10,14,6-4_6-4
 If_Stockholm_Open,2,2007,10,14,1,Monaco_Juan,Eleskovic_Ervin,Monaco_Juan,If_Stockholm_Open,2007,10,14,6-3_6-3

@@ -4,7 +4,7 @@ Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Pinner_Ulrich,Fritz_Bernard,Pinner_Ulri
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Balleret_Bernard,Clerc_JoseLuis,Clerc_JoseLuis,Monte-Carlo_Rolex_Masters,1979,04,08,6-2_6-0
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Orantes_Manuel,Franulovic_Zeljko,Franulovic_Zeljko,Monte-Carlo_Rolex_Masters,1979,04,08,6-2_7-5
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Noah_Yannick,Borfiga_Luis,Noah_Yannick,Monte-Carlo_Rolex_Masters,1979,04,08,6-1_6-3
-Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Pecci_SrVictor,Lendl_Ivan,Pecci_SrVictor,Monte-Carlo_Rolex_Masters,1979,04,08,6-1_6-3
+Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Pecci_Sr_Victor,Lendl_Ivan,Pecci_Sr_Victor,Monte-Carlo_Rolex_Masters,1979,04,08,6-1_6-3
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Gehring_Rolf,Barazzutti_Corrado,Gehring_Rolf,Monte-Carlo_Rolex_Masters,1979,04,08,7-6_6-2
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Ramirez_Raul,Portes_Pascal,Ramirez_Raul,Monte-Carlo_Rolex_Masters,1979,04,08,7-5_6-1
 Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Pattison_Andrew,Smid_Tomas,Smid_Tomas,Monte-Carlo_Rolex_Masters,1979,04,08,6-3_6-2
@@ -17,15 +17,15 @@ Monte-Carlo_Rolex_Masters,2,1979,04,08,1,Taroczy_Balazs,Vilas_Guillermo,Vilas_Gu
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Borg_Bjorn,Higueras_Jose,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-4
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Pinner_Ulrich,Clerc_JoseLuis,Clerc_JoseLuis,Monte-Carlo_Rolex_Masters,1979,04,08,3-6_7-6_6-1
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Franulovic_Zeljko,Noah_Yannick,Noah_Yannick,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-4
-Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Pecci_SrVictor,Gehring_Rolf,Pecci_SrVictor,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-7_7-5
+Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Pecci_Sr_Victor,Gehring_Rolf,Pecci_Sr_Victor,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-7_7-5
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Ramirez_Raul,Smid_Tomas,Ramirez_Raul,Monte-Carlo_Rolex_Masters,1979,04,08,6-3_6-3
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Jauffret_Francois,Gerulaitis_Vitas,Gerulaitis_Vitas,Monte-Carlo_Rolex_Masters,1979,04,08,6-7_6-3_7-5
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Nastase_Ilie,Masters_Geoff,Nastase_Ilie,Monte-Carlo_Rolex_Masters,1979,04,08,DEF
 Monte-Carlo_Rolex_Masters,2,1979,04,08,2,Alexander_John,Vilas_Guillermo,Alexander_John,Monte-Carlo_Rolex_Masters,1979,04,08,4-6_7-6_7-6
 Monte-Carlo_Rolex_Masters,2,1979,04,08,3,Borg_Bjorn,Clerc_JoseLuis,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1979,04,08,4-6_6-2_6-1
-Monte-Carlo_Rolex_Masters,2,1979,04,08,3,Noah_Yannick,Pecci_SrVictor,Pecci_SrVictor,Monte-Carlo_Rolex_Masters,1979,04,08,6-0_7-6
+Monte-Carlo_Rolex_Masters,2,1979,04,08,3,Noah_Yannick,Pecci_Sr_Victor,Pecci_Sr_Victor,Monte-Carlo_Rolex_Masters,1979,04,08,6-0_7-6
 Monte-Carlo_Rolex_Masters,2,1979,04,08,3,Ramirez_Raul,Gerulaitis_Vitas,Gerulaitis_Vitas,Monte-Carlo_Rolex_Masters,1979,04,08,6-0_6-3
 Monte-Carlo_Rolex_Masters,2,1979,04,08,3,Nastase_Ilie,Alexander_John,Alexander_John,Monte-Carlo_Rolex_Masters,1979,04,08,6-3_5-7_6-4
-Monte-Carlo_Rolex_Masters,2,1979,04,08,4,Borg_Bjorn,Pecci_SrVictor,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-1
+Monte-Carlo_Rolex_Masters,2,1979,04,08,4,Borg_Bjorn,Pecci_Sr_Victor,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1979,04,08,6-4_6-1
 Monte-Carlo_Rolex_Masters,2,1979,04,08,4,Gerulaitis_Vitas,Alexander_John,Gerulaitis_Vitas,Monte-Carlo_Rolex_Masters,1979,04,08,6-2_7-6
 Monte-Carlo_Rolex_Masters,2,1979,04,08,5,Borg_Bjorn,Gerulaitis_Vitas,Borg_Bjorn,Monte-Carlo_Rolex_Masters,1979,04,08,6-2_6-1_6-3

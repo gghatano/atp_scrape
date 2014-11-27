@@ -4,7 +4,7 @@ If_Stockholm_Open,2,1998,11,15,1,Kohlmann_Michael,Grant_Geoff,Grant_Geoff,If_Sto
 If_Stockholm_Open,2,1998,11,15,1,Santoro_Fabrice,Johansson_Thomas,Johansson_Thomas,If_Stockholm_Open,1998,11,15,6-4_7-6(8)
 If_Stockholm_Open,2,1998,11,15,1,Rusedski_Greg,Haas_Tommy,Rusedski_Greg,If_Stockholm_Open,1998,11,15,6-1_6-4
 If_Stockholm_Open,2,1998,11,15,1,Paes_Leander,Spadea_Vincent,Spadea_Vincent,If_Stockholm_Open,1998,11,15,7-6(1)_6-1
-If_Stockholm_Open,2,1998,11,15,1,Nestor_Daniel,Van_HerckJohan,Nestor_Daniel,If_Stockholm_Open,1998,11,15,6-3_7-6(2)
+If_Stockholm_Open,2,1998,11,15,1,Nestor_Daniel,Van_Herck_Johan,Nestor_Daniel,If_Stockholm_Open,1998,11,15,6-3_7-6(2)
 If_Stockholm_Open,2,1998,11,15,1,Vinciguerra_Andreas,Pioline_Cedric,Pioline_Cedric,If_Stockholm_Open,1998,11,15,6-3_7-5
 If_Stockholm_Open,2,1998,11,15,1,Bjorkman_Jonas,Goellner_MarcKevin,Bjorkman_Jonas,If_Stockholm_Open,1998,11,15,6-4_6-2
 If_Stockholm_Open,2,1998,11,15,1,Schuettler_Rainer,Gustafsson_Magnus,Gustafsson_Magnus,If_Stockholm_Open,1998,11,15,3-6_6-4_6-4

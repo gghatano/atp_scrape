@@ -4,7 +4,7 @@ Geneva,2,1988,09,25,1,Rosset_Marc,Meinecke_Tore,Meinecke_Tore,Geneva,1988,09,25,
 Geneva,2,1988,09,25,1,Thoms_Arne,Luna_Fernando,Luna_Fernando,Geneva,1988,09,25,6-3_6-1
 Geneva,2,1988,09,25,1,Gustafsson_Magnus,Bergstrom_Christian,Bergstrom_Christian,Geneva,1988,09,25,6-4_6-4
 Geneva,2,1988,09,25,1,Flego_Igor,Kuharszky_Zoltan,Flego_Igor,Geneva,1988,09,25,6-7_6-4_7-6
-Geneva,2,1988,09,25,1,Koevermans_Mark,De_LaPenaHoracio,De_LaPenaHoracio,Geneva,1988,09,25,6-7_6-4_7-6
+Geneva,2,1988,09,25,1,Koevermans_Mark,De_La_Pena_Horacio,De_La_Pena_Horacio,Geneva,1988,09,25,6-7_6-4_7-6
 Geneva,2,1988,09,25,1,Gunnarsson_Jan,Smid_Tomas,Gunnarsson_Jan,Geneva,1988,09,25,7-6_6-4
 Geneva,2,1988,09,25,1,Mezzadri_Claudio,Masso_Eduardo,Mezzadri_Claudio,Geneva,1988,09,25,6-4_6-2
 Geneva,2,1988,09,25,1,Bengoechea_Eduardo,Aguilera_Juan,Bengoechea_Eduardo,Geneva,1988,09,25,6-1_6-1
@@ -17,15 +17,15 @@ Geneva,2,1988,09,25,1,Vajda_Marian,PerezRoldan_Guillermo,Vajda_Marian,Geneva,198
 Geneva,2,1988,09,25,2,Carlsson_Kent,Stadler_Roland,Carlsson_Kent,Geneva,1988,09,25,6-2_1-6_6-0
 Geneva,2,1988,09,25,2,Meinecke_Tore,Luna_Fernando,Luna_Fernando,Geneva,1988,09,25,7-6_6-2
 Geneva,2,1988,09,25,2,Bergstrom_Christian,Flego_Igor,Bergstrom_Christian,Geneva,1988,09,25,6-2_6-2
-Geneva,2,1988,09,25,2,De_LaPenaHoracio,Gunnarsson_Jan,De_LaPenaHoracio,Geneva,1988,09,25,7-6_6-2
+Geneva,2,1988,09,25,2,De_La_Pena_Horacio,Gunnarsson_Jan,De_La_Pena_Horacio,Geneva,1988,09,25,7-6_6-2
 Geneva,2,1988,09,25,2,Mezzadri_Claudio,Bengoechea_Eduardo,Bengoechea_Eduardo,Geneva,1988,09,25,6-2_6-2
 Geneva,2,1988,09,25,2,Colas_Jesus,Arrese_Jordi,Arrese_Jordi,Geneva,1988,09,25,6-1_6-3
 Geneva,2,1988,09,25,2,Oresar_Bruno,Rebolledo_Pedro,Rebolledo_Pedro,Geneva,1988,09,25,1-6_6-2_6-4
 Geneva,2,1988,09,25,2,Arraya_Pablo,Vajda_Marian,Vajda_Marian,Geneva,1988,09,25,3-6_6-3_6-3
 Geneva,2,1988,09,25,3,Carlsson_Kent,Luna_Fernando,Carlsson_Kent,Geneva,1988,09,25,6-1_6-2
-Geneva,2,1988,09,25,3,Bergstrom_Christian,De_LaPenaHoracio,De_LaPenaHoracio,Geneva,1988,09,25,6-2_7-5
+Geneva,2,1988,09,25,3,Bergstrom_Christian,De_La_Pena_Horacio,De_La_Pena_Horacio,Geneva,1988,09,25,6-2_7-5
 Geneva,2,1988,09,25,3,Bengoechea_Eduardo,Arrese_Jordi,Bengoechea_Eduardo,Geneva,1988,09,25,6-1_6-2
 Geneva,2,1988,09,25,3,Rebolledo_Pedro,Vajda_Marian,Vajda_Marian,Geneva,1988,09,25,6-3_6-2
-Geneva,2,1988,09,25,4,Carlsson_Kent,De_LaPenaHoracio,Carlsson_Kent,Geneva,1988,09,25,6-2_6-2
+Geneva,2,1988,09,25,4,Carlsson_Kent,De_La_Pena_Horacio,Carlsson_Kent,Geneva,1988,09,25,6-2_6-2
 Geneva,2,1988,09,25,4,Bengoechea_Eduardo,Vajda_Marian,Vajda_Marian,Geneva,1988,09,25,7-5_6-1
 Geneva,2,1988,09,25,5,Carlsson_Kent,Vajda_Marian,Vajda_Marian,Geneva,1988,09,25,6-4_6-4

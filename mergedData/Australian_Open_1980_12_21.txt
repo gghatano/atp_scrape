@@ -1,7 +1,7 @@
 Australian_Open,1,1980,12,21,1,Vilas_Guillermo,Carter_David,Vilas_Guillermo,Australian_Open,1980,12,21,7-6_6-3_6-4
 Australian_Open,1,1980,12,21,1,Docherty_Steve,Simpson_Russell,Docherty_Steve,Australian_Open,1980,12,21,4-6_6-3_6-7_6-4_6-4
 Australian_Open,1,1980,12,21,1,Curren_Kevin,Fancutt_Charlie,Curren_Kevin,Australian_Open,1980,12,21,6-4_6-3_6-3
-Australian_Open,1,1980,12,21,1,Pecci_SrVictor,Kronk_Paul,Pecci_SrVictor,Australian_Open,1980,12,21,7-6_6-7_6-3_5-7_6-4
+Australian_Open,1,1980,12,21,1,Pecci_Sr_Victor,Kronk_Paul,Pecci_Sr_Victor,Australian_Open,1980,12,21,7-6_6-7_6-3_5-7_6-4
 Australian_Open,1,1980,12,21,1,Dent_Phil,Parun_Onny,Dent_Phil,Australian_Open,1980,12,21,6-7_6-4_2-6_7-6_7-6
 Australian_Open,1,1980,12,21,1,Glickstein_Shlomo,Lapidus_Jay,Glickstein_Shlomo,Australian_Open,1980,12,21,6-0_3-6_6-3_6-1
 Australian_Open,1,1980,12,21,1,Smith_Jonathan,Graham_Tony,Smith_Jonathan,Australian_Open,1980,12,21,7-6_6-7_7-6_6-1
@@ -18,7 +18,7 @@ Australian_Open,1,1980,12,21,1,Teacher_Brian,Mayotte_Chris,Teacher_Brian,Austral
 Australian_Open,1,1980,12,21,1,Marten_Ulrich,Edwards_Eddie,Marten_Ulrich,Australian_Open,1980,12,21,6-4_7-6_7-5
 Australian_Open,1,1980,12,21,1,Dibley_Colin,Pfister_Henry,Dibley_Colin,Australian_Open,1980,12,21,3-6_6-3_7-6_6-4
 Australian_Open,1,1980,12,21,1,Austin_John,Noah_Yannick,Austin_John,Australian_Open,1980,12,21,6-3_6-2_6-1
-Australian_Open,1,1980,12,21,1,McNamee_Paul,Lewis_NZLChris,McNamee_Paul,Australian_Open,1980,12,21,7-6_6-3_3-6_6-2
+Australian_Open,1,1980,12,21,1,McNamee_Paul,Lewis_NZL_Chris,McNamee_Paul,Australian_Open,1980,12,21,7-6_6-3_3-6_6-2
 Australian_Open,1,1980,12,21,1,Johnstone_Chris,Martin_Billy,Johnstone_Chris,Australian_Open,1980,12,21,6-4_1-6_7-5_6-2
 Australian_Open,1,1980,12,21,1,Edmondson_Mark,Pattison_Andrew,Edmondson_Mark,Australian_Open,1980,12,21,7-6_7-6_6-3
 Australian_Open,1,1980,12,21,1,Clerc_JoseLuis,Gullikson_Tom,Clerc_JoseLuis,Australian_Open,1980,12,21,6-3_6-1_3-6_6-4
@@ -31,7 +31,7 @@ Australian_Open,1,1980,12,21,1,Rennert_Peter,Masters_Geoff,Rennert_Peter,Austral
 Australian_Open,1,1980,12,21,1,Dupre_Pat,Trickey_John,Dupre_Pat,Australian_Open,1980,12,21,6-2_3-6_7-6_4-6_6-4
 Australian_Open,1,1980,12,21,1,Lendl_Ivan,Frawley_Rod,Lendl_Ivan,Australian_Open,1980,12,21,6-3_6-1_6-1
 Australian_Open,1,1980,12,21,2,Vilas_Guillermo,Docherty_Steve,Vilas_Guillermo,Australian_Open,1980,12,21,3-6_6-3_6-3_7-6
-Australian_Open,1,1980,12,21,2,Curren_Kevin,Pecci_SrVictor,Curren_Kevin,Australian_Open,1980,12,21,6-4_6-2_6-3
+Australian_Open,1,1980,12,21,2,Curren_Kevin,Pecci_Sr_Victor,Curren_Kevin,Australian_Open,1980,12,21,6-4_6-2_6-3
 Australian_Open,1,1980,12,21,2,Dent_Phil,Glickstein_Shlomo,Dent_Phil,Australian_Open,1980,12,21,6-7_7-6_6-3_7-6
 Australian_Open,1,1980,12,21,2,Smith_Jonathan,Sadri_John,Sadri_John,Australian_Open,1980,12,21,7-6_1-6_6-1
 Australian_Open,1,1980,12,21,2,Drewett_Brad,Mayer_Sandy,Drewett_Brad,Australian_Open,1980,12,21,3-6_6-3_6-3_7-6

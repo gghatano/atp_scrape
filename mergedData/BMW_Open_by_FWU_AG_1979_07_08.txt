@@ -9,7 +9,7 @@ BMW_Open_by_FWU_AG,2,1979,07,08,1,Dominguez_Patrice,Franulovic_Zeljko,Franulovic
 BMW_Open_by_FWU_AG,2,1979,07,08,1,Gehring_Rolf,Moore_Raymond,Gehring_Rolf,BMW_Open_by_FWU_AG,1979,07,08,7-6_6-1
 BMW_Open_by_FWU_AG,2,1979,07,08,1,James_John,Gomez_Andres,Gomez_Andres,BMW_Open_by_FWU_AG,1979,07,08,7-6_6-1
 BMW_Open_by_FWU_AG,2,1979,07,08,1,Kodes_Jan,Soares_Joao,Kodes_Jan,BMW_Open_by_FWU_AG,1979,07,08,6-3_7-5
-BMW_Open_by_FWU_AG,2,1979,07,08,1,Birner_Stanislav,Pecci_SrVictor,Pecci_SrVictor,BMW_Open_by_FWU_AG,1979,07,08,6-2_6-4
+BMW_Open_by_FWU_AG,2,1979,07,08,1,Birner_Stanislav,Pecci_Sr_Victor,Pecci_Sr_Victor,BMW_Open_by_FWU_AG,1979,07,08,6-2_6-4
 BMW_Open_by_FWU_AG,2,1979,07,08,1,Okker_Tom,Munoz_Antonio,Okker_Tom,BMW_Open_by_FWU_AG,1979,07,08,4-6_6-3_6-1
 BMW_Open_by_FWU_AG,2,1979,07,08,1,Elter_Peter,Johansson_Kjell,Elter_Peter,BMW_Open_by_FWU_AG,1979,07,08,6-7_6-2_6-1
 BMW_Open_by_FWU_AG,2,1979,07,08,1,Fagel_Rick,RogerVasselin_Christophe,Fagel_Rick,BMW_Open_by_FWU_AG,1979,07,08,6-1_6-2
@@ -19,7 +19,7 @@ BMW_Open_by_FWU_AG,2,1979,07,08,2,Zirngibl_Werner,Pinner_Ulrich,Zirngibl_Werner,
 BMW_Open_by_FWU_AG,2,1979,07,08,2,Taroczy_Balazs,Molina_Ivan,Molina_Ivan,BMW_Open_by_FWU_AG,1979,07,08,6-2_0-6_7-6
 BMW_Open_by_FWU_AG,2,1979,07,08,2,Hrebec_Jiri,Franulovic_Zeljko,Hrebec_Jiri,BMW_Open_by_FWU_AG,1979,07,08,6-4_6-4
 BMW_Open_by_FWU_AG,2,1979,07,08,2,Gehring_Rolf,Gomez_Andres,Gomez_Andres,BMW_Open_by_FWU_AG,1979,07,08,7-6_6-4
-BMW_Open_by_FWU_AG,2,1979,07,08,2,Kodes_Jan,Pecci_SrVictor,Kodes_Jan,BMW_Open_by_FWU_AG,1979,07,08,4-6_6-4_7-6
+BMW_Open_by_FWU_AG,2,1979,07,08,2,Kodes_Jan,Pecci_Sr_Victor,Kodes_Jan,BMW_Open_by_FWU_AG,1979,07,08,4-6_6-4_7-6
 BMW_Open_by_FWU_AG,2,1979,07,08,2,Okker_Tom,Elter_Peter,Elter_Peter,BMW_Open_by_FWU_AG,1979,07,08,7-6_7-5
 BMW_Open_by_FWU_AG,2,1979,07,08,2,Fagel_Rick,Fibak_Wojtek,Fibak_Wojtek,BMW_Open_by_FWU_AG,1979,07,08,6-4_3-6_6-3
 BMW_Open_by_FWU_AG,2,1979,07,08,3,Orantes_Manuel,Zirngibl_Werner,Orantes_Manuel,BMW_Open_by_FWU_AG,1979,07,08,6-1_3-6_6-4

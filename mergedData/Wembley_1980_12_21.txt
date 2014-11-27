@@ -6,7 +6,7 @@ Wembley,2,1980,12,21,1,Solomon_Harold,Gunthardt_Heinz,Solomon_Harold,Wembley,198
 Wembley,2,1980,12,21,1,Mayer_Sandy,Nastase_Ilie,Mayer_Sandy,Wembley,1980,12,21,7-5_6-2
 Wembley,2,1980,12,21,1,Smid_Tomas,Taylor_Roger,Smid_Tomas,Wembley,1980,12,21,6-3_6-2
 Wembley,2,1980,12,21,1,Dibley_Colin,Teltscher_Eliot,Dibley_Colin,Wembley,1980,12,21,7-5_3-6_10-8
-Wembley,2,1980,12,21,1,Dibbs_Eddie,Vant_HofRobert,Dibbs_Eddie,Wembley,1980,12,21,6-2_6-2
+Wembley,2,1980,12,21,1,Dibbs_Eddie,Vant_Hof_Robert,Dibbs_Eddie,Wembley,1980,12,21,6-2_6-2
 Wembley,2,1980,12,21,1,Walts_Butch,Pfister_Henry,Walts_Butch,Wembley,1980,12,21,6-4_6-0
 Wembley,2,1980,12,21,1,Smith_Stan,Scanlon_Bill,Smith_Stan,Wembley,1980,12,21,4-6_6-3_6-0
 Wembley,2,1980,12,21,1,Gottfried_Brian,Mitton_Bernard,Gottfried_Brian,Wembley,1980,12,21,6-1_4-6_7-5

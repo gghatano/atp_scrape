@@ -6,7 +6,7 @@ Aegon_International,2,2000,06,25,1,Santoro_Fabrice,Palmer_Jared,Santoro_Fabrice,
 Aegon_International,2,2000,06,25,1,Gambill_JanMichael,Lee_Martin,Gambill_JanMichael,Aegon_International,2000,06,25,6-3_6-3
 Aegon_International,2,2000,06,25,1,Pozzi_Gianluca,Sanguinetti_Davide,Pozzi_Gianluca,Aegon_International,2000,06,25,7-5_6-4
 Aegon_International,2,2000,06,25,1,Clement_Arnaud,Koubek_Stefan,Clement_Arnaud,Aegon_International,2000,06,25,3-6_7-6(5)_6-3
-Aegon_International,2,2000,06,25,1,Rosset_Marc,Chela_JuanIgnacio,Rosset_Marc,Aegon_International,2000,06,25,6-4_6-4
+Aegon_International,2,2000,06,25,1,Rosset_Marc,Chela_Juan_Ignacio,Rosset_Marc,Aegon_International,2000,06,25,6-4_6-4
 Aegon_International,2,2000,06,25,1,Gimelstob_Justin,Ferreira_Wayne,Ferreira_Wayne,Aegon_International,2000,06,25,7-5_6-7(6)_6-3
 Aegon_International,2,2000,06,25,1,Arthurs_Wayne,Schuettler_Rainer,Arthurs_Wayne,Aegon_International,2000,06,25,7-6(5)_7-6(1)
 Aegon_International,2,2000,06,25,1,Spadea_Vincent,Grosjean_Sebastien,Grosjean_Sebastien,Aegon_International,2000,06,25,6-1_4-6_7-5

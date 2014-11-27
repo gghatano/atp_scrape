@@ -1,12 +1,12 @@
 Barcelona_WCT,2,1976,06,13,1,Orantes_Manuel,Drysdale_Cliff,Drysdale_Cliff,Barcelona_WCT,1976,06,13,3-6_7-6(6)_6-3
-Barcelona_WCT,2,1976,06,13,1,Van_DillenErik,El_ShafeiIsmail,Van_DillenErik,Barcelona_WCT,1976,06,13,6-3_6-4
+Barcelona_WCT,2,1976,06,13,1,Van_Dillen_Erik,El_Shafei_Ismail,Van_Dillen_Erik,Barcelona_WCT,1976,06,13,6-3_6-4
 Barcelona_WCT,2,1976,06,13,1,Stockton_Dick,Crealy_Dick,Crealy_Dick,Barcelona_WCT,1976,06,13,7-5_6-1
 Barcelona_WCT,2,1976,06,13,1,Fairlie_Brian,Solomon_Harold,Fairlie_Brian,Barcelona_WCT,1976,06,13,2-6_6-1_6-2
 Barcelona_WCT,2,1976,06,13,1,Smith_Stan,Cox_Mark,Cox_Mark,Barcelona_WCT,1976,06,13,6-3_7-6(2)
 Barcelona_WCT,2,1976,06,13,1,Meiler_Karl,Santana_Manuel,Meiler_Karl,Barcelona_WCT,1976,06,13,7-5_6-1
 Barcelona_WCT,2,1976,06,13,1,Fibak_Wojtek,Borowiak_Jeff,Fibak_Wojtek,Barcelona_WCT,1976,06,13,7-6(3)_6-2
 Barcelona_WCT,2,1976,06,13,1,Lutz_Robert,Dibbs_Eddie,Dibbs_Eddie,Barcelona_WCT,1976,06,13,7-5_6-3
-Barcelona_WCT,2,1976,06,13,2,Drysdale_Cliff,Van_DillenErik,Drysdale_Cliff,Barcelona_WCT,1976,06,13,7-5_6-3
+Barcelona_WCT,2,1976,06,13,2,Drysdale_Cliff,Van_Dillen_Erik,Drysdale_Cliff,Barcelona_WCT,1976,06,13,7-5_6-3
 Barcelona_WCT,2,1976,06,13,2,Crealy_Dick,Fairlie_Brian,Crealy_Dick,Barcelona_WCT,1976,06,13,7-6(5)_6-1
 Barcelona_WCT,2,1976,06,13,2,Cox_Mark,Meiler_Karl,Cox_Mark,Barcelona_WCT,1976,06,13,6-4_6-7(6)_6-4
 Barcelona_WCT,2,1976,06,13,2,Fibak_Wojtek,Dibbs_Eddie,Dibbs_Eddie,Barcelona_WCT,1976,06,13,4-6_7-5_6-2

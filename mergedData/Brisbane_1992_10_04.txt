@@ -5,7 +5,7 @@ Brisbane,2,1992,10,04,1,Steven_Brett,Eltingh_Jacco,Eltingh_Jacco,Brisbane,1992,1
 Brisbane,2,1992,10,04,1,Stolle_Sandon,Raoux_Guillaume,Raoux_Guillaume,Brisbane,1992,10,04,6-4_6-3
 Brisbane,2,1992,10,04,1,Baur_Patrick,Kratzmann_Andrew,Baur_Patrick,Brisbane,1992,10,04,3-6_6-3_7-6(4)
 Brisbane,2,1992,10,04,1,Martin_Todd,Wahlgren_LarsAnders,Wahlgren_LarsAnders,Brisbane,1992,10,04,4-6_6-3_6-3
-Brisbane,2,1992,10,04,1,Pridham_Chris,Van_RensburgChristo,Pridham_Chris,Brisbane,1992,10,04,4-6_6-2_6-3
+Brisbane,2,1992,10,04,1,Pridham_Chris,Van_Rensburg_Christo,Pridham_Chris,Brisbane,1992,10,04,4-6_6-2_6-3
 Brisbane,2,1992,10,04,1,Shelton_Bryan,Kroon_Nicklas,Shelton_Bryan,Brisbane,1992,10,04,7-6(5)_6-4
 Brisbane,2,1992,10,04,1,Odizor_Nduka,Hogstedt_Thomas,Hogstedt_Thomas,Brisbane,1992,10,04,6-4_6-2
 Brisbane,2,1992,10,04,1,Thorne_Kenny,Smith_Roger,Thorne_Kenny,Brisbane,1992,10,04,4-6_6-4_6-2

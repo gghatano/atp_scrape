@@ -1,8 +1,8 @@
 Bristol,2,1983,07,03,1,Kriek_Johan,Smith_Stan,Kriek_Johan,Bristol,1983,07,03,6-2_6-3
 Bristol,2,1983,07,03,1,Nastase_Ilie,Cash_Pat,Nastase_Ilie,Bristol,1983,07,03,1-6_7-5_6-3
-Bristol,2,1983,07,03,1,Acuna_Ricardo,De_PalmerMike,Acuna_Ricardo,Bristol,1983,07,03,6-3_6-4
+Bristol,2,1983,07,03,1,Acuna_Ricardo,De_Palmer_Mike,Acuna_Ricardo,Bristol,1983,07,03,6-3_6-4
 Bristol,2,1983,07,03,1,Odizor_Nduka,Mayotte_Tim,Odizor_Nduka,Bristol,1983,07,03,7-6_6-4
-Bristol,2,1983,07,03,1,Teacher_Brian,Fillol_SrJaime,Teacher_Brian,Bristol,1983,07,03,6-4_6-3
+Bristol,2,1983,07,03,1,Teacher_Brian,Fillol_Sr_Jaime,Teacher_Brian,Bristol,1983,07,03,6-4_6-3
 Bristol,2,1983,07,03,1,Barbosa_Givaldo,Masur_Wally,Masur_Wally,Bristol,1983,07,03,6-7_7-6_6-3
 Bristol,2,1983,07,03,1,Gitlin_Drew,Johnstone_Chris,Gitlin_Drew,Bristol,1983,07,03,7-5_7-6
 Bristol,2,1983,07,03,1,Bourne_Lloyd,Dickson_Mark,Bourne_Lloyd,Bristol,1983,07,03,7-6_7-5

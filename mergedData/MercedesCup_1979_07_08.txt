@@ -9,8 +9,8 @@ MercedesCup,2,1979,07,08,1,Phillips_Noel,Bedel_Dominique,Bedel_Dominique,Mercede
 MercedesCup,2,1979,07,08,1,McNamara_Peter,Elter_Peter,McNamara_Peter,MercedesCup,1979,07,08,6-1_3-6_6-1
 MercedesCup,2,1979,07,08,1,Maurer_Andreas,Eberhard_Klaus,Eberhard_Klaus,MercedesCup,1979,07,08,6-3_6-3
 MercedesCup,2,1979,07,08,1,Dowdeswell_Colin,Marten_Ulrich,Dowdeswell_Colin,MercedesCup,1979,07,08,7-5_6-2
-MercedesCup,2,1979,07,08,1,Velasco_SrJairo,Feigl_Peter,Feigl_Peter,MercedesCup,1979,07,08,6-3_7-5
-MercedesCup,2,1979,07,08,1,Damiani_JoseLuis,Zirngibl_Werner,Zirngibl_Werner,MercedesCup,1979,07,08,6-3_6-2
+MercedesCup,2,1979,07,08,1,Velasco_Sr_Jairo,Feigl_Peter,Feigl_Peter,MercedesCup,1979,07,08,6-3_7-5
+MercedesCup,2,1979,07,08,1,Damiani_Jose_Luis,Zirngibl_Werner,Zirngibl_Werner,MercedesCup,1979,07,08,6-3_6-2
 MercedesCup,2,1979,07,08,1,Hutka_Pavel,Deblicker_Eric,Hutka_Pavel,MercedesCup,1979,07,08,6-2_6-4
 MercedesCup,2,1979,07,08,1,Sanders_Louk,Taygan_Ferdi,Taygan_Ferdi,MercedesCup,1979,07,08,6-4_6-1
 MercedesCup,2,1979,07,08,1,Haillet_JeanLouis,Pinner_Ulrich,Pinner_Ulrich,MercedesCup,1979,07,08,7-6_7-6

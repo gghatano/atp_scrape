@@ -12,7 +12,7 @@ Johannesburg,2,1978,12,30,1,Hardie_George,Yuill_John,Yuill_John,Johannesburg,197
 Johannesburg,2,1978,12,30,1,Denton_Steve,Fleming_Peter,Fleming_Peter,Johannesburg,1978,12,30,7-5_6-4
 Johannesburg,2,1978,12,30,1,Richey_Cliff,Parun_Onny,Parun_Onny,Johannesburg,1978,12,30,6-3_7-5
 Johannesburg,2,1978,12,30,1,James_John,Gunthardt_Heinz,Gunthardt_Heinz,Johannesburg,1978,12,30,6-2_2-6_6-4
-Johannesburg,2,1978,12,30,1,Mitton_Bernard,Van_DerMerweSchalk,Mitton_Bernard,Johannesburg,1978,12,30,6-3_6-2
+Johannesburg,2,1978,12,30,1,Mitton_Bernard,Van_Der_Merwe_Schalk,Mitton_Bernard,Johannesburg,1978,12,30,6-3_6-2
 Johannesburg,2,1978,12,30,1,Curren_Kevin,Gullikson_Tim,Gullikson_Tim,Johannesburg,1978,12,30,6-4_6-7_6-4
 Johannesburg,2,1978,12,30,2,Solomon_Harold,Kronk_Paul,Solomon_Harold,Johannesburg,1978,12,30,6-4_6-4
 Johannesburg,2,1978,12,30,2,Andrew_Jorge,Gullikson_Tom,Gullikson_Tom,Johannesburg,1978,12,30,6-2_7-6

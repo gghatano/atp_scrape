@@ -2,7 +2,7 @@ Topshelf_Open,2,2000,06,25,1,Boruszewski_Jan,Gustafsson_Magnus,Gustafsson_Magnus
 Topshelf_Open,2,2000,06,25,1,Siemerink_Jan,Johansson_Thomas,Siemerink_Jan,Topshelf_Open,2000,06,25,2-6_6-3_6-4
 Topshelf_Open,2,2000,06,25,1,Damm_Martin,Stanoytchev_Orlin,Damm_Martin,Topshelf_Open,2000,06,25,6-4_6-2
 Topshelf_Open,2,2000,06,25,1,Sluiter_Raemon,Krajicek_Richard,Krajicek_Richard,Topshelf_Open,2000,06,25,6-7(6)_6-3_6-2
-Topshelf_Open,2,2000,06,25,1,Rafter_Patrick,Van_ScheppingenDennis,Rafter_Patrick,Topshelf_Open,2000,06,25,6-3_6-4
+Topshelf_Open,2,2000,06,25,1,Rafter_Patrick,Van_Scheppingen_Dennis,Rafter_Patrick,Topshelf_Open,2000,06,25,6-3_6-4
 Topshelf_Open,2,2000,06,25,1,Goellner_MarcKevin,Schalken_Sjeng,Schalken_Sjeng,Topshelf_Open,2000,06,25,6-2_6-4
 Topshelf_Open,2,2000,06,25,1,Rochus_Christophe,Hantschk_Markus,Hantschk_Markus,Topshelf_Open,2000,06,25,3-6_6-1_6-4
 Topshelf_Open,2,2000,06,25,1,Stoliarov_Andrei,Alami_Karim,Alami_Karim,Topshelf_Open,2000,06,25,6-1_7-6(5)
@@ -13,7 +13,7 @@ Topshelf_Open,2,2000,06,25,1,Wassen_Rogier,Pavel_Andrei,Pavel_Andrei,Topshelf_Op
 Topshelf_Open,2,2000,06,25,1,Clavet_Francisco,Ljubicic_Ivan,Clavet_Francisco,Topshelf_Open,2000,06,25,6-2_6-2
 Topshelf_Open,2,2000,06,25,1,Tieleman_Laurence,Wessels_Peter,Wessels_Peter,Topshelf_Open,2000,06,25,7-5_6-4
 Topshelf_Open,2,2000,06,25,1,Nestor_Daniel,Youzhny_Mikhail,Youzhny_Mikhail,Topshelf_Open,2000,06,25,7-5_6-7(5)_6-3
-Topshelf_Open,2,2000,06,25,1,van_LottumJohn,Escude_Nicolas,Escude_Nicolas,Topshelf_Open,2000,06,25,6-1_6-2
+Topshelf_Open,2,2000,06,25,1,van_Lottum_John,Escude_Nicolas,Escude_Nicolas,Topshelf_Open,2000,06,25,6-1_6-2
 Topshelf_Open,2,2000,06,25,2,Gustafsson_Magnus,Siemerink_Jan,Gustafsson_Magnus,Topshelf_Open,2000,06,25,1-6_7-5_7-5
 Topshelf_Open,2,2000,06,25,2,Damm_Martin,Krajicek_Richard,Damm_Martin,Topshelf_Open,2000,06,25,3-6_7-6(2)_6-4
 Topshelf_Open,2,2000,06,25,2,Rafter_Patrick,Schalken_Sjeng,Rafter_Patrick,Topshelf_Open,2000,06,25,6-3_6-2

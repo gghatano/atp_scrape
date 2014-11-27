@@ -11,7 +11,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Mancini_Alberto,Bruguera_Serg
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Wheaton_David,Carbonell_Tomas,Carbonell_Tomas,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Cherkasov_Andrei,Chesnokov_Andrei,Chesnokov_Andrei,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,6-3_7-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Rosset_Marc,Novacek_Karel,Rosset_Marc,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,7-6_5-7_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,De_LaPenaHoracio,Masur_Wally,Masur_Wally,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,7-6_6-4
+Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,De_La_Pena_Horacio,Masur_Wally,Masur_Wally,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,7-6_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Mattar_Luiz,Arrese_Jordi,Arrese_Jordi,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,7-5_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,1,Arias_Jimmy,Sanchez_Emilio,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1990,07,15,2,Gomez_Andres,Agenor_Ronald,Agenor_Ronald,Crédit_Agricole_Suisse_Open_Gstaad,1990,07,15,1-6_7-5_6-3

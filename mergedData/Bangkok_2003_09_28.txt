@@ -1,5 +1,5 @@
-Bangkok,2,2003,09,28,1,Ferrero_JuanCarlos,Norman_Dick,Ferrero_JuanCarlos,Bangkok,2003,09,28,7-5_7-6(5)
-Bangkok,2,2003,09,28,1,Galimberti_Giorgio,Bogomolov_JrAlex,Bogomolov_JrAlex,Bangkok,2003,09,28,6-3_6-3
+Bangkok,2,2003,09,28,1,Ferrero_Juan_Carlos,Norman_Dick,Ferrero_Juan_Carlos,Bangkok,2003,09,28,7-5_7-6(5)
+Bangkok,2,2003,09,28,1,Galimberti_Giorgio,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Bangkok,2003,09,28,6-3_6-3
 Bangkok,2,2003,09,28,1,Popp_Alexander,Eschauer_Werner,Popp_Alexander,Bangkok,2003,09,28,7-5_6-3
 Bangkok,2,2003,09,28,1,Carraz_Gregory,Santoro_Fabrice,Carraz_Gregory,Bangkok,2003,09,28,3-6_7-6(8)_6-1
 Bangkok,2,2003,09,28,1,Srichaphan_Paradorn,Voltchkov_Vladimir,Srichaphan_Paradorn,Bangkok,2003,09,28,0-6_6-3_6-2
@@ -14,7 +14,7 @@ Bangkok,2,2003,09,28,1,Dent_Taylor,Moodie_Wesley,Dent_Taylor,Bangkok,2003,09,28,
 Bangkok,2,2003,09,28,1,Miranda_Ivan,Ascione_Thierry,Ascione_Thierry,Bangkok,2003,09,28,6-3_6-2
 Bangkok,2,2003,09,28,1,Thomann_Nicolas,Amritraj_Prakash,Thomann_Nicolas,Bangkok,2003,09,28,5-7_6-3_6-3
 Bangkok,2,2003,09,28,1,Erlich_Jonathan,Ratiwatana_Sonchat,Erlich_Jonathan,Bangkok,2003,09,28,7-5_1-6_6-4
-Bangkok,2,2003,09,28,2,Ferrero_JuanCarlos,Bogomolov_JrAlex,Ferrero_JuanCarlos,Bangkok,2003,09,28,6-3_6-7(4)_6-1
+Bangkok,2,2003,09,28,2,Ferrero_Juan_Carlos,Bogomolov_Jr_Alex,Ferrero_Juan_Carlos,Bangkok,2003,09,28,6-3_6-7(4)_6-1
 Bangkok,2,2003,09,28,2,Popp_Alexander,Carraz_Gregory,Carraz_Gregory,Bangkok,2003,09,28,7-5_6-2
 Bangkok,2,2003,09,28,2,Srichaphan_Paradorn,Carlsen_Kenneth,Srichaphan_Paradorn,Bangkok,2003,09,28,6-3_7-6(5)
 Bangkok,2,2003,09,28,2,Ancic_Mario,Ljubicic_Ivan,Ljubicic_Ivan,Bangkok,2003,09,28,6-1_6-4
@@ -22,10 +22,10 @@ Bangkok,2,2003,09,28,2,Nieminen_Jarkko,Ulihrach_Bohdan,Nieminen_Jarkko,Bangkok,2
 Bangkok,2,2003,09,28,2,Vahaly_Brian,Moya_Carlos,Moya_Carlos,Bangkok,2003,09,28,7-5_6-4
 Bangkok,2,2003,09,28,2,Dent_Taylor,Ascione_Thierry,Dent_Taylor,Bangkok,2003,09,28,6-1_6-2
 Bangkok,2,2003,09,28,2,Thomann_Nicolas,Erlich_Jonathan,Thomann_Nicolas,Bangkok,2003,09,28,6-4_6-0
-Bangkok,2,2003,09,28,3,Ferrero_JuanCarlos,Carraz_Gregory,Ferrero_JuanCarlos,Bangkok,2003,09,28,6-4_3-6_7-6(2)
+Bangkok,2,2003,09,28,3,Ferrero_Juan_Carlos,Carraz_Gregory,Ferrero_Juan_Carlos,Bangkok,2003,09,28,6-4_3-6_7-6(2)
 Bangkok,2,2003,09,28,3,Srichaphan_Paradorn,Ljubicic_Ivan,Ljubicic_Ivan,Bangkok,2003,09,28,4-6_7-6(4)_7-5
 Bangkok,2,2003,09,28,3,Nieminen_Jarkko,Moya_Carlos,Nieminen_Jarkko,Bangkok,2003,09,28,6-7(5)_6-4_6-4
 Bangkok,2,2003,09,28,3,Dent_Taylor,Thomann_Nicolas,Dent_Taylor,Bangkok,2003,09,28,6-3_RET
-Bangkok,2,2003,09,28,4,Ferrero_JuanCarlos,Ljubicic_Ivan,Ferrero_JuanCarlos,Bangkok,2003,09,28,6-3_6-3
+Bangkok,2,2003,09,28,4,Ferrero_Juan_Carlos,Ljubicic_Ivan,Ferrero_Juan_Carlos,Bangkok,2003,09,28,6-3_6-3
 Bangkok,2,2003,09,28,4,Nieminen_Jarkko,Dent_Taylor,Dent_Taylor,Bangkok,2003,09,28,7-6(3)_6-2
-Bangkok,2,2003,09,28,5,Ferrero_JuanCarlos,Dent_Taylor,Dent_Taylor,Bangkok,2003,09,28,6-3_7-6(5)
+Bangkok,2,2003,09,28,5,Ferrero_Juan_Carlos,Dent_Taylor,Dent_Taylor,Bangkok,2003,09,28,6-3_7-6(5)

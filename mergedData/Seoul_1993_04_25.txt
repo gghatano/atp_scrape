@@ -7,7 +7,7 @@ Seoul,2,1993,04,25,1,Roese_Fernando,Pridham_Chris,Pridham_Chris,Seoul,1993,04,25
 Seoul,2,1993,04,25,1,Rusedski_Greg,Vacek_Daniel,Vacek_Daniel,Seoul,1993,04,25,7-6(2)_7-6(5)
 Seoul,2,1993,04,25,1,Baur_Patrick,Woodbridge_Todd,Woodbridge_Todd,Seoul,1993,04,25,2-6_6-3_7-6(5)
 Seoul,2,1993,04,25,1,Apell_Jan,Stoltenberg_Jason,Apell_Jan,Seoul,1993,04,25,6-3_2-6_6-3
-Seoul,2,1993,04,25,1,Rikl_David,Van_RensburgChristo,Van_RensburgChristo,Seoul,1993,04,25,6-7(5)_6-3_6-3
+Seoul,2,1993,04,25,1,Rikl_David,Van_Rensburg_Christo,Van_Rensburg_Christo,Seoul,1993,04,25,6-7(5)_6-3_6-3
 Seoul,2,1993,04,25,1,Ho_Tommy,Schapers_Michiel,Schapers_Michiel,Seoul,1993,04,25,6-7(5)_7-5_6-4
 Seoul,2,1993,04,25,1,Yoon_YongIl,Pozzi_Gianluca,Yoon_YongIl,Seoul,1993,04,25,6-1_6-2
 Seoul,2,1993,04,25,1,Adams_Chuck,Muller_Gary,Adams_Chuck,Seoul,1993,04,25,7-6(4)_6-4
@@ -18,14 +18,14 @@ Seoul,2,1993,04,25,2,Steven_Brett,Zoecke_Markus,Zoecke_Markus,Seoul,1993,04,25,6
 Seoul,2,1993,04,25,2,Antonitsch_Alex,Morgan_Jamie,Antonitsch_Alex,Seoul,1993,04,25,7-6(3)_6-2
 Seoul,2,1993,04,25,2,Matsuoka_Shuzo,Pridham_Chris,Matsuoka_Shuzo,Seoul,1993,04,25,7-6(4)_7-6(5)
 Seoul,2,1993,04,25,2,Vacek_Daniel,Woodbridge_Todd,Woodbridge_Todd,Seoul,1993,04,25,7-6(3)_6-4
-Seoul,2,1993,04,25,2,Apell_Jan,Van_RensburgChristo,Van_RensburgChristo,Seoul,1993,04,25,7-6(3)_6-4
+Seoul,2,1993,04,25,2,Apell_Jan,Van_Rensburg_Christo,Van_Rensburg_Christo,Seoul,1993,04,25,7-6(3)_6-4
 Seoul,2,1993,04,25,2,Schapers_Michiel,Yoon_YongIl,Schapers_Michiel,Seoul,1993,04,25,6-3_7-6(6)
 Seoul,2,1993,04,25,2,Adams_Chuck,Borwick_Neil,Adams_Chuck,Seoul,1993,04,25,6-1_6-2
 Seoul,2,1993,04,25,2,Shin_HanCheol,Simian_Stephane,Simian_Stephane,Seoul,1993,04,25,6-2_6-4
 Seoul,2,1993,04,25,3,Zoecke_Markus,Antonitsch_Alex,Zoecke_Markus,Seoul,1993,04,25,6-4_7-6(6)
 Seoul,2,1993,04,25,3,Matsuoka_Shuzo,Woodbridge_Todd,Woodbridge_Todd,Seoul,1993,04,25,6-4_7-5
-Seoul,2,1993,04,25,3,Van_RensburgChristo,Schapers_Michiel,Van_RensburgChristo,Seoul,1993,04,25,7-6(5)_7-5
+Seoul,2,1993,04,25,3,Van_Rensburg_Christo,Schapers_Michiel,Van_Rensburg_Christo,Seoul,1993,04,25,7-6(5)_7-5
 Seoul,2,1993,04,25,3,Adams_Chuck,Simian_Stephane,Adams_Chuck,Seoul,1993,04,25,7-6(9)_4-6_6-1
 Seoul,2,1993,04,25,4,Zoecke_Markus,Woodbridge_Todd,Woodbridge_Todd,Seoul,1993,04,25,6-7(3)_6-2_6-2
-Seoul,2,1993,04,25,4,Van_RensburgChristo,Adams_Chuck,Adams_Chuck,Seoul,1993,04,25,6-4_6-3
+Seoul,2,1993,04,25,4,Van_Rensburg_Christo,Adams_Chuck,Adams_Chuck,Seoul,1993,04,25,6-4_6-3
 Seoul,2,1993,04,25,5,Woodbridge_Todd,Adams_Chuck,Adams_Chuck,Seoul,1993,04,25,6-4_6-4

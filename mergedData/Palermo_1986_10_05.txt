@@ -1,5 +1,5 @@
 Palermo,2,1986,10,05,1,Stenlund_Ulf,Fioroni_Michele,Stenlund_Ulf,Palermo,1986,10,05,6-4_6-2
-Palermo,2,1986,10,05,1,Di_LauraCarlos,Yunis_Francisco,Yunis_Francisco,Palermo,1986,10,05,6-2_5-7_6-4
+Palermo,2,1986,10,05,1,Di_Laura_Carlos,Yunis_Francisco,Yunis_Francisco,Palermo,1986,10,05,6-2_5-7_6-4
 Palermo,2,1986,10,05,1,Rossi_Eugenio,Arguello_Roberto,Arguello_Roberto,Palermo,1986,10,05,6-1_6-7_6-2
 Palermo,2,1986,10,05,1,LopezMaeso_Jose,Dickson_Mark,Dickson_Mark,Palermo,1986,10,05,7-5_6-4
 Palermo,2,1986,10,05,1,Perez_Diego,Vajda_Marian,Vajda_Marian,Palermo,1986,10,05,6-2_7-6
@@ -13,7 +13,7 @@ Palermo,2,1986,10,05,1,Vojtischek_Paul,Arraya_Pablo,Arraya_Pablo,Palermo,1986,10
 Palermo,2,1986,10,05,1,Sundstrom_Henrik,Aprili_Corrado,Aprili_Corrado,Palermo,1986,10,05,6-3_6-4
 Palermo,2,1986,10,05,1,Matuszewski_Richard,Camporese_Omar,Matuszewski_Richard,Palermo,1986,10,05,6-3_6-1
 Palermo,2,1986,10,05,1,Ostoja_Marko,Mezzadri_Claudio,Mezzadri_Claudio,Palermo,1986,10,05,6-2_6-3
-Palermo,2,1986,10,05,1,Di_MauroFabio,Cane_Paolo,Cane_Paolo,Palermo,1986,10,05,6-1_6-2
+Palermo,2,1986,10,05,1,Di_Mauro_Fabio,Cane_Paolo,Cane_Paolo,Palermo,1986,10,05,6-1_6-2
 Palermo,2,1986,10,05,2,Stenlund_Ulf,Yunis_Francisco,Stenlund_Ulf,Palermo,1986,10,05,6-3_6-2
 Palermo,2,1986,10,05,2,Arguello_Roberto,Dickson_Mark,Dickson_Mark,Palermo,1986,10,05,6-3_4-6_7-6
 Palermo,2,1986,10,05,2,Vajda_Marian,Brown_Jimmy,Brown_Jimmy,Palermo,1986,10,05,6-4_6-4

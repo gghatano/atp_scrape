@@ -2,7 +2,7 @@ Stratton_Mountain,2,1985,08,11,1,McEnroe_John,McEnroe_Patrick,McEnroe_John,Strat
 Stratton_Mountain,2,1985,08,11,1,Knapp_Roger,Schultz_Bud,Schultz_Bud,Stratton_Mountain,1985,08,11,6-4_7-6
 Stratton_Mountain,2,1985,08,11,1,Cassidy_Dan,Brown_Jimmy,Cassidy_Dan,Stratton_Mountain,1985,08,11,6-2_3-6_6-2
 Stratton_Mountain,2,1985,08,11,1,Edwards_Eddie,Sadri_John,Sadri_John,Stratton_Mountain,1985,08,11,7-6_6-3
-Stratton_Mountain,2,1985,08,11,1,Annacone_Paul,Van_BoeckelHuub,Annacone_Paul,Stratton_Mountain,1985,08,11,4-6_6-4_6-2
+Stratton_Mountain,2,1985,08,11,1,Annacone_Paul,Van_Boeckel_Huub,Annacone_Paul,Stratton_Mountain,1985,08,11,4-6_6-4_6-2
 Stratton_Mountain,2,1985,08,11,1,McCain_Scott,Pearce_Brad,Pearce_Brad,Stratton_Mountain,1985,08,11,6-2_6-4
 Stratton_Mountain,2,1985,08,11,1,Acuna_Ricardo,Flur_Marc,Flur_Marc,Stratton_Mountain,1985,08,11,7-6_7-6
 Stratton_Mountain,2,1985,08,11,1,Bale_Stuart,Pate_David,Pate_David,Stratton_Mountain,1985,08,11,7-5_4-6_6-2
@@ -10,14 +10,14 @@ Stratton_Mountain,2,1985,08,11,1,Kriek_Johan,Seguso_Robert,Seguso_Robert,Stratto
 Stratton_Mountain,2,1985,08,11,1,Masur_Wally,Canter_Jonathan,Masur_Wally,Stratton_Mountain,1985,08,11,6-3_6-4
 Stratton_Mountain,2,1985,08,11,1,Layendecker_Glenn,Dowdeswell_Colin,Dowdeswell_Colin,Stratton_Mountain,1985,08,11,7-6_6-2
 Stratton_Mountain,2,1985,08,11,1,Hooper_Chip,Holmes_Greg,Holmes_Greg,Stratton_Mountain,1985,08,11,6-4_6-7_6-1
-Stratton_Mountain,2,1985,08,11,1,Fleming_Peter,De_PalmerMike,Fleming_Peter,Stratton_Mountain,1985,08,11,7-6_6-4
+Stratton_Mountain,2,1985,08,11,1,Fleming_Peter,De_Palmer_Mike,Fleming_Peter,Stratton_Mountain,1985,08,11,7-6_6-4
 Stratton_Mountain,2,1985,08,11,1,Frawley_John,Gullikson_Tom,Gullikson_Tom,Stratton_Mountain,1985,08,11,6-3_6-4
 Stratton_Mountain,2,1985,08,11,1,Wostenholme_Martin,Scanlon_Bill,Scanlon_Bill,Stratton_Mountain,1985,08,11,7-6_4-6_7-6
-Stratton_Mountain,2,1985,08,11,1,Van_RensburgChristo,Davis_Scott,Davis_Scott,Stratton_Mountain,1985,08,11,6-1_2-6_6-4
+Stratton_Mountain,2,1985,08,11,1,Van_Rensburg_Christo,Davis_Scott,Davis_Scott,Stratton_Mountain,1985,08,11,6-1_2-6_6-4
 Stratton_Mountain,2,1985,08,11,1,Mayotte_Tim,Flach_Ken,Mayotte_Tim,Stratton_Mountain,1985,08,11,6-4_6-3
 Stratton_Mountain,2,1985,08,11,1,Cain_Tom,Gurfein_Jim,Gurfein_Jim,Stratton_Mountain,1985,08,11,6-4_5-7_6-4
 Stratton_Mountain,2,1985,08,11,1,Gullikson_Tim,Purcell_Mel,Purcell_Mel,Stratton_Mountain,1985,08,11,7-6_6-3
-Stratton_Mountain,2,1985,08,11,1,Green_Bob,Giammalva_JrSammy,Green_Bob,Stratton_Mountain,1985,08,11,6-2_3-6_6-3
+Stratton_Mountain,2,1985,08,11,1,Green_Bob,Giammalva_Jr_Sammy,Green_Bob,Stratton_Mountain,1985,08,11,6-2_3-6_6-3
 Stratton_Mountain,2,1985,08,11,1,Dickson_Mark,Doyle_Matt,Dickson_Mark,Stratton_Mountain,1985,08,11,6-2_6-2
 Stratton_Mountain,2,1985,08,11,1,Bezecny_George,Teacher_Brian,Teacher_Brian,Stratton_Mountain,1985,08,11,6-2_6-4
 Stratton_Mountain,2,1985,08,11,1,Zivojinovic_Slobodan,Saad_Roberto,Zivojinovic_Slobodan,Stratton_Mountain,1985,08,11,6-2_6-4

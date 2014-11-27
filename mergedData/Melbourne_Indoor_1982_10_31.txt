@@ -8,7 +8,7 @@ Melbourne_Indoor,2,1982,10,31,1,Collings_Dale,Fitzgerald_John,Fitzgerald_John,Me
 Melbourne_Indoor,2,1982,10,31,1,Pascoe_Wayne,Alexander_John,Alexander_John,Melbourne_Indoor,1982,10,31,6-7_6-3_6-4
 Melbourne_Indoor,2,1982,10,31,1,Frawley_Rod,Whitecross_Greg,Whitecross_Greg,Melbourne_Indoor,1982,10,31,6-3_6-3
 Melbourne_Indoor,2,1982,10,31,1,Johnston_Peter,Carter_David,Carter_David,Melbourne_Indoor,1982,10,31,6-4_6-2
-Melbourne_Indoor,2,1982,10,31,1,Turpin_Jeff,Miller_CraigA,Miller_CraigA,Melbourne_Indoor,1982,10,31,7-6_6-4
+Melbourne_Indoor,2,1982,10,31,1,Turpin_Jeff,Miller_Craig_A,Miller_Craig_A,Melbourne_Indoor,1982,10,31,7-6_6-4
 Melbourne_Indoor,2,1982,10,31,1,Hansson_Hans,Teltscher_Eliot,Teltscher_Eliot,Melbourne_Indoor,1982,10,31,6-4_7-6
 Melbourne_Indoor,2,1982,10,31,1,Edmondson_Mark,Mitchell_Matt,Mitchell_Matt,Melbourne_Indoor,1982,10,31,6-4_6-3
 Melbourne_Indoor,2,1982,10,31,1,Letcher_Cliff,Mayotte_Chris,Mayotte_Chris,Melbourne_Indoor,1982,10,31,6-2_6-3
@@ -19,7 +19,7 @@ Melbourne_Indoor,2,1982,10,31,2,Case_Ross,McNamee_Paul,McNamee_Paul,Melbourne_In
 Melbourne_Indoor,2,1982,10,31,2,Denton_Steve,Waltke_Trey,Denton_Steve,Melbourne_Indoor,1982,10,31,6-4_7-5
 Melbourne_Indoor,2,1982,10,31,2,Fitzgerald_John,Alexander_John,Alexander_John,Melbourne_Indoor,1982,10,31,6-3_7-6
 Melbourne_Indoor,2,1982,10,31,2,Whitecross_Greg,Carter_David,Carter_David,Melbourne_Indoor,1982,10,31,6-2_4-6_6-2
-Melbourne_Indoor,2,1982,10,31,2,Miller_CraigA,Teltscher_Eliot,Teltscher_Eliot,Melbourne_Indoor,1982,10,31,6-2_6-4
+Melbourne_Indoor,2,1982,10,31,2,Miller_Craig_A,Teltscher_Eliot,Teltscher_Eliot,Melbourne_Indoor,1982,10,31,6-2_6-4
 Melbourne_Indoor,2,1982,10,31,2,Mitchell_Matt,Mayotte_Chris,Mitchell_Matt,Melbourne_Indoor,1982,10,31,6-2_6-2
 Melbourne_Indoor,2,1982,10,31,2,Cash_Pat,Drewett_Brad,Cash_Pat,Melbourne_Indoor,1982,10,31,7-6_6-7_6-2
 Melbourne_Indoor,2,1982,10,31,3,Gerulaitis_Vitas,McNamee_Paul,Gerulaitis_Vitas,Melbourne_Indoor,1982,10,31,6-2_6-4

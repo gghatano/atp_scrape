@@ -1,4 +1,4 @@
-Heineken_Open,2,1984,03,11,1,Lewis_NZLChris,Doohan_Peter,Lewis_NZLChris,Heineken_Open,1984,03,11,6-3_6-7_6-1
+Heineken_Open,2,1984,03,11,1,Lewis_NZL_Chris,Doohan_Peter,Lewis_NZL_Chris,Heineken_Open,1984,03,11,6-3_6-7_6-1
 Heineken_Open,2,1984,03,11,1,Frawley_John,Mustard_David,Frawley_John,Heineken_Open,1984,03,11,7-6_6-2
 Heineken_Open,2,1984,03,11,1,Vanier_Jerome,Amritraj_Vijay,Amritraj_Vijay,Heineken_Open,1984,03,11,7-6_4-6_6-4
 Heineken_Open,2,1984,03,11,1,Brunnberg_Mike,Drewett_Brad,Drewett_Brad,Heineken_Open,1984,03,11,6-1_6-4
@@ -13,8 +13,8 @@ Heineken_Open,2,1984,03,11,1,Shiras_Leif,Alexander_John,Alexander_John,Heineken_
 Heineken_Open,2,1984,03,11,1,Simpson_Russell,Dyke_Broderick,Simpson_Russell,Heineken_Open,1984,03,11,3-6_6-3_6-4
 Heineken_Open,2,1984,03,11,1,Johnston_Peter,Bates_Jeremy,Johnston_Peter,Heineken_Open,1984,03,11,6-2_6-2
 Heineken_Open,2,1984,03,11,1,Lewis_Mark,Maze_Bill,Maze_Bill,Heineken_Open,1984,03,11,6-1_1-6_6-4
-Heineken_Open,2,1984,03,11,1,Miller_CraigA,Hooper_Chip,Hooper_Chip,Heineken_Open,1984,03,11,6-4_7-6
-Heineken_Open,2,1984,03,11,2,Lewis_NZLChris,Frawley_John,Lewis_NZLChris,Heineken_Open,1984,03,11,3-6_7-6_8-6
+Heineken_Open,2,1984,03,11,1,Miller_Craig_A,Hooper_Chip,Hooper_Chip,Heineken_Open,1984,03,11,6-4_7-6
+Heineken_Open,2,1984,03,11,2,Lewis_NZL_Chris,Frawley_John,Lewis_NZL_Chris,Heineken_Open,1984,03,11,3-6_7-6_8-6
 Heineken_Open,2,1984,03,11,2,Amritraj_Vijay,Drewett_Brad,Drewett_Brad,Heineken_Open,1984,03,11,7-6_4-6_6-1
 Heineken_Open,2,1984,03,11,2,Masur_Wally,Guy_Steve,Guy_Steve,Heineken_Open,1984,03,11,6-3_7-6
 Heineken_Open,2,1984,03,11,2,Saltz_Danny,Bourne_Lloyd,Saltz_Danny,Heineken_Open,1984,03,11,6-2_7-5
@@ -22,7 +22,7 @@ Heineken_Open,2,1984,03,11,2,Stefanki_Larry,Nelson_Todd,Stefanki_Larry,Heineken_
 Heineken_Open,2,1984,03,11,2,Brawley_Sean,Alexander_John,Alexander_John,Heineken_Open,1984,03,11,6-7_6-2_6-4
 Heineken_Open,2,1984,03,11,2,Simpson_Russell,Johnston_Peter,Simpson_Russell,Heineken_Open,1984,03,11,7-6_4-6_6-1
 Heineken_Open,2,1984,03,11,2,Maze_Bill,Hooper_Chip,Hooper_Chip,Heineken_Open,1984,03,11,6-3_6-3
-Heineken_Open,2,1984,03,11,3,Lewis_NZLChris,Drewett_Brad,Drewett_Brad,Heineken_Open,1984,03,11,DEF
+Heineken_Open,2,1984,03,11,3,Lewis_NZL_Chris,Drewett_Brad,Drewett_Brad,Heineken_Open,1984,03,11,DEF
 Heineken_Open,2,1984,03,11,3,Guy_Steve,Saltz_Danny,Saltz_Danny,Heineken_Open,1984,03,11,3-6_7-5_6-4
 Heineken_Open,2,1984,03,11,3,Stefanki_Larry,Alexander_John,Stefanki_Larry,Heineken_Open,1984,03,11,5-7_6-3_6-2
 Heineken_Open,2,1984,03,11,3,Simpson_Russell,Hooper_Chip,Hooper_Chip,Heineken_Open,1984,03,11,6-2_2-6_6-4

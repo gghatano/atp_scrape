@@ -4,7 +4,7 @@ Open_Sud_de_France,2,1991,10,20,1,Kriek_Johan,Pescosolido_Stefano,Kriek_Johan,Op
 Open_Sud_de_France,2,1991,10,20,1,Santoro_Fabrice,Rosset_Marc,Santoro_Fabrice,Open_Sud_de_France,1991,10,20,6-1_6-3
 Open_Sud_de_France,2,1991,10,20,1,Bruguera_Sergi,Boetsch_Arnaud,Bruguera_Sergi,Open_Sud_de_France,1991,10,20,3-6_6-3_6-4
 Open_Sud_de_France,2,1991,10,20,1,Fleurian_JeanPhilippe,Raoux_Guillaume,Raoux_Guillaume,Open_Sud_de_France,1991,10,20,6-3_6-2
-Open_Sud_de_France,2,1991,10,20,1,Fontang_Frederic,Van_RensburgChristo,Van_RensburgChristo,Open_Sud_de_France,1991,10,20,6-0_7-6(4)
+Open_Sud_de_France,2,1991,10,20,1,Fontang_Frederic,Van_Rensburg_Christo,Van_Rensburg_Christo,Open_Sud_de_France,1991,10,20,6-0_7-6(4)
 Open_Sud_de_France,2,1991,10,20,1,Curren_Kevin,Rostagno_Derrick,Curren_Kevin,Open_Sud_de_France,1991,10,20,6-7(5)_7-6(3)_7-6(4)
 Open_Sud_de_France,2,1991,10,20,1,Mancini_Alberto,Saceanu_Christian,Mancini_Alberto,Open_Sud_de_France,1991,10,20,2-6_7-5_7-6(2)
 Open_Sud_de_France,2,1991,10,20,1,Kulti_Nicklas,Paloheimo_Veli,Kulti_Nicklas,Open_Sud_de_France,1991,10,20,6-2_6-4
@@ -17,7 +17,7 @@ Open_Sud_de_France,2,1991,10,20,1,Nijssen_Tom,Sampras_Pete,Sampras_Pete,Open_Sud
 Open_Sud_de_France,2,1991,10,20,2,Delaitre_Olivier,Pioline_Cedric,Delaitre_Olivier,Open_Sud_de_France,1991,10,20,6-2_6-7(6)_7-6(3)
 Open_Sud_de_France,2,1991,10,20,2,Kriek_Johan,Santoro_Fabrice,Kriek_Johan,Open_Sud_de_France,1991,10,20,6-4_6-4
 Open_Sud_de_France,2,1991,10,20,2,Bruguera_Sergi,Raoux_Guillaume,Bruguera_Sergi,Open_Sud_de_France,1991,10,20,7-6(8)_7-6(2)
-Open_Sud_de_France,2,1991,10,20,2,Van_RensburgChristo,Curren_Kevin,Curren_Kevin,Open_Sud_de_France,1991,10,20,6-1_6-2
+Open_Sud_de_France,2,1991,10,20,2,Van_Rensburg_Christo,Curren_Kevin,Curren_Kevin,Open_Sud_de_France,1991,10,20,6-1_6-2
 Open_Sud_de_France,2,1991,10,20,2,Mancini_Alberto,Kulti_Nicklas,Mancini_Alberto,Open_Sud_de_France,1991,10,20,2-6(8)_7-6_6-4
 Open_Sud_de_France,2,1991,10,20,2,Winogradsky_Eric,Gilbert_Brad,Gilbert_Brad,Open_Sud_de_France,1991,10,20,7-5_6-1
 Open_Sud_de_France,2,1991,10,20,2,Svensson_Jonas,Agenor_Ronald,Svensson_Jonas,Open_Sud_de_France,1991,10,20,6-7(4)_6-3_6-1

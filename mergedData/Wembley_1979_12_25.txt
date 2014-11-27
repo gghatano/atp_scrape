@@ -8,7 +8,7 @@ Wembley,2,1979,12,25,1,RogerVasselin_Christophe,Caujolle_JeanFrancois,Caujolle_J
 Wembley,2,1979,12,25,1,Taygan_Ferdi,Jarrett_Andrew,Taygan_Ferdi,Wembley,1979,12,25,6-1_6-4
 Wembley,2,1979,12,25,1,Carnahan_Scott,Stewart_Sherwood,Stewart_Sherwood,Wembley,1979,12,25,7-5_6-2
 Wembley,2,1979,12,25,1,Smith_Stan,Saviano_Nick,Smith_Stan,Wembley,1979,12,25,7-5_7-5
-Wembley,2,1979,12,25,1,Van_PattenVincent,Gullikson_Tom,Van_PattenVincent,Wembley,1979,12,25,6-2_6-4
+Wembley,2,1979,12,25,1,Van_Patten_Vincent,Gullikson_Tom,Van_Patten_Vincent,Wembley,1979,12,25,6-2_6-4
 Wembley,2,1979,12,25,1,Cox_Mark,Solomon_Harold,Solomon_Harold,Wembley,1979,12,25,7-5_6-3
 Wembley,2,1979,12,25,1,Gullikson_Tim,Andrew_Jorge,Gullikson_Tim,Wembley,1979,12,25,6-2_5-7_6-2
 Wembley,2,1979,12,25,1,Lewis_Richard,Okker_Tom,Lewis_Richard,Wembley,1979,12,25,3-6_6-4_7-5
@@ -19,7 +19,7 @@ Wembley,2,1979,12,25,2,Riessen_Marty,Fibak_Wojtek,Fibak_Wojtek,Wembley,1979,12,2
 Wembley,2,1979,12,25,2,Ocleppo_Gianni,Smid_Tomas,Ocleppo_Gianni,Wembley,1979,12,25,6-4_7-6
 Wembley,2,1979,12,25,2,Caujolle_JeanFrancois,Taygan_Ferdi,Taygan_Ferdi,Wembley,1979,12,25,6-3_6-4
 Wembley,2,1979,12,25,2,Stewart_Sherwood,Smith_Stan,Smith_Stan,Wembley,1979,12,25,2-6_6-4_6-2
-Wembley,2,1979,12,25,2,Van_PattenVincent,Solomon_Harold,Solomon_Harold,Wembley,1979,12,25,3-6_6-2_6-2
+Wembley,2,1979,12,25,2,Van_Patten_Vincent,Solomon_Harold,Solomon_Harold,Wembley,1979,12,25,3-6_6-2_6-2
 Wembley,2,1979,12,25,2,Gullikson_Tim,Lewis_Richard,Gullikson_Tim,Wembley,1979,12,25,6-3_4-6_6-4
 Wembley,2,1979,12,25,2,Pfister_Henry,Vilas_Guillermo,Pfister_Henry,Wembley,1979,12,25,3-6_6-3_6-2
 Wembley,2,1979,12,25,3,McEnroe_John,Fibak_Wojtek,McEnroe_John,Wembley,1979,12,25,6-2_6-1

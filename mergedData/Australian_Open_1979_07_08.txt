@@ -1,9 +1,9 @@
-Australian_Open,1,1979,07,08,1,Vilas_Guillermo,Lewis_JohnChris,Vilas_Guillermo,Australian_Open,1979,07,08,7-5_6-3_6-4
+Australian_Open,1,1979,07,08,1,Vilas_Guillermo,Lewis_John_Chris,Vilas_Guillermo,Australian_Open,1979,07,08,7-5_6-3_6-4
 Australian_Open,1,1979,07,08,1,Gardiner_Alvin,Phillips_Noel,Gardiner_Alvin,Australian_Open,1979,07,08,6-4_3-6_6-4_6-4
 Australian_Open,1,1979,07,08,1,Delaney_Christofer,Delaney_Jim,Delaney_Christofer,Australian_Open,1979,07,08,7-5_6-4_7-5
 Australian_Open,1,1979,07,08,1,Drewett_Brad,McNamara_Peter,McNamara_Peter,Australian_Open,1979,07,08,3-6_6-1_6-4_7-5
 Australian_Open,1,1979,07,08,1,Dent_Phil,Marks_John,Dent_Phil,Australian_Open,1979,07,08,6-3_6-2_6-2
-Australian_Open,1,1979,07,08,1,Cohen_Jeremy,Miller_CraigA,Miller_CraigA,Australian_Open,1979,07,08,6-4_3-6_6-4_7-5
+Australian_Open,1,1979,07,08,1,Cohen_Jeremy,Miller_Craig_A,Miller_Craig_A,Australian_Open,1979,07,08,6-4_3-6_6-4_7-5
 Australian_Open,1,1979,07,08,1,Kachel_Chris,Fancutt_Charlie,Kachel_Chris,Australian_Open,1979,07,08,7-6_6-2_6-1
 Australian_Open,1,1979,07,08,1,Kronk_Paul,Feigl_Peter,Kronk_Paul,Australian_Open,1979,07,08,6-3_6-4_2-6_6-3
 Australian_Open,1,1979,07,08,1,Amaya_Victor,Stewart_Sherwood,Amaya_Victor,Australian_Open,1979,07,08,6-3_6-4_6-1
@@ -19,7 +19,7 @@ Australian_Open,1,1979,07,08,1,Rocavert_Terry,Moore_Raymond,Moore_Raymond,Austra
 Australian_Open,1,1979,07,08,1,Ruffels_Ray,James_John,James_John,Australian_Open,1979,07,08,6-1_6-2_6-3
 Australian_Open,1,1979,07,08,1,Carmichael_Bob,Warwick_Kim,Warwick_Kim,Australian_Open,1979,07,08,6-1_4-6_6-2_6-0
 Australian_Open,1,1979,07,08,1,Frawley_Rod,Johnstone_Chris,Frawley_Rod,Australian_Open,1979,07,08,6-1_3-6_6-7_6-4_6-4
-Australian_Open,1,1979,07,08,1,Malin_GeneStuart,McNair_IVFred,Malin_GeneStuart,Australian_Open,1979,07,08,6-4_6-2_6-4
+Australian_Open,1,1979,07,08,1,Malin_Gene_Stuart,McNair_IV_Fred,Malin_Gene_Stuart,Australian_Open,1979,07,08,6-4_6-2_6-4
 Australian_Open,1,1979,07,08,1,Maze_Bill,Whitecross_Greg,Maze_Bill,Australian_Open,1979,07,08,7-6_1-6_7-6_6-4
 Australian_Open,1,1979,07,08,1,Ball_Syd,Pfister_Henry,Ball_Syd,Australian_Open,1979,07,08,7-5_4-6_6-4_6-3
 Australian_Open,1,1979,07,08,1,Wilkison_Tim,Maher_Warren,Maher_Warren,Australian_Open,1979,07,08,7-6_7-6_7-5
@@ -32,7 +32,7 @@ Australian_Open,1,1979,07,08,1,Dibley_Colin,Austin_John,Dibley_Colin,Australian_
 Australian_Open,1,1979,07,08,1,Fisher_Rick,Alexander_John,Fisher_Rick,Australian_Open,1979,07,08,7-6_7-6_6-4
 Australian_Open,1,1979,07,08,2,Vilas_Guillermo,Gardiner_Alvin,Vilas_Guillermo,Australian_Open,1979,07,08,6-4_6-2_6-4
 Australian_Open,1,1979,07,08,2,Delaney_Christofer,McNamara_Peter,McNamara_Peter,Australian_Open,1979,07,08,6-3_7-6_6-3
-Australian_Open,1,1979,07,08,2,Dent_Phil,Miller_CraigA,Dent_Phil,Australian_Open,1979,07,08,7-6_6-0_6-3
+Australian_Open,1,1979,07,08,2,Dent_Phil,Miller_Craig_A,Dent_Phil,Australian_Open,1979,07,08,7-6_6-0_6-3
 Australian_Open,1,1979,07,08,2,Kachel_Chris,Kronk_Paul,Kachel_Chris,Australian_Open,1979,07,08,7-6_6-2_6-1
 Australian_Open,1,1979,07,08,2,Amaya_Victor,Carter_David,Amaya_Victor,Australian_Open,1979,07,08,3-6_6-3_7-6_6-3
 Australian_Open,1,1979,07,08,2,Simpson_Russell,McNamee_Paul,McNamee_Paul,Australian_Open,1979,07,08,7-5_6-4_6-4
@@ -40,7 +40,7 @@ Australian_Open,1,1979,07,08,2,Rennert_Peter,Marten_Ulrich,Rennert_Peter,Austral
 Australian_Open,1,1979,07,08,2,Docherty_Steve,Krulevitz_Steve,Krulevitz_Steve,Australian_Open,1979,07,08,6-4_6-4_6-3
 Australian_Open,1,1979,07,08,2,Sadri_John,Moore_Raymond,Sadri_John,Australian_Open,1979,07,08,6-4_6-4_6-3
 Australian_Open,1,1979,07,08,2,James_John,Warwick_Kim,Warwick_Kim,Australian_Open,1979,07,08,6-3_6-3_6-0
-Australian_Open,1,1979,07,08,2,Frawley_Rod,Malin_GeneStuart,Frawley_Rod,Australian_Open,1979,07,08,6-7_6-2_6-0_6-4
+Australian_Open,1,1979,07,08,2,Frawley_Rod,Malin_Gene_Stuart,Frawley_Rod,Australian_Open,1979,07,08,6-7_6-2_6-0_6-4
 Australian_Open,1,1979,07,08,2,Maze_Bill,Ball_Syd,Ball_Syd,Australian_Open,1979,07,08,6-3_6-3_6-4
 Australian_Open,1,1979,07,08,2,Maher_Warren,Glickstein_Shlomo,Maher_Warren,Australian_Open,1979,07,08,6-7_7-5_6-7_6-4_10-8
 Australian_Open,1,1979,07,08,2,Mitchell_Matt,Edmondson_Mark,Edmondson_Mark,Australian_Open,1979,07,08,6-2_6-2_6-1

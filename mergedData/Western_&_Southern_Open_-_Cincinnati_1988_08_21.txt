@@ -1,5 +1,5 @@
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Edberg_Stefan,Edwards_Eddie,Edberg_Stefan,Western__Southern_Open_-_Cincinnati,1988,08,21,6-2_6-2
-Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,De_LaPenaHoracio,Kures_Michael,De_LaPenaHoracio,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_4-6_7-6
+Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,De_La_Pena_Horacio,Kures_Michael,De_La_Pena_Horacio,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_4-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Evernden_Kelly,Arias_Jimmy,Arias_Jimmy,Western__Southern_Open_-_Cincinnati,1988,08,21,3-6_6-3_6-0
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Stoltenberg_Jason,Goldie_Dan,Goldie_Dan,Western__Southern_Open_-_Cincinnati,1988,08,21,6-2_2-6_6-4
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Chesnokov_Andrei,Antonitsch_Alex,Chesnokov_Andrei,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_4-6_6-2
@@ -13,7 +13,7 @@ Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Witsken_Todd,Hlasek_Jakob,Hla
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Jarryd_Anders,Masso_Eduardo,Jarryd_Anders,Western__Southern_Open_-_Cincinnati,1988,08,21,6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Srejber_Milan,Vysand_Andres,Srejber_Milan,Western__Southern_Open_-_Cincinnati,1988,08,21,6-3_6-7_6-2
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Aldrich_Pieter,Flach_Ken,Aldrich_Pieter,Western__Southern_Open_-_Cincinnati,1988,08,21,6-1_2-6_6-3
-Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Rive_Joey,Mecir_SrMiloslav,Rive_Joey,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_7-6
+Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Rive_Joey,Mecir_Sr_Miloslav,Rive_Joey,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_7-6
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Gilbert_Brad,Sampras_Pete,Gilbert_Brad,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_6-2
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Grabb_Jim,Schapers_Michiel,Schapers_Michiel,Western__Southern_Open_-_Cincinnati,1988,08,21,6-3_7-5
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Lozano_Jorge,Pate_David,Pate_David,Western__Southern_Open_-_Cincinnati,1988,08,21,4-6_6-4_6-4
@@ -30,7 +30,7 @@ Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Cahill_Darren,Masur_Wally,Mas
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Laurendeau_Martin,Smith_Roger,Laurendeau_Martin,Western__Southern_Open_-_Cincinnati,1988,08,21,6-3_7-6
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Chamberlin_Paul,Davis_Scott,Davis_Scott,Western__Southern_Open_-_Cincinnati,1988,08,21,6-4_6-3
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,1,Castle_Andrew,Wilander_Mats,Wilander_Mats,Western__Southern_Open_-_Cincinnati,1988,08,21,6-3_6-1
-Western__Southern_Open_-_Cincinnati,2,1988,08,21,2,Edberg_Stefan,De_LaPenaHoracio,Edberg_Stefan,Western__Southern_Open_-_Cincinnati,1988,08,21,7-5_6-2
+Western__Southern_Open_-_Cincinnati,2,1988,08,21,2,Edberg_Stefan,De_La_Pena_Horacio,Edberg_Stefan,Western__Southern_Open_-_Cincinnati,1988,08,21,7-5_6-2
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,2,Arias_Jimmy,Goldie_Dan,Goldie_Dan,Western__Southern_Open_-_Cincinnati,1988,08,21,7-6_6-4
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,2,Chesnokov_Andrei,Frawley_John,Frawley_John,Western__Southern_Open_-_Cincinnati,1988,08,21,6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1988,08,21,2,Lundgren_Peter,Chang_Michael,Chang_Michael,Western__Southern_Open_-_Cincinnati,1988,08,21,6-3_4-6_6-4

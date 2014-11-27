@@ -11,7 +11,7 @@ Moselle_Open,2,2008,10,05,1,Tipsarevic_Janko,Chardy_Jeremy,Tipsarevic_Janko,Mose
 Moselle_Open,2,2008,10,05,1,Jouan_Romain,Calleri_Agustin,Jouan_Romain,Moselle_Open,2008,10,05,5-7_6-1_6-2
 Moselle_Open,2,2008,10,05,1,Devilder_Nicolas,Mathieu_PaulHenri,Mathieu_PaulHenri,Moselle_Open,2008,10,05,6-0_6-2
 Moselle_Open,2,2008,10,05,1,Seppi_Andreas,Mannarino_Adrian,Mannarino_Adrian,Moselle_Open,2008,10,05,6-4_6-2
-Moselle_Open,2,2008,10,05,1,De_VoestRik,Clement_Arnaud,De_VoestRik,Moselle_Open,2008,10,05,4-6_6-2_7-5
+Moselle_Open,2,2008,10,05,1,De_Voest_Rik,Clement_Arnaud,De_Voest_Rik,Moselle_Open,2008,10,05,4-6_6-2_7-5
 Moselle_Open,2,2008,10,05,1,Granollers_Marcel,Gicquel_Marc,Gicquel_Marc,Moselle_Open,2008,10,05,6-3_6-2
 Moselle_Open,2,2008,10,05,1,Mahut_Nicolas,Simon_Gilles,Mahut_Nicolas,Moselle_Open,2008,10,05,6-4_3-6_6-1
 Moselle_Open,2,2008,10,05,2,Karlovic_Ivo,Moya_Carlos,Moya_Carlos,Moselle_Open,2008,10,05,6-3_7-6(4)
@@ -20,7 +20,7 @@ Moselle_Open,2,2008,10,05,2,Schwank_Eduardo,Hanescu_Victor,Schwank_Eduardo,Mosel
 Moselle_Open,2,2008,10,05,2,Llodra_Michael,Stepanek_Radek,Stepanek_Radek,Moselle_Open,2008,10,05,6-7(5)_6-1_7-6(0)
 Moselle_Open,2,2008,10,05,2,Gulbis_Ernests,Tipsarevic_Janko,Tipsarevic_Janko,Moselle_Open,2008,10,05,6-4_6-4
 Moselle_Open,2,2008,10,05,2,Jouan_Romain,Mathieu_PaulHenri,Mathieu_PaulHenri,Moselle_Open,2008,10,05,6-3_6-3
-Moselle_Open,2,2008,10,05,2,Mannarino_Adrian,De_VoestRik,Mannarino_Adrian,Moselle_Open,2008,10,05,6-4_7-5
+Moselle_Open,2,2008,10,05,2,Mannarino_Adrian,De_Voest_Rik,Mannarino_Adrian,Moselle_Open,2008,10,05,6-4_7-5
 Moselle_Open,2,2008,10,05,2,Gicquel_Marc,Mahut_Nicolas,Gicquel_Marc,Moselle_Open,2008,10,05,6-3_7-6(4)
 Moselle_Open,2,2008,10,05,3,Moya_Carlos,Tursunov_Dmitry,Tursunov_Dmitry,Moselle_Open,2008,10,05,6-3_6-3
 Moselle_Open,2,2008,10,05,3,Schwank_Eduardo,Stepanek_Radek,Stepanek_Radek,Moselle_Open,2008,10,05,3-6_7-6(4)_6-4

@@ -8,7 +8,7 @@ BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Roig_Francisco,Mota_Bernardo,Roig_Franc
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Youl_Simon,Muster_Thomas,Muster_Thomas,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-1_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Gaudenzi_Andrea,Costa_Albert,Costa_Albert,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Nydahl_Tomas,Arriens_Carsten,Nydahl_Tomas,BRD_Nastase_Tiriac_Trophy,1994,09,18,4-6_6-3_3-2_RET
-BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Filippini_Marcelo,Gorriz_MarcosAurelio,Gorriz_MarcosAurelio,BRD_Nastase_Tiriac_Trophy,1994,09,18,7-6(4)_6-1
+BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Filippini_Marcelo,Gorriz_Marcos_Aurelio,Gorriz_Marcos_Aurelio,BRD_Nastase_Tiriac_Trophy,1994,09,18,7-6(4)_6-1
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Martinez_Oscar,Blackman_Martin,Martinez_Oscar,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-2_6-2
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Dosedel_Slava,Sabau_Razvan,Dosedel_Slava,BRD_Nastase_Tiriac_Trophy,1994,09,18,4-6_6-3_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,1,Skoff_Horst,Kucera_Karol,Kucera_Karol,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-3
@@ -19,12 +19,12 @@ BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Pavel_Andrei,Corretja_Alex,Corretja_Ale
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Berasategui_Alberto,Furlan_Renzo,Furlan_Renzo,BRD_Nastase_Tiriac_Trophy,1994,09,18,1-6_6-3_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Roig_Francisco,Muster_Thomas,Muster_Thomas,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-0_1-6_6-1
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Costa_Albert,Nydahl_Tomas,Costa_Albert,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-7(3)_6-4_1-0_RET
-BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Gorriz_MarcosAurelio,Martinez_Oscar,Gorriz_MarcosAurelio,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-1_7-6(5)
+BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Gorriz_Marcos_Aurelio,Martinez_Oscar,Gorriz_Marcos_Aurelio,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-1_7-6(5)
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Dosedel_Slava,Kucera_Karol,Kucera_Karol,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-3
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,2,Poliakov_Dimitri,Davin_Franco,Davin_Franco,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-1_6-1
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,3,Ivanisevic_Goran,Corretja_Alex,Ivanisevic_Goran,BRD_Nastase_Tiriac_Trophy,1994,09,18,3-6_6-2_6-2
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,3,Furlan_Renzo,Muster_Thomas,Furlan_Renzo,BRD_Nastase_Tiriac_Trophy,1994,09,18,W/O
-BRD_Nastase_Tiriac_Trophy,2,1994,09,18,3,Costa_Albert,Gorriz_MarcosAurelio,Costa_Albert,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-4
+BRD_Nastase_Tiriac_Trophy,2,1994,09,18,3,Costa_Albert,Gorriz_Marcos_Aurelio,Costa_Albert,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,3,Kucera_Karol,Davin_Franco,Davin_Franco,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-3_6-0
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,4,Ivanisevic_Goran,Furlan_Renzo,Ivanisevic_Goran,BRD_Nastase_Tiriac_Trophy,1994,09,18,6-4_6-4
 BRD_Nastase_Tiriac_Trophy,2,1994,09,18,4,Costa_Albert,Davin_Franco,Davin_Franco,BRD_Nastase_Tiriac_Trophy,1994,09,18,7-5_6-3

@@ -3,9 +3,9 @@ Denver,2,1981,07,05,1,Stockton_Dick,Dent_Phil,Dent_Phil,Denver,1981,07,05,6-4_6-
 Denver,2,1981,07,05,1,Manson_Bruce,Mayotte_Chris,Manson_Bruce,Denver,1981,07,05,7-6_6-0
 Denver,2,1981,07,05,1,Gullikson_Tom,Gullikson_Tim,Gullikson_Tom,Denver,1981,07,05,2-6_6-4_6-3
 Denver,2,1981,07,05,1,Purcell_Mel,Meyer_Rick,Purcell_Mel,Denver,1981,07,05,7-6_6-2
-Denver,2,1981,07,05,1,Dibley_Colin,Fillol_SrJaime,Dibley_Colin,Denver,1981,07,05,6-1_6-2
+Denver,2,1981,07,05,1,Dibley_Colin,Fillol_Sr_Jaime,Dibley_Colin,Denver,1981,07,05,6-1_6-2
 Denver,2,1981,07,05,1,Saviano_Nick,Hayes_John,Saviano_Nick,Denver,1981,07,05,6-3_3-6_6-3
-Denver,2,1981,07,05,1,Vant_HofRobert,Moor_Terry,Moor_Terry,Denver,1981,07,05,6-4_7-6
+Denver,2,1981,07,05,1,Vant_Hof_Robert,Moor_Terry,Moor_Terry,Denver,1981,07,05,6-4_7-6
 Denver,2,1981,07,05,1,Curren_Kevin,Giammalva_Tony,Giammalva_Tony,Denver,1981,07,05,7-6_7-6
 Denver,2,1981,07,05,1,Walts_Butch,Denton_Steve,Walts_Butch,Denver,1981,07,05,7-6_6-7_7-6
 Denver,2,1981,07,05,1,Austin_John,Farrow_Juan,Austin_John,Denver,1981,07,05,6-1_6-3

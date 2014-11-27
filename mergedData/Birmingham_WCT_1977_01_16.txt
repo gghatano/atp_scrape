@@ -1,4 +1,4 @@
-Birmingham_WCT,2,1977,01,16,1,Connors_Jimmy,Mottram_BusterC,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-3_6-2
+Birmingham_WCT,2,1977,01,16,1,Connors_Jimmy,Mottram_Buster_C,Connors_Jimmy,Birmingham_WCT,1977,01,16,6-3_6-2
 Birmingham_WCT,2,1977,01,16,1,Okker_Tom,Drysdale_Cliff,Drysdale_Cliff,Birmingham_WCT,1977,01,16,6-1_7-5
 Birmingham_WCT,2,1977,01,16,1,Mayer_Sandy,Kodes_Jan,Mayer_Sandy,Birmingham_WCT,1977,01,16,6-2_6-2
 Birmingham_WCT,2,1977,01,16,1,Dibbs_Eddie,Orantes_Manuel,Dibbs_Eddie,Birmingham_WCT,1977,01,16,7-6(3)_1-6_6-1

@@ -7,7 +7,7 @@ Bolzano,2,1993,10,17,1,Wilander_Mats,Pozzi_Gianluca,Pozzi_Gianluca,Bolzano,1993,
 Bolzano,2,1993,10,17,1,Enqvist_Thomas,Stark_Jonathan,Stark_Jonathan,Bolzano,1993,10,17,3-6_7-6(1)_6-4
 Bolzano,2,1993,10,17,1,Naewie_Markus,Chesnokov_Andrei,Chesnokov_Andrei,Bolzano,1993,10,17,4-6_7-6(5)_7-5
 Bolzano,2,1993,10,17,1,Ondruska_Marcos,Olhovskiy_Andrei,Olhovskiy_Andrei,Bolzano,1993,10,17,6-2_4-6_6-3
-Bolzano,2,1993,10,17,1,Moraing_Peter,El_AynaouiYounes,Moraing_Peter,Bolzano,1993,10,17,6-7(4)_7-6(1)_6-4
+Bolzano,2,1993,10,17,1,Moraing_Peter,El_Aynaoui_Younes,Moraing_Peter,Bolzano,1993,10,17,6-7(4)_7-6(1)_6-4
 Bolzano,2,1993,10,17,1,Cane_Paolo,Antonitsch_Alex,Cane_Paolo,Bolzano,1993,10,17,6-4_4-6_6-2
 Bolzano,2,1993,10,17,1,Johansson_Thomas,Novacek_Karel,Johansson_Thomas,Bolzano,1993,10,17,6-7(8)_6-2_6-2
 Bolzano,2,1993,10,17,1,Fromberg_Richard,Nijssen_Tom,Nijssen_Tom,Bolzano,1993,10,17,6-4_4-6_7-6(3)

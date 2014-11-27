@@ -1,4 +1,4 @@
-Sopot,2,2002,07,28,1,Novak_Jiri,De_ChaunacSebastien,Novak_Jiri,Sopot,2002,07,28,6-7(3)_6-3_6-2
+Sopot,2,2002,07,28,1,Novak_Jiri,De_Chaunac_Sebastien,Novak_Jiri,Sopot,2002,07,28,6-7(3)_6-3_6-2
 Sopot,2,2002,07,28,1,Lopez_Feliciano,Savolt_Attila,Savolt_Attila,Sopot,2002,07,28,6-4_6-3
 Sopot,2,2002,07,28,1,Nijaki_Radoslaw,Mathieu_PaulHenri,Mathieu_PaulHenri,Sopot,2002,07,28,5-2_RET
 Sopot,2,2002,07,28,1,Dabrowski_Bartlomiej,Youzhny_Mikhail,Youzhny_Mikhail,Sopot,2002,07,28,7-6(2)_6-0

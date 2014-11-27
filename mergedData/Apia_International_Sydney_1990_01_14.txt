@@ -7,7 +7,7 @@ Apia_International_Sydney,2,1990,01,14,1,Annacone_Paul,Kratzmann_Mark,Annacone_P
 Apia_International_Sydney,2,1990,01,14,1,Forget_Guy,Koevermans_Mark,Forget_Guy,Apia_International_Sydney,1990,01,14,7-5_6-3
 Apia_International_Sydney,2,1990,01,14,1,Wheaton_David,Gomez_Andres,Wheaton_David,Apia_International_Sydney,1990,01,14,7-5_6-4
 Apia_International_Sydney,2,1990,01,14,1,Wilander_Mats,Rosset_Marc,Wilander_Mats,Apia_International_Sydney,1990,01,14,6-4_6-2
-Apia_International_Sydney,2,1990,01,14,1,Van_RensburgChristo,Kroon_Nicklas,Kroon_Nicklas,Apia_International_Sydney,1990,01,14,7-6_6-2
+Apia_International_Sydney,2,1990,01,14,1,Van_Rensburg_Christo,Kroon_Nicklas,Kroon_Nicklas,Apia_International_Sydney,1990,01,14,7-6_6-2
 Apia_International_Sydney,2,1990,01,14,1,Camporese_Omar,Arrese_Jordi,Camporese_Omar,Apia_International_Sydney,1990,01,14,4-6_6-4_6-4
 Apia_International_Sydney,2,1990,01,14,1,Sampras_Pete,Mayotte_Tim,Sampras_Pete,Apia_International_Sydney,1990,01,14,7-6_6-2
 Apia_International_Sydney,2,1990,01,14,1,Steeb_CarlUwe,Lavalle_Leonardo,Steeb_CarlUwe,Apia_International_Sydney,1990,01,14,6-1_6-4

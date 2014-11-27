@@ -20,7 +20,7 @@ Madrid,2,1979,12,25,1,Gunnarsson_Jan,Pierola_Alejandro,Pierola_Alejandro,Madrid,
 Madrid,2,1979,12,25,1,Benavides_Ramiro,Caujolle_JeanFrancois,Caujolle_JeanFrancois,Madrid,1979,12,25,4-6_6-2_6-4
 Madrid,2,1979,12,25,1,Proisy_Patrick,Rafaitin_Gregoire,Proisy_Patrick,Madrid,1979,12,25,6-3_6-2
 Madrid,2,1979,12,25,1,Yuill_John,Sanders_Louk,Sanders_Louk,Madrid,1979,12,25,6-0_6-2
-Madrid,2,1979,12,25,1,Velasco_SrJairo,Mir_Miguel,Velasco_SrJairo,Madrid,1979,12,25,7-6_6-3
+Madrid,2,1979,12,25,1,Velasco_Sr_Jairo,Mir_Miguel,Velasco_Sr_Jairo,Madrid,1979,12,25,7-6_6-3
 Madrid,2,1979,12,25,1,Guedes_Roger,Orantes_Manuel,Orantes_Manuel,Madrid,1979,12,25,6-1_6-1
 Madrid,2,1979,12,25,1,Moor_Terry,Maurer_Andreas,Moor_Terry,Madrid,1979,12,25,6-3_6-2
 Madrid,2,1979,12,25,1,Castanon_Jose,LopezMaeso_Jose,LopezMaeso_Jose,Madrid,1979,12,25,6-1_6-3
@@ -28,7 +28,7 @@ Madrid,2,1979,12,25,1,Gonzalez_Anton,Goven_Georges,Goven_Georges,Madrid,1979,12,
 Madrid,2,1979,12,25,1,Luna_Fernando,McNamee_Paul,McNamee_Paul,Madrid,1979,12,25,4-0_RET
 Madrid,2,1979,12,25,1,Franulovic_Zeljko,Hurlimann_Max,Franulovic_Zeljko,Madrid,1979,12,25,6-2_6-2
 Madrid,2,1979,12,25,1,Elter_Peter,Feaver_John,Elter_Peter,Madrid,1979,12,25,7-6_6-7_6-4
-Madrid,2,1979,12,25,1,Fillol_SrJaime,El_ShafeiIsmail,Fillol_SrJaime,Madrid,1979,12,25,6-2_6-4
+Madrid,2,1979,12,25,1,Fillol_Sr_Jaime,El_Shafei_Ismail,Fillol_Sr_Jaime,Madrid,1979,12,25,6-2_6-4
 Madrid,2,1979,12,25,1,Nunez_Gonzalo,Clerc_JoseLuis,Clerc_JoseLuis,Madrid,1979,12,25,6-1_6-4
 Madrid,2,1979,12,25,2,Higueras_Jose,Molina_Ivan,Higueras_Jose,Madrid,1979,12,25,6-4_6-3
 Madrid,2,1979,12,25,2,Cortes_Alejandro,Freyss_Christophe,Freyss_Christophe,Madrid,1979,12,25,4-6_7-6_6-1
@@ -41,11 +41,11 @@ Madrid,2,1979,12,25,2,Hjertquist_Per,Noah_Yannick,Noah_Yannick,Madrid,1979,12,25
 Madrid,2,1979,12,25,2,McNamara_Peter,Amaya_George,McNamara_Peter,Madrid,1979,12,25,2-6_6-1_6-4
 Madrid,2,1979,12,25,2,Pierola_Alejandro,Caujolle_JeanFrancois,Pierola_Alejandro,Madrid,1979,12,25,4-6_6-3_6-1
 Madrid,2,1979,12,25,2,Proisy_Patrick,Sanders_Louk,Proisy_Patrick,Madrid,1979,12,25,6-2_7-6
-Madrid,2,1979,12,25,2,Velasco_SrJairo,Orantes_Manuel,Orantes_Manuel,Madrid,1979,12,25,6-4_6-2
+Madrid,2,1979,12,25,2,Velasco_Sr_Jairo,Orantes_Manuel,Orantes_Manuel,Madrid,1979,12,25,6-4_6-2
 Madrid,2,1979,12,25,2,Moor_Terry,LopezMaeso_Jose,Moor_Terry,Madrid,1979,12,25,6-7_6-2_6-2
 Madrid,2,1979,12,25,2,Goven_Georges,McNamee_Paul,McNamee_Paul,Madrid,1979,12,25,6-2_2-6_6-3
 Madrid,2,1979,12,25,2,Franulovic_Zeljko,Elter_Peter,Franulovic_Zeljko,Madrid,1979,12,25,6-2_6-4
-Madrid,2,1979,12,25,2,Fillol_SrJaime,Clerc_JoseLuis,Clerc_JoseLuis,Madrid,1979,12,25,6-2_6-4
+Madrid,2,1979,12,25,2,Fillol_Sr_Jaime,Clerc_JoseLuis,Clerc_JoseLuis,Madrid,1979,12,25,6-2_6-4
 Madrid,2,1979,12,25,3,Higueras_Jose,Freyss_Christophe,Higueras_Jose,Madrid,1979,12,25,6-1_6-3
 Madrid,2,1979,12,25,3,Portes_Pascal,Richardson_Keith,Richardson_Keith,Madrid,1979,12,25,6-4_7-5
 Madrid,2,1979,12,25,3,Urpi_Gabriel,Edwards_Eddie,Urpi_Gabriel,Madrid,1979,12,25,2-6_6-2_9-7

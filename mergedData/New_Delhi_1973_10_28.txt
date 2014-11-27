@@ -11,7 +11,7 @@ New_Delhi,2,1973,10,28,1,Ball_Syd,Amritraj_Anand,Amritraj_Anand,New_Delhi,1973,1
 New_Delhi,2,1973,10,28,1,Misra_Gaurav,Simpson_Jeff,Misra_Gaurav,New_Delhi,1973,10,28,6-3_2-6_11-9
 New_Delhi,2,1973,10,28,1,Franulovic_Zeljko,Gerken_Paul,Gerken_Paul,New_Delhi,1973,10,28,6-3_6-1
 New_Delhi,2,1973,10,28,1,Estep_Mike,Royappa_Jay,Estep_Mike,New_Delhi,1973,10,28,7-5_6-2
-New_Delhi,2,1973,10,28,1,McNair_IVFred,Lall_Premjit,Lall_Premjit,New_Delhi,1973,10,28,6-2_8-9_6-1
+New_Delhi,2,1973,10,28,1,McNair_IV_Fred,Lall_Premjit,Lall_Premjit,New_Delhi,1973,10,28,6-2_8-9_6-1
 New_Delhi,2,1973,10,28,1,Singh_Jasjit,Giltinan_Bob,Singh_Jasjit,New_Delhi,1973,10,28,6-2_6-2
 New_Delhi,2,1973,10,28,1,Goswami_Bidynt,Gottfried_Brian,Gottfried_Brian,New_Delhi,1973,10,28,9-8_6-2
 New_Delhi,2,1973,10,28,2,Amritraj_Vijay,McManus_Jim,Amritraj_Vijay,New_Delhi,1973,10,28,6-2_8-6

@@ -7,7 +7,7 @@ Philadelphia_WCT,2,1972,02,13,1,Pasarell_Charlie,Stolle_Fred,Pasarell_Charlie,Ph
 Philadelphia_WCT,2,1972,02,13,1,Holmberg_Ron,Bowrey_Bill,Holmberg_Ron,Philadelphia_WCT,1972,02,13,6-2_6-3
 Philadelphia_WCT,2,1972,02,13,1,Froehling_Frank,Ashe_Arthur,Ashe_Arthur,Philadelphia_WCT,1972,02,13,3-6_6-1_6-4
 Philadelphia_WCT,2,1972,02,13,1,Okker_Tom,Leonard_Tom,Okker_Tom,Philadelphia_WCT,1972,02,13,6-2_6-4
-Philadelphia_WCT,2,1972,02,13,1,Addison_Terry,El_ShafeiIsmail,Addison_Terry,Philadelphia_WCT,1972,02,13,6-4_2-6_6-4
+Philadelphia_WCT,2,1972,02,13,1,Addison_Terry,El_Shafei_Ismail,Addison_Terry,Philadelphia_WCT,1972,02,13,6-4_2-6_6-4
 Philadelphia_WCT,2,1972,02,13,1,Borowiak_Jeff,Barth_Roy,Borowiak_Jeff,Philadelphia_WCT,1972,02,13,6-2_6-2
 Philadelphia_WCT,2,1972,02,13,1,Dent_Phil,Newcombe_John,Newcombe_John,Philadelphia_WCT,1972,02,13,6-4_6-4
 Philadelphia_WCT,2,1972,02,13,1,Lutz_Robert,Carmichael_Bob,Lutz_Robert,Philadelphia_WCT,1972,02,13,6-4_6-4

@@ -1,13 +1,13 @@
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Lutz_Robert,Hardie_George,Lutz_Robert,Western__Southern_Open_-_Cincinnati,1974,07,28,6-4_6-4
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Fisher_Rick,LoyoMayo_Joaquin,LoyoMayo_Joaquin,Western__Southern_Open_-_Cincinnati,1974,07,28,6-2_6-4
-Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Edlefsen_Tom,Hagey_JamesChico,Hagey_JamesChico,Western__Southern_Open_-_Cincinnati,1974,07,28,6-2_6-0
+Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Edlefsen_Tom,Hagey_James_Chico,Hagey_James_Chico,Western__Southern_Open_-_Cincinnati,1974,07,28,6-2_6-0
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Bunis_Henry,Brown_William,Bunis_Henry,Western__Southern_Open_-_Cincinnati,1974,07,28,6-1_6-4
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Stewart_Sherwood,Hose_Humphrey,Stewart_Sherwood,Western__Southern_Open_-_Cincinnati,1974,07,28,6-4_6-4
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Whitlinger_John,Dell_Dick,Whitlinger_John,Western__Southern_Open_-_Cincinnati,1974,07,28,6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Kamiwazumi_Jun,Holmes_Norman,Kamiwazumi_Jun,Western__Southern_Open_-_Cincinnati,1974,07,28,6-7_7-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Barth_Roy,Amaya_Victor,Barth_Roy,Western__Southern_Open_-_Cincinnati,1974,07,28,6-3_6-1
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Teacher_Brian,Cahill_Mike,Teacher_Brian,Western__Southern_Open_-_Cincinnati,1974,07,28,7-5_6-2
-Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Leonard_Tom,McNair_IVFred,Leonard_Tom,Western__Southern_Open_-_Cincinnati,1974,07,28,5-7_7-5_6-4
+Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Leonard_Tom,McNair_IV_Fred,Leonard_Tom,Western__Southern_Open_-_Cincinnati,1974,07,28,5-7_7-5_6-4
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Neely_Armistead,Lloyd_John,Neely_Armistead,Western__Southern_Open_-_Cincinnati,1974,07,28,6-4_7-5
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Dibley_Colin,Prajoux_Belus,Dibley_Colin,Western__Southern_Open_-_Cincinnati,1974,07,28,6-3_6-3
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Delaney_Jim,Lundquist_JanEric,Delaney_Jim,Western__Southern_Open_-_Cincinnati,1974,07,28,4-6_7-6_7-6
@@ -15,7 +15,7 @@ Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Krulevitz_Steve,Dowdeswell_Ro
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Bertram_Byron,Andrews_John,Bertram_Byron,Western__Southern_Open_-_Cincinnati,1974,07,28,6-1_7-6
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,1,Moor_Terry,Riessen_Marty,Riessen_Marty,Western__Southern_Open_-_Cincinnati,1974,07,28,7-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Lutz_Robert,LoyoMayo_Joaquin,Lutz_Robert,Western__Southern_Open_-_Cincinnati,1974,07,28,6-2_6-3
-Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Hagey_JamesChico,Bunis_Henry,Bunis_Henry,Western__Southern_Open_-_Cincinnati,1974,07,28,5-7_7-6_6-3
+Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Hagey_James_Chico,Bunis_Henry,Bunis_Henry,Western__Southern_Open_-_Cincinnati,1974,07,28,5-7_7-6_6-3
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Stewart_Sherwood,Whitlinger_John,Stewart_Sherwood,Western__Southern_Open_-_Cincinnati,1974,07,28,6-3_7-6
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Kamiwazumi_Jun,Barth_Roy,Kamiwazumi_Jun,Western__Southern_Open_-_Cincinnati,1974,07,28,7-6_3-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1974,07,28,2,Teacher_Brian,Leonard_Tom,Teacher_Brian,Western__Southern_Open_-_Cincinnati,1974,07,28,6-2_6-3

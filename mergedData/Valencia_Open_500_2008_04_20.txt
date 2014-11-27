@@ -9,8 +9,8 @@ Valencia_Open_500,2,2008,04,20,1,Bolelli_Simone,Starace_Potito,Starace_Potito,Va
 Valencia_Open_500,2,2008,04,20,1,Andreev_Igor,Korolev_Evgeny,Korolev_Evgeny,Valencia_Open_500,2008,04,20,6-4_4-6_7-6(4)
 Valencia_Open_500,2,2008,04,20,1,GimenoTraver_Daniel,Stakhovsky_Sergiy,GimenoTraver_Daniel,Valencia_Open_500,2008,04,20,6-4_6-4
 Valencia_Open_500,2,2008,04,20,1,Schukin_Yuri,Haase_Robin,Haase_Robin,Valencia_Open_500,2008,04,20,6-4_4-1_RET
-Valencia_Open_500,2,2008,04,20,1,Safin_Marat,Ferrero_JuanCarlos,Safin_Marat,Valencia_Open_500,2008,04,20,6-3_5-7_6-4
-Valencia_Open_500,2,2008,04,20,1,Almagro_Nicolas,Lopez_JaenMiguelAngel,Almagro_Nicolas,Valencia_Open_500,2008,04,20,7-5_6-3
+Valencia_Open_500,2,2008,04,20,1,Safin_Marat,Ferrero_Juan_Carlos,Safin_Marat,Valencia_Open_500,2008,04,20,6-3_5-7_6-4
+Valencia_Open_500,2,2008,04,20,1,Almagro_Nicolas,Lopez_Jaen_Miguel_Angel,Almagro_Nicolas,Valencia_Open_500,2008,04,20,7-5_6-3
 Valencia_Open_500,2,2008,04,20,1,Schwank_Eduardo,Rochus_Christophe,Schwank_Eduardo,Valencia_Open_500,2008,04,20,6-2_2-0_RET
 Valencia_Open_500,2,2008,04,20,1,GarciaLopez_Guillermo,Darcis_Steve,GarciaLopez_Guillermo,Valencia_Open_500,2008,04,20,6-4_RET
 Valencia_Open_500,2,2008,04,20,1,Eschauer_Werner,Monaco_Juan,Monaco_Juan,Valencia_Open_500,2008,04,20,6-7(5)_6-4_6-4

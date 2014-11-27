@@ -1,7 +1,7 @@
 Australian_Open,1,1991,01,27,1,Edberg_Stefan,Poliakov_Dimitri,Edberg_Stefan,Australian_Open,1991,01,27,6-1_7-6(6)_6-2
 Australian_Open,1,1991,01,27,1,Pearce_Brad,Masso_Eduardo,Masso_Eduardo,Australian_Open,1991,01,27,6-7(4)_6-1_6-7(6)_6-3_8-6
 Australian_Open,1,1991,01,27,1,Novacek_Karel,Cash_Pat,Cash_Pat,Australian_Open,1991,01,27,6-2_6-4_6-1
-Australian_Open,1,1991,01,27,1,Van_RensburgChristo,Kratzmann_Mark,Van_RensburgChristo,Australian_Open,1991,01,27,6-3_6-1_7-5
+Australian_Open,1,1991,01,27,1,Van_Rensburg_Christo,Kratzmann_Mark,Van_Rensburg_Christo,Australian_Open,1991,01,27,6-3_6-1_7-5
 Australian_Open,1,1991,01,27,1,Marques_Nuno,CunhaSilva_Joao,Marques_Nuno,Australian_Open,1991,01,27,4-6_6-4_1-6_6-3_6-4
 Australian_Open,1,1991,01,27,1,Arbanas_John,Oncins_Jaime,Oncins_Jaime,Australian_Open,1991,01,27,6-3_6-3_7-5
 Australian_Open,1,1991,01,27,1,Perez_Diego,Bloom_Gilad,Bloom_Gilad,Australian_Open,1991,01,27,7-5_6-2_6-3
@@ -24,7 +24,7 @@ Australian_Open,1,1991,01,27,1,Sznajder_Andrew,Mansdorf_Amos,Mansdorf_Amos,Austr
 Australian_Open,1,1991,01,27,1,Youl_Simon,Krickstein_Aaron,Krickstein_Aaron,Australian_Open,1991,01,27,6-4_6-4_6-4
 Australian_Open,1,1991,01,27,1,Hlasek_Jakob,Stoltenberg_Jason,Stoltenberg_Jason,Australian_Open,1991,01,27,0-6_6-4_7-5_6-4
 Australian_Open,1,1991,01,27,1,Koevermans_Mark,Pate_David,Koevermans_Mark,Australian_Open,1991,01,27,6-4_6-2_3-6_2-6_6-0
-Australian_Open,1,1991,01,27,1,Siemerink_Jan,Altur_JoseFrancisco,Siemerink_Jan,Australian_Open,1991,01,27,6-3_6-3_6-3
+Australian_Open,1,1991,01,27,1,Siemerink_Jan,Altur_Jose_Francisco,Siemerink_Jan,Australian_Open,1991,01,27,6-3_6-3_6-3
 Australian_Open,1,1991,01,27,1,Steeb_CarlUwe,Pistolesi_Claudio,Steeb_CarlUwe,Australian_Open,1991,01,27,6-2_6-2_6-3
 Australian_Open,1,1991,01,27,1,Prpic_Goran,Pugh_Jim,Prpic_Goran,Australian_Open,1991,01,27,6-3_6-2_3-6_6-2
 Australian_Open,1,1991,01,27,1,Mattar_Luiz,Kulti_Nicklas,Mattar_Luiz,Australian_Open,1991,01,27,6-4_7-5_6-7(3)_6-3
@@ -63,7 +63,7 @@ Australian_Open,1,1991,01,27,1,Haarhuis_Paul,Sanchez_Javier,Haarhuis_Paul,Austra
 Australian_Open,1,1991,01,27,1,Vajda_Marian,Garrow_Brian,Vajda_Marian,Australian_Open,1991,01,27,2-6_6-4_7-5_6-3
 Australian_Open,1,1991,01,27,1,Bates_Jeremy,Becker_Boris,Becker_Boris,Australian_Open,1991,01,27,6-4_6-2_6-3
 Australian_Open,1,1991,01,27,2,Edberg_Stefan,Masso_Eduardo,Edberg_Stefan,Australian_Open,1991,01,27,6-1_6-2_6-3
-Australian_Open,1,1991,01,27,2,Cash_Pat,Van_RensburgChristo,Cash_Pat,Australian_Open,1991,01,27,7-6(6)_6-4_6-4
+Australian_Open,1,1991,01,27,2,Cash_Pat,Van_Rensburg_Christo,Cash_Pat,Australian_Open,1991,01,27,7-6(6)_6-4_6-4
 Australian_Open,1,1991,01,27,2,Marques_Nuno,Oncins_Jaime,Oncins_Jaime,Australian_Open,1991,01,27,6-3_6-0_6-2
 Australian_Open,1,1991,01,27,2,Bloom_Gilad,Courier_Jim,Courier_Jim,Australian_Open,1991,01,27,6-2_6-3_6-2
 Australian_Open,1,1991,01,27,2,Arias_Jimmy,Wuyts_Bart,Arias_Jimmy,Australian_Open,1991,01,27,6-3_6-1_6-2

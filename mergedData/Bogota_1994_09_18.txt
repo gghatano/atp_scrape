@@ -4,7 +4,7 @@ Bogota,2,1994,09,18,1,Aramburu_Alejandro,Wibier_Fernon,Wibier_Fernon,Bogota,1994
 Bogota,2,1994,09,18,1,Noriega_JoseLuis,Meligeni_Fernando,Meligeni_Fernando,Bogota,1994,09,18,6-7(5)_6-3_7-5
 Bogota,2,1994,09,18,1,Krickstein_Aaron,Knowles_Mark,Krickstein_Aaron,Bogota,1994,09,18,6-3_6-4
 Bogota,2,1994,09,18,1,Jabali_Roberto,Nestor_Daniel,Nestor_Daniel,Bogota,1994,09,18,2-6_6-2_6-3
-Bogota,2,1994,09,18,1,Montana_Francisco,Benfele_AlvarezEmilio,Montana_Francisco,Bogota,1994,09,18,6-4_7-5
+Bogota,2,1994,09,18,1,Montana_Francisco,Benfele_Alvarez_Emilio,Montana_Francisco,Bogota,1994,09,18,6-4_7-5
 Bogota,2,1994,09,18,1,Arnold_Patricio,Novacek_Karel,Novacek_Karel,Bogota,1994,09,18,6-2_3-6_6-3
 Bogota,2,1994,09,18,1,Hadad_Mauricio,Garat_Juan,Hadad_Mauricio,Bogota,1994,09,18,6-3_6-3
 Bogota,2,1994,09,18,1,Cortes_Jaime,Rincon_Mario,Rincon_Mario,Bogota,1994,09,18,7-6(2)_5-7_6-4
@@ -12,7 +12,7 @@ Bogota,2,1994,09,18,1,Cortes_Sergio,Tramacchi_Peter,Cortes_Sergio,Bogota,1994,09
 Bogota,2,1994,09,18,1,Marques_Nuno,Chesnokov_Andrei,Chesnokov_Andrei,Bogota,1994,09,18,6-4_3-6_7-5
 Bogota,2,1994,09,18,1,Shelton_Bryan,Orsanic_Daniel,Shelton_Bryan,Bogota,1994,09,18,6-7(6)_6-4_7-6(6)
 Bogota,2,1994,09,18,1,Miniussi_Christian,Oncins_Jaime,Miniussi_Christian,Bogota,1994,09,18,6-0_5-7_6-1
-Bogota,2,1994,09,18,1,Morejon_LuisAdrian,Tobon_Miguel,Tobon_Miguel,Bogota,1994,09,18,7-5(3)_6-7_6-1
+Bogota,2,1994,09,18,1,Morejon_Luis_Adrian,Tobon_Miguel,Tobon_Miguel,Bogota,1994,09,18,7-5(3)_6-7_6-1
 Bogota,2,1994,09,18,1,Mancisidor_Alejo,Yzaga_Jaime,Mancisidor_Alejo,Bogota,1994,09,18,6-2_6-7(1)_6-4
 Bogota,2,1994,09,18,2,Bulant_Jaroslav,Pereira_Nicolas,Pereira_Nicolas,Bogota,1994,09,18,6-1_6-2
 Bogota,2,1994,09,18,2,Wibier_Fernon,Meligeni_Fernando,Meligeni_Fernando,Bogota,1994,09,18,7-6(5)_3-6_6-3

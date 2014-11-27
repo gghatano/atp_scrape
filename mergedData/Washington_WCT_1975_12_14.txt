@@ -2,7 +2,7 @@ Washington_WCT,2,1975,12,14,1,Dibbs_Eddie,Pattison_Andrew,Dibbs_Eddie,Washington
 Washington_WCT,2,1975,12,14,1,Warwick_Kim,Newcombe_John,Newcombe_John,Washington_WCT,1975,12,14,6-3_7-6(6)
 Washington_WCT,2,1975,12,14,1,Moore_Raymond,Drysdale_Cliff,Moore_Raymond,Washington_WCT,1975,12,14,6-2_2-6_6-3
 Washington_WCT,2,1975,12,14,1,Richey_Cliff,Solomon_Harold,Solomon_Harold,Washington_WCT,1975,12,14,6-3_3-6_6-2
-Washington_WCT,2,1975,12,14,1,Cox_Mark,McNair_IVFred,Cox_Mark,Washington_WCT,1975,12,14,6-3_6-3
+Washington_WCT,2,1975,12,14,1,Cox_Mark,McNair_IV_Fred,Cox_Mark,Washington_WCT,1975,12,14,6-3_6-3
 Washington_WCT,2,1975,12,14,1,Stewart_Sherwood,Pasarell_Charlie,Pasarell_Charlie,Washington_WCT,1975,12,14,6-3_6-1
 Washington_WCT,2,1975,12,14,1,Metreveli_Alex,Stone_Allan,Stone_Allan,Washington_WCT,1975,12,14,7-6(6)_4-6_7-5
 Washington_WCT,2,1975,12,14,1,Parun_Onny,Roche_Tony,Parun_Onny,Washington_WCT,1975,12,14,7-6(3)_7-6(0)

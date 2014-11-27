@@ -12,7 +12,7 @@ Topshelf_Open,2,2005,06,19,1,Arthurs_Wayne,Sluiter_Raemon,Arthurs_Wayne,Topshelf
 Topshelf_Open,2,2005,06,19,1,Logtens_Paul,Ancic_Mario,Ancic_Mario,Topshelf_Open,2005,06,19,6-4_6-2
 Topshelf_Open,2,2005,06,19,1,Soderling_Robin,Haehnel_Jerome,Soderling_Robin,Topshelf_Open,2005,06,19,7-5_6-3
 Topshelf_Open,2,2005,06,19,1,Lisnard_JeanRene,Kohlschreiber_Philipp,Kohlschreiber_Philipp,Topshelf_Open,2005,06,19,6-1_7-6(4)
-Topshelf_Open,2,2005,06,19,1,Hernych_Jan,Van_ScheppingenDennis,Hernych_Jan,Topshelf_Open,2005,06,19,7-6(7)_6-4
+Topshelf_Open,2,2005,06,19,1,Hernych_Jan,Van_Scheppingen_Dennis,Hernych_Jan,Topshelf_Open,2005,06,19,7-6(7)_6-4
 Topshelf_Open,2,2005,06,19,1,Uebel_Lars,Coria_Guillermo,Coria_Guillermo,Topshelf_Open,2005,06,19,6-3_6-1
 Topshelf_Open,2,2005,06,19,2,Robredo_Tommy,Burgsmuller_Lars,Burgsmuller_Lars,Topshelf_Open,2005,06,19,6-2_7-6(5)
 Topshelf_Open,2,2005,06,19,2,Llodra_Michael,Mathieu_PaulHenri,Llodra_Michael,Topshelf_Open,2005,06,19,6-4_4-6_6-3

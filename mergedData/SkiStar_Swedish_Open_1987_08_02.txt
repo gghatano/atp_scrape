@@ -8,7 +8,7 @@ SkiStar_Swedish_Open,2,1987,08,02,1,Engel_David,Navratil_Jaroslav,Navratil_Jaros
 SkiStar_Swedish_Open,2,1987,08,02,1,Cancellotti_Francesco,Nystrom_Joakim,Nystrom_Joakim,SkiStar_Swedish_Open,1987,08,02,6-3_6-2
 SkiStar_Swedish_Open,2,1987,08,02,1,Jarryd_Anders,Keretic_Damir,Jarryd_Anders,SkiStar_Swedish_Open,1987,08,02,6-4_6-2
 SkiStar_Swedish_Open,2,1987,08,02,1,Duncan_Lawson,Jonsson_Lars,Duncan_Lawson,SkiStar_Swedish_Open,1987,08,02,6-4_6-3
-SkiStar_Swedish_Open,2,1987,08,02,1,De_LaPenaHoracio,Bergstrom_Christian,Bergstrom_Christian,SkiStar_Swedish_Open,1987,08,02,6-1_6-3
+SkiStar_Swedish_Open,2,1987,08,02,1,De_La_Pena_Horacio,Bergstrom_Christian,Bergstrom_Christian,SkiStar_Swedish_Open,1987,08,02,6-1_6-3
 SkiStar_Swedish_Open,2,1987,08,02,1,Wahlgren_LarsAnders,Sanchez_Emilio,Sanchez_Emilio,SkiStar_Swedish_Open,1987,08,02,6-1_6-4
 SkiStar_Swedish_Open,2,1987,08,02,1,Pernfors_Mikael,Avendano_Juan,Pernfors_Mikael,SkiStar_Swedish_Open,1987,08,02,5-7_6-3_6-3
 SkiStar_Swedish_Open,2,1987,08,02,1,Buckley_Mark,Vojtischek_Paul,Vojtischek_Paul,SkiStar_Swedish_Open,1987,08,02,6-3_6-4

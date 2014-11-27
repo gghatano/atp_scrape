@@ -9,7 +9,7 @@ Toulouse,2,1998,10,04,1,Rosset_Marc,Santoro_Fabrice,Rosset_Marc,Toulouse,1998,10
 Toulouse,2,1998,10,04,1,Larsson_Magnus,Huet_Stephane,Huet_Stephane,Toulouse,1998,10,04,7-5_7-5
 Toulouse,2,1998,10,04,1,Roux_Lionel,Sargsian_Sargis,Sargsian_Sargis,Toulouse,1998,10,04,6-3_7-6(5)
 Toulouse,2,1998,10,04,1,Vacek_Daniel,Pozzi_Gianluca,Vacek_Daniel,Toulouse,1998,10,04,7-6(2)_6-4
-Toulouse,2,1998,10,04,1,Di_PasqualeArnaud,Johansson_Thomas,Johansson_Thomas,Toulouse,1998,10,04,7-6(6)_7-5
+Toulouse,2,1998,10,04,1,Di_Pasquale_Arnaud,Johansson_Thomas,Johansson_Thomas,Toulouse,1998,10,04,7-6(6)_7-5
 Toulouse,2,1998,10,04,1,Fromberg_Richard,Sanguinetti_Davide,Fromberg_Richard,Toulouse,1998,10,04,6-4_6-4
 Toulouse,2,1998,10,04,1,Federer_Roger,Raoux_Guillaume,Federer_Roger,Toulouse,1998,10,04,6-2_6-2
 Toulouse,2,1998,10,04,1,Golmard_Jerome,Prinosil_David,Golmard_Jerome,Toulouse,1998,10,04,6-4_7-6(4)

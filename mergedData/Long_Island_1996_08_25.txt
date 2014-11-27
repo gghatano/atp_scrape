@@ -6,7 +6,7 @@ Long_Island,2,1996,08,25,1,Siemerink_Jan,Stark_Jonathan,Stark_Jonathan,Long_Isla
 Long_Island,2,1996,08,25,1,Spadea_Vincent,Chesnokov_Andrei,Spadea_Vincent,Long_Island,1996,08,25,7-6(8)_6-4
 Long_Island,2,1996,08,25,1,Pereira_Nicolas,Kroslak_Jan,Kroslak_Jan,Long_Island,1996,08,25,7-6(8)_3-6_6-3
 Long_Island,2,1996,08,25,1,Volkov_Alexander,Medvedev_Andrei,Medvedev_Andrei,Long_Island,1996,08,25,4-6_6-2_6-2
-Long_Island,2,1996,08,25,1,El_AynaouiYounes,Lapentti_Nicolas,El_AynaouiYounes,Long_Island,1996,08,25,6-4_6-3
+Long_Island,2,1996,08,25,1,El_Aynaoui_Younes,Lapentti_Nicolas,El_Aynaoui_Younes,Long_Island,1996,08,25,6-4_6-3
 Long_Island,2,1996,08,25,1,Mirnyi_Max,Damm_Martin,Damm_Martin,Long_Island,1996,08,25,6-2_7-6(4)
 Long_Island,2,1996,08,25,1,Joyce_Michael,Frana_Javier,Joyce_Michael,Long_Island,1996,08,25,6-3_6-7(5)_7-6(3)
 Long_Island,2,1996,08,25,1,Matsuoka_Shuzo,Reneberg_Richey,Reneberg_Richey,Long_Island,1996,08,25,6-4_6-2
@@ -18,7 +18,7 @@ Long_Island,2,1996,08,25,2,Chang_Michael,Bruguera_Sergi,Chang_Michael,Long_Islan
 Long_Island,2,1996,08,25,2,Kucera_Karol,Arazi_Hicham,Kucera_Karol,Long_Island,1996,08,25,7-6(4)_7-5
 Long_Island,2,1996,08,25,2,Stark_Jonathan,Spadea_Vincent,Stark_Jonathan,Long_Island,1996,08,25,6-2_6-7(5)_7-6(3)
 Long_Island,2,1996,08,25,2,Kroslak_Jan,Medvedev_Andrei,Medvedev_Andrei,Long_Island,1996,08,25,6-3_6-2
-Long_Island,2,1996,08,25,2,El_AynaouiYounes,Damm_Martin,Damm_Martin,Long_Island,1996,08,25,5-7_6-3_3-0_RET
+Long_Island,2,1996,08,25,2,El_Aynaoui_Younes,Damm_Martin,Damm_Martin,Long_Island,1996,08,25,5-7_6-3_3-0_RET
 Long_Island,2,1996,08,25,2,Joyce_Michael,Reneberg_Richey,Joyce_Michael,Long_Island,1996,08,25,3-6_6-4_6-3
 Long_Island,2,1996,08,25,2,Voinea_Adrian,Welgreen_Nir,Voinea_Adrian,Long_Island,1996,08,25,5-7_6-0_6-2
 Long_Island,2,1996,08,25,2,Johansson_Thomas,Wibier_Fernon,Johansson_Thomas,Long_Island,1996,08,25,6-3_6-3

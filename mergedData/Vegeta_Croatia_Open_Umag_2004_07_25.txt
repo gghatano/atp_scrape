@@ -8,12 +8,12 @@ Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Mutis_Olivier,Vliegen_Kristof,Vliegen_Kr
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Rochus_Olivier,Kucera_Karol,Rochus_Olivier,Vegeta_Croatia_Open_Umag,2004,07,25,6-2_6-2
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Canas_Guillermo,Patience_Olivier,Canas_Guillermo,Vegeta_Croatia_Open_Umag,2004,07,25,6-3_6-2
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Tuksar_Sasa,Vicente_Fernando,Vicente_Fernando,Vegeta_Croatia_Open_Umag,2004,07,25,6-7(5)_6-4_6-3
-Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Calatrava_Alex,Di_PasqualeArnaud,Calatrava_Alex,Vegeta_Croatia_Open_Umag,2004,07,25,6-4_6-3
+Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Calatrava_Alex,Di_Pasquale_Arnaud,Calatrava_Alex,Vegeta_Croatia_Open_Umag,2004,07,25,6-4_6-3
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Zib_Tomas,Andreev_Igor,Zib_Tomas,Vegeta_Croatia_Open_Umag,2004,07,25,6-3_6-4
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Saretta_Flavio,Wawrinka_Stan,Saretta_Flavio,Vegeta_Croatia_Open_Umag,2004,07,25,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,GarciaLopez_Guillermo,Hanescu_Victor,GarciaLopez_Guillermo,Vegeta_Croatia_Open_Umag,2004,07,25,5-7_6-4_6-4
 Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Acasuso_Jose,Rochus_Christophe,Rochus_Christophe,Vegeta_Croatia_Open_Umag,2004,07,25,6-3_7-5
-Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Ramirez_HidalgoRuben,Novak_Jiri,Novak_Jiri,Vegeta_Croatia_Open_Umag,2004,07,25,6-4_6-2
+Vegeta_Croatia_Open_Umag,2,2004,07,25,1,Ramirez_Hidalgo_Ruben,Novak_Jiri,Novak_Jiri,Vegeta_Croatia_Open_Umag,2004,07,25,6-4_6-2
 Vegeta_Croatia_Open_Umag,2,2004,07,25,2,Moya_Carlos,Krajan_Zeljko,Moya_Carlos,Vegeta_Croatia_Open_Umag,2004,07,25,3-3_RET
 Vegeta_Croatia_Open_Umag,2,2004,07,25,2,Almagro_Nicolas,Martin_Alberto,Martin_Alberto,Vegeta_Croatia_Open_Umag,2004,07,25,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,2004,07,25,2,Volandri_Filippo,Serra_Florent,Volandri_Filippo,Vegeta_Croatia_Open_Umag,2004,07,25,7-5_6-0

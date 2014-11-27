@@ -1,6 +1,6 @@
 Boston,2,1998,08,30,1,Bjorkman_Jonas,Clement_Arnaud,Bjorkman_Jonas,Boston,1998,08,30,6-2_6-3
 Boston,2,1998,08,30,1,Blanco_Galo,Gumy_Hernan,Blanco_Galo,Boston,1998,08,30,3-6_6-1_6-4
-Boston,2,1998,08,30,1,van_LottumJohn,Grosjean_Sebastien,Grosjean_Sebastien,Boston,1998,08,30,6-2_6-0
+Boston,2,1998,08,30,1,van_Lottum_John,Grosjean_Sebastien,Grosjean_Sebastien,Boston,1998,08,30,6-2_6-0
 Boston,2,1998,08,30,1,Malisse_Xavier,Campbell_Steve,Malisse_Xavier,Boston,1998,08,30,6-3_6-1
 Boston,2,1998,08,30,1,Chang_Michael,Pavel_Andrei,Chang_Michael,Boston,1998,08,30,7-5_6-2
 Boston,2,1998,08,30,1,Golmard_Jerome,Carlsen_Kenneth,Carlsen_Kenneth,Boston,1998,08,30,3-6_6-3_6-4
@@ -11,7 +11,7 @@ Boston,2,1998,08,30,1,Costa_Carlos,Lapentti_Nicolas,Lapentti_Nicolas,Boston,1998
 Boston,2,1998,08,30,1,Ilie_Andrew,Squillari_Franco,Ilie_Andrew,Boston,1998,08,30,6-4_6-2
 Boston,2,1998,08,30,1,Voinea_Adrian,Pioline_Cedric,Pioline_Cedric,Boston,1998,08,30,6-4_6-0
 Boston,2,1998,08,30,1,Gaudenzi_Andrea,Novak_Jiri,Novak_Jiri,Boston,1998,08,30,4-6_6-1_6-1
-Boston,2,1998,08,30,1,Haarhuis_Paul,Arnold_KerLucas,Haarhuis_Paul,Boston,1998,08,30,6-1_6-3
+Boston,2,1998,08,30,1,Haarhuis_Paul,Arnold_Ker_Lucas,Haarhuis_Paul,Boston,1998,08,30,6-1_6-3
 Boston,2,1998,08,30,1,Schalken_Sjeng,Sanguinetti_Davide,Schalken_Sjeng,Boston,1998,08,30,7-6(3)_7-6(3)
 Boston,2,1998,08,30,1,Tarango_Jeff,Kucera_Karol,Tarango_Jeff,Boston,1998,08,30,6-2_6-3
 Boston,2,1998,08,30,2,Bjorkman_Jonas,Blanco_Galo,Bjorkman_Jonas,Boston,1998,08,30,6-2_7-6(5)

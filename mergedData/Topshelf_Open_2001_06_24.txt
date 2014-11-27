@@ -1,9 +1,9 @@
 Topshelf_Open,2,2001,06,24,1,Hewitt_Lleyton,Sanguinetti_Davide,Hewitt_Lleyton,Topshelf_Open,2001,06,24,6-2_6-1
 Topshelf_Open,2,2001,06,24,1,Mirnyi_Max,Ivanisevic_Goran,Ivanisevic_Goran,Topshelf_Open,2001,06,24,7-6(5)_7-6(3)
-Topshelf_Open,2,2001,06,24,1,Gustafsson_Magnus,Van_ScheppingenDennis,Gustafsson_Magnus,Topshelf_Open,2001,06,24,7-5_6-3
+Topshelf_Open,2,2001,06,24,1,Gustafsson_Magnus,Van_Scheppingen_Dennis,Gustafsson_Magnus,Topshelf_Open,2001,06,24,7-5_6-3
 Topshelf_Open,2,2001,06,24,1,Elseneer_Gilles,Voltchkov_Vladimir,Elseneer_Gilles,Topshelf_Open,2001,06,24,5-7_7-5_6-0
 Topshelf_Open,2,2001,06,24,1,Federer_Roger,Dupuis_Antony,Federer_Roger,Topshelf_Open,2001,06,24,7-6(3)_6-4
-Topshelf_Open,2,2001,06,24,1,Damm_Martin,van_LottumJohn,van_LottumJohn,Topshelf_Open,2001,06,24,7-5_7-6(4)
+Topshelf_Open,2,2001,06,24,1,Damm_Martin,van_Lottum_John,van_Lottum_John,Topshelf_Open,2001,06,24,7-5_7-6(4)
 Topshelf_Open,2,2001,06,24,1,Sluiter_Raemon,Golmard_Jerome,Sluiter_Raemon,Topshelf_Open,2001,06,24,6-0_6-4
 Topshelf_Open,2,2001,06,24,1,Escude_Nicolas,Hrbaty_Dominik,Escude_Nicolas,Topshelf_Open,2001,06,24,4-6_7-6(3)_6-3
 Topshelf_Open,2,2001,06,24,1,Arazi_Hicham,Petrovic_Dejan,Arazi_Hicham,Topshelf_Open,2001,06,24,6-3_6-2
@@ -16,7 +16,7 @@ Topshelf_Open,2,2001,06,24,1,Robredo_Tommy,Rochus_Olivier,Robredo_Tommy,Topshelf
 Topshelf_Open,2,2001,06,24,1,Wessels_Peter,Rafter_Patrick,Wessels_Peter,Topshelf_Open,2001,06,24,7-5_6-4
 Topshelf_Open,2,2001,06,24,2,Hewitt_Lleyton,Ivanisevic_Goran,Hewitt_Lleyton,Topshelf_Open,2001,06,24,6-4_7-5
 Topshelf_Open,2,2001,06,24,2,Gustafsson_Magnus,Elseneer_Gilles,Elseneer_Gilles,Topshelf_Open,2001,06,24,6-4_6-7(0)_6-0
-Topshelf_Open,2,2001,06,24,2,Federer_Roger,van_LottumJohn,Federer_Roger,Topshelf_Open,2001,06,24,6-0_6-1
+Topshelf_Open,2,2001,06,24,2,Federer_Roger,van_Lottum_John,Federer_Roger,Topshelf_Open,2001,06,24,6-0_6-1
 Topshelf_Open,2,2001,06,24,2,Sluiter_Raemon,Escude_Nicolas,Sluiter_Raemon,Topshelf_Open,2001,06,24,4-1_RET
 Topshelf_Open,2,2001,06,24,2,Arazi_Hicham,Canas_Guillermo,Canas_Guillermo,Topshelf_Open,2001,06,24,6-3_6-3
 Topshelf_Open,2,2001,06,24,2,Allegro_Yves,Malisse_Xavier,Malisse_Xavier,Topshelf_Open,2001,06,24,7-5_6-4

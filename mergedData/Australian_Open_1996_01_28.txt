@@ -46,7 +46,7 @@ Australian_Open,1,1996,01,28,1,Kulti_Nicklas,Gaudenzi_Andrea,Kulti_Nicklas,Austr
 Australian_Open,1,1996,01,28,1,Costa_Carlos,Volkov_Alexander,Costa_Carlos,Australian_Open,1996,01,28,1-6_6-4_0-6_7-5_6-4
 Australian_Open,1,1996,01,28,1,Nestor_Daniel,Frana_Javier,Frana_Javier,Australian_Open,1996,01,28,6-4_6-4_6-4
 Australian_Open,1,1996,01,28,1,Guardiola_Thierry,Muster_Thomas,Muster_Thomas,Australian_Open,1996,01,28,6-3_6-3_6-2
-Australian_Open,1,1996,01,28,1,Courier_Jim,Van_HerckJohan,Courier_Jim,Australian_Open,1996,01,28,7-5_7-6(1)_6-4
+Australian_Open,1,1996,01,28,1,Courier_Jim,Van_Herck_Johan,Courier_Jim,Australian_Open,1996,01,28,7-5_7-6(1)_6-4
 Australian_Open,1,1996,01,28,1,Kilderry_Paul,Tarango_Jeff,Tarango_Jeff,Australian_Open,1996,01,28,6-2_6-2_6-4
 Australian_Open,1,1996,01,28,1,Ogorodov_Oleg,Woodbridge_Todd,Woodbridge_Todd,Australian_Open,1996,01,28,7-5_6-4_6-4
 Australian_Open,1,1996,01,28,1,Ulihrach_Bohdan,Pescosolido_Stefano,Ulihrach_Bohdan,Australian_Open,1996,01,28,6-4_7-6(8)_1-0_RET

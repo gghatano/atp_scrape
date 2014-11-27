@@ -3,7 +3,7 @@ Hilversum,2,1992,07,26,1,Siemerink_Jan,Benhabiles_Tarik,Siemerink_Jan,Hilversum,
 Hilversum,2,1992,07,26,1,Arraya_Pablo,Nijssen_Tom,Nijssen_Tom,Hilversum,1992,07,26,7-5_6-4
 Hilversum,2,1992,07,26,1,Gilbert_Rodolphe,Santoro_Fabrice,Santoro_Fabrice,Hilversum,1992,07,26,6-3_6-3
 Hilversum,2,1992,07,26,1,Novacek_Karel,Masso_Eduardo,Novacek_Karel,Hilversum,1992,07,26,6-4_6-4
-Hilversum,2,1992,07,26,1,Furlan_Renzo,Conde_JoseAntonioPepe,Furlan_Renzo,Hilversum,1992,07,26,6-1_4-6_6-3
+Hilversum,2,1992,07,26,1,Furlan_Renzo,Conde_Jose_Antonio_Pepe,Furlan_Renzo,Hilversum,1992,07,26,6-1_4-6_6-3
 Hilversum,2,1992,07,26,1,Limberger_Carl,Eltingh_Jacco,Eltingh_Jacco,Hilversum,1992,07,26,3-6_6-3_6-1
 Hilversum,2,1992,07,26,1,Svensson_Jonas,Gustafsson_Magnus,Gustafsson_Magnus,Hilversum,1992,07,26,6-3_6-3
 Hilversum,2,1992,07,26,1,Haarhuis_Paul,Goellner_MarcKevin,Goellner_MarcKevin,Hilversum,1992,07,26,7-6(6)_7-5
@@ -12,7 +12,7 @@ Hilversum,2,1992,07,26,1,Yzaga_Jaime,Tillstrom_Mikael,Tillstrom_Mikael,Hilversum
 Hilversum,2,1992,07,26,1,Kempers_Tom,Chesnokov_Andrei,Chesnokov_Andrei,Hilversum,1992,07,26,3-6_6-3_7-6(2)
 Hilversum,2,1992,07,26,1,PerezRoldan_Guillermo,Fetterlein_Frederik,PerezRoldan_Guillermo,Hilversum,1992,07,26,6-0_6-3
 Hilversum,2,1992,07,26,1,Wuyts_Bart,Mezzadri_Claudio,Wuyts_Bart,Hilversum,1992,07,26,7-5_2-6_6-4
-Hilversum,2,1992,07,26,1,Champion_Thierry,Kodes_JrJan,Champion_Thierry,Hilversum,1992,07,26,6-1_6-2
+Hilversum,2,1992,07,26,1,Champion_Thierry,Kodes_Jr_Jan,Champion_Thierry,Hilversum,1992,07,26,6-1_6-2
 Hilversum,2,1992,07,26,1,Jonsson_Lars,Arrese_Jordi,Arrese_Jordi,Hilversum,1992,07,26,6-7(4)_6-1_6-4
 Hilversum,2,1992,07,26,2,Pioline_Cedric,Siemerink_Jan,Siemerink_Jan,Hilversum,1992,07,26,6-4_7-5
 Hilversum,2,1992,07,26,2,Nijssen_Tom,Santoro_Fabrice,Santoro_Fabrice,Hilversum,1992,07,26,6-2_6-3

@@ -12,7 +12,7 @@ Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Carlsen_Kenneth,Reid_Todd,Carls
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Rusedski_Greg,Carraz_Gregory,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,2004,07,11,6-1_4-6_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Dupuis_Antony,Vacek_Jan,Dupuis_Antony,Hall_of_Fame_Tennis_Championships,2004,07,11,6-2_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Kendrick_Robert,Sanguinetti_Davide,Sanguinetti_Davide,Hall_of_Fame_Tennis_Championships,2004,07,11,3-6_6-2_6-3
-Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Levy_Harel,Bogomolov_JrAlex,Bogomolov_JrAlex,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-3
+Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Levy_Harel,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,1,Norman_Dick,Blake_James,Blake_James,Hall_of_Fame_Tennis_Championships,2004,07,11,7-6(7)_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Spadea_Vincent,Vahaly_Brian,Spadea_Vincent,Hall_of_Fame_Tennis_Championships,2004,07,11,6-1_7-6(5)
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Weiner_Glenn,Popp_Alexander,Popp_Alexander,Hall_of_Fame_Tennis_Championships,2004,07,11,6-1_6-3
@@ -21,11 +21,11 @@ Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Elseneer_Gilles,Saulnier_Cyril,
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Morrison_Jeff,Baker_Brian,Morrison_Jeff,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Carlsen_Kenneth,Rusedski_Greg,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,2004,07,11,4-6_7-6(5)_7-6(6)
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Dupuis_Antony,Sanguinetti_Davide,Dupuis_Antony,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-4
-Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Bogomolov_JrAlex,Blake_James,Bogomolov_JrAlex,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-1
+Hall_of_Fame_Tennis_Championships,2,2004,07,11,2,Bogomolov_Jr_Alex,Blake_James,Bogomolov_Jr_Alex,Hall_of_Fame_Tennis_Championships,2004,07,11,6-3_6-1
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,3,Spadea_Vincent,Popp_Alexander,Popp_Alexander,Hall_of_Fame_Tennis_Championships,2004,07,11,6-2_6-2
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,3,Melzer_Jurgen,Saulnier_Cyril,Saulnier_Cyril,Hall_of_Fame_Tennis_Championships,2004,07,11,6-1_7-5
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,3,Morrison_Jeff,Rusedski_Greg,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,2004,07,11,7-6(5)_7-5
-Hall_of_Fame_Tennis_Championships,2,2004,07,11,3,Dupuis_Antony,Bogomolov_JrAlex,Dupuis_Antony,Hall_of_Fame_Tennis_Championships,2004,07,11,6-4_2-6_6-3
+Hall_of_Fame_Tennis_Championships,2,2004,07,11,3,Dupuis_Antony,Bogomolov_Jr_Alex,Dupuis_Antony,Hall_of_Fame_Tennis_Championships,2004,07,11,6-4_2-6_6-3
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,4,Popp_Alexander,Saulnier_Cyril,Popp_Alexander,Hall_of_Fame_Tennis_Championships,2004,07,11,6-4_7-6(5)
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,4,Rusedski_Greg,Dupuis_Antony,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,2004,07,11,7-5_7-6(10)
 Hall_of_Fame_Tennis_Championships,2,2004,07,11,5,Popp_Alexander,Rusedski_Greg,Rusedski_Greg,Hall_of_Fame_Tennis_Championships,2004,07,11,7-6(5)_7-6(2)

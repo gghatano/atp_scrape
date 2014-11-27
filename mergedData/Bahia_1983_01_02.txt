@@ -1,4 +1,4 @@
-Bahia,2,1983,01,02,1,Velasco_SrJairo,Acuna_Ricardo,Acuna_Ricardo,Bahia,1983,01,02,4-6_6-3_7-5
+Bahia,2,1983,01,02,1,Velasco_Sr_Jairo,Acuna_Ricardo,Acuna_Ricardo,Bahia,1983,01,02,4-6_6-3_7-5
 Bahia,2,1983,01,02,1,Martins_Eleuterio,Goes_Julio,Goes_Julio,Bahia,1983,01,02,6-4_6-3
 Bahia,2,1983,01,02,1,Royer_Rocky,Aguilera_Juan,Royer_Rocky,Bahia,1983,01,02,6-4_2-6_7-5
 Bahia,2,1983,01,02,1,Keller_Ney,Barbosa_Givaldo,Barbosa_Givaldo,Bahia,1983,01,02,7-6_6-2
@@ -10,7 +10,7 @@ Bahia,2,1983,01,02,1,Soares_Joao,Hamonet_Frank,Soares_Joao,Bahia,1983,01,02,6-4_
 Bahia,2,1983,01,02,1,Kohlberg_Andy,Kley_Ivan,Kohlberg_Andy,Bahia,1983,01,02,6-2_4-6_6-1
 Bahia,2,1983,01,02,1,Gimenez_Angel,Roese_Fernando,Roese_Fernando,Bahia,1983,01,02,7-5_4-6_6-2
 Bahia,2,1983,01,02,1,Andrews_Andy,Motta_Cassio,Andrews_Andy,Bahia,1983,01,02,6-4_6-4
-Bahia,2,1983,01,02,1,Fillol_SrJaime,Cano_Ricardo,Fillol_SrJaime,Bahia,1983,01,02,6-3_6-2
+Bahia,2,1983,01,02,1,Fillol_Sr_Jaime,Cano_Ricardo,Fillol_Sr_Jaime,Bahia,1983,01,02,6-3_6-2
 Bahia,2,1983,01,02,1,Gattiker_Alejandro,Kist_Cesar,Gattiker_Alejandro,Bahia,1983,01,02,6-3_1-6_6-2
 Bahia,2,1983,01,02,1,Benavides_Ramiro,Gauvain_Herve,Gauvain_Herve,Bahia,1983,01,02,7-5_6-4
 Bahia,2,1983,01,02,1,Adams_Egan,Ganzabal_Alejandro,Adams_Egan,Bahia,1983,01,02,6-4_7-6
@@ -20,12 +20,12 @@ Bahia,2,1983,01,02,2,Kirmayr_Carlos,Tiberti_Gustavo,Kirmayr_Carlos,Bahia,1983,01
 Bahia,2,1983,01,02,2,Restrepo_Javier,LopezMaeso_Jose,LopezMaeso_Jose,Bahia,1983,01,02,6-3_6-4
 Bahia,2,1983,01,02,2,Soares_Joao,Kohlberg_Andy,Kohlberg_Andy,Bahia,1983,01,02,6-4_6-4
 Bahia,2,1983,01,02,2,Roese_Fernando,Andrews_Andy,Andrews_Andy,Bahia,1983,01,02,6-4_6-2
-Bahia,2,1983,01,02,2,Fillol_SrJaime,Gattiker_Alejandro,Fillol_SrJaime,Bahia,1983,01,02,6-4_6-2
+Bahia,2,1983,01,02,2,Fillol_Sr_Jaime,Gattiker_Alejandro,Fillol_Sr_Jaime,Bahia,1983,01,02,6-4_6-2
 Bahia,2,1983,01,02,2,Gauvain_Herve,Adams_Egan,Adams_Egan,Bahia,1983,01,02,7-6_6-1
 Bahia,2,1983,01,02,3,Acuna_Ricardo,Royer_Rocky,Acuna_Ricardo,Bahia,1983,01,02,6-1_6-0
 Bahia,2,1983,01,02,3,Kirmayr_Carlos,LopezMaeso_Jose,Kirmayr_Carlos,Bahia,1983,01,02,7-6_7-6
 Bahia,2,1983,01,02,3,Kohlberg_Andy,Andrews_Andy,Andrews_Andy,Bahia,1983,01,02,7-6_7-6
-Bahia,2,1983,01,02,3,Fillol_SrJaime,Adams_Egan,Fillol_SrJaime,Bahia,1983,01,02,6-4_6-1
+Bahia,2,1983,01,02,3,Fillol_Sr_Jaime,Adams_Egan,Fillol_Sr_Jaime,Bahia,1983,01,02,6-4_6-1
 Bahia,2,1983,01,02,4,Acuna_Ricardo,Kirmayr_Carlos,Acuna_Ricardo,Bahia,1983,01,02,6-2_6-2
-Bahia,2,1983,01,02,4,Andrews_Andy,Fillol_SrJaime,Fillol_SrJaime,Bahia,1983,01,02,6-2_6-3
-Bahia,2,1983,01,02,5,Acuna_Ricardo,Fillol_SrJaime,Fillol_SrJaime,Bahia,1983,01,02,7-6_6-4
+Bahia,2,1983,01,02,4,Andrews_Andy,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Bahia,1983,01,02,6-2_6-3
+Bahia,2,1983,01,02,5,Acuna_Ricardo,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Bahia,1983,01,02,7-6_6-4

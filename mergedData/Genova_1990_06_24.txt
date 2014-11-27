@@ -7,12 +7,12 @@ Genova,2,1990,06,24,1,Koevermans_Mark,Potier_Jerome,Koevermans_Mark,Genova,1990,
 Genova,2,1990,06,24,1,Brown_Jimmy,Benhabiles_Tarik,Benhabiles_Tarik,Genova,1990,06,24,1-6_6-4_6-3
 Genova,2,1990,06,24,1,Pistolesi_Claudio,Cherkasov_Andrei,Pistolesi_Claudio,Genova,1990,06,24,6-0_7-6
 Genova,2,1990,06,24,1,Mattar_Luiz,Delaitre_Olivier,Mattar_Luiz,Genova,1990,06,24,7-6_6-3
-Genova,2,1990,06,24,1,Baguena_JuanCarlos,Roig_Francisco,Roig_Francisco,Genova,1990,06,24,3-6_6-1_6-4
+Genova,2,1990,06,24,1,Baguena_Juan_Carlos,Roig_Francisco,Roig_Francisco,Genova,1990,06,24,3-6_6-1_6-4
 Genova,2,1990,06,24,1,Perez_Diego,Camporese_Omar,Camporese_Omar,Genova,1990,06,24,6-2_1-6_6-2
 Genova,2,1990,06,24,1,Furlan_Renzo,Arrese_Jordi,Furlan_Renzo,Genova,1990,06,24,6-2_6-2
 Genova,2,1990,06,24,1,Agenor_Ronald,Motta_Cassio,Agenor_Ronald,Genova,1990,06,24,5-7_7-5_6-4
-Genova,2,1990,06,24,1,Wostenholme_Martin,Altur_JoseFrancisco,Altur_JoseFrancisco,Genova,1990,06,24,7-5_6-2
-Genova,2,1990,06,24,1,Azar_Roberto,Gorriz_MarcosAurelio,Azar_Roberto,Genova,1990,06,24,7-6_6-2
+Genova,2,1990,06,24,1,Wostenholme_Martin,Altur_Jose_Francisco,Altur_Jose_Francisco,Genova,1990,06,24,7-5_6-2
+Genova,2,1990,06,24,1,Azar_Roberto,Gorriz_Marcos_Aurelio,Azar_Roberto,Genova,1990,06,24,7-6_6-2
 Genova,2,1990,06,24,1,Tauson_Michael,Skoff_Horst,Skoff_Horst,Genova,1990,06,24,6-3_6-0
 Genova,2,1990,06,24,2,Riglewski_Udo,Luna_Fernando,Riglewski_Udo,Genova,1990,06,24,6-4_7-5
 Genova,2,1990,06,24,2,Clavet_Francisco,Pioline_Cedric,Pioline_Cedric,Genova,1990,06,24,6-0_4-6_6-4
@@ -20,7 +20,7 @@ Genova,2,1990,06,24,2,Bruguera_Sergi,Koevermans_Mark,Koevermans_Mark,Genova,1990
 Genova,2,1990,06,24,2,Benhabiles_Tarik,Pistolesi_Claudio,Benhabiles_Tarik,Genova,1990,06,24,5-7_6-4_7-6
 Genova,2,1990,06,24,2,Mattar_Luiz,Roig_Francisco,Mattar_Luiz,Genova,1990,06,24,6-3_6-3
 Genova,2,1990,06,24,2,Camporese_Omar,Furlan_Renzo,Camporese_Omar,Genova,1990,06,24,6-1_6-1
-Genova,2,1990,06,24,2,Agenor_Ronald,Altur_JoseFrancisco,Agenor_Ronald,Genova,1990,06,24,7-5_6-3
+Genova,2,1990,06,24,2,Agenor_Ronald,Altur_Jose_Francisco,Agenor_Ronald,Genova,1990,06,24,7-5_6-3
 Genova,2,1990,06,24,2,Azar_Roberto,Skoff_Horst,Skoff_Horst,Genova,1990,06,24,6-2_5-7_6-2
 Genova,2,1990,06,24,3,Riglewski_Udo,Pioline_Cedric,Pioline_Cedric,Genova,1990,06,24,6-1_6-7_6-3
 Genova,2,1990,06,24,3,Koevermans_Mark,Benhabiles_Tarik,Benhabiles_Tarik,Genova,1990,06,24,6-3_6-3

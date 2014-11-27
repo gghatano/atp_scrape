@@ -4,12 +4,12 @@ Wembley_1,2,1970,03,02,1,Okker_Tom,Moore_Raymond,Okker_Tom,Wembley_1,1970,03,02,
 Wembley_1,2,1970,03,02,1,Drysdale_Cliff,Stilwell_Graham,Drysdale_Cliff,Wembley_1,1970,03,02,6-4_6-4
 Wembley_1,2,1970,03,02,1,Rosewall_Ken,Ralston_Dennis,Rosewall_Ken,Wembley_1,1970,03,02,10-12_8-6_10-8
 Wembley_1,2,1970,03,02,1,Pilic_Nikola,Taylor_Roger,Pilic_Nikola,Wembley_1,1970,03,02,7-9_16-14_6-3
-Wembley_1,2,1970,03,02,1,Buchholz_EarlButch,Stolle_Fred,Buchholz_EarlButch,Wembley_1,1970,03,02,8-6_3-6_6-1
-Wembley_1,2,1970,03,02,1,El_ShafeiIsmail,Laver_Rod,El_ShafeiIsmail,Wembley_1,1970,03,02,6-3_6-3
+Wembley_1,2,1970,03,02,1,Buchholz_Earl_Butch,Stolle_Fred,Buchholz_Earl_Butch,Wembley_1,1970,03,02,8-6_3-6_6-1
+Wembley_1,2,1970,03,02,1,El_Shafei_Ismail,Laver_Rod,El_Shafei_Ismail,Wembley_1,1970,03,02,6-3_6-3
 Wembley_1,2,1970,03,02,2,Riessen_Marty,Cox_Mark,Riessen_Marty,Wembley_1,1970,03,02,25-27_8-6_7-5
 Wembley_1,2,1970,03,02,2,Okker_Tom,Drysdale_Cliff,Okker_Tom,Wembley_1,1970,03,02,6-3_6-2
 Wembley_1,2,1970,03,02,2,Rosewall_Ken,Pilic_Nikola,Rosewall_Ken,Wembley_1,1970,03,02,10-8_9-7
-Wembley_1,2,1970,03,02,2,Buchholz_EarlButch,El_ShafeiIsmail,Buchholz_EarlButch,Wembley_1,1970,03,02,2-6_10-8_11-9
+Wembley_1,2,1970,03,02,2,Buchholz_Earl_Butch,El_Shafei_Ismail,Buchholz_Earl_Butch,Wembley_1,1970,03,02,2-6_10-8_11-9
 Wembley_1,2,1970,03,02,3,Riessen_Marty,Okker_Tom,Riessen_Marty,Wembley_1,1970,03,02,9-7_6-3
-Wembley_1,2,1970,03,02,3,Rosewall_Ken,Buchholz_EarlButch,Rosewall_Ken,Wembley_1,1970,03,02,6-2_6-3
+Wembley_1,2,1970,03,02,3,Rosewall_Ken,Buchholz_Earl_Butch,Rosewall_Ken,Wembley_1,1970,03,02,6-2_6-3
 Wembley_1,2,1970,03,02,4,Riessen_Marty,Rosewall_Ken,Riessen_Marty,Wembley_1,1970,03,02,6-4_6-2

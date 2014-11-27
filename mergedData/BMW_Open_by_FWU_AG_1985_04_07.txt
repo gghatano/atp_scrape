@@ -9,7 +9,7 @@ BMW_Open_by_FWU_AG,2,1985,04,07,1,Soares_Joao,Schwaier_Hans,Schwaier_Hans,BMW_Op
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Clerc_JoseLuis,Frawley_John,Clerc_JoseLuis,BMW_Open_by_FWU_AG,1985,04,07,6-7_6-1_6-2
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Hipp_Martin,Bauer_Mike,Hipp_Martin,BMW_Open_by_FWU_AG,1985,04,07,7-6_6-7_6-3
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Willenborg_Blaine,Arraya_Pablo,Arraya_Pablo,BMW_Open_by_FWU_AG,1985,04,07,7-6_6-1
-BMW_Open_by_FWU_AG,2,1985,04,07,1,Westphal_Michael,Mecir_SrMiloslav,Mecir_SrMiloslav,BMW_Open_by_FWU_AG,1985,04,07,4-6_6-1_6-4
+BMW_Open_by_FWU_AG,2,1985,04,07,1,Westphal_Michael,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,BMW_Open_by_FWU_AG,1985,04,07,4-6_6-1_6-4
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Gunnarsson_Jan,Slozil_Pavel,Slozil_Pavel,BMW_Open_by_FWU_AG,1985,04,07,1-6_6-4_6-4
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Motta_Cassio,Kuharszky_Zoltan,Motta_Cassio,BMW_Open_by_FWU_AG,1985,04,07,6-3_6-4
 BMW_Open_by_FWU_AG,2,1985,04,07,1,Allan_Trevor,Benhabiles_Tarik,Benhabiles_Tarik,BMW_Open_by_FWU_AG,1985,04,07,6-7_6-4_7-6
@@ -19,12 +19,12 @@ BMW_Open_by_FWU_AG,2,1985,04,07,2,Sanchez_Emilio,Aguilera_Juan,Sanchez_Emilio,BM
 BMW_Open_by_FWU_AG,2,1985,04,07,2,Pimek_Libor,Eberhard_Klaus,Eberhard_Klaus,BMW_Open_by_FWU_AG,1985,04,07,1-6_7-6_6-3
 BMW_Open_by_FWU_AG,2,1985,04,07,2,Osterthun_Ricki,Schwaier_Hans,Schwaier_Hans,BMW_Open_by_FWU_AG,1985,04,07,6-3_3-6_7-6
 BMW_Open_by_FWU_AG,2,1985,04,07,2,Clerc_JoseLuis,Hipp_Martin,Clerc_JoseLuis,BMW_Open_by_FWU_AG,1985,04,07,6-4_6-2
-BMW_Open_by_FWU_AG,2,1985,04,07,2,Arraya_Pablo,Mecir_SrMiloslav,Mecir_SrMiloslav,BMW_Open_by_FWU_AG,1985,04,07,7-6_6-2
+BMW_Open_by_FWU_AG,2,1985,04,07,2,Arraya_Pablo,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,BMW_Open_by_FWU_AG,1985,04,07,7-6_6-2
 BMW_Open_by_FWU_AG,2,1985,04,07,2,Slozil_Pavel,Motta_Cassio,Motta_Cassio,BMW_Open_by_FWU_AG,1985,04,07,6-4_6-3
 BMW_Open_by_FWU_AG,2,1985,04,07,2,Benhabiles_Tarik,Nystrom_Joakim,Nystrom_Joakim,BMW_Open_by_FWU_AG,1985,04,07,6-2_2-6_6-4
 BMW_Open_by_FWU_AG,2,1985,04,07,3,Perez_Diego,Sanchez_Emilio,Perez_Diego,BMW_Open_by_FWU_AG,1985,04,07,6-3_7-5
 BMW_Open_by_FWU_AG,2,1985,04,07,3,Eberhard_Klaus,Schwaier_Hans,Schwaier_Hans,BMW_Open_by_FWU_AG,1985,04,07,6-3_6-3
-BMW_Open_by_FWU_AG,2,1985,04,07,3,Clerc_JoseLuis,Mecir_SrMiloslav,Clerc_JoseLuis,BMW_Open_by_FWU_AG,1985,04,07,7-5_6-3
+BMW_Open_by_FWU_AG,2,1985,04,07,3,Clerc_JoseLuis,Mecir_Sr_Miloslav,Clerc_JoseLuis,BMW_Open_by_FWU_AG,1985,04,07,7-5_6-3
 BMW_Open_by_FWU_AG,2,1985,04,07,3,Motta_Cassio,Nystrom_Joakim,Nystrom_Joakim,BMW_Open_by_FWU_AG,1985,04,07,6-2_3-6_6-0
 BMW_Open_by_FWU_AG,2,1985,04,07,4,Perez_Diego,Schwaier_Hans,Schwaier_Hans,BMW_Open_by_FWU_AG,1985,04,07,6-4_6-4
 BMW_Open_by_FWU_AG,2,1985,04,07,4,Clerc_JoseLuis,Nystrom_Joakim,Nystrom_Joakim,BMW_Open_by_FWU_AG,1985,04,07,6-2_6-4

@@ -6,13 +6,13 @@ Open_Sud_de_France,2,1993,10,24,1,Medvedev_Andrei,Braasch_Karsten,Braasch_Karste
 Open_Sud_de_France,2,1993,10,24,1,Nargiso_Diego,Hlasek_Jakob,Hlasek_Jakob,Open_Sud_de_France,1993,10,24,6-3_6-2
 Open_Sud_de_France,2,1993,10,24,1,Olhovskiy_Andrei,Wheaton_David,Olhovskiy_Andrei,Open_Sud_de_France,1993,10,24,7-6(4)_6-4
 Open_Sud_de_France,2,1993,10,24,1,Kuhnen_Patrik,Boetsch_Arnaud,Boetsch_Arnaud,Open_Sud_de_France,1993,10,24,6-1_3-6_6-1
-Open_Sud_de_France,2,1993,10,24,1,Pioline_Cedric,El_AynaouiYounes,Pioline_Cedric,Open_Sud_de_France,1993,10,24,7-6(8)_7-6(14)
-Open_Sud_de_France,2,1993,10,24,1,Altur_JoseFrancisco,Rikl_David,Rikl_David,Open_Sud_de_France,1993,10,24,2-6_6-4_6-3
+Open_Sud_de_France,2,1993,10,24,1,Pioline_Cedric,El_Aynaoui_Younes,Pioline_Cedric,Open_Sud_de_France,1993,10,24,7-6(8)_7-6(14)
+Open_Sud_de_France,2,1993,10,24,1,Altur_Jose_Francisco,Rikl_David,Rikl_David,Open_Sud_de_France,1993,10,24,2-6_6-4_6-3
 Open_Sud_de_France,2,1993,10,24,1,Damm_Martin,Dreekmann_Hendrik,Damm_Martin,Open_Sud_de_France,1993,10,24,7-6_2-6_6-2
 Open_Sud_de_France,2,1993,10,24,1,Kafelnikov_Yevgeny,Stich_Michael,Kafelnikov_Yevgeny,Open_Sud_de_France,1993,10,24,6-3_7-6(4)
 Open_Sud_de_France,2,1993,10,24,1,Fromberg_Richard,Pescosolido_Stefano,Fromberg_Richard,Open_Sud_de_France,1993,10,24,6-7(4)_6-2_6-3
 Open_Sud_de_France,2,1993,10,24,1,Raoux_Guillaume,Doumbia_Yahiya,Doumbia_Yahiya,Open_Sud_de_France,1993,10,24,6-2_6-4
-Open_Sud_de_France,2,1993,10,24,1,Barthez_Lionel,Gorriz_MarcosAurelio,Barthez_Lionel,Open_Sud_de_France,1993,10,24,6-3_7-5(6)
+Open_Sud_de_France,2,1993,10,24,1,Barthez_Lionel,Gorriz_Marcos_Aurelio,Barthez_Lionel,Open_Sud_de_France,1993,10,24,6-3_7-5(6)
 Open_Sud_de_France,2,1993,10,24,1,Delaitre_Olivier,Becker_Boris,Delaitre_Olivier,Open_Sud_de_France,1993,10,24,7-6(7)_6-7(4)_6-3
 Open_Sud_de_France,2,1993,10,24,2,Sampras_Pete,Naewie_Markus,Sampras_Pete,Open_Sud_de_France,1993,10,24,6-3_6-3
 Open_Sud_de_France,2,1993,10,24,2,Simian_Stephane,Vacek_Daniel,Simian_Stephane,Open_Sud_de_France,1993,10,24,6-3_4-6_6-2

@@ -8,7 +8,7 @@ Berlin,2,1990,10,14,1,Washington_MaliVai,Woehrmann_Jens,Woehrmann_Jens,Berlin,19
 Berlin,2,1990,10,14,1,Champion_Thierry,Agenor_Ronald,Agenor_Ronald,Berlin,1990,10,14,6-1_6-2
 Berlin,2,1990,10,14,1,Korda_Petr,Stich_Michael,Korda_Petr,Berlin,1990,10,14,1-6_6-4_7-6
 Berlin,2,1990,10,14,1,Fleurian_JeanPhilippe,Paloheimo_Veli,Fleurian_JeanPhilippe,Berlin,1990,10,14,6-2_6-2
-Berlin,2,1990,10,14,1,Mattar_Luiz,Kodes_JrJan,Mattar_Luiz,Berlin,1990,10,14,6-3_6-1
+Berlin,2,1990,10,14,1,Mattar_Luiz,Kodes_Jr_Jan,Mattar_Luiz,Berlin,1990,10,14,6-3_6-1
 Berlin,2,1990,10,14,1,Perez_Diego,Skoff_Horst,Skoff_Horst,Berlin,1990,10,14,6-2_6-0
 Berlin,2,1990,10,14,1,Volkov_Alexander,Arias_Jimmy,Volkov_Alexander,Berlin,1990,10,14,6-3_6-4
 Berlin,2,1990,10,14,1,Riglewski_Udo,Bergstrom_Christian,Riglewski_Udo,Berlin,1990,10,14,6-7_7-6_6-4

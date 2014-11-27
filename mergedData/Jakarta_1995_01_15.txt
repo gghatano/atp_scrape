@@ -2,7 +2,7 @@ Jakarta,2,1995,01,15,1,Agenor_Ronald,Dewulf_Filip,Agenor_Ronald,Jakarta,1995,01,
 Jakarta,2,1995,01,15,1,Pescosolido_Stefano,Jonsson_Lars,Pescosolido_Stefano,Jakarta,1995,01,15,6-0_7-5
 Jakarta,2,1995,01,15,1,Raoux_Guillaume,Paes_Leander,Raoux_Guillaume,Jakarta,1995,01,15,6-2_6-2
 Jakarta,2,1995,01,15,1,Daufresne_Xavier,Olhovskiy_Andrei,Daufresne_Xavier,Jakarta,1995,01,15,6-3_7-5
-Jakarta,2,1995,01,15,1,Zoecke_Markus,Lin_BingChao,Zoecke_Markus,Jakarta,1995,01,15,6-1_6-2
+Jakarta,2,1995,01,15,1,Zoecke_Markus,Lin_Bing_Chao,Zoecke_Markus,Jakarta,1995,01,15,6-1_6-2
 Jakarta,2,1995,01,15,1,Petchey_Mark,Arazi_Hicham,Petchey_Mark,Jakarta,1995,01,15,6-1_6-3
 Jakarta,2,1995,01,15,1,Solves_Gerard,Mronz_Alexander,Solves_Gerard,Jakarta,1995,01,15,6-4_2-1_RET
 Jakarta,2,1995,01,15,1,Vasek_Radomir,Alami_Karim,Vasek_Radomir,Jakarta,1995,01,15,6-1_6-4
@@ -13,7 +13,7 @@ Jakarta,2,1995,01,15,1,Matsuoka_Shuzo,Schaller_Gilbert,Schaller_Gilbert,Jakarta,
 Jakarta,2,1995,01,15,1,Fleurian_JeanPhilippe,Gilbert_Rodolphe,Gilbert_Rodolphe,Jakarta,1995,01,15,3-6_7-6(4)_7-6(4)
 Jakarta,2,1995,01,15,1,Rusedski_Greg,Suwandi_Suwandi,Rusedski_Greg,Jakarta,1995,01,15,7-6(4)_6-2
 Jakarta,2,1995,01,15,1,Wiryawan_Bonit,Sinner_Martin,Sinner_Martin,Jakarta,1995,01,15,6-4_6-1
-Jakarta,2,1995,01,15,1,El_AynaouiYounes,Haarhuis_Paul,Haarhuis_Paul,Jakarta,1995,01,15,6-3_6-2
+Jakarta,2,1995,01,15,1,El_Aynaoui_Younes,Haarhuis_Paul,Haarhuis_Paul,Jakarta,1995,01,15,6-3_6-2
 Jakarta,2,1995,01,15,2,Agenor_Ronald,Pescosolido_Stefano,Agenor_Ronald,Jakarta,1995,01,15,6-1_6-3
 Jakarta,2,1995,01,15,2,Raoux_Guillaume,Daufresne_Xavier,Raoux_Guillaume,Jakarta,1995,01,15,6-1_6-4
 Jakarta,2,1995,01,15,2,Zoecke_Markus,Petchey_Mark,Petchey_Mark,Jakarta,1995,01,15,7-5_6-2

@@ -24,10 +24,10 @@ Forest_Hills,2,1986,05,11,1,Campos_Dacio,Layendecker_Glenn,Layendecker_Glenn,For
 Forest_Hills,2,1986,05,11,1,Stefanki_Larry,Nystrom_Joakim,Nystrom_Joakim,Forest_Hills,1986,05,11,6-2_6-2
 Forest_Hills,2,1986,05,11,1,Gomez_Andres,Panatta_Claudio,Gomez_Andres,Forest_Hills,1986,05,11,6-4_7-5
 Forest_Hills,2,1986,05,11,1,Oresar_Bruno,Doohan_Peter,Oresar_Bruno,Forest_Hills,1986,05,11,6-2_6-4
-Forest_Hills,2,1986,05,11,1,Giammalva_JrSammy,Bengoechea_Eduardo,Giammalva_JrSammy,Forest_Hills,1986,05,11,7-6_6-1
+Forest_Hills,2,1986,05,11,1,Giammalva_Jr_Sammy,Bengoechea_Eduardo,Giammalva_Jr_Sammy,Forest_Hills,1986,05,11,7-6_6-1
 Forest_Hills,2,1986,05,11,1,Fibak_Wojtek,Jaite_Martin,Jaite_Martin,Forest_Hills,1986,05,11,6-4_6-3
 Forest_Hills,2,1986,05,11,1,Hlasek_Jakob,Sadri_John,Hlasek_Jakob,Forest_Hills,1986,05,11,6-3_6-3
-Forest_Hills,2,1986,05,11,1,De_LaPenaHoracio,Blair_Bobby,De_LaPenaHoracio,Forest_Hills,1986,05,11,6-4_6-2
+Forest_Hills,2,1986,05,11,1,De_La_Pena_Horacio,Blair_Bobby,De_La_Pena_Horacio,Forest_Hills,1986,05,11,6-4_6-2
 Forest_Hills,2,1986,05,11,1,Campbell_Craig,Edwards_Eddie,Edwards_Eddie,Forest_Hills,1986,05,11,2-6_6-2_6-1
 Forest_Hills,2,1986,05,11,1,Aguilera_Juan,Becker_Boris,Becker_Boris,Forest_Hills,1986,05,11,6-2_6-4
 Forest_Hills,2,1986,05,11,2,Lendl_Ivan,Lloyd_John,Lendl_Ivan,Forest_Hills,1986,05,11,6-2_6-2
@@ -43,8 +43,8 @@ Forest_Hills,2,1986,05,11,2,Vilas_Guillermo,Maurer_Andreas,Vilas_Guillermo,Fores
 Forest_Hills,2,1986,05,11,2,Wilkison_Tim,Solomon_Harold,Wilkison_Tim,Forest_Hills,1986,05,11,6-2_1-6_6-2
 Forest_Hills,2,1986,05,11,2,Layendecker_Glenn,Nystrom_Joakim,Nystrom_Joakim,Forest_Hills,1986,05,11,6-1_6-4
 Forest_Hills,2,1986,05,11,2,Gomez_Andres,Oresar_Bruno,Oresar_Bruno,Forest_Hills,1986,05,11,7-5_6-4
-Forest_Hills,2,1986,05,11,2,Giammalva_JrSammy,Jaite_Martin,Jaite_Martin,Forest_Hills,1986,05,11,6-4_6-4
-Forest_Hills,2,1986,05,11,2,Hlasek_Jakob,De_LaPenaHoracio,De_LaPenaHoracio,Forest_Hills,1986,05,11,6-3_6-4
+Forest_Hills,2,1986,05,11,2,Giammalva_Jr_Sammy,Jaite_Martin,Jaite_Martin,Forest_Hills,1986,05,11,6-4_6-4
+Forest_Hills,2,1986,05,11,2,Hlasek_Jakob,De_La_Pena_Horacio,De_La_Pena_Horacio,Forest_Hills,1986,05,11,6-3_6-4
 Forest_Hills,2,1986,05,11,2,Edwards_Eddie,Becker_Boris,Becker_Boris,Forest_Hills,1986,05,11,6-4_6-1
 Forest_Hills,2,1986,05,11,3,Lendl_Ivan,Krickstein_Aaron,Lendl_Ivan,Forest_Hills,1986,05,11,6-2_6-4
 Forest_Hills,2,1986,05,11,3,Srejber_Milan,Tulasne_Thierry,Tulasne_Thierry,Forest_Hills,1986,05,11,6-3_6-4
@@ -53,7 +53,7 @@ Forest_Hills,2,1986,05,11,3,Arraya_Pablo,Perez_Diego,Arraya_Pablo,Forest_Hills,1
 Forest_Hills,2,1986,05,11,3,Lavalle_Leonardo,Vilas_Guillermo,Vilas_Guillermo,Forest_Hills,1986,05,11,6-2_6-2
 Forest_Hills,2,1986,05,11,3,Wilkison_Tim,Nystrom_Joakim,Nystrom_Joakim,Forest_Hills,1986,05,11,6-3_6-7_6-2
 Forest_Hills,2,1986,05,11,3,Oresar_Bruno,Jaite_Martin,Jaite_Martin,Forest_Hills,1986,05,11,6-3_6-3
-Forest_Hills,2,1986,05,11,3,De_LaPenaHoracio,Becker_Boris,Becker_Boris,Forest_Hills,1986,05,11,7-5_7-5
+Forest_Hills,2,1986,05,11,3,De_La_Pena_Horacio,Becker_Boris,Becker_Boris,Forest_Hills,1986,05,11,7-5_7-5
 Forest_Hills,2,1986,05,11,4,Lendl_Ivan,Tulasne_Thierry,Lendl_Ivan,Forest_Hills,1986,05,11,6-4_6-2
 Forest_Hills,2,1986,05,11,4,Noah_Yannick,Arraya_Pablo,Noah_Yannick,Forest_Hills,1986,05,11,6-3_6-2
 Forest_Hills,2,1986,05,11,4,Vilas_Guillermo,Nystrom_Joakim,Vilas_Guillermo,Forest_Hills,1986,05,11,6-3_6-7_6-2

@@ -2,7 +2,7 @@ Cairo,2,1978,07,11,1,Higueras_Jose,Goven_Georges,Higueras_Jose,Cairo,1978,07,11,
 Cairo,2,1978,07,11,1,Fairlie_Brian,Dominguez_Patrice,Dominguez_Patrice,Cairo,1978,07,11,6-3_6-4
 Cairo,2,1978,07,11,1,Fassbender_Jurgen,Drysdale_Robin,Fassbender_Jurgen,Cairo,1978,07,11,6-3_6-3
 Cairo,2,1978,07,11,1,Sanders_Louk,Jauffret_Francois,Jauffret_Francois,Cairo,1978,07,11,6-0_6-4
-Cairo,2,1978,07,11,1,El_ShafeiIsmail,Deblicker_Eric,Deblicker_Eric,Cairo,1978,07,11,6-7_7-5_10-8
+Cairo,2,1978,07,11,1,El_Shafei_Ismail,Deblicker_Eric,Deblicker_Eric,Cairo,1978,07,11,6-7_7-5_10-8
 Cairo,2,1978,07,11,1,Hardie_George,Gebert_Frank,Hardie_George,Cairo,1978,07,11,6-3_6-4
 Cairo,2,1978,07,11,1,Spear_Nicola,Caujolle_JeanFrancois,Spear_Nicola,Cairo,1978,07,11,6-1_6-4
 Cairo,2,1978,07,11,1,Johansson_Kjell,Proisy_Patrick,Johansson_Kjell,Cairo,1978,07,11,W/O

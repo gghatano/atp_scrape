@@ -1,11 +1,11 @@
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Nadal_Rafael,Giraldo_Santiago,Nadal_Rafael,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-4_6-4
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Serra_Florent,Raonic_Milos,Raonic_Milos,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-4_3-6_6-4
-Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Gasquet_Richard,de_BakkerThiemo,Gasquet_Richard,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_7-6(6)
+Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Gasquet_Richard,de_Bakker_Thiemo,Gasquet_Richard,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_7-6(6)
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Tursunov_Dmitry,Gulbis_Ernests,Tursunov_Dmitry,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_6-4
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Melzer_Jurgen,Monaco_Juan,Melzer_Jurgen,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-4_4-6_6-1
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Nishikori_Kei,Troicki_Viktor,Troicki_Viktor,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-4_6-2
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,GarciaLopez_Guillermo,Ram_Rajeev,GarciaLopez_Guillermo,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-7(3)_6-4_7-6(1)
-Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Del_PotroJuanMartin,Lopez_Feliciano,Lopez_Feliciano,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_6-0
+Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Del_Potro_Juan_Martin,Lopez_Feliciano,Lopez_Feliciano,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_6-0
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Llodra_Michael,Chiudinelli_Marco,Chiudinelli_Marco,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-3_6-0
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Falla_Alejandro,Stepanek_Radek,Stepanek_Radek,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,2-6_7-6(5)_7-6(5)
 Rakuten_Japan_Open_Tennis_Championships,2,2010,10,10,1,Schwank_Eduardo,GimenoTraver_Daniel,GimenoTraver_Daniel,Rakuten_Japan_Open_Tennis_Championships,2010,10,10,6-4_6-4

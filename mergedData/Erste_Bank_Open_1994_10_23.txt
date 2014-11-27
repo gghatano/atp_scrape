@@ -7,7 +7,7 @@ Erste_Bank_Open,2,1994,10,23,1,Woodforde_Mark,Arriens_Carsten,Woodforde_Mark,Ers
 Erste_Bank_Open,2,1994,10,23,1,Burtscher_Roland,Antonitsch_Alex,Antonitsch_Alex,Erste_Bank_Open,1994,10,23,6-4_6-3
 Erste_Bank_Open,2,1994,10,23,1,Mattar_Luiz,Gaudenzi_Andrea,Gaudenzi_Andrea,Erste_Bank_Open,1994,10,23,6-3_6-1
 Erste_Bank_Open,2,1994,10,23,1,Korda_Petr,Skoff_Horst,Korda_Petr,Erste_Bank_Open,1994,10,23,6-1_7-6(4)
-Erste_Bank_Open,2,1994,10,23,1,El_AynaouiYounes,Enqvist_Thomas,Enqvist_Thomas,Erste_Bank_Open,1994,10,23,4-6_7-6(4)_6-4
+Erste_Bank_Open,2,1994,10,23,1,El_Aynaoui_Younes,Enqvist_Thomas,Enqvist_Thomas,Erste_Bank_Open,1994,10,23,4-6_7-6(4)_6-4
 Erste_Bank_Open,2,1994,10,23,1,Gilbert_Brad,Rikl_David,Rikl_David,Erste_Bank_Open,1994,10,23,7-6(9)_4-6_6-3
 Erste_Bank_Open,2,1994,10,23,1,Mansdorf_Amos,Muster_Thomas,Muster_Thomas,Erste_Bank_Open,1994,10,23,6-2_6-2
 Erste_Bank_Open,2,1994,10,23,1,Dosedel_Slava,Siemerink_Jan,Siemerink_Jan,Erste_Bank_Open,1994,10,23,7-6(2)_6-2

@@ -2,8 +2,8 @@ Australian_Open,1,2013,01,27,1,Djokovic_Novak,Mathieu_PaulHenri,Djokovic_Novak,A
 Australian_Open,1,2013,01,27,1,Harrison_Ryan,Giraldo_Santiago,Harrison_Ryan,Australian_Open,2013,01,27,2-6_6-4_7-5_6-4
 Australian_Open,1,2013,01,27,1,BruguesDavi_Arnau,Lopez_Feliciano,Lopez_Feliciano,Australian_Open,2013,01,27,6-3_6-2_6-4
 Australian_Open,1,2013,01,27,1,Troicki_Viktor,Stepanek_Radek,Stepanek_Radek,Australian_Open,2013,01,27,5-7_4-6_6-3_6-3_7-5
-Australian_Open,1,2013,01,27,1,Querrey_Sam,MunozDe_LaNavaDaniel,Querrey_Sam,Australian_Open,2013,01,27,6-7(2)_6-4_6-2_6-4
-Australian_Open,1,2013,01,27,1,Bogomolov_JrAlex,Baker_Brian,Baker_Brian,Australian_Open,2013,01,27,7-6(4)_6-3_6-7(0)_3-6_6-2
+Australian_Open,1,2013,01,27,1,Querrey_Sam,MunozDe_La_Nava_Daniel,Querrey_Sam,Australian_Open,2013,01,27,6-7(2)_6-4_6-2_6-4
+Australian_Open,1,2013,01,27,1,Bogomolov_Jr_Alex,Baker_Brian,Baker_Brian,Australian_Open,2013,01,27,7-6(4)_6-3_6-7(0)_3-6_6-2
 Australian_Open,1,2013,01,27,1,Kamke_Tobias,Cipolla_Flavio,Kamke_Tobias,Australian_Open,2013,01,27,6-1_6-4_6-1
 Australian_Open,1,2013,01,27,1,Stebe_CedrikMarcel,Wawrinka_Stan,Wawrinka_Stan,Australian_Open,2013,01,27,6-2_6-4_6-3
 Australian_Open,1,2013,01,27,1,Monaco_Juan,Kuznetsov_Andrey,Kuznetsov_Andrey,Australian_Open,2013,01,27,7-6(3)_6-1_6-1
@@ -11,7 +11,7 @@ Australian_Open,1,2013,01,27,1,Anderson_Kevin,Lorenzi_Paolo,Anderson_Kevin,Austr
 Australian_Open,1,2013,01,27,1,Malisse_Xavier,Andujar_Pablo,Malisse_Xavier,Australian_Open,2013,01,27,6-3_6-1_6-2
 Australian_Open,1,2013,01,27,1,Goffin_David,Verdasco_Fernando,Verdasco_Fernando,Australian_Open,2013,01,27,6-3_3-6_4-6_6-3_6-4
 Australian_Open,1,2013,01,27,1,Melzer_Jurgen,Kukushkin_Mikhail,Melzer_Jurgen,Australian_Open,2013,01,27,6-1_6-1_6-2
-Australian_Open,1,2013,01,27,1,Fognini_Fabio,Bautista_AgutRoberto,Bautista_AgutRoberto,Australian_Open,2013,01,27,6-0_2-6_6-4_3-6_6-1
+Australian_Open,1,2013,01,27,1,Fognini_Fabio,Bautista_Agut_Roberto,Bautista_Agut_Roberto,Australian_Open,2013,01,27,6-0_2-6_6-4_3-6_6-1
 Australian_Open,1,2013,01,27,1,Reister_Julian,Rufin_Guillaume,Rufin_Guillaume,Australian_Open,2013,01,27,4-6_7-6(4)_6-1_6-2
 Australian_Open,1,2013,01,27,1,Russell_Michael,Berdych_Tomas,Berdych_Tomas,Australian_Open,2013,01,27,6-3_7-5_6-3
 Australian_Open,1,2013,01,27,1,Ferrer_David,Rochus_Olivier,Ferrer_David,Australian_Open,2013,01,27,6-3_6-4_6-2
@@ -30,7 +30,7 @@ Australian_Open,1,2013,01,27,1,Benneteau_Julien,Dimitrov_Grigor,Benneteau_Julien
 Australian_Open,1,2013,01,27,1,RogerVasselin_Edouard,Bemelmans_Ruben,RogerVasselin_Edouard,Australian_Open,2013,01,27,6-3_6-7(5)_2-6_7-5_11-9
 Australian_Open,1,2013,01,27,1,Lacko_Lukas,Muller_Gilles,Lacko_Lukas,Australian_Open,2013,01,27,6-2_6-4_7-6(3)
 Australian_Open,1,2013,01,27,1,Hewitt_Lleyton,Tipsarevic_Janko,Tipsarevic_Janko,Australian_Open,2013,01,27,7-6(4)_7-5_6-3
-Australian_Open,1,2013,01,27,1,Del_PotroJuanMartin,Mannarino_Adrian,Del_PotroJuanMartin,Australian_Open,2013,01,27,6-1_6-2_6-2
+Australian_Open,1,2013,01,27,1,Del_Potro_Juan_Martin,Mannarino_Adrian,Del_Potro_Juan_Martin,Australian_Open,2013,01,27,6-1_6-2_6-2
 Australian_Open,1,2013,01,27,1,Bedene_Aljaz,Becker_Benjamin,Becker_Benjamin,Australian_Open,2013,01,27,4-6_6-3_7-5_7-6(1)
 Australian_Open,1,2013,01,27,1,Chardy_Jeremy,MenendezMaceiras_Adrian,Chardy_Jeremy,Australian_Open,2013,01,27,7-6(5)_6-7(3)_6-2_6-1
 Australian_Open,1,2013,01,27,1,Zemlja_Grega,Granollers_Marcel,Granollers_Marcel,Australian_Open,2013,01,27,7-6(6)_7-6(5)_1-0_RET
@@ -40,7 +40,7 @@ Australian_Open,1,2013,01,27,1,GarciaLopez_Guillermo,Ram_Rajeev,Ram_Rajeev,Austr
 Australian_Open,1,2013,01,27,1,Matosevic_Marinko,Cilic_Marin,Cilic_Marin,Australian_Open,2013,01,27,6-4_7-5_6-2
 Australian_Open,1,2013,01,27,1,Simon_Gilles,Volandri_Filippo,Simon_Gilles,Australian_Open,2013,01,27,2-6_6-3_6-2_6-2
 Australian_Open,1,2013,01,27,1,Robredo_Tommy,Levine_Jesse,Levine_Jesse,Australian_Open,2013,01,27,7-6(5)_6-7(2)_6-4_6-4
-Australian_Open,1,2013,01,27,1,Lu_YenHsun,Ramirez_HidalgoRuben,Lu_YenHsun,Australian_Open,2013,01,27,6-2_6-1_4-6_6-1
+Australian_Open,1,2013,01,27,1,Lu_YenHsun,Ramirez_Hidalgo_Ruben,Lu_YenHsun,Australian_Open,2013,01,27,6-2_6-1_4-6_6-1
 Australian_Open,1,2013,01,27,1,Monfils_Gael,Dolgopolov_Alexandr,Monfils_Gael,Australian_Open,2013,01,27,6-7(7)_7-6(4)_6-3_6-3
 Australian_Open,1,2013,01,27,1,Mayer_Florian,Williams_Rhyne,Mayer_Florian,Australian_Open,2013,01,27,2-6_3-6_6-2_7-6(12)_6-1
 Australian_Open,1,2013,01,27,1,Berankis_Ricardas,Stakhovsky_Sergiy,Berankis_Ricardas,Australian_Open,2013,01,27,6-2_7-6(4)_7-5
@@ -68,7 +68,7 @@ Australian_Open,1,2013,01,27,2,Querrey_Sam,Baker_Brian,Querrey_Sam,Australian_Op
 Australian_Open,1,2013,01,27,2,Kamke_Tobias,Wawrinka_Stan,Wawrinka_Stan,Australian_Open,2013,01,27,6-3_7-6(4)_RET
 Australian_Open,1,2013,01,27,2,Kuznetsov_Andrey,Anderson_Kevin,Anderson_Kevin,Australian_Open,2013,01,27,6-1_7-5_6-4
 Australian_Open,1,2013,01,27,2,Malisse_Xavier,Verdasco_Fernando,Verdasco_Fernando,Australian_Open,2013,01,27,6-1_6-3_6-2
-Australian_Open,1,2013,01,27,2,Melzer_Jurgen,Bautista_AgutRoberto,Melzer_Jurgen,Australian_Open,2013,01,27,6-7(4)_6-3_6-7(3)_6-3_6-2
+Australian_Open,1,2013,01,27,2,Melzer_Jurgen,Bautista_Agut_Roberto,Melzer_Jurgen,Australian_Open,2013,01,27,6-7(4)_6-3_6-7(3)_6-3_6-2
 Australian_Open,1,2013,01,27,2,Rufin_Guillaume,Berdych_Tomas,Berdych_Tomas,Australian_Open,2013,01,27,6-2_6-2_6-4
 Australian_Open,1,2013,01,27,2,Ferrer_David,Smyczek_Tim,Ferrer_David,Australian_Open,2013,01,27,6-0_7-5_4-6_6-3
 Australian_Open,1,2013,01,27,2,Ito_Tatsuma,Baghdatis_Marcos,Baghdatis_Marcos,Australian_Open,2013,01,27,3-6_6-3_6-2_6-2
@@ -78,7 +78,7 @@ Australian_Open,1,2013,01,27,2,Almagro_Nicolas,GimenoTraver_Daniel,Almagro_Nicol
 Australian_Open,1,2013,01,27,2,Devvarman_Somdev,Janowicz_Jerzy,Janowicz_Jerzy,Australian_Open,2013,01,27,6-7(10)_3-6_6-1_6-0_7-5
 Australian_Open,1,2013,01,27,2,Benneteau_Julien,RogerVasselin_Edouard,Benneteau_Julien,Australian_Open,2013,01,27,4-6_7-5_7-6(5)_7-6(5)
 Australian_Open,1,2013,01,27,2,Lacko_Lukas,Tipsarevic_Janko,Tipsarevic_Janko,Australian_Open,2013,01,27,6-3_6-4_3-6_4-6_7-5
-Australian_Open,1,2013,01,27,2,Del_PotroJuanMartin,Becker_Benjamin,Del_PotroJuanMartin,Australian_Open,2013,01,27,6-2_6-4_6-2
+Australian_Open,1,2013,01,27,2,Del_Potro_Juan_Martin,Becker_Benjamin,Del_Potro_Juan_Martin,Australian_Open,2013,01,27,6-2_6-4_6-2
 Australian_Open,1,2013,01,27,2,Chardy_Jeremy,Granollers_Marcel,Chardy_Jeremy,Australian_Open,2013,01,27,6-3_3-6_6-1_6-2
 Australian_Open,1,2013,01,27,2,Seppi_Andreas,Istomin_Denis,Seppi_Andreas,Australian_Open,2013,01,27,7-6(4)_5-7_6-7(3)_7-6(3)_6-2
 Australian_Open,1,2013,01,27,2,Ram_Rajeev,Cilic_Marin,Cilic_Marin,Australian_Open,2013,01,27,7-5_6-2_6-4
@@ -102,7 +102,7 @@ Australian_Open,1,2013,01,27,3,Ferrer_David,Baghdatis_Marcos,Ferrer_David,Austra
 Australian_Open,1,2013,01,27,3,Donskoy_Evgeny,Nishikori_Kei,Nishikori_Kei,Australian_Open,2013,01,27,7-6(3)_6-2_6-3
 Australian_Open,1,2013,01,27,3,Almagro_Nicolas,Janowicz_Jerzy,Almagro_Nicolas,Australian_Open,2013,01,27,7-6(3)_7-6(4)_6-1
 Australian_Open,1,2013,01,27,3,Benneteau_Julien,Tipsarevic_Janko,Tipsarevic_Janko,Australian_Open,2013,01,27,3-6_6-4_2-6_6-4_6-3
-Australian_Open,1,2013,01,27,3,Del_PotroJuanMartin,Chardy_Jeremy,Chardy_Jeremy,Australian_Open,2013,01,27,6-3_6-3_6-7(3)_3-6_6-3
+Australian_Open,1,2013,01,27,3,Del_Potro_Juan_Martin,Chardy_Jeremy,Chardy_Jeremy,Australian_Open,2013,01,27,6-3_6-3_6-7(3)_3-6_6-3
 Australian_Open,1,2013,01,27,3,Seppi_Andreas,Cilic_Marin,Seppi_Andreas,Australian_Open,2013,01,27,6-7(2)_6-3_2-6_6-4_6-2
 Australian_Open,1,2013,01,27,3,Simon_Gilles,Monfils_Gael,Simon_Gilles,Australian_Open,2013,01,27,6-4_6-4_4-6_1-6_8-6
 Australian_Open,1,2013,01,27,3,Berankis_Ricardas,Murray_Andy,Murray_Andy,Australian_Open,2013,01,27,6-3_6-4_7-5

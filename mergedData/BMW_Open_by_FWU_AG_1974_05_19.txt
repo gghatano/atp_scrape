@@ -3,7 +3,7 @@ BMW_Open_by_FWU_AG,2,1974,05,19,1,Elschenbroich_Harald,Dominguez_Patrice,Domingu
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Proisy_Patrick,Barazzutti_Corrado,Barazzutti_Corrado,BMW_Open_by_FWU_AG,1974,05,19,6-3_6-3
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Simpson_Jeff,Pohmann_HansJurgen,Pohmann_HansJurgen,BMW_Open_by_FWU_AG,1974,05,19,7-5_7-6
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Jauffret_Francois,Munoz_Antonio,Jauffret_Francois,BMW_Open_by_FWU_AG,1974,05,19,7-5_4-6_6-2
-BMW_Open_by_FWU_AG,2,1974,05,19,1,Jovanovic_Boro,Gisbert_SrJuan,Jovanovic_Boro,BMW_Open_by_FWU_AG,1974,05,19,6-1_6-4
+BMW_Open_by_FWU_AG,2,1974,05,19,1,Jovanovic_Boro,Gisbert_Sr_Juan,Jovanovic_Boro,BMW_Open_by_FWU_AG,1974,05,19,6-1_6-4
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Crealy_Dick,Kreiss_Robert,Crealy_Dick,BMW_Open_by_FWU_AG,1974,05,19,3-6_7-6_6-4
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Krulevitz_Steve,Bertolucci_Paolo,Bertolucci_Paolo,BMW_Open_by_FWU_AG,1974,05,19,7-6_5-7_7-5
 BMW_Open_by_FWU_AG,2,1974,05,19,1,Panatta_Adriano,Spear_Nicola,Panatta_Adriano,BMW_Open_by_FWU_AG,1974,05,19,6-0_1-0_RET

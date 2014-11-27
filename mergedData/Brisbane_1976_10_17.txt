@@ -1,14 +1,14 @@
 Brisbane,2,1976,10,17,1,Rosewall_Ken,Carmichael_Bob,Carmichael_Bob,Brisbane,1976,10,17,7-5_7-5
-Brisbane,2,1976,10,17,1,Lewis_NZLChris,Ruffels_Ray,Ruffels_Ray,Brisbane,1976,10,17,7-5_7-5
+Brisbane,2,1976,10,17,1,Lewis_NZL_Chris,Ruffels_Ray,Ruffels_Ray,Brisbane,1976,10,17,7-5_7-5
 Brisbane,2,1976,10,17,1,Martin_Billy,Stone_Allan,Stone_Allan,Brisbane,1976,10,17,1-6_6-4_6-4
 Brisbane,2,1976,10,17,1,Waltke_Trey,Walts_Butch,Waltke_Trey,Brisbane,1976,10,17,4-6_7-6_9-7
 Brisbane,2,1976,10,17,1,Case_Ross,Anderson_Mal,Case_Ross,Brisbane,1976,10,17,6-3_7-6
 Brisbane,2,1976,10,17,1,Letcher_Cliff,Warwick_Kim,Warwick_Kim,Brisbane,1976,10,17,6-4_6-2
 Brisbane,2,1976,10,17,1,Edmondson_Mark,Menon_Sashi,Edmondson_Mark,Brisbane,1976,10,17,6-3_7-6
 Brisbane,2,1976,10,17,1,Whitlinger_John,Delaney_Jim,Delaney_Jim,Brisbane,1976,10,17,7-6_3-6_6-1
-Brisbane,2,1976,10,17,1,El_ShafeiIsmail,Simpson_Russell,Simpson_Russell,Brisbane,1976,10,17,6-2_6-3
+Brisbane,2,1976,10,17,1,El_Shafei_Ismail,Simpson_Russell,Simpson_Russell,Brisbane,1976,10,17,6-2_6-3
 Brisbane,2,1976,10,17,1,Marks_John,Crealy_Dick,Crealy_Dick,Brisbane,1976,10,17,6-3_6-4
-Brisbane,2,1976,10,17,1,Reid_GroverRaz,Kelly_Ray,Reid_GroverRaz,Brisbane,1976,10,17,7-6_6-1
+Brisbane,2,1976,10,17,1,Reid_Grover_Raz,Kelly_Ray,Reid_Grover_Raz,Brisbane,1976,10,17,7-6_6-1
 Brisbane,2,1976,10,17,1,Thung_Rolf,Gorman_Tom,Gorman_Tom,Brisbane,1976,10,17,5-7_6-3_6-4
 Brisbane,2,1976,10,17,1,Masters_Geoff,Gullikson_Tom,Masters_Geoff,Brisbane,1976,10,17,6-4_6-4
 Brisbane,2,1976,10,17,1,Ball_Syd,Dent_Phil,Dent_Phil,Brisbane,1976,10,17,6-7_6-2_6-1
@@ -19,7 +19,7 @@ Brisbane,2,1976,10,17,2,Stone_Allan,Waltke_Trey,Stone_Allan,Brisbane,1976,10,17,
 Brisbane,2,1976,10,17,2,Case_Ross,Warwick_Kim,Warwick_Kim,Brisbane,1976,10,17,6-7_7-5_6-2
 Brisbane,2,1976,10,17,2,Edmondson_Mark,Delaney_Jim,Edmondson_Mark,Brisbane,1976,10,17,6-3_6-3
 Brisbane,2,1976,10,17,2,Simpson_Russell,Crealy_Dick,Crealy_Dick,Brisbane,1976,10,17,6-3_4-6_6-3
-Brisbane,2,1976,10,17,2,Reid_GroverRaz,Gorman_Tom,Gorman_Tom,Brisbane,1976,10,17,6-3_4-6_8-6
+Brisbane,2,1976,10,17,2,Reid_Grover_Raz,Gorman_Tom,Gorman_Tom,Brisbane,1976,10,17,6-3_4-6_8-6
 Brisbane,2,1976,10,17,2,Masters_Geoff,Dent_Phil,Dent_Phil,Brisbane,1976,10,17,6-3_6-4
 Brisbane,2,1976,10,17,2,Fairlie_Brian,Mayer_Sandy,Fairlie_Brian,Brisbane,1976,10,17,6-3_5-7_7-5
 Brisbane,2,1976,10,17,3,Ruffels_Ray,Stone_Allan,Stone_Allan,Brisbane,1976,10,17,6-4_6-7_6-3

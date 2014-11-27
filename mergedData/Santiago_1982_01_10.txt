@@ -2,7 +2,7 @@ Santiago,2,1982,01,10,1,Purcell_Mel,LopezMaeso_Jose,LopezMaeso_Jose,Santiago,198
 Santiago,2,1982,01,10,1,Ganzabal_Alejandro,Beutel_HansDieter,Ganzabal_Alejandro,Santiago,1982,01,10,0-6_6-4_7-6
 Santiago,2,1982,01,10,1,Acuna_Ricardo,Arraya_Pablo,Acuna_Ricardo,Santiago,1982,01,10,6-3_6-4
 Santiago,2,1982,01,10,1,Castellan_Carlos,Orantes_Manuel,Castellan_Carlos,Santiago,1982,01,10,7-6_6-4
-Santiago,2,1982,01,10,1,Gomez_Andres,Fillol_SrJaime,Gomez_Andres,Santiago,1982,01,10,6-2_6-3
+Santiago,2,1982,01,10,1,Gomez_Andres,Fillol_Sr_Jaime,Gomez_Andres,Santiago,1982,01,10,6-2_6-3
 Santiago,2,1982,01,10,1,Zipf_Christoph,Aubone_Guillermo,Zipf_Christoph,Santiago,1982,01,10,7-5_6-2
 Santiago,2,1982,01,10,1,Hocevar_Marcos,Aguilera_Juan,Hocevar_Marcos,Santiago,1982,01,10,7-5_6-4
 Santiago,2,1982,01,10,1,Urpi_Gabriel,Rebolledo_Pedro,Rebolledo_Pedro,Santiago,1982,01,10,6-3_6-4

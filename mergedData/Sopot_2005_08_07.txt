@@ -7,13 +7,13 @@ Sopot,2,2005,08,07,1,Matkowski_Marcin,Mantilla_Felix,Mantilla_Felix,Sopot,2005,0
 Sopot,2,2005,08,07,1,Hernandez_Oscar,Sabau_Razvan,Sabau_Razvan,Sopot,2005,08,07,2-6_6-1_6-4
 Sopot,2,2005,08,07,1,GarciaLopez_Guillermo,Andreev_Igor,Andreev_Igor,Sopot,2005,08,07,6-2_6-7(4)_6-2
 Sopot,2,2005,08,07,1,Acasuso_Jose,Vanek_Jiri,Acasuso_Jose,Sopot,2005,08,07,7-5_4-6_7-5
-Sopot,2,2005,08,07,1,Di_MauroAlessio,Chadaj_Adam,Chadaj_Adam,Sopot,2005,08,07,6-3_5-7_6-1
+Sopot,2,2005,08,07,1,Di_Mauro_Alessio,Chadaj_Adam,Chadaj_Adam,Sopot,2005,08,07,6-3_5-7_6-1
 Sopot,2,2005,08,07,1,Koubek_Stefan,Starace_Potito,Starace_Potito,Sopot,2005,08,07,6-4_6-2
 Sopot,2,2005,08,07,1,Fyrstenberg_Mariusz,Moya_Carlos,Moya_Carlos,Sopot,2005,08,07,6-7(5)_6-3_7-5
 Sopot,2,2005,08,07,1,Hanescu_Victor,Montanes_Albert,Hanescu_Victor,Sopot,2005,08,07,7-6(3)_5-7_6-3
 Sopot,2,2005,08,07,1,Kohlschreiber_Philipp,Costa_Albert,Costa_Albert,Sopot,2005,08,07,7-5_6-3
 Sopot,2,2005,08,07,1,Mackin_Alan,Monaco_Juan,Monaco_Juan,Sopot,2005,08,07,6-3_6-1
-Sopot,2,2005,08,07,1,Monfils_Gael,Marin_JuanAntonio,Monfils_Gael,Sopot,2005,08,07,6-0_6-4
+Sopot,2,2005,08,07,1,Monfils_Gael,Marin_Juan_Antonio,Monfils_Gael,Sopot,2005,08,07,6-0_6-4
 Sopot,2,2005,08,07,2,Nieminen_Jarkko,Almagro_Nicolas,Nieminen_Jarkko,Sopot,2005,08,07,3-6_6-4_7-6(6)
 Sopot,2,2005,08,07,2,Mayer_Florian,Volandri_Filippo,Mayer_Florian,Sopot,2005,08,07,6-3_7-5
 Sopot,2,2005,08,07,2,Coria_Guillermo,Mantilla_Felix,Coria_Guillermo,Sopot,2005,08,07,3-6_6-3_6-3

@@ -4,12 +4,12 @@ South_Orange,2,1981,08,02,1,Alexander_John,Pattison_Andrew,Alexander_John,South_
 South_Orange,2,1981,08,02,1,Krishnan_Ramesh,Orantes_Manuel,Orantes_Manuel,South_Orange,1981,08,02,6-3_6-3
 South_Orange,2,1981,08,02,1,Glickstein_Shlomo,Meister_Steve,Glickstein_Shlomo,South_Orange,1981,08,02,6-4_4-6_6-3
 South_Orange,2,1981,08,02,1,Delaney_Christofer,Gurfein_Jim,Gurfein_Jim,South_Orange,1981,08,02,6-0_5-7_6-1
-South_Orange,2,1981,08,02,1,McCain_Scott,Vant_HofRobert,Vant_HofRobert,South_Orange,1981,08,02,6-4_6-3
+South_Orange,2,1981,08,02,1,McCain_Scott,Vant_Hof_Robert,Vant_Hof_Robert,South_Orange,1981,08,02,6-4_6-3
 South_Orange,2,1981,08,02,1,Castellan_Carlos,Drewett_Brad,Drewett_Brad,South_Orange,1981,08,02,6-3_2-6_7-6
 South_Orange,2,1981,08,02,1,Nastase_Ilie,Arias_Jimmy,Arias_Jimmy,South_Orange,1981,08,02,1-6_6-3_7-6
 South_Orange,2,1981,08,02,1,James_John,Stefanki_Larry,James_John,South_Orange,1981,08,02,6-4_6-4
 South_Orange,2,1981,08,02,1,Stockton_Dick,Seewagen_Butch,Stockton_Dick,South_Orange,1981,08,02,6-2_6-0
-South_Orange,2,1981,08,02,1,Redondo_Walter,Giammalva_JrSammy,Giammalva_JrSammy,South_Orange,1981,08,02,6-2_3-6_7-5
+South_Orange,2,1981,08,02,1,Redondo_Walter,Giammalva_Jr_Sammy,Giammalva_Jr_Sammy,South_Orange,1981,08,02,6-2_3-6_7-5
 South_Orange,2,1981,08,02,1,Saviano_Nick,Winitsky_Van,Saviano_Nick,South_Orange,1981,08,02,2-6_6-1_7-6
 South_Orange,2,1981,08,02,1,Case_Ross,Meyer_Rick,Meyer_Rick,South_Orange,1981,08,02,3-6_6-4_6-0
 South_Orange,2,1981,08,02,1,Maynetto_Fernando,Rafaitin_Gregoire,Rafaitin_Gregoire,South_Orange,1981,08,02,6-2_2-6_6-4
@@ -17,9 +17,9 @@ South_Orange,2,1981,08,02,1,Witsken_Todd,Buehning_Fritz,Buehning_Fritz,South_Ora
 South_Orange,2,1981,08,02,2,Mayer_Gene,Nunez_Juan,Mayer_Gene,South_Orange,1981,08,02,6-4_6-0
 South_Orange,2,1981,08,02,2,Alexander_John,Orantes_Manuel,Orantes_Manuel,South_Orange,1981,08,02,6-4_6-4
 South_Orange,2,1981,08,02,2,Glickstein_Shlomo,Gurfein_Jim,Glickstein_Shlomo,South_Orange,1981,08,02,6-1_6-2
-South_Orange,2,1981,08,02,2,Vant_HofRobert,Drewett_Brad,Drewett_Brad,South_Orange,1981,08,02,2-6_6-4_6-3
+South_Orange,2,1981,08,02,2,Vant_Hof_Robert,Drewett_Brad,Drewett_Brad,South_Orange,1981,08,02,2-6_6-4_6-3
 South_Orange,2,1981,08,02,2,Arias_Jimmy,James_John,Arias_Jimmy,South_Orange,1981,08,02,6-2_2-6_7-5
-South_Orange,2,1981,08,02,2,Stockton_Dick,Giammalva_JrSammy,Stockton_Dick,South_Orange,1981,08,02,4-6_7-6_6-3
+South_Orange,2,1981,08,02,2,Stockton_Dick,Giammalva_Jr_Sammy,Stockton_Dick,South_Orange,1981,08,02,4-6_7-6_6-3
 South_Orange,2,1981,08,02,2,Saviano_Nick,Meyer_Rick,Saviano_Nick,South_Orange,1981,08,02,6-4_7-6
 South_Orange,2,1981,08,02,2,Rafaitin_Gregoire,Buehning_Fritz,Rafaitin_Gregoire,South_Orange,1981,08,02,0-6_6-4_6-3
 South_Orange,2,1981,08,02,3,Mayer_Gene,Orantes_Manuel,Orantes_Manuel,South_Orange,1981,08,02,6-3_6-3

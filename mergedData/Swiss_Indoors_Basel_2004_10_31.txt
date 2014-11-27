@@ -7,7 +7,7 @@ Swiss_Indoors_Basel,2,2004,10,31,1,Volandri_Filippo,Spadea_Vincent,Spadea_Vincen
 Swiss_Indoors_Basel,2,2004,10,31,1,Montanes_Albert,Chiudinelli_Marco,Chiudinelli_Marco,Swiss_Indoors_Basel,2004,10,31,6-3_6-3
 Swiss_Indoors_Basel,2,2004,10,31,1,Nadal_Rafael,Schuettler_Rainer,Schuettler_Rainer,Swiss_Indoors_Basel,2004,10,31,6-3_6-4
 Swiss_Indoors_Basel,2,2004,10,31,1,Gonzalez_Fernando,Haehnel_Jerome,Haehnel_Jerome,Swiss_Indoors_Basel,2004,10,31,6-3_6-4
-Swiss_Indoors_Basel,2,2004,10,31,1,Chela_JuanIgnacio,Ljubicic_Ivan,Ljubicic_Ivan,Swiss_Indoors_Basel,2004,10,31,6-3_6-4
+Swiss_Indoors_Basel,2,2004,10,31,1,Chela_Juan_Ignacio,Ljubicic_Ivan,Ljubicic_Ivan,Swiss_Indoors_Basel,2004,10,31,6-3_6-4
 Swiss_Indoors_Basel,2,2004,10,31,1,Srichaphan_Paradorn,Koubek_Stefan,Koubek_Stefan,Swiss_Indoors_Basel,2004,10,31,6-7(7)_6-4_6-3
 Swiss_Indoors_Basel,2,2004,10,31,1,Norman_Dick,Gaudio_Gaston,Gaudio_Gaston,Swiss_Indoors_Basel,2004,10,31,7-6(4)_6-4
 Swiss_Indoors_Basel,2,2004,10,31,1,Robredo_Tommy,Wawrinka_Stan,Robredo_Tommy,Swiss_Indoors_Basel,2004,10,31,7-6(6)_5-7_6-4

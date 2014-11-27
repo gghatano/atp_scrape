@@ -1,6 +1,6 @@
 Boston_WCT,2,1972,08,13,1,Newcombe_John,Lutz_Robert,Lutz_Robert,Boston_WCT,1972,08,13,4-6_6-1_7-6
 Boston_WCT,2,1972,08,13,1,Fairlie_Brian,Addison_Terry,Fairlie_Brian,Boston_WCT,1972,08,13,6-1_6-2
-Boston_WCT,2,1972,08,13,1,El_ShafeiIsmail,Froehling_Frank,El_ShafeiIsmail,Boston_WCT,1972,08,13,4-6_6-4_7-6
+Boston_WCT,2,1972,08,13,1,El_Shafei_Ismail,Froehling_Frank,El_Shafei_Ismail,Boston_WCT,1972,08,13,4-6_6-4_7-6
 Boston_WCT,2,1972,08,13,1,Laver_Rod,Richey_Cliff,Laver_Rod,Boston_WCT,1972,08,13,3-6_6-4_6-2
 Boston_WCT,2,1972,08,13,1,Drysdale_Cliff,Stolle_Fred,Drysdale_Cliff,Boston_WCT,1972,08,13,6-2_6-1
 Boston_WCT,2,1972,08,13,1,Stone_Allan,Alexander_John,Stone_Allan,Boston_WCT,1972,08,13,7-6_7-6
@@ -15,7 +15,7 @@ Boston_WCT,2,1972,08,13,1,Ashe_Arthur,Cox_Mark,Ashe_Arthur,Boston_WCT,1972,08,13
 Boston_WCT,2,1972,08,13,1,Rahim_Haroon,Battrick_Gerald,Rahim_Haroon,Boston_WCT,1972,08,13,7-5_4-6_6-3
 Boston_WCT,2,1972,08,13,1,Borowiak_Jeff,Roche_Tony,Roche_Tony,Boston_WCT,1972,08,13,7-6_6-3
 Boston_WCT,2,1972,08,13,2,Lutz_Robert,Fairlie_Brian,Lutz_Robert,Boston_WCT,1972,08,13,2-6_6-4_7-6
-Boston_WCT,2,1972,08,13,2,El_ShafeiIsmail,Laver_Rod,Laver_Rod,Boston_WCT,1972,08,13,6-3_6-2
+Boston_WCT,2,1972,08,13,2,El_Shafei_Ismail,Laver_Rod,Laver_Rod,Boston_WCT,1972,08,13,6-3_6-2
 Boston_WCT,2,1972,08,13,2,Drysdale_Cliff,Stone_Allan,Drysdale_Cliff,Boston_WCT,1972,08,13,6-4_6-2
 Boston_WCT,2,1972,08,13,2,Schroder_Derek,Riessen_Marty,Riessen_Marty,Boston_WCT,1972,08,13,6-4_6-2
 Boston_WCT,2,1972,08,13,2,Pilic_Nikola,Leonard_Tom,Pilic_Nikola,Boston_WCT,1972,08,13,6-2_6-4

@@ -2,9 +2,9 @@ Rogers_Cup,2,1982,01,10,1,McEnroe_John,Hjertquist_Per,McEnroe_John,Rogers_Cup,19
 Rogers_Cup,2,1982,01,10,1,Lloyd_John,Fleming_Peter,Fleming_Peter,Rogers_Cup,1982,01,10,6-1_6-3
 Rogers_Cup,2,1982,01,10,1,Simonsson_Hans,Cowan_Bill,Simonsson_Hans,Rogers_Cup,1982,01,10,7-6_6-4
 Rogers_Cup,2,1982,01,10,1,Carter_David,Amritraj_Vijay,Amritraj_Vijay,Rogers_Cup,1982,01,10,6-0_6-4
-Rogers_Cup,2,1982,01,10,1,Giammalva_JrSammy,Wilkison_Tim,Giammalva_JrSammy,Rogers_Cup,1982,01,10,6-3_6-4
-Rogers_Cup,2,1982,01,10,1,Mitton_Bernard,Ayala_JuanCarlos,Mitton_Bernard,Rogers_Cup,1982,01,10,6-4_4-6_6-1
-Rogers_Cup,2,1982,01,10,1,Vant_HofRobert,Denton_Steve,Denton_Steve,Rogers_Cup,1982,01,10,6-2_6-2
+Rogers_Cup,2,1982,01,10,1,Giammalva_Jr_Sammy,Wilkison_Tim,Giammalva_Jr_Sammy,Rogers_Cup,1982,01,10,6-3_6-4
+Rogers_Cup,2,1982,01,10,1,Mitton_Bernard,Ayala_Juan_Carlos,Mitton_Bernard,Rogers_Cup,1982,01,10,6-4_4-6_6-1
+Rogers_Cup,2,1982,01,10,1,Vant_Hof_Robert,Denton_Steve,Denton_Steve,Rogers_Cup,1982,01,10,6-2_6-2
 Rogers_Cup,2,1982,01,10,1,Taygan_Ferdi,Gerulaitis_Vitas,Gerulaitis_Vitas,Rogers_Cup,1982,01,10,6-3_6-2
 Rogers_Cup,2,1982,01,10,1,Connors_Jimmy,Waltke_Trey,Waltke_Trey,Rogers_Cup,1982,01,10,6-4_6-3
 Rogers_Cup,2,1982,01,10,1,Stadler_Roland,RogerVasselin_Christophe,RogerVasselin_Christophe,Rogers_Cup,1982,01,10,6-1_4-6_6-2
@@ -21,7 +21,7 @@ Rogers_Cup,2,1982,01,10,1,Meister_Steve,Schneider_David,Meister_Steve,Rogers_Cup
 Rogers_Cup,2,1982,01,10,1,Sadri_John,Edmondson_Mark,Sadri_John,Rogers_Cup,1982,01,10,6-1_6-4
 Rogers_Cup,2,1982,01,10,1,Amritraj_Anand,Holroyd_Glen,Amritraj_Anand,Rogers_Cup,1982,01,10,6-3_6-4
 Rogers_Cup,2,1982,01,10,1,Gullikson_Tim,Tulasne_Thierry,Gullikson_Tim,Rogers_Cup,1982,01,10,6-3_6-1
-Rogers_Cup,2,1982,01,10,1,Lewis_NZLChris,Lendl_Ivan,Lendl_Ivan,Rogers_Cup,1982,01,10,6-2_3-6_6-1
+Rogers_Cup,2,1982,01,10,1,Lewis_NZL_Chris,Lendl_Ivan,Lendl_Ivan,Rogers_Cup,1982,01,10,6-2_3-6_6-1
 Rogers_Cup,2,1982,01,10,1,McNamara_Peter,Giammalva_Tony,McNamara_Peter,Rogers_Cup,1982,01,10,6-3_6-3
 Rogers_Cup,2,1982,01,10,1,Fitzgerald_John,Kohlberg_Andy,Fitzgerald_John,Rogers_Cup,1982,01,10,6-0_6-2
 Rogers_Cup,2,1982,01,10,1,Dent_Phil,Simpson_Russell,Simpson_Russell,Rogers_Cup,1982,01,10,6-2_4-6_7-6
@@ -32,7 +32,7 @@ Rogers_Cup,2,1982,01,10,1,Saviano_Nick,Krishnan_Ramesh,Krishnan_Ramesh,Rogers_Cu
 Rogers_Cup,2,1982,01,10,1,Stewart_Sherwood,Lundy_Todd,Stewart_Sherwood,Rogers_Cup,1982,01,10,6-4_5-7_7-5
 Rogers_Cup,2,1982,01,10,2,McEnroe_John,Fleming_Peter,McEnroe_John,Rogers_Cup,1982,01,10,6-3_6-2
 Rogers_Cup,2,1982,01,10,2,Simonsson_Hans,Amritraj_Vijay,Amritraj_Vijay,Rogers_Cup,1982,01,10,6-1_4-6_6-2
-Rogers_Cup,2,1982,01,10,2,Giammalva_JrSammy,Mitton_Bernard,Mitton_Bernard,Rogers_Cup,1982,01,10,7-6_6-3
+Rogers_Cup,2,1982,01,10,2,Giammalva_Jr_Sammy,Mitton_Bernard,Mitton_Bernard,Rogers_Cup,1982,01,10,7-6_6-3
 Rogers_Cup,2,1982,01,10,2,Denton_Steve,Gerulaitis_Vitas,Denton_Steve,Rogers_Cup,1982,01,10,1-6_7-6_6-4
 Rogers_Cup,2,1982,01,10,2,Waltke_Trey,RogerVasselin_Christophe,RogerVasselin_Christophe,Rogers_Cup,1982,01,10,6-2_6-7_6-3
 Rogers_Cup,2,1982,01,10,2,Gunthardt_Heinz,Curren_Kevin,Gunthardt_Heinz,Rogers_Cup,1982,01,10,3-6_6-3_6-2

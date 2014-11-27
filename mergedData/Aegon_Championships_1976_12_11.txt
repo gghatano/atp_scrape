@@ -1,6 +1,6 @@
 Aegon_Championships,2,1976,12,11,1,Connors_Jimmy,Johansson_Kjell,Connors_Jimmy,Aegon_Championships,1976,12,11,6-1_6-4
-Aegon_Championships,2,1976,12,11,1,Feaver_John,McNair_IVFred,Feaver_John,Aegon_Championships,1976,12,11,6-2_9-8
-Aegon_Championships,2,1976,12,11,1,Fillol_SrJaime,Moore_Raymond,Moore_Raymond,Aegon_Championships,1976,12,11,6-4_9-8
+Aegon_Championships,2,1976,12,11,1,Feaver_John,McNair_IV_Fred,Feaver_John,Aegon_Championships,1976,12,11,6-2_9-8
+Aegon_Championships,2,1976,12,11,1,Fillol_Sr_Jaime,Moore_Raymond,Moore_Raymond,Aegon_Championships,1976,12,11,6-4_9-8
 Aegon_Championships,2,1976,12,11,1,Delaney_Jim,Menon_Sashi,Delaney_Jim,Aegon_Championships,1976,12,11,6-2_9-7
 Aegon_Championships,2,1976,12,11,1,Ramirez_Raul,Drysdale_Robin,Ramirez_Raul,Aegon_Championships,1976,12,11,8-9_9-8_6-4
 Aegon_Championships,2,1976,12,11,1,Pattison_Andrew,Gullikson_Tom,Gullikson_Tom,Aegon_Championships,1976,12,11,4-6_6-3_6-4

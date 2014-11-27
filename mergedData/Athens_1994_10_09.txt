@@ -3,7 +3,7 @@ Athens,2,1994,10,09,1,Moschoutis_Pantelis,Rios_Marcelo,Rios_Marcelo,Athens,1994,
 Athens,2,1994,10,09,1,Kalovelonis_George,Ondruska_Marcos,Ondruska_Marcos,Athens,1994,10,09,6-2_6-0
 Athens,2,1994,10,09,1,Cane_Paolo,Kucera_Karol,Kucera_Karol,Athens,1994,10,09,5-7_6-4_6-2
 Athens,2,1994,10,09,1,Sanchez_Javier,Roig_Francisco,Sanchez_Javier,Athens,1994,10,09,7-6(5)_6-4
-Athens,2,1994,10,09,1,Spadea_Vincent,El_AynaouiYounes,Spadea_Vincent,Athens,1994,10,09,6-3_6-4
+Athens,2,1994,10,09,1,Spadea_Vincent,El_Aynaoui_Younes,Spadea_Vincent,Athens,1994,10,09,6-3_6-4
 Athens,2,1994,10,09,1,Markus_Gabriel,Blanco_Galo,Markus_Gabriel,Athens,1994,10,09,6-4_6-7(3)_6-4
 Athens,2,1994,10,09,1,Clavet_Francisco,Furlan_Renzo,Clavet_Francisco,Athens,1994,10,09,6-2_6-7(5)_6-2
 Athens,2,1994,10,09,1,Schaller_Gilbert,Solves_Gerard,Schaller_Gilbert,Athens,1994,10,09,6-4_6-4

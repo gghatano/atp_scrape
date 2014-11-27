@@ -3,7 +3,7 @@ Taipei,2,1992,10,25,1,Mronz_Alexander,Bloom_Gilad,Bloom_Gilad,Taipei,1992,10,25,
 Taipei,2,1992,10,25,1,Fitzgerald_John,Barrientos_Felix,Fitzgerald_John,Taipei,1992,10,25,7-5_6-2
 Taipei,2,1992,10,25,1,Chen_ChihJung,Kuhnen_Patrik,Kuhnen_Patrik,Taipei,1992,10,25,6-1_6-3
 Taipei,2,1992,10,25,1,Grabb_Jim,Salumaa_Sven,Grabb_Jim,Taipei,1992,10,25,7-5_6-7(3)_6-4
-Taipei,2,1992,10,25,1,Lin_BingChao,Odizor_Nduka,Lin_BingChao,Taipei,1992,10,25,4-6_7-6(6)_6-2
+Taipei,2,1992,10,25,1,Lin_Bing_Chao,Odizor_Nduka,Lin_Bing_Chao,Taipei,1992,10,25,4-6_7-6(6)_6-2
 Taipei,2,1992,10,25,1,Steven_Brett,Lien_YuHui,Steven_Brett,Taipei,1992,10,25,3-6_6-3_6-3
 Taipei,2,1992,10,25,1,Mezzadri_Claudio,Shelton_Bryan,Shelton_Bryan,Taipei,1992,10,25,3-6_6-3_6-3
 Taipei,2,1992,10,25,1,Nargiso_Diego,Pridham_Chris,Nargiso_Diego,Taipei,1992,10,25,6-3_7-6(6)
@@ -11,12 +11,12 @@ Taipei,2,1992,10,25,1,Garnett_Bret,Daufresne_Xavier,Garnett_Bret,Taipei,1992,10,
 Taipei,2,1992,10,25,1,Olhovskiy_Andrei,Norman_Dick,Olhovskiy_Andrei,Taipei,1992,10,25,7-5_7-6(5)
 Taipei,2,1992,10,25,1,Baur_Patrick,Youl_Simon,Baur_Patrick,Taipei,1992,10,25,7-5_6-2
 Taipei,2,1992,10,25,1,Martin_Todd,Fromberg_Richard,Martin_Todd,Taipei,1992,10,25,6-3_6-2
-Taipei,2,1992,10,25,1,Morgan_Jamie,Van_RensburgChristo,Morgan_Jamie,Taipei,1992,10,25,6-2_6-7(3)_6-3
+Taipei,2,1992,10,25,1,Morgan_Jamie,Van_Rensburg_Christo,Morgan_Jamie,Taipei,1992,10,25,6-2_6-7(3)_6-3
 Taipei,2,1992,10,25,1,Muller_Gary,Black_Byron,Black_Byron,Taipei,1992,10,25,7-6(2)_6-4
 Taipei,2,1992,10,25,1,Adams_David,Carlsen_Kenneth,Carlsen_Kenneth,Taipei,1992,10,25,3-6_6-3_7-5
 Taipei,2,1992,10,25,2,Stolle_Sandon,Bloom_Gilad,Bloom_Gilad,Taipei,1992,10,25,7-6(7)_6-4
 Taipei,2,1992,10,25,2,Fitzgerald_John,Kuhnen_Patrik,Kuhnen_Patrik,Taipei,1992,10,25,6-0_6-1
-Taipei,2,1992,10,25,2,Grabb_Jim,Lin_BingChao,Grabb_Jim,Taipei,1992,10,25,6-3_6-3
+Taipei,2,1992,10,25,2,Grabb_Jim,Lin_Bing_Chao,Grabb_Jim,Taipei,1992,10,25,6-3_6-3
 Taipei,2,1992,10,25,2,Steven_Brett,Shelton_Bryan,Steven_Brett,Taipei,1992,10,25,6-4_7-5
 Taipei,2,1992,10,25,2,Nargiso_Diego,Garnett_Bret,Nargiso_Diego,Taipei,1992,10,25,6-2_6-2
 Taipei,2,1992,10,25,2,Olhovskiy_Andrei,Baur_Patrick,Olhovskiy_Andrei,Taipei,1992,10,25,6-2_7-6(5)

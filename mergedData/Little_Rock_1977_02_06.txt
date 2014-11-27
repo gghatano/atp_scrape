@@ -1,9 +1,9 @@
 Little_Rock,2,1977,02,06,1,Borg_Bjorn,Bunis_Henry,Borg_Bjorn,Little_Rock,1977,02,06,7-6_5-7_6-2
 Little_Rock,2,1977,02,06,1,Meyers_Mark,Amritraj_Anand,Amritraj_Anand,Little_Rock,1977,02,06,6-1_6-2
-Little_Rock,2,1977,02,06,1,Fleming_Peter,Van_DillenErik,Fleming_Peter,Little_Rock,1977,02,06,6-4_6-3
-Little_Rock,2,1977,02,06,1,Zednik_Vladimir,El_ShafeiIsmail,El_ShafeiIsmail,Little_Rock,1977,02,06,4-6_7-6_6-3
+Little_Rock,2,1977,02,06,1,Fleming_Peter,Van_Dillen_Erik,Fleming_Peter,Little_Rock,1977,02,06,6-4_6-3
+Little_Rock,2,1977,02,06,1,Zednik_Vladimir,El_Shafei_Ismail,El_Shafei_Ismail,Little_Rock,1977,02,06,4-6_7-6_6-3
 Little_Rock,2,1977,02,06,1,Mayer_Sandy,Pala_Frantisek,Mayer_Sandy,Little_Rock,1977,02,06,6-1_6-2
-Little_Rock,2,1977,02,06,1,Letcher_Cliff,Alvarez_ElioLito,Alvarez_ElioLito,Little_Rock,1977,02,06,6-2_4-6_6-0
+Little_Rock,2,1977,02,06,1,Letcher_Cliff,Alvarez_Elio_Lito,Alvarez_Elio_Lito,Little_Rock,1977,02,06,6-2_4-6_6-0
 Little_Rock,2,1977,02,06,1,Hrebec_Jiri,Dupre_Pat,Hrebec_Jiri,Little_Rock,1977,02,06,4-6_6-1_6-2
 Little_Rock,2,1977,02,06,1,Hewitt_Bob,Montano_Emilio,Hewitt_Bob,Little_Rock,1977,02,06,6-1_6-4
 Little_Rock,2,1977,02,06,1,Hardie_George,Corse_John,Hardie_George,Little_Rock,1977,02,06,7-5_6-4
@@ -15,8 +15,8 @@ Little_Rock,2,1977,02,06,1,Machette_Mike,Estep_Mike,Machette_Mike,Little_Rock,19
 Little_Rock,2,1977,02,06,1,Austin_Jeff,Dell_Dick,Austin_Jeff,Little_Rock,1977,02,06,6-1_6-0
 Little_Rock,2,1977,02,06,1,Turner_Steven,Rahim_Haroon,Rahim_Haroon,Little_Rock,1977,02,06,6-0_6-2
 Little_Rock,2,1977,02,06,2,Borg_Bjorn,Amritraj_Anand,Borg_Bjorn,Little_Rock,1977,02,06,6-1_6-0
-Little_Rock,2,1977,02,06,2,Fleming_Peter,El_ShafeiIsmail,Fleming_Peter,Little_Rock,1977,02,06,6-3_3-6_6-2
-Little_Rock,2,1977,02,06,2,Mayer_Sandy,Alvarez_ElioLito,Mayer_Sandy,Little_Rock,1977,02,06,6-1_6-4
+Little_Rock,2,1977,02,06,2,Fleming_Peter,El_Shafei_Ismail,Fleming_Peter,Little_Rock,1977,02,06,6-3_3-6_6-2
+Little_Rock,2,1977,02,06,2,Mayer_Sandy,Alvarez_Elio_Lito,Mayer_Sandy,Little_Rock,1977,02,06,6-1_6-4
 Little_Rock,2,1977,02,06,2,Hrebec_Jiri,Hewitt_Bob,Hrebec_Jiri,Little_Rock,1977,02,06,4-6_6-2_6-4
 Little_Rock,2,1977,02,06,2,Hardie_George,Dibley_Colin,Dibley_Colin,Little_Rock,1977,02,06,6-3_6-4
 Little_Rock,2,1977,02,06,2,Saviano_Nick,Delaney_Jim,Saviano_Nick,Little_Rock,1977,02,06,5-7_7-5_6-3

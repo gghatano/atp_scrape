@@ -5,9 +5,9 @@ Bristol,2,1981,07,05,1,Kronk_Paul,Dent_Phil,Dent_Phil,Bristol,1981,07,05,6-1_RET
 Bristol,2,1981,07,05,1,McNamee_Paul,Nastase_Ilie,McNamee_Paul,Bristol,1981,07,05,7-6_6-4
 Bristol,2,1981,07,05,1,Hightower_Ron,Austin_John,Hightower_Ron,Bristol,1981,07,05,2-6_6-3_6-2
 Bristol,2,1981,07,05,1,Pattison_Andrew,Mayotte_Tim,Mayotte_Tim,Bristol,1981,07,05,6-4_6-4
-Bristol,2,1981,07,05,1,RogerVasselin_Christophe,Mottram_BusterC,Mottram_BusterC,Bristol,1981,07,05,6-2_6-2
-Bristol,2,1981,07,05,1,Lewis_NZLChris,Edmondson_Mark,Edmondson_Mark,Bristol,1981,07,05,6-2_6-2
-Bristol,2,1981,07,05,1,El_ShafeiIsmail,Giammalva_Tony,El_ShafeiIsmail,Bristol,1981,07,05,6-4_6-2
+Bristol,2,1981,07,05,1,RogerVasselin_Christophe,Mottram_Buster_C,Mottram_Buster_C,Bristol,1981,07,05,6-2_6-2
+Bristol,2,1981,07,05,1,Lewis_NZL_Chris,Edmondson_Mark,Edmondson_Mark,Bristol,1981,07,05,6-2_6-2
+Bristol,2,1981,07,05,1,El_Shafei_Ismail,Giammalva_Tony,El_Shafei_Ismail,Bristol,1981,07,05,6-4_6-2
 Bristol,2,1981,07,05,1,Simpson_Russell,Dilouie_Jai,Simpson_Russell,Bristol,1981,07,05,7-6_6-3
 Bristol,2,1981,07,05,1,Mitton_Bernard,Smith_Stan,Smith_Stan,Bristol,1981,07,05,7-5_6-4
 Bristol,2,1981,07,05,1,Scanlon_Bill,Reininger_Robert,Scanlon_Bill,Bristol,1981,07,05,6-3_6-0
@@ -17,8 +17,8 @@ Bristol,2,1981,07,05,1,Tulasne_Thierry,Kriek_Johan,Kriek_Johan,Bristol,1981,07,0
 Bristol,2,1981,07,05,2,Tanner_Roscoe,Fitzgerald_John,Tanner_Roscoe,Bristol,1981,07,05,4-6_6-4_6-4
 Bristol,2,1981,07,05,2,Parun_Onny,Dent_Phil,Dent_Phil,Bristol,1981,07,05,6-3_6-4
 Bristol,2,1981,07,05,2,McNamee_Paul,Hightower_Ron,McNamee_Paul,Bristol,1981,07,05,6-3_6-4
-Bristol,2,1981,07,05,2,Mayotte_Tim,Mottram_BusterC,Mayotte_Tim,Bristol,1981,07,05,7-6_6-4
-Bristol,2,1981,07,05,2,Edmondson_Mark,El_ShafeiIsmail,Edmondson_Mark,Bristol,1981,07,05,6-3_4-6_6-0
+Bristol,2,1981,07,05,2,Mayotte_Tim,Mottram_Buster_C,Mayotte_Tim,Bristol,1981,07,05,7-6_6-4
+Bristol,2,1981,07,05,2,Edmondson_Mark,El_Shafei_Ismail,Edmondson_Mark,Bristol,1981,07,05,6-3_4-6_6-0
 Bristol,2,1981,07,05,2,Simpson_Russell,Smith_Stan,Simpson_Russell,Bristol,1981,07,05,6-3_4-6_6-2
 Bristol,2,1981,07,05,2,Scanlon_Bill,Gullikson_Tim,Gullikson_Tim,Bristol,1981,07,05,7-5_6-1
 Bristol,2,1981,07,05,2,Carter_David,Kriek_Johan,Kriek_Johan,Bristol,1981,07,05,6-2_7-5

@@ -4,11 +4,11 @@ Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Vanek_Jiri,Bruguera_Sergi,Bruguera_Sergi
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Peschek_Dennis,Damm_Martin,Damm_Martin,Vegeta_Croatia_Open_Umag,2000,07,23,6-2_6-1
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Portas_Albert,Kralert_Petr,Portas_Albert,Vegeta_Croatia_Open_Umag,2000,07,23,6-1_6-3
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Hipfl_Markus,Ulihrach_Bohdan,Ulihrach_Bohdan,Vegeta_Croatia_Open_Umag,2000,07,23,6-4_7-5
-Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Schranz_Wolfgang,Lopez_MoronAlex,Schranz_Wolfgang,Vegeta_Croatia_Open_Umag,2000,07,23,3-6_6-2_7-6(7)
+Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Schranz_Wolfgang,Lopez_Moron_Alex,Schranz_Wolfgang,Vegeta_Croatia_Open_Umag,2000,07,23,3-6_6-2_7-6(7)
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Canas_Guillermo,Martin_Alberto,Martin_Alberto,Vegeta_Croatia_Open_Umag,2000,07,23,1-6_6-0_6-4
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Tarango_Jeff,Martelli_Marzio,Martelli_Marzio,Vegeta_Croatia_Open_Umag,2000,07,23,4-6_6-2_6-1
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Zib_Tomas,Carretero_Roberto,Carretero_Roberto,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-2
-Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Gumy_Hernan,Marin_JuanAntonio,Marin_JuanAntonio,Vegeta_Croatia_Open_Umag,2000,07,23,5-7_6-2_6-4
+Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Gumy_Hernan,Marin_Juan_Antonio,Marin_Juan_Antonio,Vegeta_Croatia_Open_Umag,2000,07,23,5-7_6-2_6-4
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Vajda_Ivan,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Blanco_Galo,Tabara_Michal,Blanco_Galo,Vegeta_Croatia_Open_Umag,2000,07,23,7-5_6-4
 Vegeta_Croatia_Open_Umag,2,2000,07,23,1,Sanchez_David,Sargsian_Sargis,Sanchez_David,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-4
@@ -19,7 +19,7 @@ Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Bruguera_Sergi,Damm_Martin,Damm_Martin,V
 Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Portas_Albert,Ulihrach_Bohdan,Ulihrach_Bohdan,Vegeta_Croatia_Open_Umag,2000,07,23,4-6_6-4_6-1
 Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Schranz_Wolfgang,Martin_Alberto,Martin_Alberto,Vegeta_Croatia_Open_Umag,2000,07,23,6-2_6-3
 Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Martelli_Marzio,Carretero_Roberto,Carretero_Roberto,Vegeta_Croatia_Open_Umag,2000,07,23,6-2_6-3
-Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Marin_JuanAntonio,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-3
+Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Marin_Juan_Antonio,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-3
 Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Blanco_Galo,Sanchez_David,Sanchez_David,Vegeta_Croatia_Open_Umag,2000,07,23,6-1_6-4
 Vegeta_Croatia_Open_Umag,2,2000,07,23,2,Puentes_German,Rios_Marcelo,Rios_Marcelo,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-2
 Vegeta_Croatia_Open_Umag,2,2000,07,23,3,Puerta_Mariano,Damm_Martin,Puerta_Mariano,Vegeta_Croatia_Open_Umag,2000,07,23,6-3_6-2

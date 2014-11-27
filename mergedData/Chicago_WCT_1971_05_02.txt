@@ -1,6 +1,6 @@
 Chicago_WCT,2,1971,05,02,1,Ashe_Arthur,Barth_Roy,Ashe_Arthur,Chicago_WCT,1971,05,02,6-2_6-2
 Chicago_WCT,2,1971,05,02,1,Carmichael_Bob,Crealy_Dick,Carmichael_Bob,Chicago_WCT,1971,05,02,6-3_6-4
-Chicago_WCT,2,1971,05,02,1,Dent_Phil,El_ShafeiIsmail,Dent_Phil,Chicago_WCT,1971,05,02,7-5_6-3
+Chicago_WCT,2,1971,05,02,1,Dent_Phil,El_Shafei_Ismail,Dent_Phil,Chicago_WCT,1971,05,02,7-5_6-3
 Chicago_WCT,2,1971,05,02,1,Ruffels_Ray,Lutz_Robert,Ruffels_Ray,Chicago_WCT,1971,05,02,4-6_6-4_6-1
 Chicago_WCT,2,1971,05,02,1,Okker_Tom,Stone_Allan,Okker_Tom,Chicago_WCT,1971,05,02,6-3_6-4
 Chicago_WCT,2,1971,05,02,1,McMillan_Frew,Fairlie_Brian,Fairlie_Brian,Chicago_WCT,1971,05,02,4-6_7-6_6-2

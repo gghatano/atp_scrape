@@ -4,14 +4,14 @@ Abierto_Mexicano_Telcel,2,2013,03,03,1,Lajovic_Dusan,Andujar_Pablo,Andujar_Pablo
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Lorenzi_Paolo,Paire_Benoit,Lorenzi_Paolo,Abierto_Mexicano_Telcel,2013,03,03,4-6_6-3_6-4
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Wawrinka_Stan,Fognini_Fabio,Fognini_Fabio,Abierto_Mexicano_Telcel,2013,03,03,6-2_7-6(3)
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Bedene_Aljaz,Nalbandian_David,Bedene_Aljaz,Abierto_Mexicano_Telcel,2013,03,03,4-6_6-0_6-4
-Abierto_Mexicano_Telcel,2,2013,03,03,1,Giraldo_Santiago,Ramirez_HidalgoRuben,Giraldo_Santiago,Abierto_Mexicano_Telcel,2013,03,03,4-6_6-4_6-4
+Abierto_Mexicano_Telcel,2,2013,03,03,1,Giraldo_Santiago,Ramirez_Hidalgo_Ruben,Giraldo_Santiago,Abierto_Mexicano_Telcel,2013,03,03,4-6_6-4_6-4
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Sousa_Joao,Melzer_Jurgen,Sousa_Joao,Abierto_Mexicano_Telcel,2013,03,03,6-4_6-3
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Zeballos_Horacio,Bolelli_Simone,Zeballos_Horacio,Abierto_Mexicano_Telcel,2013,03,03,7-5_6-1
 Abierto_Mexicano_Telcel,2,2013,03,03,1,GimenoTraver_Daniel,Berlocq_Carlos,GimenoTraver_Daniel,Abierto_Mexicano_Telcel,2013,03,03,6-3_6-2
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Robredo_Tommy,Volandri_Filippo,Robredo_Tommy,Abierto_Mexicano_Telcel,2013,03,03,6-2_2-6_6-4
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Ramirez_Cesar,Almagro_Nicolas,Almagro_Nicolas,Abierto_Mexicano_Telcel,2013,03,03,6-0_6-1
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Bellucci_Thomaz,Kuznetsov_Andrey,Kuznetsov_Andrey,Abierto_Mexicano_Telcel,2013,03,03,4-6_6-4_6-4
-Abierto_Mexicano_Telcel,2,2013,03,03,1,Mayer_Leonardo,ReyesVarela_MiguelAngel,Mayer_Leonardo,Abierto_Mexicano_Telcel,2013,03,03,6-0_7-6(6)
+Abierto_Mexicano_Telcel,2,2013,03,03,1,Mayer_Leonardo,ReyesVarela_Miguel_Angel,Mayer_Leonardo,Abierto_Mexicano_Telcel,2013,03,03,6-0_7-6(6)
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Alund_Martin,Garza_Daniel,Alund_Martin,Abierto_Mexicano_Telcel,2013,03,03,7-6(7)_7-5
 Abierto_Mexicano_Telcel,2,2013,03,03,1,Schwartzman_Diego,Nadal_Rafael,Nadal_Rafael,Abierto_Mexicano_Telcel,2013,03,03,6-2_6-2
 Abierto_Mexicano_Telcel,2,2013,03,03,2,Ferrer_David,Odesnik_Wayne,Ferrer_David,Abierto_Mexicano_Telcel,2013,03,03,6-2_6-1

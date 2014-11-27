@@ -1,5 +1,5 @@
-Open_13,2,1997,02,16,1,Rios_Marcelo,VilocaPuig_JuanAlbert,Rios_Marcelo,Open_13,1997,02,16,7-6(4)_6-4
-Open_13,2,1997,02,16,1,Van_HerckJohan,Dewulf_Filip,Van_HerckJohan,Open_13,1997,02,16,6-4_6-4
+Open_13,2,1997,02,16,1,Rios_Marcelo,VilocaPuig_Juan_Albert,Rios_Marcelo,Open_13,1997,02,16,7-6(4)_6-4
+Open_13,2,1997,02,16,1,Van_Herck_Johan,Dewulf_Filip,Van_Herck_Johan,Open_13,1997,02,16,6-4_6-4
 Open_13,2,1997,02,16,1,Kucera_Karol,Clement_Arnaud,Clement_Arnaud,Open_13,1997,02,16,6-1_6-1
 Open_13,2,1997,02,16,1,Larsson_Magnus,Clavet_Francisco,Larsson_Magnus,Open_13,1997,02,16,2-6_6-4_6-3
 Open_13,2,1997,02,16,1,Stich_Michael,Vacek_Daniel,Vacek_Daniel,Open_13,1997,02,16,6-4_6-2
@@ -14,7 +14,7 @@ Open_13,2,1997,02,16,1,Dreekmann_Hendrik,Champion_Thierry,Dreekmann_Hendrik,Open
 Open_13,2,1997,02,16,1,Tillstrom_Mikael,Carbonell_Tomas,Carbonell_Tomas,Open_13,1997,02,16,3-6_6-1_6-0
 Open_13,2,1997,02,16,1,Simian_Stephane,Hrbaty_Dominik,Hrbaty_Dominik,Open_13,1997,02,16,7-6(5)_6-7(4)_7-6(1)
 Open_13,2,1997,02,16,1,Fredriksson_Patrik,Enqvist_Thomas,Enqvist_Thomas,Open_13,1997,02,16,6-1_6-2
-Open_13,2,1997,02,16,2,Rios_Marcelo,Van_HerckJohan,Rios_Marcelo,Open_13,1997,02,16,6-2_6-4
+Open_13,2,1997,02,16,2,Rios_Marcelo,Van_Herck_Johan,Rios_Marcelo,Open_13,1997,02,16,6-2_6-4
 Open_13,2,1997,02,16,2,Clement_Arnaud,Larsson_Magnus,Larsson_Magnus,Open_13,1997,02,16,6-3_6-1
 Open_13,2,1997,02,16,2,Vacek_Daniel,Chesnokov_Andrei,Chesnokov_Andrei,Open_13,1997,02,16,6-3_6-3
 Open_13,2,1997,02,16,2,Roux_Lionel,Bruguera_Sergi,Bruguera_Sergi,Open_13,1997,02,16,4-6_6-3_6-2

@@ -8,7 +8,7 @@ Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Davis_Scott,Edmondson_Mark,Davis_Scott,
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Arguello_Roberto,Slozil_Pavel,Arguello_Roberto,Monte-Carlo_Rolex_Masters,1984,06,10,6-4_6-3
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Gomez_Andres,Panatta_Claudio,Gomez_Andres,Monte-Carlo_Rolex_Masters,1984,06,10,6-3_6-0
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Gilbert_Brad,McNamee_Paul,Gilbert_Brad,Monte-Carlo_Rolex_Masters,1984,06,10,7-6_4-6_6-4
-Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Perez_Diego,Lewis_NZLChris,Perez_Diego,Monte-Carlo_Rolex_Masters,1984,06,10,6-4_7-5
+Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Perez_Diego,Lewis_NZL_Chris,Perez_Diego,Monte-Carlo_Rolex_Masters,1984,06,10,6-4_7-5
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Nastase_Ilie,Noah_Yannick,Noah_Yannick,Monte-Carlo_Rolex_Masters,1984,06,10,7-5_6-4
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Vilas_Guillermo,Luna_Fernando,Vilas_Guillermo,Monte-Carlo_Rolex_Masters,1984,06,10,6-2_6-1
 Monte-Carlo_Rolex_Masters,2,1984,06,10,1,Glickstein_Shlomo,Arraya_Pablo,Arraya_Pablo,Monte-Carlo_Rolex_Masters,1984,06,10,7-6_6-4

@@ -2,7 +2,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Bruguera_Sergi,Rafter_Patrick
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Corretja_Alex,Reichel_Alexander,Corretja_Alex,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,6-3_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Sanchez_Emilio,Cherkasov_Andrei,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,7-5_7-6(2)
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Burtscher_Roland,Rosset_Marc,Rosset_Marc,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,6-4_6-1
-Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Berasategui_Alberto,El_AynaouiYounes,Berasategui_Alberto,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,7-5_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Berasategui_Alberto,El_Aynaoui_Younes,Berasategui_Alberto,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,7-5_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Mansdorf_Amos,Rios_Marcelo,Rios_Marcelo,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,6-4_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Gaudenzi_Andrea,Steeb_CarlUwe,Gaudenzi_Andrea,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1994,07,10,1,Goellner_MarcKevin,Pioline_Cedric,Pioline_Cedric,Crédit_Agricole_Suisse_Open_Gstaad,1994,07,10,4-6_6-3_7-6(3)

@@ -1,10 +1,10 @@
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Sanchez_Emilio,Steeb_CarlUwe,Steeb_CarlUwe,BMW_Open_by_FWU_AG,1987,05,10,7-5_4-6_6-3
-BMW_Open_by_FWU_AG,2,1987,05,10,1,De_MiguelDavid,Stadler_Roland,De_MiguelDavid,BMW_Open_by_FWU_AG,1987,05,10,6-2_6-0
+BMW_Open_by_FWU_AG,2,1987,05,10,1,De_Miguel_David,Stadler_Roland,De_Miguel_David,BMW_Open_by_FWU_AG,1987,05,10,6-2_6-0
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Purcell_Mel,Kratzmann_Mark,Purcell_Mel,BMW_Open_by_FWU_AG,1987,05,10,6-3_6-0
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Meinecke_Tore,Canter_Jonathan,Meinecke_Tore,BMW_Open_by_FWU_AG,1987,05,10,6-4_2-6_6-4
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Svensson_Jonas,Casal_Sergio,Casal_Sergio,BMW_Open_by_FWU_AG,1987,05,10,3-6_6-3_6-2
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Motta_Cassio,Aprili_Corrado,Motta_Cassio,BMW_Open_by_FWU_AG,1987,05,10,6-7_7-5_7-5
-BMW_Open_by_FWU_AG,2,1987,05,10,1,Van_BoeckelHuub,PerezRoldan_Guillermo,PerezRoldan_Guillermo,BMW_Open_by_FWU_AG,1987,05,10,6-3_6-1
+BMW_Open_by_FWU_AG,2,1987,05,10,1,Van_Boeckel_Huub,PerezRoldan_Guillermo,PerezRoldan_Guillermo,BMW_Open_by_FWU_AG,1987,05,10,6-3_6-1
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Davin_Franco,Muster_Thomas,Muster_Thomas,BMW_Open_by_FWU_AG,1987,05,10,1-6_6-2_6-0
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Srejber_Milan,Carlsson_Johan,Srejber_Milan,BMW_Open_by_FWU_AG,1987,05,10,7-5_6-2
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Limberger_Carl,Osterthun_Ricki,Limberger_Carl,BMW_Open_by_FWU_AG,1987,05,10,6-2_6-4
@@ -14,7 +14,7 @@ BMW_Open_by_FWU_AG,2,1987,05,10,1,Jelen_Eric,Vajda_Marian,Vajda_Marian,BMW_Open_
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Eriksson_Stefan,Nijssen_Tom,Eriksson_Stefan,BMW_Open_by_FWU_AG,1987,05,10,6-2_6-1
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Kley_Ivan,Pugh_Jim,Pugh_Jim,BMW_Open_by_FWU_AG,1987,05,10,6-3_7-5
 BMW_Open_by_FWU_AG,2,1987,05,10,1,Arrese_Jordi,Kriek_Johan,Kriek_Johan,BMW_Open_by_FWU_AG,1987,05,10,3-6_6-1_6-4
-BMW_Open_by_FWU_AG,2,1987,05,10,2,Steeb_CarlUwe,De_MiguelDavid,Steeb_CarlUwe,BMW_Open_by_FWU_AG,1987,05,10,6-1_6-2
+BMW_Open_by_FWU_AG,2,1987,05,10,2,Steeb_CarlUwe,De_Miguel_David,Steeb_CarlUwe,BMW_Open_by_FWU_AG,1987,05,10,6-1_6-2
 BMW_Open_by_FWU_AG,2,1987,05,10,2,Purcell_Mel,Meinecke_Tore,Purcell_Mel,BMW_Open_by_FWU_AG,1987,05,10,6-2_4-6_7-5
 BMW_Open_by_FWU_AG,2,1987,05,10,2,Casal_Sergio,Motta_Cassio,Casal_Sergio,BMW_Open_by_FWU_AG,1987,05,10,6-4_3-6_6-4
 BMW_Open_by_FWU_AG,2,1987,05,10,2,PerezRoldan_Guillermo,Muster_Thomas,PerezRoldan_Guillermo,BMW_Open_by_FWU_AG,1987,05,10,6-2_6-3

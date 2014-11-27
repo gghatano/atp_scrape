@@ -1,7 +1,7 @@
 Los_Angeles,2,1989,09,24,1,Chang_Michael,Sampras_Pete,Chang_Michael,Los_Angeles,1989,09,24,7-6_6-0
 Los_Angeles,2,1989,09,24,1,Thorne_Kenny,Lundgren_Peter,Thorne_Kenny,Los_Angeles,1989,09,24,2-6_6-3_6-3
 Los_Angeles,2,1989,09,24,1,Arias_Jimmy,Anger_Matt,Arias_Jimmy,Los_Angeles,1989,09,24,6-2_6-4
-Los_Angeles,2,1989,09,24,1,Cahill_Darren,Van_RensburgChristo,Cahill_Darren,Los_Angeles,1989,09,24,1-6_7-5_6-1
+Los_Angeles,2,1989,09,24,1,Cahill_Darren,Van_Rensburg_Christo,Cahill_Darren,Los_Angeles,1989,09,24,1-6_7-5_6-1
 Los_Angeles,2,1989,09,24,1,Wilander_Mats,Rostagno_Derrick,Rostagno_Derrick,Los_Angeles,1989,09,24,6-7_7-5_6-2
 Los_Angeles,2,1989,09,24,1,Davis_Scott,Michibata_Glenn,Davis_Scott,Los_Angeles,1989,09,24,6-3_6-2
 Los_Angeles,2,1989,09,24,1,Wheaton_David,Annacone_Paul,Wheaton_David,Los_Angeles,1989,09,24,7-6_6-1

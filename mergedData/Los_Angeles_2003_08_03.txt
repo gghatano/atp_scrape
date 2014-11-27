@@ -11,7 +11,7 @@ Los_Angeles,2,2003,08,03,1,Fleishman_Zack,Chang_Michael,Chang_Michael,Los_Angele
 Los_Angeles,2,2003,08,03,1,Lee_HyungTaik,Taino_Eric,Taino_Eric,Los_Angeles,2003,08,03,3-6_7-6(5)_6-2
 Los_Angeles,2,2003,08,03,1,Niemeyer_Frederic,Kuerten_Gustavo,Kuerten_Gustavo,Los_Angeles,2003,08,03,3-6_7-6(2)_6-4
 Los_Angeles,2,2003,08,03,1,Ferreira_Wayne,Yim_Robert,Ferreira_Wayne,Los_Angeles,2003,08,03,6-4_6-4
-Los_Angeles,2,2003,08,03,1,Bogomolov_JrAlex,Mello_Ricardo,Bogomolov_JrAlex,Los_Angeles,2003,08,03,6-3_6-2
+Los_Angeles,2,2003,08,03,1,Bogomolov_Jr_Alex,Mello_Ricardo,Bogomolov_Jr_Alex,Los_Angeles,2003,08,03,6-3_6-2
 Los_Angeles,2,2003,08,03,1,Ginepri_Robby,Ilie_Andrew,Ginepri_Robby,Los_Angeles,2003,08,03,6-1_6-1
 Los_Angeles,2,2003,08,03,1,Malisse_Xavier,Grosjean_Sebastien,Grosjean_Sebastien,Los_Angeles,2003,08,03,4-6_7-5_6-3
 Los_Angeles,2,2003,08,03,2,Hewitt_Lleyton,Joyce_Michael,Hewitt_Lleyton,Los_Angeles,2003,08,03,6-3_6-0
@@ -20,7 +20,7 @@ Los_Angeles,2,2003,08,03,2,Schalken_Sjeng,Kiefer_Nicolas,Kiefer_Nicolas,Los_Ange
 Los_Angeles,2,2003,08,03,2,Vacek_Jan,Spadea_Vincent,Spadea_Vincent,Los_Angeles,2003,08,03,7-5_2-6_6-2
 Los_Angeles,2,2003,08,03,2,Philippoussis_Mark,Chang_Michael,Philippoussis_Mark,Los_Angeles,2003,08,03,6-2_6-4
 Los_Angeles,2,2003,08,03,2,Taino_Eric,Kuerten_Gustavo,Kuerten_Gustavo,Los_Angeles,2003,08,03,6-3_7-6(5)
-Los_Angeles,2,2003,08,03,2,Ferreira_Wayne,Bogomolov_JrAlex,Ferreira_Wayne,Los_Angeles,2003,08,03,7-6(1)_6-3
+Los_Angeles,2,2003,08,03,2,Ferreira_Wayne,Bogomolov_Jr_Alex,Ferreira_Wayne,Los_Angeles,2003,08,03,7-6(1)_6-3
 Los_Angeles,2,2003,08,03,2,Ginepri_Robby,Grosjean_Sebastien,Grosjean_Sebastien,Los_Angeles,2003,08,03,6-2_6-3
 Los_Angeles,2,2003,08,03,3,Hewitt_Lleyton,Carlsen_Kenneth,Hewitt_Lleyton,Los_Angeles,2003,08,03,6-7(3)_6-4_6-3
 Los_Angeles,2,2003,08,03,3,Kiefer_Nicolas,Spadea_Vincent,Kiefer_Nicolas,Los_Angeles,2003,08,03,1-6_7-5_6-3

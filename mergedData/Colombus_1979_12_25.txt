@@ -7,7 +7,7 @@ Colombus,2,1979,12,25,1,Letcher_Cliff,Meyer_Rick,Letcher_Cliff,Colombus,1979,12,
 Colombus,2,1979,12,25,1,Mitton_Bernard,Garcia_Tim,Mitton_Bernard,Colombus,1979,12,25,6-3_6-4
 Colombus,2,1979,12,25,1,Prinsloo_Willem,Lutz_Robert,Lutz_Robert,Colombus,1979,12,25,6-2_6-2
 Colombus,2,1979,12,25,1,Gullikson_Tom,Curren_Kevin,Gullikson_Tom,Colombus,1979,12,25,6-2_6-3
-Colombus,2,1979,12,25,1,Alvarez_ElioLito,Dibley_Colin,Dibley_Colin,Colombus,1979,12,25,2-6_6-4_6-2
+Colombus,2,1979,12,25,1,Alvarez_Elio_Lito,Dibley_Colin,Dibley_Colin,Colombus,1979,12,25,2-6_6-4_6-2
 Colombus,2,1979,12,25,1,Friedler_Eric,Richardson_Keith,Friedler_Eric,Colombus,1979,12,25,6-7_6-4_6-3
 Colombus,2,1979,12,25,1,Gonzalez_Pedro,Nastase_Ilie,Nastase_Ilie,Colombus,1979,12,25,6-1_6-3
 Colombus,2,1979,12,25,1,Amritraj_Vijay,Kachel_Chris,Amritraj_Vijay,Colombus,1979,12,25,6-3_4-6_6-1

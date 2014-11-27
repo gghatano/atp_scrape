@@ -1,6 +1,6 @@
 Australian_Open,1,1974,12,19,1,Connors_Jimmy,Kachel_Chris,Connors_Jimmy,Australian_Open,1974,12,19,7-5_6-2_6-3
 Australian_Open,1,1974,12,19,1,Pinner_Ulrich,Tanabe_Kiyoski,Pinner_Ulrich,Australian_Open,1974,12,19,6-1_7-6_6-3
-Australian_Open,1,1974,12,19,1,Reid_GroverRaz,Braun_Greg,Reid_GroverRaz,Australian_Open,1974,12,19,6-1_6-7_6-2_6-1
+Australian_Open,1,1974,12,19,1,Reid_Grover_Raz,Braun_Greg,Reid_Grover_Raz,Australian_Open,1974,12,19,6-1_6-7_6-2_6-1
 Australian_Open,1,1974,12,19,1,Singh_Jasjit,Dawson_Tony,Singh_Jasjit,Australian_Open,1974,12,19,6-2_7-6_6-0
 Australian_Open,1,1974,12,19,1,Thomson_Graeme,Prineas_Mike,Thomson_Graeme,Australian_Open,1974,12,19,4-6_3-6
 Australian_Open,1,1974,12,19,1,Warwick_Kim,Hiskins_Ken,Warwick_Kim,Australian_Open,1974,12,19,6-1_6-3_6-2
@@ -31,7 +31,7 @@ Australian_Open,1,1974,12,19,1,Menon_Sashi,Coghlan_William,Menon_Sashi,Australia
 Australian_Open,1,1974,12,19,1,Gehring_Rolf,Stubs_Colin,Gehring_Rolf,Australian_Open,1974,12,19,6-3_6-2_6-4
 Australian_Open,1,1974,12,19,1,Fancutt_Trevor,Newcombe_John,Newcombe_John,Australian_Open,1974,12,19,6-2_6-1_6-2
 Australian_Open,1,1974,12,19,2,Connors_Jimmy,Pinner_Ulrich,Connors_Jimmy,Australian_Open,1974,12,19,6-3_6-3_6-2
-Australian_Open,1,1974,12,19,2,Reid_GroverRaz,Singh_Jasjit,Reid_GroverRaz,Australian_Open,1974,12,19,7-6_4-6_6-3_6-3
+Australian_Open,1,1974,12,19,2,Reid_Grover_Raz,Singh_Jasjit,Reid_Grover_Raz,Australian_Open,1974,12,19,7-6_4-6_6-3_6-3
 Australian_Open,1,1974,12,19,2,Thomson_Graeme,Warwick_Kim,Warwick_Kim,Australian_Open,1974,12,19,6-3_6-4_7-6
 Australian_Open,1,1974,12,19,2,Elschenbroich_Harald,Dent_Phil,Elschenbroich_Harald,Australian_Open,1974,12,19,4-6_6-4_6-4_6-3
 Australian_Open,1,1974,12,19,2,Alexander_John,Edmondson_Mark,Alexander_John,Australian_Open,1974,12,19,6-3_6-4_4-6_6-1
@@ -46,7 +46,7 @@ Australian_Open,1,1974,12,19,2,Masters_Geoff,Sedgman_Frank,Masters_Geoff,Austral
 Australian_Open,1,1974,12,19,2,Beust_Patrice,Giltinan_Bob,Giltinan_Bob,Australian_Open,1974,12,19,6-0_6-3_6-2
 Australian_Open,1,1974,12,19,2,Carmichael_Bob,Menon_Sashi,Carmichael_Bob,Australian_Open,1974,12,19,6-4_6-2_6-2
 Australian_Open,1,1974,12,19,2,Gehring_Rolf,Newcombe_John,Newcombe_John,Australian_Open,1974,12,19,6-7_6-4_3-6_6-2_6-4
-Australian_Open,1,1974,12,19,3,Connors_Jimmy,Reid_GroverRaz,Connors_Jimmy,Australian_Open,1974,12,19,6-2_6-3_5-7_6-0
+Australian_Open,1,1974,12,19,3,Connors_Jimmy,Reid_Grover_Raz,Connors_Jimmy,Australian_Open,1974,12,19,6-2_6-3_5-7_6-0
 Australian_Open,1,1974,12,19,3,Warwick_Kim,Elschenbroich_Harald,Warwick_Kim,Australian_Open,1974,12,19,4-6_4-6_7-6_6-4_6-2
 Australian_Open,1,1974,12,19,3,Alexander_John,Stone_Allan,Alexander_John,Australian_Open,1974,12,19,6-2_6-4_7-5
 Australian_Open,1,1974,12,19,3,Andrews_John,Crealy_Dick,Crealy_Dick,Australian_Open,1974,12,19,6-2_6-4_4-6_7-6

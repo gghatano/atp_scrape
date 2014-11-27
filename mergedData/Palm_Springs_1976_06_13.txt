@@ -12,10 +12,10 @@ Palm_Springs,2,1976,06,13,1,Roche_Tony,Stockton_Dick,Stockton_Dick,Palm_Springs,
 Palm_Springs,2,1976,06,13,1,Moore_Raymond,Pattison_Andrew,Pattison_Andrew,Palm_Springs,1976,06,13,1-6_6-2_7-5
 Palm_Springs,2,1976,06,13,1,Tanner_Roscoe,Masters_Geoff,Tanner_Roscoe,Palm_Springs,1976,06,13,6-4_6-2
 Palm_Springs,2,1976,06,13,1,Parun_Onny,Kamiwazumi_Jun,Parun_Onny,Palm_Springs,1976,06,13,7-6_6-4
-Palm_Springs,2,1976,06,13,1,Fillol_SrJaime,Riessen_Marty,Fillol_SrJaime,Palm_Springs,1976,06,13,6-2_3-6_6-2
-Palm_Springs,2,1976,06,13,1,Fairlie_Brian,El_ShafeiIsmail,Fairlie_Brian,Palm_Springs,1976,06,13,6-4_2-0_RET
-Palm_Springs,2,1976,06,13,1,Laver_Rod,Reid_GroverRaz,Laver_Rod,Palm_Springs,1976,06,13,7-6_6-3
-Palm_Springs,2,1976,06,13,1,Van_DillenErik,Pecci_SrVictor,Van_DillenErik,Palm_Springs,1976,06,13,6-4_7-5
+Palm_Springs,2,1976,06,13,1,Fillol_Sr_Jaime,Riessen_Marty,Fillol_Sr_Jaime,Palm_Springs,1976,06,13,6-2_3-6_6-2
+Palm_Springs,2,1976,06,13,1,Fairlie_Brian,El_Shafei_Ismail,Fairlie_Brian,Palm_Springs,1976,06,13,6-4_2-0_RET
+Palm_Springs,2,1976,06,13,1,Laver_Rod,Reid_Grover_Raz,Laver_Rod,Palm_Springs,1976,06,13,7-6_6-3
+Palm_Springs,2,1976,06,13,1,Van_Dillen_Erik,Pecci_Sr_Victor,Van_Dillen_Erik,Palm_Springs,1976,06,13,6-4_7-5
 Palm_Springs,2,1976,06,13,1,McManus_Jim,James_John,McManus_Jim,Palm_Springs,1976,06,13,6-4_5-7_6-4
 Palm_Springs,2,1976,06,13,1,Estep_Mike,Andrew_Jorge,Estep_Mike,Palm_Springs,1976,06,13,7-6_6-2
 Palm_Springs,2,1976,06,13,1,Smith_Stan,Cahill_Mike,Smith_Stan,Palm_Springs,1976,06,13,6-4_7-5
@@ -37,8 +37,8 @@ Palm_Springs,2,1976,06,13,2,Newcombe_John,Warwick_Kim,Newcombe_John,Palm_Springs
 Palm_Springs,2,1976,06,13,2,Nastase_Ilie,Rahim_Haroon,Nastase_Ilie,Palm_Springs,1976,06,13,6-4_4-6_6-4
 Palm_Springs,2,1976,06,13,2,Stockton_Dick,Pattison_Andrew,Stockton_Dick,Palm_Springs,1976,06,13,6-4_6-4
 Palm_Springs,2,1976,06,13,2,Tanner_Roscoe,Parun_Onny,Tanner_Roscoe,Palm_Springs,1976,06,13,6-4_6-0
-Palm_Springs,2,1976,06,13,2,Fillol_SrJaime,Fairlie_Brian,Fairlie_Brian,Palm_Springs,1976,06,13,3-6_7-5_7-5
-Palm_Springs,2,1976,06,13,2,Laver_Rod,Van_DillenErik,Laver_Rod,Palm_Springs,1976,06,13,6-4_6-3
+Palm_Springs,2,1976,06,13,2,Fillol_Sr_Jaime,Fairlie_Brian,Fairlie_Brian,Palm_Springs,1976,06,13,3-6_7-5_7-5
+Palm_Springs,2,1976,06,13,2,Laver_Rod,Van_Dillen_Erik,Laver_Rod,Palm_Springs,1976,06,13,6-4_6-3
 Palm_Springs,2,1976,06,13,2,McManus_Jim,Estep_Mike,Estep_Mike,Palm_Springs,1976,06,13,6-0_6-1
 Palm_Springs,2,1976,06,13,2,Smith_Stan,Pasarell_Charlie,Smith_Stan,Palm_Springs,1976,06,13,6-3_3-6_6-2
 Palm_Springs,2,1976,06,13,2,Tiriac_Ion,Borg_Bjorn,Borg_Bjorn,Palm_Springs,1976,06,13,6-0_6-4

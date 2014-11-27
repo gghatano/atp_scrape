@@ -1,5 +1,5 @@
 San_Francisco,2,1986,09,28,1,Edberg_Stefan,Lavalle_Leonardo,Edberg_Stefan,San_Francisco,1986,09,28,6-3_3-6_6-3
-San_Francisco,2,1986,09,28,1,Schultz_Bud,Van_RensburgChristo,Schultz_Bud,San_Francisco,1986,09,28,7-6_6-4
+San_Francisco,2,1986,09,28,1,Schultz_Bud,Van_Rensburg_Christo,Schultz_Bud,San_Francisco,1986,09,28,7-6_6-4
 San_Francisco,2,1986,09,28,1,Pugh_Jim,Grabb_Jim,Grabb_Jim,San_Francisco,1986,09,28,6-1_6-4
 San_Francisco,2,1986,09,28,1,Green_Bob,Steyn_Christo,Steyn_Christo,San_Francisco,1986,09,28,6-7_7-6_7-6
 San_Francisco,2,1986,09,28,1,McEnroe_John,Dyke_Broderick,McEnroe_John,San_Francisco,1986,09,28,6-2_6-2

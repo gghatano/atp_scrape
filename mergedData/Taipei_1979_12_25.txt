@@ -1,5 +1,5 @@
 Taipei,2,1979,12,25,1,Tanner_Roscoe,Masters_Geoff,Tanner_Roscoe,Taipei,1979,12,25,6-3_6-3
-Taipei,2,1979,12,25,1,Hsu_HuangJung,Lewis_JohnChris,Lewis_JohnChris,Taipei,1979,12,25,6-1_6-1
+Taipei,2,1979,12,25,1,Hsu_HuangJung,Lewis_John_Chris,Lewis_John_Chris,Taipei,1979,12,25,6-1_6-1
 Taipei,2,1979,12,25,1,Stiegler_Roland,Mitchell_Matt,Stiegler_Roland,Taipei,1979,12,25,6-3_6-0
 Taipei,2,1979,12,25,1,Popp_Wolfgang,Warwick_Kim,Warwick_Kim,Taipei,1979,12,25,6-3_6-4
 Taipei,2,1979,12,25,1,Lutz_Robert,Simonsson_Hans,Lutz_Robert,Taipei,1979,12,25,6-4_6-1
@@ -14,7 +14,7 @@ Taipei,2,1979,12,25,1,Sadri_John,Marks_John,Sadri_John,Taipei,1979,12,25,6-1_7-6
 Taipei,2,1979,12,25,1,Simonsson_Stefan,Gardiner_Alvin,Simonsson_Stefan,Taipei,1979,12,25,7-6_6-0
 Taipei,2,1979,12,25,1,Kohlberg_Andy,Denton_Steve,Kohlberg_Andy,Taipei,1979,12,25,6-4_6-7_6-2
 Taipei,2,1979,12,25,1,Dibley_Colin,Dupre_Pat,Dupre_Pat,Taipei,1979,12,25,6-1_7-6
-Taipei,2,1979,12,25,2,Tanner_Roscoe,Lewis_JohnChris,Tanner_Roscoe,Taipei,1979,12,25,6-4_6-1
+Taipei,2,1979,12,25,2,Tanner_Roscoe,Lewis_John_Chris,Tanner_Roscoe,Taipei,1979,12,25,6-4_6-1
 Taipei,2,1979,12,25,2,Stiegler_Roland,Warwick_Kim,Warwick_Kim,Taipei,1979,12,25,6-4_7-5
 Taipei,2,1979,12,25,2,Lutz_Robert,Ismail_Haroon,Lutz_Robert,Taipei,1979,12,25,6-0_6-1
 Taipei,2,1979,12,25,2,Fassbender_Jurgen,Wilkison_Tim,Fassbender_Jurgen,Taipei,1979,12,25,7-6_7-5

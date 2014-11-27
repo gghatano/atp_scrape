@@ -1,5 +1,5 @@
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Edberg_Stefan,Birner_Stanislav,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-1_6-2
-ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Van_BoeckelHuub,Maurer_Andreas,Maurer_Andreas,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-6_6-1
+ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Van_Boeckel_Huub,Maurer_Andreas,Maurer_Andreas,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-6_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Jarryd_Anders,Gunnarsson_Jan,Jarryd_Anders,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-0_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Leach_Mike,Hlasek_Jakob,Leach_Mike,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-4_6-7_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Nystrom_Joakim,Vajda_Marian,Nystrom_Joakim,ABN_AMRO_World_Tennis_Tournament,1987,03,22,0-6_6-4_6-3
@@ -13,7 +13,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Chesnokov_Andrei,McEnroe_John,Mc
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Svensson_Jonas,Lindgren_Peter,Svensson_Jonas,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-2_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Smid_Tomas,Dyke_Broderick,Dyke_Broderick,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-5_1-6_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Forget_Guy,Jelen_Eric,Forget_Guy,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-1_6-4
-ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Cahill_Darren,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-2_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,1,Cahill_Darren,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-2_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Edberg_Stefan,Maurer_Andreas,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-0_6-0
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Jarryd_Anders,Leach_Mike,Jarryd_Anders,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-6_3-6_7-6
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Nystrom_Joakim,Hooper_Chip,Hooper_Chip,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-4_6-4
@@ -21,11 +21,11 @@ ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Grabb_Jim,Pimek_Libor,Grabb_Jim,
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Sanchez_Emilio,Mansdorf_Amos,Mansdorf_Amos,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-5_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Schapers_Michiel,McEnroe_John,McEnroe_John,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-4_6-0
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Svensson_Jonas,Dyke_Broderick,Svensson_Jonas,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-4_6-0
-ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Forget_Guy,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-5_7-5
+ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,2,Forget_Guy,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,7-5_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,3,Edberg_Stefan,Jarryd_Anders,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-3_6-7_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,3,Hooper_Chip,Grabb_Jim,Grabb_Jim,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-1_7-6
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,3,Mansdorf_Amos,McEnroe_John,McEnroe_John,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-4_7-5
-ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,3,Svensson_Jonas,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-2_7-5
+ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,3,Svensson_Jonas,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-2_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,4,Edberg_Stefan,Grabb_Jim,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-3_6-4
-ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,4,McEnroe_John,Mecir_SrMiloslav,McEnroe_John,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-1_7-5
+ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,4,McEnroe_John,Mecir_Sr_Miloslav,McEnroe_John,ABN_AMRO_World_Tennis_Tournament,1987,03,22,6-1_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1987,03,22,5,Edberg_Stefan,McEnroe_John,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1987,03,22,3-6_6-3_6-1

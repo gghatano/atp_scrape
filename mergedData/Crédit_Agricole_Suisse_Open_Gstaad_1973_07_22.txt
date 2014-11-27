@@ -6,13 +6,13 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Emerson_Roy,Ovici_Toma,Emerso
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Moore_Raymond,Barclay_JeanClaude,Moore_Raymond,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,2-6_6-1_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Mayer_Sandy,Chanfreau_JeanBaptiste,Mayer_Sandy,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-3_8-9_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Dibley_Colin,Kanderal_Petr,Kanderal_Petr,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,NGodrella_Wanaro,El_ShafeiIsmail,NGodrella_Wanaro,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,NGodrella_Wanaro,El_Shafei_Ismail,NGodrella_Wanaro,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Maud_Robert,Proisy_Patrick,Proisy_Patrick,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-3_2-6_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Holecek_Milan,PhillipsMoore_Barry,PhillipsMoore_Barry,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-1_4-6_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Stone_Allan,Gimeno_Andres,Stone_Allan,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_8-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Spear_Nicola,Fairlie_Brian,Fairlie_Brian,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-3_1-6_9-8
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Munoz_Antonio,Jauffret_Francois,Jauffret_Francois,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-2_9-8
-Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Dominguez_Patrice,Mandarino_JoseEdison,Mandarino_JoseEdison,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,8-6_6-1
+Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Dominguez_Patrice,Mandarino_Jose_Edison,Mandarino_Jose_Edison,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,8-6_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,1,Tanabe_Kiyoski,Nastase_Ilie,Nastase_Ilie,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-2_6-0
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Okker_Tom,Parun_Onny,Okker_Tom,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Meiler_Karl,Singh_Jasjit,Meiler_Karl,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-3
@@ -21,7 +21,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Mayer_Sandy,Kanderal_Petr,May
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,NGodrella_Wanaro,Proisy_Patrick,Proisy_Patrick,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-2_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,PhillipsMoore_Barry,Stone_Allan,Stone_Allan,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,3-6_6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Fairlie_Brian,Jauffret_Francois,Fairlie_Brian,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,5-7_8-6_6-4
-Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Mandarino_JoseEdison,Nastase_Ilie,Nastase_Ilie,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,2,Mandarino_Jose_Edison,Nastase_Ilie,Nastase_Ilie,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,3,Okker_Tom,Meiler_Karl,Meiler_Karl,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,3,Emerson_Roy,Mayer_Sandy,Emerson_Roy,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,4-6_8-6_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1973,07,22,3,Proisy_Patrick,Stone_Allan,Proisy_Patrick,Crédit_Agricole_Suisse_Open_Gstaad,1973,07,22,6-4_6-4

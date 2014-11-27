@@ -1,9 +1,9 @@
 Erste_Bank_Open,2,1977,10,30,1,Gottfried_Brian,Amaya_George,Gottfried_Brian,Erste_Bank_Open,1977,10,30,6-3_6-1
 Erste_Bank_Open,2,1977,10,30,1,Hoyt_Hubertus,McMillan_Frew,McMillan_Frew,Erste_Bank_Open,1977,10,30,6-4_5-7_6-4
 Erste_Bank_Open,2,1977,10,30,1,Fagel_Rick,Smid_Tomas,Smid_Tomas,Erste_Bank_Open,1977,10,30,6-3_6-2
-Erste_Bank_Open,2,1977,10,30,1,Johansson_Kjell,Pecci_SrVictor,Johansson_Kjell,Erste_Bank_Open,1977,10,30,5-7_7-6_6-2
+Erste_Bank_Open,2,1977,10,30,1,Johansson_Kjell,Pecci_Sr_Victor,Johansson_Kjell,Erste_Bank_Open,1977,10,30,5-7_7-6_6-2
 Erste_Bank_Open,2,1977,10,30,1,Mayer_Sandy,Feigl_Peter,Mayer_Sandy,Erste_Bank_Open,1977,10,30,6-3_6-2
-Erste_Bank_Open,2,1977,10,30,1,Kriek_Johan,Bengtson_OveNils,Kriek_Johan,Erste_Bank_Open,1977,10,30,6-3_6-1
+Erste_Bank_Open,2,1977,10,30,1,Kriek_Johan,Bengtson_Ove_Nils,Kriek_Johan,Erste_Bank_Open,1977,10,30,6-3_6-1
 Erste_Bank_Open,2,1977,10,30,1,Richardson_Keith,Friedler_Eric,Friedler_Eric,Erste_Bank_Open,1977,10,30,2-6_6-4_6-2
 Erste_Bank_Open,2,1977,10,30,1,Spear_Nicola,Taroczy_Balazs,Taroczy_Balazs,Erste_Bank_Open,1977,10,30,6-3_6-1
 Erste_Bank_Open,2,1977,10,30,1,Kodes_Jan,Bertram_Byron,Bertram_Byron,Erste_Bank_Open,1977,10,30,6-7_7-6_6-3

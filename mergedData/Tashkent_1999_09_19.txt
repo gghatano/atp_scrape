@@ -3,7 +3,7 @@ Tashkent,2,1999,09,19,1,Kutsenko_Vadim,Vacek_Daniel,Vacek_Daniel,Tashkent,1999,0
 Tashkent,2,1999,09,19,1,Ljubicic_Ivan,Srichaphan_Paradorn,Srichaphan_Paradorn,Tashkent,1999,09,19,7-5_6-3
 Tashkent,2,1999,09,19,1,Heuberger_Ivo,Kroslak_Jan,Heuberger_Ivo,Tashkent,1999,09,19,6-2_RET
 Tashkent,2,1999,09,19,1,Kiefer_Nicolas,Ketola_Tuomas,Kiefer_Nicolas,Tashkent,1999,09,19,4-6_6-2_6-1
-Tashkent,2,1999,09,19,1,van_LottumJohn,Manta_Lorenzo,Manta_Lorenzo,Tashkent,1999,09,19,7-6(1)_6-3
+Tashkent,2,1999,09,19,1,van_Lottum_John,Manta_Lorenzo,Manta_Lorenzo,Tashkent,1999,09,19,7-6(1)_6-3
 Tashkent,2,1999,09,19,1,Mamiit_Cecil,Shvec_Alexander,Mamiit_Cecil,Tashkent,1999,09,19,6-4_6-1
 Tashkent,2,1999,09,19,1,Liukko_Ville,Safin_Marat,Liukko_Ville,Tashkent,1999,09,19,4-6_7-5_3-1_RET
 Tashkent,2,1999,09,19,1,Pioline_Cedric,Federer_Roger,Federer_Roger,Tashkent,1999,09,19,6-4_6-3

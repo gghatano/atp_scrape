@@ -1,7 +1,7 @@
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Soderling_Robin,Harrison_Ryan,Soderling_Robin,Brisbane_International_presented_by_Suncorp,2011,01,09,6-2_6-4
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Berrer_Michael,Sela_Dudi,Berrer_Michael,Brisbane_International_presented_by_Suncorp,2011,01,09,1-6_7-6(3)_6-2
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Millman_John,Ebden_Matthew,Ebden_Matthew,Brisbane_International_presented_by_Suncorp,2011,01,09,4-6_6-2_6-4
-Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,de_BakkerThiemo,Istomin_Denis,Istomin_Denis,Brisbane_International_presented_by_Suncorp,2011,01,09,7-6(5)_6-4
+Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,de_Bakker_Thiemo,Istomin_Denis,Istomin_Denis,Brisbane_International_presented_by_Suncorp,2011,01,09,7-6(5)_6-4
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Fish_Mardy,Mannarino_Adrian,Fish_Mardy,Brisbane_International_presented_by_Suncorp,2011,01,09,6-1_6-4
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Stepanek_Radek,Kamke_Tobias,Stepanek_Radek,Brisbane_International_presented_by_Suncorp,2011,01,09,5-7_6-1_6-4
 Brisbane_International_presented_by_Suncorp,2,2011,01,09,1,Clement_Arnaud,Berankis_Ricardas,Berankis_Ricardas,Brisbane_International_presented_by_Suncorp,2011,01,09,6-4_6-3

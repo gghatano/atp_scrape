@@ -4,7 +4,7 @@ Monterrey_WCT,2,1981,07,05,1,McDonald_Matthew,RogerVasselin_Christophe,McDonald_
 Monterrey_WCT,2,1981,07,05,1,Amritraj_Vijay,Lozano_Jorge,Amritraj_Vijay,Monterrey_WCT,1981,07,05,6-1_6-3
 Monterrey_WCT,2,1981,07,05,1,Kriek_Johan,Mitton_Bernard,Kriek_Johan,Monterrey_WCT,1981,07,05,6-2_6-2
 Monterrey_WCT,2,1981,07,05,1,Norback_Jan,Simpson_Russell,Norback_Jan,Monterrey_WCT,1981,07,05,6-3_6-3
-Monterrey_WCT,2,1981,07,05,1,Portes_Pascal,Mottram_BusterC,Portes_Pascal,Monterrey_WCT,1981,07,05,6-4_6-3
+Monterrey_WCT,2,1981,07,05,1,Portes_Pascal,Mottram_Buster_C,Portes_Pascal,Monterrey_WCT,1981,07,05,6-4_6-3
 Monterrey_WCT,2,1981,07,05,1,Saviano_Nick,Lutz_Robert,Saviano_Nick,Monterrey_WCT,1981,07,05,3-6_6-4_7-5
 Monterrey_WCT,2,1981,07,05,1,Ramirez_Raul,Meyer_Rick,Ramirez_Raul,Monterrey_WCT,1981,07,05,6-4_6-2
 Monterrey_WCT,2,1981,07,05,1,Giammalva_Tony,Popp_Wolfgang,Giammalva_Tony,Monterrey_WCT,1981,07,05,6-4_6-4
@@ -12,7 +12,7 @@ Monterrey_WCT,2,1981,07,05,1,Riessen_Marty,Dent_Phil,Riessen_Marty,Monterrey_WCT
 Monterrey_WCT,2,1981,07,05,1,Fibak_Wojtek,Waltke_Trey,Fibak_Wojtek,Monterrey_WCT,1981,07,05,6-2_1-6_6-3
 Monterrey_WCT,2,1981,07,05,1,Sadri_John,Smid_Tomas,Sadri_John,Monterrey_WCT,1981,07,05,7-6_6-7_6-2
 Monterrey_WCT,2,1981,07,05,1,Austin_John,Elter_Peter,Austin_John,Monterrey_WCT,1981,07,05,7-6_6-3
-Monterrey_WCT,2,1981,07,05,1,Stewart_Sherwood,Vant_HofRobert,Stewart_Sherwood,Monterrey_WCT,1981,07,05,6-1_6-3
+Monterrey_WCT,2,1981,07,05,1,Stewart_Sherwood,Vant_Hof_Robert,Stewart_Sherwood,Monterrey_WCT,1981,07,05,6-1_6-3
 Monterrey_WCT,2,1981,07,05,1,Gerulaitis_Vitas,Moor_Terry,Gerulaitis_Vitas,Monterrey_WCT,1981,07,05,6-2_6-4
 Monterrey_WCT,2,1981,07,05,2,Manson_Bruce,Walts_Butch,Manson_Bruce,Monterrey_WCT,1981,07,05,7-6_5-7_7-5
 Monterrey_WCT,2,1981,07,05,2,McDonald_Matthew,Amritraj_Vijay,Amritraj_Vijay,Monterrey_WCT,1981,07,05,6-1_6-2

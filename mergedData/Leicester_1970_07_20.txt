@@ -4,7 +4,7 @@ Leicester,2,1970,07,20,1,McDonald_Allan,Stilwell_Graham,McDonald_Allan,Leicester
 Leicester,2,1970,07,20,1,Krog_Rauty,Bowrey_Bill,Krog_Rauty,Leicester,1970,07,20,8-6_6-4
 Leicester,2,1970,07,20,1,Ulrich_Torben,Iqbal_Munawar,Ulrich_Torben,Leicester,1970,07,20,6-2_6-3
 Leicester,2,1970,07,20,1,Drysdale_Cliff,Dowdeswell_Roger,Drysdale_Cliff,Leicester,1970,07,20,8-6_6-3
-Leicester,2,1970,07,20,1,Cox_Mark,Irvine_HenryHank,Cox_Mark,Leicester,1970,07,20,6-4_5-7_6-4
+Leicester,2,1970,07,20,1,Cox_Mark,Irvine_Henry_Hank,Cox_Mark,Leicester,1970,07,20,6-4_5-7_6-4
 Leicester,2,1970,07,20,1,Okker_Tom,Maud_Robert,Okker_Tom,Leicester,1970,07,20,3-6_13-11_6-3
 Leicester,2,1970,07,20,2,Taylor_Roger,Davidson_Owen,Taylor_Roger,Leicester,1970,07,20,6-4_8-6
 Leicester,2,1970,07,20,2,McDonald_Allan,Krog_Rauty,McDonald_Allan,Leicester,1970,07,20,3-6_6-1_6-0

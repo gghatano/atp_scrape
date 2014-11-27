@@ -6,7 +6,7 @@ Brussels,2,1986,03,23,1,Nystrom_Joakim,Lundgren_Peter,Nystrom_Joakim,Brussels,19
 Brussels,2,1986,03,23,1,Casal_Sergio,Bates_Jeremy,Bates_Jeremy,Brussels,1986,03,23,7-6_6-2
 Brussels,2,1986,03,23,1,Gunnarsson_Jan,Smid_Tomas,Smid_Tomas,Brussels,1986,03,23,6-1_7-6
 Brussels,2,1986,03,23,1,Hooper_Chip,Curren_Kevin,Curren_Kevin,Brussels,1986,03,23,7-6_6-7_7-6
-Brussels,2,1986,03,23,1,Mecir_SrMiloslav,Schapers_Michiel,Mecir_SrMiloslav,Brussels,1986,03,23,6-4_6-2
+Brussels,2,1986,03,23,1,Mecir_Sr_Miloslav,Schapers_Michiel,Mecir_Sr_Miloslav,Brussels,1986,03,23,6-4_6-2
 Brussels,2,1986,03,23,1,Sanchez_Emilio,Agenor_Ronald,Sanchez_Emilio,Brussels,1986,03,23,6-4_6-4
 Brussels,2,1986,03,23,1,Gerulaitis_Vitas,Vajda_Marian,Vajda_Marian,Brussels,1986,03,23,6-3_6-1
 Brussels,2,1986,03,23,1,Teacher_Brian,Jarryd_Anders,Jarryd_Anders,Brussels,1986,03,23,6-1_6-2
@@ -18,14 +18,14 @@ Brussels,2,1986,03,23,2,Wilander_Mats,Zivojinovic_Slobodan,Wilander_Mats,Brussel
 Brussels,2,1986,03,23,2,Demuynck_Karel,Canter_Jonathan,Canter_Jonathan,Brussels,1986,03,23,7-5_6-1
 Brussels,2,1986,03,23,2,Nystrom_Joakim,Bates_Jeremy,Nystrom_Joakim,Brussels,1986,03,23,6-1_3-6_7-5
 Brussels,2,1986,03,23,2,Smid_Tomas,Curren_Kevin,Curren_Kevin,Brussels,1986,03,23,7-6_6-3
-Brussels,2,1986,03,23,2,Mecir_SrMiloslav,Sanchez_Emilio,Mecir_SrMiloslav,Brussels,1986,03,23,6-3_6-2
+Brussels,2,1986,03,23,2,Mecir_Sr_Miloslav,Sanchez_Emilio,Mecir_Sr_Miloslav,Brussels,1986,03,23,6-3_6-2
 Brussels,2,1986,03,23,2,Vajda_Marian,Jarryd_Anders,Jarryd_Anders,Brussels,1986,03,23,3-6_6-0_6-3
 Brussels,2,1986,03,23,2,Forget_Guy,Hlasek_Jakob,Forget_Guy,Brussels,1986,03,23,6-3_6-4
 Brussels,2,1986,03,23,2,Pimek_Libor,Dyke_Broderick,Dyke_Broderick,Brussels,1986,03,23,3-6_7-5_6-3
 Brussels,2,1986,03,23,3,Wilander_Mats,Canter_Jonathan,Wilander_Mats,Brussels,1986,03,23,4-6_6-3_6-2
 Brussels,2,1986,03,23,3,Nystrom_Joakim,Curren_Kevin,Nystrom_Joakim,Brussels,1986,03,23,6-1_6-4
-Brussels,2,1986,03,23,3,Mecir_SrMiloslav,Jarryd_Anders,Mecir_SrMiloslav,Brussels,1986,03,23,6-4_6-3
+Brussels,2,1986,03,23,3,Mecir_Sr_Miloslav,Jarryd_Anders,Mecir_Sr_Miloslav,Brussels,1986,03,23,6-4_6-3
 Brussels,2,1986,03,23,3,Forget_Guy,Dyke_Broderick,Dyke_Broderick,Brussels,1986,03,23,6-1_2-6_7-6
 Brussels,2,1986,03,23,4,Wilander_Mats,Nystrom_Joakim,Wilander_Mats,Brussels,1986,03,23,2-6_6-4_6-2
-Brussels,2,1986,03,23,4,Mecir_SrMiloslav,Dyke_Broderick,Dyke_Broderick,Brussels,1986,03,23,6-2_6-3
+Brussels,2,1986,03,23,4,Mecir_Sr_Miloslav,Dyke_Broderick,Dyke_Broderick,Brussels,1986,03,23,6-2_6-3
 Brussels,2,1986,03,23,5,Wilander_Mats,Dyke_Broderick,Wilander_Mats,Brussels,1986,03,23,6-2_6-3

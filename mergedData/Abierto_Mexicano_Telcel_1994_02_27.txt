@@ -4,9 +4,9 @@ Abierto_Mexicano_Telcel,2,1994,02,27,1,Borwick_Neil,Petchey_Mark,Petchey_Mark,Ab
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Solves_Gerard,Schaller_Gilbert,Schaller_Gilbert,Abierto_Mexicano_Telcel,1994,02,27,7-6(3)_6-2
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Chesnokov_Andrei,Dosedel_Slava,Dosedel_Slava,Abierto_Mexicano_Telcel,1994,02,27,6-2_6-3
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Lareau_Sebastien,Filippini_Marcelo,Filippini_Marcelo,Abierto_Mexicano_Telcel,1994,02,27,4-6_7-5_6-3
-Abierto_Mexicano_Telcel,2,1994,02,27,1,Altur_JoseFrancisco,Daufresne_Xavier,Altur_JoseFrancisco,Abierto_Mexicano_Telcel,1994,02,27,7-6(5)_2-6_6-4
+Abierto_Mexicano_Telcel,2,1994,02,27,1,Altur_Jose_Francisco,Daufresne_Xavier,Altur_Jose_Francisco,Abierto_Mexicano_Telcel,1994,02,27,7-6(5)_2-6_6-4
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Corretja_Alex,Berasategui_Alberto,Corretja_Alex,Abierto_Mexicano_Telcel,1994,02,27,6-4_2-6_6-1
-Abierto_Mexicano_Telcel,2,1994,02,27,1,Rikl_David,De_LaPenaHoracio,Rikl_David,Abierto_Mexicano_Telcel,1994,02,27,7-5_7-5
+Abierto_Mexicano_Telcel,2,1994,02,27,1,Rikl_David,De_La_Pena_Horacio,Rikl_David,Abierto_Mexicano_Telcel,1994,02,27,7-5_7-5
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Skoff_Horst,Smith_Roger,Smith_Roger,Abierto_Mexicano_Telcel,1994,02,27,6-7(5)_6-4_6-3
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Lavalle_Leonardo,Ruah_Maurice,Ruah_Maurice,Abierto_Mexicano_Telcel,1994,02,27,6-3_6-2
 Abierto_Mexicano_Telcel,2,1994,02,27,1,Velev_Milen,Yzaga_Jaime,Yzaga_Jaime,Abierto_Mexicano_Telcel,1994,02,27,6-3_6-2
@@ -17,7 +17,7 @@ Abierto_Mexicano_Telcel,2,1994,02,27,1,Hadad_Mauricio,Costa_Carlos,Hadad_Maurici
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Muster_Thomas,Fontang_Frederic,Muster_Thomas,Abierto_Mexicano_Telcel,1994,02,27,6-4_7-6(7)
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Petchey_Mark,Schaller_Gilbert,Petchey_Mark,Abierto_Mexicano_Telcel,1994,02,27,6-4_6-3
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Dosedel_Slava,Filippini_Marcelo,Dosedel_Slava,Abierto_Mexicano_Telcel,1994,02,27,6-4_7-5
-Abierto_Mexicano_Telcel,2,1994,02,27,2,Altur_JoseFrancisco,Corretja_Alex,Corretja_Alex,Abierto_Mexicano_Telcel,1994,02,27,6-1_7-5
+Abierto_Mexicano_Telcel,2,1994,02,27,2,Altur_Jose_Francisco,Corretja_Alex,Corretja_Alex,Abierto_Mexicano_Telcel,1994,02,27,6-1_7-5
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Rikl_David,Smith_Roger,Rikl_David,Abierto_Mexicano_Telcel,1994,02,27,6-7(4)_6-2_6-1
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Ruah_Maurice,Yzaga_Jaime,Ruah_Maurice,Abierto_Mexicano_Telcel,1994,02,27,6-4_0-6_7-5
 Abierto_Mexicano_Telcel,2,1994,02,27,2,Gaudenzi_Andrea,Shelton_Bryan,Shelton_Bryan,Abierto_Mexicano_Telcel,1994,02,27,6-3_7-5

@@ -2,7 +2,7 @@ Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Kriek_Johan,Wittus_Craig,Kriek_
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Odizor_Nduka,Harmon_Rodney,Odizor_Nduka,Hall_of_Fame_Tennis_Championships,1982,09,12,6-7_6-3_7-6
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Amritraj_Anand,Lapidus_Jay,Lapidus_Jay,Hall_of_Fame_Tennis_Championships,1982,09,12,6-4_5-7_6-4
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Kerns_Kevin,Davis_Marty,Davis_Marty,Hall_of_Fame_Tennis_Championships,1982,09,12,6-3_6-2
-Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Pfister_Henry,Van_DerMerweSchalk,Pfister_Henry,Hall_of_Fame_Tennis_Championships,1982,09,12,7-5_6-2
+Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Pfister_Henry,Van_Der_Merwe_Schalk,Pfister_Henry,Hall_of_Fame_Tennis_Championships,1982,09,12,7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Kleege_Bruce,Anger_Matt,Anger_Matt,Hall_of_Fame_Tennis_Championships,1982,09,12,7-6_7-6
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Visser_Danie,Bourne_Lloyd,Visser_Danie,Hall_of_Fame_Tennis_Championships,1982,09,12,7-6_6-2
 Hall_of_Fame_Tennis_Championships,2,1982,09,12,1,Gitlin_Drew,Frawley_Rod,Frawley_Rod,Hall_of_Fame_Tennis_Championships,1982,09,12,7-6_2-6_6-0

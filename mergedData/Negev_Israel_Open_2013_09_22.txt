@@ -2,7 +2,7 @@ Negev_Israel_Open,2,2013,09,22,1,Fognini_Fabio,Inglot_Dominic,Fognini_Fabio,Nege
 Negev_Israel_Open,2,2013,09,22,1,Przysiezny_Michal,RamosVinolas_Albert,Przysiezny_Michal,Negev_Israel_Open,2013,09,22,3-6_6-4_6-3
 Negev_Israel_Open,2,2013,09,22,1,Hanescu_Victor,Khachanov_Karen,Khachanov_Karen,Negev_Israel_Open,2013,09,22,7-6(4)_7-6(4)
 Negev_Israel_Open,2,2013,09,22,1,Berankis_Ricardas,Rosol_Lukas,Rosol_Lukas,Negev_Israel_Open,2013,09,22,6-4_7-6(4)
-Negev_Israel_Open,2,2013,09,22,1,Tipsarevic_Janko,Bautista_AgutRoberto,Bautista_AgutRoberto,Negev_Israel_Open,2013,09,22,7-6(4)_6-3
+Negev_Israel_Open,2,2013,09,22,1,Tipsarevic_Janko,Bautista_Agut_Roberto,Bautista_Agut_Roberto,Negev_Israel_Open,2013,09,22,7-6(4)_6-3
 Negev_Israel_Open,2,2013,09,22,1,Mannarino_Adrian,Donskoy_Evgeny,Donskoy_Evgeny,Negev_Israel_Open,2013,09,22,6-1_6-4
 Negev_Israel_Open,2,2013,09,22,1,Zopp_Jurgen,GimenoTraver_Daniel,Zopp_Jurgen,Negev_Israel_Open,2013,09,22,6-1_3-6_6-3
 Negev_Israel_Open,2,2013,09,22,1,Elgin_Mikhail,Gulbis_Ernests,Gulbis_Ernests,Negev_Israel_Open,2013,09,22,6-0_6-1
@@ -16,14 +16,14 @@ Negev_Israel_Open,2,2013,09,22,1,Biryukov_Mikhail,GarciaLopez_Guillermo,GarciaLo
 Negev_Israel_Open,2,2013,09,22,1,Karatsev_Aslan,Youzhny_Mikhail,Youzhny_Mikhail,Negev_Israel_Open,2013,09,22,6-7(5)_6-2_6-2
 Negev_Israel_Open,2,2013,09,22,2,Fognini_Fabio,Przysiezny_Michal,Przysiezny_Michal,Negev_Israel_Open,2013,09,22,6-3_5-3_RET
 Negev_Israel_Open,2,2013,09,22,2,Khachanov_Karen,Rosol_Lukas,Rosol_Lukas,Negev_Israel_Open,2013,09,22,6-4_6-4
-Negev_Israel_Open,2,2013,09,22,2,Bautista_AgutRoberto,Donskoy_Evgeny,Bautista_AgutRoberto,Negev_Israel_Open,2013,09,22,2-6_6-1_7-6(5)
+Negev_Israel_Open,2,2013,09,22,2,Bautista_Agut_Roberto,Donskoy_Evgeny,Bautista_Agut_Roberto,Negev_Israel_Open,2013,09,22,2-6_6-1_7-6(5)
 Negev_Israel_Open,2,2013,09,22,2,Zopp_Jurgen,Gulbis_Ernests,Gulbis_Ernests,Negev_Israel_Open,2013,09,22,6-3_1-6_6-3
 Negev_Israel_Open,2,2013,09,22,2,Stakhovsky_Sergiy,Sousa_Joao,Sousa_Joao,Negev_Israel_Open,2013,09,22,3-6_6-4_6-0
 Negev_Israel_Open,2,2013,09,22,2,Kravchuk_Konstantin,Tursunov_Dmitry,Tursunov_Dmitry,Negev_Israel_Open,2013,09,22,6-3_6-0
 Negev_Israel_Open,2,2013,09,22,2,Istomin_Denis,Golubev_Andrey,Istomin_Denis,Negev_Israel_Open,2013,09,22,4-6_6-3_6-4
 Negev_Israel_Open,2,2013,09,22,2,GarciaLopez_Guillermo,Youzhny_Mikhail,GarciaLopez_Guillermo,Negev_Israel_Open,2013,09,22,6-4_4-6_6-3
 Negev_Israel_Open,2,2013,09,22,3,Przysiezny_Michal,Rosol_Lukas,Przysiezny_Michal,Negev_Israel_Open,2013,09,22,7-6(7)_1-6_6-3
-Negev_Israel_Open,2,2013,09,22,3,Bautista_AgutRoberto,Gulbis_Ernests,Gulbis_Ernests,Negev_Israel_Open,2013,09,22,6-1_6-2
+Negev_Israel_Open,2,2013,09,22,3,Bautista_Agut_Roberto,Gulbis_Ernests,Gulbis_Ernests,Negev_Israel_Open,2013,09,22,6-1_6-2
 Negev_Israel_Open,2,2013,09,22,3,Sousa_Joao,Tursunov_Dmitry,Sousa_Joao,Negev_Israel_Open,2013,09,22,6-4_6-3
 Negev_Israel_Open,2,2013,09,22,3,Istomin_Denis,GarciaLopez_Guillermo,GarciaLopez_Guillermo,Negev_Israel_Open,2013,09,22,6-2_6-4
 Negev_Israel_Open,2,2013,09,22,4,Przysiezny_Michal,Gulbis_Ernests,Gulbis_Ernests,Negev_Israel_Open,2013,09,22,6-3_6-3

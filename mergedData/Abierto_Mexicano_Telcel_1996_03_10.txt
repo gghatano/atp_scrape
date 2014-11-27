@@ -1,4 +1,4 @@
-Abierto_Mexicano_Telcel,2,1996,03,10,1,Muster_Thomas,VilocaPuig_JuanAlbert,Muster_Thomas,Abierto_Mexicano_Telcel,1996,03,10,6-4_6-4
+Abierto_Mexicano_Telcel,2,1996,03,10,1,Muster_Thomas,VilocaPuig_Juan_Albert,Muster_Thomas,Abierto_Mexicano_Telcel,1996,03,10,6-4_6-4
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Ran_Eyal,Lobo_Luis,Lobo_Luis,Abierto_Mexicano_Telcel,1996,03,10,6-4_3-6_6-3
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Etlis_Gaston,Hernandez_Alejandro,Hernandez_Alejandro,Abierto_Mexicano_Telcel,1996,03,10,7-5_7-6(3)
 Abierto_Mexicano_Telcel,2,1996,03,10,1,CunhaSilva_Joao,Mantilla_Felix,Mantilla_Felix,Abierto_Mexicano_Telcel,1996,03,10,7-6(4)_6-4
@@ -7,7 +7,7 @@ Abierto_Mexicano_Telcel,2,1996,03,10,1,Sanchez_Emilio,Marques_Nuno,Marques_Nuno,
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Noszaly_Sandor,Hadad_Mauricio,Hadad_Mauricio,Abierto_Mexicano_Telcel,1996,03,10,6-3_6-2
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Pereira_Nicolas,Clavet_Francisco,Clavet_Francisco,Abierto_Mexicano_Telcel,1996,03,10,6-3_6-2
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Sanchez_Javier,RasconLope_JuanLuis,Sanchez_Javier,Abierto_Mexicano_Telcel,1996,03,10,6-3_6-1
-Abierto_Mexicano_Telcel,2,1996,03,10,1,Morejon_LuisAdrian,Vitoux_Frederic,Vitoux_Frederic,Abierto_Mexicano_Telcel,1996,03,10,7-6(4)_6-2
+Abierto_Mexicano_Telcel,2,1996,03,10,1,Morejon_Luis_Adrian,Vitoux_Frederic,Vitoux_Frederic,Abierto_Mexicano_Telcel,1996,03,10,7-6(4)_6-2
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Lapentti_Nicolas,Fontang_Frederic,Fontang_Frederic,Abierto_Mexicano_Telcel,1996,03,10,7-6(4)_6-7(5)_6-2
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Montana_Francisco,Novak_Jiri,Novak_Jiri,Abierto_Mexicano_Telcel,1996,03,10,6-7(4)_6-0_6-1
 Abierto_Mexicano_Telcel,2,1996,03,10,1,Meligeni_Fernando,Rincon_Mario,Meligeni_Fernando,Abierto_Mexicano_Telcel,1996,03,10,6-4_7-6(5)

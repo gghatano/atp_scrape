@@ -19,7 +19,7 @@ Forest_Hills,2,1988,05,08,1,Davis_Scott,Flur_Marc,Flur_Marc,Forest_Hills,1988,05
 Forest_Hills,2,1988,05,08,1,Chang_Michael,Aldrich_Pieter,Chang_Michael,Forest_Hills,1988,05,08,4-6_6-4_6-1
 Forest_Hills,2,1988,05,08,1,Youl_Simon,Kriek_Johan,Youl_Simon,Forest_Hills,1988,05,08,6-7_6-4_7-5
 Forest_Hills,2,1988,05,08,1,Evernden_Kelly,Dickson_Mark,Evernden_Kelly,Forest_Hills,1988,05,08,6-3_6-3
-Forest_Hills,2,1988,05,08,1,Di_LauraCarlos,Tous_Alberto,Tous_Alberto,Forest_Hills,1988,05,08,6-2_6-2
+Forest_Hills,2,1988,05,08,1,Di_Laura_Carlos,Tous_Alberto,Tous_Alberto,Forest_Hills,1988,05,08,6-2_6-2
 Forest_Hills,2,1988,05,08,1,Reneberg_Richey,Cassidy_Dan,Reneberg_Richey,Forest_Hills,1988,05,08,6-1_6-2
 Forest_Hills,2,1988,05,08,1,Bloom_Gilad,Jaite_Martin,Bloom_Gilad,Forest_Hills,1988,05,08,6-4_2-6_6-2
 Forest_Hills,2,1988,05,08,1,Krickstein_Aaron,Aguilera_Juan,Krickstein_Aaron,Forest_Hills,1988,05,08,2-6_6-1_6-2
@@ -27,8 +27,8 @@ Forest_Hills,2,1988,05,08,1,Wostenholme_Martin,Luna_Fernando,Luna_Fernando,Fores
 Forest_Hills,2,1988,05,08,1,Brown_Jimmy,Lozano_Jorge,Brown_Jimmy,Forest_Hills,1988,05,08,6-1_7-6
 Forest_Hills,2,1988,05,08,1,Scott_Larry,Teltscher_Eliot,Teltscher_Eliot,Forest_Hills,1988,05,08,7-6_6-0
 Forest_Hills,2,1988,05,08,1,Srejber_Milan,Pimek_Libor,Srejber_Milan,Forest_Hills,1988,05,08,6-4_7-5
-Forest_Hills,2,1988,05,08,1,Giammalva_JrSammy,Avendano_Juan,Giammalva_JrSammy,Forest_Hills,1988,05,08,6-3_6-1
-Forest_Hills,2,1988,05,08,1,Shaw_Steve,De_LaPenaHoracio,De_LaPenaHoracio,Forest_Hills,1988,05,08,7-5_4-6_6-0
+Forest_Hills,2,1988,05,08,1,Giammalva_Jr_Sammy,Avendano_Juan,Giammalva_Jr_Sammy,Forest_Hills,1988,05,08,6-3_6-1
+Forest_Hills,2,1988,05,08,1,Shaw_Steve,De_La_Pena_Horacio,De_La_Pena_Horacio,Forest_Hills,1988,05,08,7-5_4-6_6-0
 Forest_Hills,2,1988,05,08,1,Oresar_Bruno,Gomez_Andres,Gomez_Andres,Forest_Hills,1988,05,08,6-2_6-4
 Forest_Hills,2,1988,05,08,2,Edberg_Stefan,Freeman_Marcel,Edberg_Stefan,Forest_Hills,1988,05,08,7-6_7-5
 Forest_Hills,2,1988,05,08,2,Duncan_Lawson,Muster_Thomas,Muster_Thomas,Forest_Hills,1988,05,08,6-0_6-0
@@ -44,8 +44,8 @@ Forest_Hills,2,1988,05,08,2,Evernden_Kelly,Tous_Alberto,Tous_Alberto,Forest_Hill
 Forest_Hills,2,1988,05,08,2,Reneberg_Richey,Bloom_Gilad,Bloom_Gilad,Forest_Hills,1988,05,08,4-6_6-3_6-2
 Forest_Hills,2,1988,05,08,2,Krickstein_Aaron,Luna_Fernando,Krickstein_Aaron,Forest_Hills,1988,05,08,6-2_6-3
 Forest_Hills,2,1988,05,08,2,Brown_Jimmy,Teltscher_Eliot,Brown_Jimmy,Forest_Hills,1988,05,08,6-2_6-3
-Forest_Hills,2,1988,05,08,2,Srejber_Milan,Giammalva_JrSammy,Srejber_Milan,Forest_Hills,1988,05,08,2-6_7-6_6-3
-Forest_Hills,2,1988,05,08,2,De_LaPenaHoracio,Gomez_Andres,Gomez_Andres,Forest_Hills,1988,05,08,6-2_6-1
+Forest_Hills,2,1988,05,08,2,Srejber_Milan,Giammalva_Jr_Sammy,Srejber_Milan,Forest_Hills,1988,05,08,2-6_7-6_6-3
+Forest_Hills,2,1988,05,08,2,De_La_Pena_Horacio,Gomez_Andres,Gomez_Andres,Forest_Hills,1988,05,08,6-2_6-1
 Forest_Hills,2,1988,05,08,3,Edberg_Stefan,Muster_Thomas,Edberg_Stefan,Forest_Hills,1988,05,08,6-4_6-3
 Forest_Hills,2,1988,05,08,3,Berger_Jay,Zivojinovic_Slobodan,Zivojinovic_Slobodan,Forest_Hills,1988,05,08,6-1_6-7_6-1
 Forest_Hills,2,1988,05,08,3,Perez_Diego,Mattar_Luiz,Mattar_Luiz,Forest_Hills,1988,05,08,6-3_4-6_6-3

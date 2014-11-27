@@ -1,7 +1,7 @@
 Sao_Paulo,2,1987,11,15,1,Bengoechea_Eduardo,Soares_Joao,Bengoechea_Eduardo,Sao_Paulo,1987,11,15,6-0_6-3
 Sao_Paulo,2,1987,11,15,1,Cassidy_Dan,Motta_Cassio,Cassidy_Dan,Sao_Paulo,1987,11,15,2-6_6-4_6-2
-Sao_Paulo,2,1987,11,15,1,Roese_Fernando,Di_LauraCarlos,Di_LauraCarlos,Sao_Paulo,1987,11,15,6-3_1-6_7-5
-Sao_Paulo,2,1987,11,15,1,Gurfein_Jim,De_LaPenaHoracio,Gurfein_Jim,Sao_Paulo,1987,11,15,5-7_6-2_6-2
+Sao_Paulo,2,1987,11,15,1,Roese_Fernando,Di_Laura_Carlos,Di_Laura_Carlos,Sao_Paulo,1987,11,15,6-3_1-6_7-5
+Sao_Paulo,2,1987,11,15,1,Gurfein_Jim,De_La_Pena_Horacio,Gurfein_Jim,Sao_Paulo,1987,11,15,5-7_6-2_6-2
 Sao_Paulo,2,1987,11,15,1,Mattar_Luiz,Ross_John,Mattar_Luiz,Sao_Paulo,1987,11,15,0-6_7-6_6-2
 Sao_Paulo,2,1987,11,15,1,Acuna_Ricardo,Sanchez_Javier,Sanchez_Javier,Sao_Paulo,1987,11,15,6-3_6-3
 Sao_Paulo,2,1987,11,15,1,Goes_Julio,Arraya_Pablo,Arraya_Pablo,Sao_Paulo,1987,11,15,6-4_6-2
@@ -15,7 +15,7 @@ Sao_Paulo,2,1987,11,15,1,Willenborg_Blaine,Schwaier_Hans,Willenborg_Blaine,Sao_P
 Sao_Paulo,2,1987,11,15,1,Bloom_Gilad,Frana_Javier,Frana_Javier,Sao_Paulo,1987,11,15,6-3_6-7_6-2
 Sao_Paulo,2,1987,11,15,1,Arguello_Roberto,Berger_Jay,Berger_Jay,Sao_Paulo,1987,11,15,6-4_6-3
 Sao_Paulo,2,1987,11,15,2,Bengoechea_Eduardo,Cassidy_Dan,Cassidy_Dan,Sao_Paulo,1987,11,15,6-0_3-6_6-4
-Sao_Paulo,2,1987,11,15,2,Di_LauraCarlos,Gurfein_Jim,Gurfein_Jim,Sao_Paulo,1987,11,15,7-5_6-4
+Sao_Paulo,2,1987,11,15,2,Di_Laura_Carlos,Gurfein_Jim,Gurfein_Jim,Sao_Paulo,1987,11,15,7-5_6-4
 Sao_Paulo,2,1987,11,15,2,Mattar_Luiz,Sanchez_Javier,Mattar_Luiz,Sao_Paulo,1987,11,15,7-5_6-0
 Sao_Paulo,2,1987,11,15,2,Arraya_Pablo,Filippini_Marcelo,Filippini_Marcelo,Sao_Paulo,1987,11,15,7-6_6-3
 Sao_Paulo,2,1987,11,15,2,Daher_Jose,Yzaga_Jaime,Yzaga_Jaime,Sao_Paulo,1987,11,15,7-5_6-3

@@ -1,7 +1,7 @@
 Chicago,2,1985,04,07,1,McEnroe_John,Doohan_Peter,McEnroe_John,Chicago,1985,04,07,6-0_6-1
 Chicago,2,1985,04,07,1,Stefanki_Larry,Leach_Mike,Leach_Mike,Chicago,1985,04,07,7-6_6-4
 Chicago,2,1985,04,07,1,Shiras_Leif,Annacone_Paul,Annacone_Paul,Chicago,1985,04,07,6-3_7-6
-Chicago,2,1985,04,07,1,Giammalva_JrSammy,Kriek_Johan,Kriek_Johan,Chicago,1985,04,07,6-4_6-0
+Chicago,2,1985,04,07,1,Giammalva_Jr_Sammy,Kriek_Johan,Kriek_Johan,Chicago,1985,04,07,6-4_6-0
 Chicago,2,1985,04,07,1,Noah_Yannick,Purcell_Mel,Noah_Yannick,Chicago,1985,04,07,6-3_6-2
 Chicago,2,1985,04,07,1,Gonzalez_Francisco,Moor_Terry,Moor_Terry,Chicago,1985,04,07,4-6_6-3_6-4
 Chicago,2,1985,04,07,1,Green_Bob,Holmes_Greg,Green_Bob,Chicago,1985,04,07,6-2_6-4

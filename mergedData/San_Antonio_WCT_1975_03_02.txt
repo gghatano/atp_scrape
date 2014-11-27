@@ -6,10 +6,10 @@ San_Antonio_WCT,2,1975,03,02,1,Gerken_Paul,Kamiwazumi_Jun,Gerken_Paul,San_Antoni
 San_Antonio_WCT,2,1975,03,02,1,Hrebec_Jiri,Guerry_Zan,Guerry_Zan,San_Antonio_WCT,1975,03,02,6-3_6-7(2)_6-3
 San_Antonio_WCT,2,1975,03,02,1,PhillipsMoore_Barry,Edlefsen_Tom,Edlefsen_Tom,San_Antonio_WCT,1975,03,02,6-3_7-5
 San_Antonio_WCT,2,1975,03,02,1,Stockton_Dick,Richey_Cliff,Stockton_Dick,San_Antonio_WCT,1975,03,02,2-6_6-4_6-2
-San_Antonio_WCT,2,1975,03,02,1,Smith_Stan,Reid_GroverRaz,Smith_Stan,San_Antonio_WCT,1975,03,02,6-4_6-1
+San_Antonio_WCT,2,1975,03,02,1,Smith_Stan,Reid_Grover_Raz,Smith_Stan,San_Antonio_WCT,1975,03,02,6-4_6-1
 San_Antonio_WCT,2,1975,03,02,1,Stilwell_Graham,Cox_Mark,Cox_Mark,San_Antonio_WCT,1975,03,02,6-4_6-2
 San_Antonio_WCT,2,1975,03,02,1,Cramer_Pat,Amritraj_Vijay,Amritraj_Vijay,San_Antonio_WCT,1975,03,02,6-1_6-7(5)_6-3
-San_Antonio_WCT,2,1975,03,02,1,Estep_Mike,Van_DillenErik,Estep_Mike,San_Antonio_WCT,1975,03,02,7-6(6)_3-6_6-3
+San_Antonio_WCT,2,1975,03,02,1,Estep_Mike,Van_Dillen_Erik,Estep_Mike,San_Antonio_WCT,1975,03,02,7-6(6)_3-6_6-3
 San_Antonio_WCT,2,1975,03,02,1,Lutz_Robert,Zednik_Vladimir,Lutz_Robert,San_Antonio_WCT,1975,03,02,6-4_5-7_6-2
 San_Antonio_WCT,2,1975,03,02,1,Waltke_Trey,Simpson_Russell,Waltke_Trey,San_Antonio_WCT,1975,03,02,6-3_4-6_6-4
 San_Antonio_WCT,2,1975,03,02,1,Rahim_Haroon,Gorman_Tom,Rahim_Haroon,San_Antonio_WCT,1975,03,02,6-4_6-7(3)_7-6(2)

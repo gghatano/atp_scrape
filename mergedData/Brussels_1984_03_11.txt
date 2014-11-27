@@ -7,8 +7,8 @@ Brussels,2,1984,03,11,1,Teacher_Brian,Pfister_Henry,Pfister_Henry,Brussels,1984,
 Brussels,2,1984,03,11,1,Purcell_Mel,Gunthardt_Heinz,Gunthardt_Heinz,Brussels,1984,03,11,6-0_0-6_6-1
 Brussels,2,1984,03,11,1,Sundstrom_Henrik,Scanlon_Bill,Sundstrom_Henrik,Brussels,1984,03,11,7-6_2-6_7-6
 Brussels,2,1984,03,11,1,Teltscher_Eliot,Nystrom_Joakim,Teltscher_Eliot,Brussels,1984,03,11,6-3_3-6_6-2
-Brussels,2,1984,03,11,1,Van_LangendonckJan,Hogstedt_Thomas,Hogstedt_Thomas,Brussels,1984,03,11,4-6_7-5_7-5
-Brussels,2,1984,03,11,1,Demuynck_Karel,Vant_HofRobert,Vant_HofRobert,Brussels,1984,03,11,4-6_6-1_6-4
+Brussels,2,1984,03,11,1,Van_Langendonck_Jan,Hogstedt_Thomas,Hogstedt_Thomas,Brussels,1984,03,11,4-6_7-5_7-5
+Brussels,2,1984,03,11,1,Demuynck_Karel,Vant_Hof_Robert,Vant_Hof_Robert,Brussels,1984,03,11,4-6_6-1_6-4
 Brussels,2,1984,03,11,1,Boileau_Bernard,Curren_Kevin,Boileau_Bernard,Brussels,1984,03,11,6-3_6-4
 Brussels,2,1984,03,11,1,Kriek_Johan,Gottfried_Brian,Kriek_Johan,Brussels,1984,03,11,6-3_3-6_6-4
 Brussels,2,1984,03,11,1,Gerulaitis_Vitas,Dowdeswell_Colin,Gerulaitis_Vitas,Brussels,1984,03,11,6-3_6-3
@@ -19,7 +19,7 @@ Brussels,2,1984,03,11,2,Cash_Pat,Mayer_Gene,Mayer_Gene,Brussels,1984,03,11,6-3_6
 Brussels,2,1984,03,11,2,Smid_Tomas,Pfister_Henry,Smid_Tomas,Brussels,1984,03,11,6-3_2-6_6-0
 Brussels,2,1984,03,11,2,Gunthardt_Heinz,Sundstrom_Henrik,Sundstrom_Henrik,Brussels,1984,03,11,6-3_6-1
 Brussels,2,1984,03,11,2,Teltscher_Eliot,Hogstedt_Thomas,Hogstedt_Thomas,Brussels,1984,03,11,6-4_6-3
-Brussels,2,1984,03,11,2,Vant_HofRobert,Boileau_Bernard,Boileau_Bernard,Brussels,1984,03,11,7-5_3-6_6-1
+Brussels,2,1984,03,11,2,Vant_Hof_Robert,Boileau_Bernard,Boileau_Bernard,Brussels,1984,03,11,7-5_3-6_6-1
 Brussels,2,1984,03,11,2,Kriek_Johan,Gerulaitis_Vitas,Kriek_Johan,Brussels,1984,03,11,6-4_6-4
 Brussels,2,1984,03,11,2,Ostoja_Marko,McEnroe_John,McEnroe_John,Brussels,1984,03,11,6-1_6-2
 Brussels,2,1984,03,11,3,Lendl_Ivan,Mayer_Gene,Lendl_Ivan,Brussels,1984,03,11,6-3_6-4

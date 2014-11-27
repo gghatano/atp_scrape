@@ -1,7 +1,7 @@
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Bruguera_Sergi,Silberstein_Gabriel,Bruguera_Sergi,Vegeta_Croatia_Open_Umag,1997,07,27,6-0_6-4
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Merinov_Andrei,Sabau_Razvan,Merinov_Andrei,Vegeta_Croatia_Open_Umag,1997,07,27,6-4_5-7_6-2
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Martelli_Marzio,Krajan_Zeljko,Martelli_Marzio,Vegeta_Croatia_Open_Umag,1997,07,27,6-1_7-5
-Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Marin_JuanAntonio,Haarhuis_Paul,Haarhuis_Paul,Vegeta_Croatia_Open_Umag,1997,07,27,6-4_7-6(4)
+Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Marin_Juan_Antonio,Haarhuis_Paul,Haarhuis_Paul,Vegeta_Croatia_Open_Umag,1997,07,27,6-4_7-6(4)
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Sanchez_Javier,Hirszon_Sasa,Sanchez_Javier,Vegeta_Croatia_Open_Umag,1997,07,27,6-1_6-2
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Voinea_Adrian,Pescariu_Dinu,Voinea_Adrian,Vegeta_Croatia_Open_Umag,1997,07,27,6-1_2-6_7-6(7)
 Vegeta_Croatia_Open_Umag,2,1997,07,27,1,Fredriksson_Patrik,Martin_Alberto,Martin_Alberto,Vegeta_Croatia_Open_Umag,1997,07,27,6-2_6-1

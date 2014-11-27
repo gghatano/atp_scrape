@@ -3,12 +3,12 @@ Zell_Am_See_WCT,2,1982,09,12,1,Carter_David,Glickstein_Shlomo,Carter_David,Zell_
 Zell_Am_See_WCT,2,1982,09,12,1,Manson_Bruce,Saviano_Nick,Manson_Bruce,Zell_Am_See_WCT,1982,09,12,6-4_6-4
 Zell_Am_See_WCT,2,1982,09,12,1,Giammalva_Tony,Barazzutti_Corrado,Giammalva_Tony,Zell_Am_See_WCT,1982,09,12,6-4_6-3
 Zell_Am_See_WCT,2,1982,09,12,1,Higueras_Jose,Birner_Stanislav,Higueras_Jose,Zell_Am_See_WCT,1982,09,12,6-3_6-3
-Zell_Am_See_WCT,2,1982,09,12,1,Pecci_SrVictor,Reininger_Robert,Pecci_SrVictor,Zell_Am_See_WCT,1982,09,12,2-6_7-5_6-4
+Zell_Am_See_WCT,2,1982,09,12,1,Pecci_Sr_Victor,Reininger_Robert,Pecci_Sr_Victor,Zell_Am_See_WCT,1982,09,12,2-6_7-5_6-4
 Zell_Am_See_WCT,2,1982,09,12,1,Odizor_Nduka,Kohlberg_Andy,Odizor_Nduka,Zell_Am_See_WCT,1982,09,12,6-3_6-4
 Zell_Am_See_WCT,2,1982,09,12,1,Kodes_Jan,Fibak_Wojtek,Fibak_Wojtek,Zell_Am_See_WCT,1982,09,12,6-3_6-3
 Zell_Am_See_WCT,2,1982,09,12,1,RogerVasselin_Christophe,Gehring_Rolf,RogerVasselin_Christophe,Zell_Am_See_WCT,1982,09,12,6-0_6-4
 Zell_Am_See_WCT,2,1982,09,12,1,Kuharszky_Zoltan,Slozil_Pavel,Slozil_Pavel,Zell_Am_See_WCT,1982,09,12,6-1_6-2
-Zell_Am_See_WCT,2,1982,09,12,1,Giammalva_JrSammy,Panatta_Claudio,Panatta_Claudio,Zell_Am_See_WCT,1982,09,12,6-7_6-3_6-4
+Zell_Am_See_WCT,2,1982,09,12,1,Giammalva_Jr_Sammy,Panatta_Claudio,Panatta_Claudio,Zell_Am_See_WCT,1982,09,12,6-7_6-3_6-4
 Zell_Am_See_WCT,2,1982,09,12,1,Kirmayr_Carlos,Smid_Tomas,Smid_Tomas,Zell_Am_See_WCT,1982,09,12,6-3_1-6_6-0
 Zell_Am_See_WCT,2,1982,09,12,1,Taroczy_Balazs,Ocleppo_Gianni,Taroczy_Balazs,Zell_Am_See_WCT,1982,09,12,7-6_6-3
 Zell_Am_See_WCT,2,1982,09,12,1,Gunthardt_Heinz,Wimmer_Ingo,Gunthardt_Heinz,Zell_Am_See_WCT,1982,09,12,6-4_6-1
@@ -16,7 +16,7 @@ Zell_Am_See_WCT,2,1982,09,12,1,Arraya_Pablo,Feigl_Peter,Arraya_Pablo,Zell_Am_See
 Zell_Am_See_WCT,2,1982,09,12,1,Motta_Cassio,Gomez_Andres,Motta_Cassio,Zell_Am_See_WCT,1982,09,12,7-5_6-3
 Zell_Am_See_WCT,2,1982,09,12,2,Clerc_JoseLuis,Carter_David,Clerc_JoseLuis,Zell_Am_See_WCT,1982,09,12,6-2_6-0
 Zell_Am_See_WCT,2,1982,09,12,2,Manson_Bruce,Giammalva_Tony,Manson_Bruce,Zell_Am_See_WCT,1982,09,12,6-3_3-6_6-3
-Zell_Am_See_WCT,2,1982,09,12,2,Higueras_Jose,Pecci_SrVictor,Higueras_Jose,Zell_Am_See_WCT,1982,09,12,6-2_6-1
+Zell_Am_See_WCT,2,1982,09,12,2,Higueras_Jose,Pecci_Sr_Victor,Higueras_Jose,Zell_Am_See_WCT,1982,09,12,6-2_6-1
 Zell_Am_See_WCT,2,1982,09,12,2,Odizor_Nduka,Fibak_Wojtek,Fibak_Wojtek,Zell_Am_See_WCT,1982,09,12,6-3_6-2
 Zell_Am_See_WCT,2,1982,09,12,2,RogerVasselin_Christophe,Slozil_Pavel,Slozil_Pavel,Zell_Am_See_WCT,1982,09,12,7-6_6-1
 Zell_Am_See_WCT,2,1982,09,12,2,Panatta_Claudio,Smid_Tomas,Smid_Tomas,Zell_Am_See_WCT,1982,09,12,6-4_6-2

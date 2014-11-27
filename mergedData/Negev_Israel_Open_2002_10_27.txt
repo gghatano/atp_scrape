@@ -6,7 +6,7 @@ Negev_Israel_Open,2,2002,10,27,1,Grosjean_Sebastien,Sargsian_Sargis,Grosjean_Seb
 Negev_Israel_Open,2,2002,10,27,1,Zabaleta_Mariano,Koubek_Stefan,Zabaleta_Mariano,Negev_Israel_Open,2002,10,27,3-6_6-2_6-4
 Negev_Israel_Open,2,2002,10,27,1,Hrbaty_Dominik,Ulihrach_Bohdan,Hrbaty_Dominik,Negev_Israel_Open,2002,10,27,3-6_6-3_6-4
 Negev_Israel_Open,2,2002,10,27,1,Kohlmann_Michael,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Negev_Israel_Open,2002,10,27,7-6(4)_6-0
-Negev_Israel_Open,2,2002,10,27,1,El_AynaouiYounes,Youzhny_Mikhail,Youzhny_Mikhail,Negev_Israel_Open,2002,10,27,3-6_6-4_6-3
+Negev_Israel_Open,2,2002,10,27,1,El_Aynaoui_Younes,Youzhny_Mikhail,Youzhny_Mikhail,Negev_Israel_Open,2002,10,27,3-6_6-4_6-3
 Negev_Israel_Open,2,2002,10,27,1,Ljubicic_Ivan,Coria_Guillermo,Coria_Guillermo,Negev_Israel_Open,2002,10,27,6-2_6-3
 Negev_Israel_Open,2,2002,10,27,1,Ketola_Tuomas,Martin_Alberto,Ketola_Tuomas,Negev_Israel_Open,2002,10,27,6-2_6-3
 Negev_Israel_Open,2,2002,10,27,1,Labadze_Irakli,Pavel_Andrei,Pavel_Andrei,Negev_Israel_Open,2002,10,27,6-1_6-3

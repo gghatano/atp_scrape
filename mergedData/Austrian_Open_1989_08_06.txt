@@ -3,11 +3,11 @@ Austrian_Open,2,1989,08,06,1,Buchmayer_Thomas,Carbonell_Tomas,Buchmayer_Thomas,A
 Austrian_Open,2,1989,08,06,1,Clavet_Francisco,Suk_Cyril,Clavet_Francisco,Austrian_Open,1989,08,06,6-3_6-3
 Austrian_Open,2,1989,08,06,1,Mezzadri_Claudio,Bengoechea_Eduardo,Bengoechea_Eduardo,Austrian_Open,1989,08,06,6-3_6-2
 Austrian_Open,2,1989,08,06,1,Vasudevan_Srinivasan,Korda_Petr,Korda_Petr,Austrian_Open,1989,08,06,6-4_4-6_6-2
-Austrian_Open,2,1989,08,06,1,Baguena_JuanCarlos,Smid_Tomas,Smid_Tomas,Austrian_Open,1989,08,06,6-4_6-7_6-4
+Austrian_Open,2,1989,08,06,1,Baguena_Juan_Carlos,Smid_Tomas,Smid_Tomas,Austrian_Open,1989,08,06,6-4_6-7_6-4
 Austrian_Open,2,1989,08,06,1,Lozano_Jorge,Giussani_Gustavo,Giussani_Gustavo,Austrian_Open,1989,08,06,7-5_3-6_7-6
 Austrian_Open,2,1989,08,06,1,Ingaramo_Marcelo,Jaite_Martin,Jaite_Martin,Austrian_Open,1989,08,06,6-2_6-1
 Austrian_Open,2,1989,08,06,1,PerezRoldan_Guillermo,Colas_Jesus,PerezRoldan_Guillermo,Austrian_Open,1989,08,06,6-3_6-3
-Austrian_Open,2,1989,08,06,1,Mair_Harald,Viver_RaulAntonio,Mair_Harald,Austrian_Open,1989,08,06,6-3_6-3
+Austrian_Open,2,1989,08,06,1,Mair_Harald,Viver_Raul_Antonio,Mair_Harald,Austrian_Open,1989,08,06,6-3_6-3
 Austrian_Open,2,1989,08,06,1,Antonitsch_Alex,Colombo_Simone,Colombo_Simone,Austrian_Open,1989,08,06,2-6_6-3_6-2
 Austrian_Open,2,1989,08,06,1,Schaller_Gilbert,Prpic_Goran,Prpic_Goran,Austrian_Open,1989,08,06,6-0_6-4
 Austrian_Open,2,1989,08,06,1,Cherkasov_Andrei,Solves_Vicente,Cherkasov_Andrei,Austrian_Open,1989,08,06,6-2_6-4
@@ -18,7 +18,7 @@ Austrian_Open,2,1989,08,06,1,Bruguera_Sergi,Ostoja_Marko,Bruguera_Sergi,Austrian
 Austrian_Open,2,1989,08,06,1,Aramburu_Alejandro,Cierro_Massimo,Cierro_Massimo,Austrian_Open,1989,08,06,2-6_6-1_6-4
 Austrian_Open,2,1989,08,06,1,Cancellotti_Francesco,Furlan_Renzo,Cancellotti_Francesco,Austrian_Open,1989,08,06,6-4_7-6
 Austrian_Open,2,1989,08,06,1,Azar_Roberto,Lavalle_Leonardo,Azar_Roberto,Austrian_Open,1989,08,06,6-3_3-6_6-3
-Austrian_Open,2,1989,08,06,1,De_LaPenaHoracio,Aguilera_Juan,Aguilera_Juan,Austrian_Open,1989,08,06,6-4_6-4
+Austrian_Open,2,1989,08,06,1,De_La_Pena_Horacio,Aguilera_Juan,Aguilera_Juan,Austrian_Open,1989,08,06,6-4_6-4
 Austrian_Open,2,1989,08,06,1,Bulant_Jaroslav,Pistolesi_Claudio,Pistolesi_Claudio,Austrian_Open,1989,08,06,6-2_6-0
 Austrian_Open,2,1989,08,06,1,Flegl_Vojtech,Davin_Franco,Davin_Franco,Austrian_Open,1989,08,06,6-3_6-4
 Austrian_Open,2,1989,08,06,1,Duncan_Lawson,Sanchez_Emilio,Sanchez_Emilio,Austrian_Open,1989,08,06,6-1_6-1

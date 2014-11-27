@@ -5,9 +5,9 @@ If_Stockholm_Open,2,1979,07,08,1,Feigl_Peter,Eriksson_Ulf,Eriksson_Ulf,If_Stockh
 If_Stockholm_Open,2,1979,07,08,1,Noah_Yannick,Hardie_George,Hardie_George,If_Stockholm_Open,1979,07,08,5-7_6-4_7-5
 If_Stockholm_Open,2,1979,07,08,1,Moore_Raymond,Zugarelli_Antonio,Moore_Raymond,If_Stockholm_Open,1979,07,08,6-3_6-4
 If_Stockholm_Open,2,1979,07,08,1,Saviano_Nick,Johansson_Kjell,Saviano_Nick,If_Stockholm_Open,1979,07,08,6-3_6-4
-If_Stockholm_Open,2,1979,07,08,1,Bengtson_OveNils,Smith_Stan,Smith_Stan,If_Stockholm_Open,1979,07,08,6-1_6-2
+If_Stockholm_Open,2,1979,07,08,1,Bengtson_Ove_Nils,Smith_Stan,Smith_Stan,If_Stockholm_Open,1979,07,08,6-1_6-2
 If_Stockholm_Open,2,1979,07,08,1,Fleming_Peter,Gunnarsson_Jan,Fleming_Peter,If_Stockholm_Open,1979,07,08,6-3_6-4
-If_Stockholm_Open,2,1979,07,08,1,Malin_GeneStuart,Lloyd_John,Lloyd_John,If_Stockholm_Open,1979,07,08,6-2_5-7_6-3
+If_Stockholm_Open,2,1979,07,08,1,Malin_Gene_Stuart,Lloyd_John,Lloyd_John,If_Stockholm_Open,1979,07,08,6-2_5-7_6-3
 If_Stockholm_Open,2,1979,07,08,1,Manson_Bruce,Fromm_Eric,Manson_Bruce,If_Stockholm_Open,1979,07,08,3-6_6-3_6-3
 If_Stockholm_Open,2,1979,07,08,1,Kallquist_Jan,Smid_Tomas,Smid_Tomas,If_Stockholm_Open,1979,07,08,6-2_6-2
 If_Stockholm_Open,2,1979,07,08,1,Amritraj_Vijay,Svensson_Tenny,Amritraj_Vijay,If_Stockholm_Open,1979,07,08,6-1_3-6_6-3
@@ -23,7 +23,7 @@ If_Stockholm_Open,2,1979,07,08,1,Gorman_Tom,Palin_Leo,Gorman_Tom,If_Stockholm_Op
 If_Stockholm_Open,2,1979,07,08,1,McMillan_Frew,Stewart_Sherwood,Stewart_Sherwood,If_Stockholm_Open,1979,07,08,4-6_6-3_6-2
 If_Stockholm_Open,2,1979,07,08,1,Ocleppo_Gianni,Mayer_Gene,Mayer_Gene,If_Stockholm_Open,1979,07,08,6-3_6-4
 If_Stockholm_Open,2,1979,07,08,1,Gottfried_Brian,Moretton_Gilles,Gottfried_Brian,If_Stockholm_Open,1979,07,08,6-7_6-3_6-4
-If_Stockholm_Open,2,1979,07,08,1,Van_PattenVincent,Hogstedt_Thomas,Hogstedt_Thomas,If_Stockholm_Open,1979,07,08,7-6_7-6
+If_Stockholm_Open,2,1979,07,08,1,Van_Patten_Vincent,Hogstedt_Thomas,Hogstedt_Thomas,If_Stockholm_Open,1979,07,08,7-6_7-6
 If_Stockholm_Open,2,1979,07,08,1,Gullikson_Tom,Soler_Javier,Gullikson_Tom,If_Stockholm_Open,1979,07,08,6-3_6-2
 If_Stockholm_Open,2,1979,07,08,1,Maurer_Andreas,Casa_Christophe,Maurer_Andreas,If_Stockholm_Open,1979,07,08,6-2_6-2
 If_Stockholm_Open,2,1979,07,08,1,Riessen_Marty,Andersson_Birger,Riessen_Marty,If_Stockholm_Open,1979,07,08,6-2_4-6_6-0

@@ -1,10 +1,10 @@
 Portugal_Open,2,1997,04,13,1,Kafelnikov_Yevgeny,Schaller_Gilbert,Schaller_Gilbert,Portugal_Open,1997,04,13,6-2_6-0
-Portugal_Open,2,1997,04,13,1,Marques_Nuno,Lopez_MoronAlex,Marques_Nuno,Portugal_Open,1997,04,13,7-5_6-2
+Portugal_Open,2,1997,04,13,1,Marques_Nuno,Lopez_Moron_Alex,Marques_Nuno,Portugal_Open,1997,04,13,7-5_6-2
 Portugal_Open,2,1997,04,13,1,Fontang_Frederic,Goellner_MarcKevin,Fontang_Frederic,Portugal_Open,1997,04,13,7-5_7-5
 Portugal_Open,2,1997,04,13,1,Fragoso_Bruno,Sanchez_Javier,Sanchez_Javier,Portugal_Open,1997,04,13,6-2_6-2
 Portugal_Open,2,1997,04,13,1,Ferreira_Wayne,Cabello_Francisco,Cabello_Francisco,Portugal_Open,1997,04,13,6-3_3-6_6-4
 Portugal_Open,2,1997,04,13,1,Santoro_Fabrice,Kucera_Karol,Santoro_Fabrice,Portugal_Open,1997,04,13,2-6_7-6(1)_6-2
-Portugal_Open,2,1997,04,13,1,VilocaPuig_JuanAlbert,Filippini_Marcelo,Filippini_Marcelo,Portugal_Open,1997,04,13,3-6_7-6(6)_6-1
+Portugal_Open,2,1997,04,13,1,VilocaPuig_Juan_Albert,Filippini_Marcelo,Filippini_Marcelo,Portugal_Open,1997,04,13,3-6_7-6(6)_6-1
 Portugal_Open,2,1997,04,13,1,Gumy_Hernan,Corretja_Alex,Corretja_Alex,Portugal_Open,1997,04,13,6-2_6-3
 Portugal_Open,2,1997,04,13,1,Berasategui_Alberto,Costa_Carlos,Berasategui_Alberto,Portugal_Open,1997,04,13,3-6_6-2_6-2
 Portugal_Open,2,1997,04,13,1,Ruud_Christian,Alami_Karim,Ruud_Christian,Portugal_Open,1997,04,13,6-3_6-1

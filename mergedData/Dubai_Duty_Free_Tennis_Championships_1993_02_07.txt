@@ -1,4 +1,4 @@
-Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Volkov_Alexander,El_AynaouiYounes,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-2_6-3
+Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Volkov_Alexander,El_Aynaoui_Younes,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-2_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Pistolesi_Claudio,Jonsson_Lars,Jonsson_Lars,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-1_1-0_RET
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Wuyts_Bart,Braasch_Karsten,Braasch_Karsten,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Montana_Francisco,Santoro_Fabrice,Santoro_Fabrice,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-5_6-0
@@ -12,7 +12,7 @@ Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Olhovskiy_Andrei,Wahlgren_La
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Vacek_Daniel,Novacek_Karel,Novacek_Karel,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-0_7-5
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Sanchez_Javier,Jarryd_Anders,Sanchez_Javier,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-6(5)_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Dosedel_Slava,Schaller_Gilbert,Dosedel_Slava,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-3_7-5
-Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Gorriz_MarcosAurelio,Black_Byron,Gorriz_MarcosAurelio,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-5_3-6_7-5
+Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Gorriz_Marcos_Aurelio,Black_Byron,Gorriz_Marcos_Aurelio,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-5_3-6_7-5
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,1,Pereira_Nicolas,Muster_Thomas,Muster_Thomas,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Volkov_Alexander,Jonsson_Lars,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-5_6-1
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Braasch_Karsten,Santoro_Fabrice,Santoro_Fabrice,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-2_6-1
@@ -21,7 +21,7 @@ Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Bates_Jeremy,CunhaSilva_Joao
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Cherkasov_Andrei,Carbonell_Tomas,Cherkasov_Andrei,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-6(5)_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Wahlgren_LarsAnders,Novacek_Karel,Novacek_Karel,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-2_3-6_6-1
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Sanchez_Javier,Dosedel_Slava,Dosedel_Slava,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-3_6-2
-Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Gorriz_MarcosAurelio,Muster_Thomas,Muster_Thomas,Dubai_Duty_Free_Tennis_Championships,1993,02,07,4-6_6-1_6-3
+Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,2,Gorriz_Marcos_Aurelio,Muster_Thomas,Muster_Thomas,Dubai_Duty_Free_Tennis_Championships,1993,02,07,4-6_6-1_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,3,Volkov_Alexander,Santoro_Fabrice,Santoro_Fabrice,Dubai_Duty_Free_Tennis_Championships,1993,02,07,2-6_6-4_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,3,Steeb_CarlUwe,Bates_Jeremy,Bates_Jeremy,Dubai_Duty_Free_Tennis_Championships,1993,02,07,7-5_6-1
 Dubai_Duty_Free_Tennis_Championships,2,1993,02,07,3,Cherkasov_Andrei,Novacek_Karel,Novacek_Karel,Dubai_Duty_Free_Tennis_Championships,1993,02,07,6-2_5-7_7-5

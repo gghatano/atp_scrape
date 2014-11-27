@@ -1,7 +1,7 @@
 Buenos_Aires,2,1988,11,13,1,PerezRoldan_Guillermo,Allgardh_Christer,PerezRoldan_Guillermo,Buenos_Aires,1988,11,13,6-3_6-1
 Buenos_Aires,2,1988,11,13,1,Rebolledo_Pedro,Clavet_Jose,Clavet_Jose,Buenos_Aires,1988,11,13,4-6_6-2_6-3
 Buenos_Aires,2,1988,11,13,1,Arguello_Roberto,Yunis_Francisco,Arguello_Roberto,Buenos_Aires,1988,11,13,6-4_6-2
-Buenos_Aires,2,1988,11,13,1,Stringari_Martin,Viver_RaulAntonio,Stringari_Martin,Buenos_Aires,1988,11,13,7-6_6-7_6-4
+Buenos_Aires,2,1988,11,13,1,Stringari_Martin,Viver_Raul_Antonio,Stringari_Martin,Buenos_Aires,1988,11,13,7-6_6-7_6-4
 Buenos_Aires,2,1988,11,13,1,Mancini_Alberto,Daher_Jose,Mancini_Alberto,Buenos_Aires,1988,11,13,6-4_6-1
 Buenos_Aires,2,1988,11,13,1,Clavet_Francisco,Garetto_Gustavo,Clavet_Francisco,Buenos_Aires,1988,11,13,6-2_6-0
 Buenos_Aires,2,1988,11,13,1,Roig_Francisco,Miniussi_Christian,Roig_Francisco,Buenos_Aires,1988,11,13,6-4_6-1
@@ -9,7 +9,7 @@ Buenos_Aires,2,1988,11,13,1,Rivas_Guillermo,Bengoechea_Eduardo,Bengoechea_Eduard
 Buenos_Aires,2,1988,11,13,1,Davin_Franco,Aguilera_Juan,Aguilera_Juan,Buenos_Aires,1988,11,13,6-3_7-5
 Buenos_Aires,2,1988,11,13,1,Azar_Roberto,Garizzio_Agustin,Azar_Roberto,Buenos_Aires,1988,11,13,6-1_6-0
 Buenos_Aires,2,1988,11,13,1,Frana_Javier,Costa_Carlos,Costa_Carlos,Buenos_Aires,1988,11,13,6-4_5-7_6-3
-Buenos_Aires,2,1988,11,13,1,Rackl_Markus,De_LaPenaHoracio,De_LaPenaHoracio,Buenos_Aires,1988,11,13,6-4_7-5
+Buenos_Aires,2,1988,11,13,1,Rackl_Markus,De_La_Pena_Horacio,De_La_Pena_Horacio,Buenos_Aires,1988,11,13,6-4_7-5
 Buenos_Aires,2,1988,11,13,1,Sanchez_Javier,Ingaramo_Marcelo,Sanchez_Javier,Buenos_Aires,1988,11,13,6-2_6-3
 Buenos_Aires,2,1988,11,13,1,Gurfein_Jim,Giussani_Gustavo,Giussani_Gustavo,Buenos_Aires,1988,11,13,6-4_6-2
 Buenos_Aires,2,1988,11,13,1,Perez_Diego,Hennemann_Marcelo,Perez_Diego,Buenos_Aires,1988,11,13,5-7_7-6_6-2
@@ -19,7 +19,7 @@ Buenos_Aires,2,1988,11,13,2,Arguello_Roberto,Stringari_Martin,Arguello_Roberto,B
 Buenos_Aires,2,1988,11,13,2,Mancini_Alberto,Clavet_Francisco,Mancini_Alberto,Buenos_Aires,1988,11,13,7-5_6-2
 Buenos_Aires,2,1988,11,13,2,Roig_Francisco,Bengoechea_Eduardo,Bengoechea_Eduardo,Buenos_Aires,1988,11,13,6-1_6-4
 Buenos_Aires,2,1988,11,13,2,Aguilera_Juan,Azar_Roberto,Aguilera_Juan,Buenos_Aires,1988,11,13,6-2_6-2
-Buenos_Aires,2,1988,11,13,2,Costa_Carlos,De_LaPenaHoracio,Costa_Carlos,Buenos_Aires,1988,11,13,7-5_6-2
+Buenos_Aires,2,1988,11,13,2,Costa_Carlos,De_La_Pena_Horacio,Costa_Carlos,Buenos_Aires,1988,11,13,7-5_6-2
 Buenos_Aires,2,1988,11,13,2,Sanchez_Javier,Giussani_Gustavo,Sanchez_Javier,Buenos_Aires,1988,11,13,7-6_7-6
 Buenos_Aires,2,1988,11,13,2,Perez_Diego,Berger_Jay,Berger_Jay,Buenos_Aires,1988,11,13,5-7_7-6_6-2
 Buenos_Aires,2,1988,11,13,3,PerezRoldan_Guillermo,Arguello_Roberto,PerezRoldan_Guillermo,Buenos_Aires,1988,11,13,6-3_6-1

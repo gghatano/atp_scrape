@@ -8,7 +8,7 @@ Copenhagen,2,1991,03,10,1,Saceanu_Christian,Tauson_Michael,Saceanu_Christian,Cop
 Copenhagen,2,1991,03,10,1,Antonitsch_Alex,Agenor_Ronald,Agenor_Ronald,Copenhagen,1991,03,10,4-6_6-3_6-4
 Copenhagen,2,1991,03,10,1,Woodbridge_Todd,Henricsson_Per,Woodbridge_Todd,Copenhagen,1991,03,10,6-2_7-5
 Copenhagen,2,1991,03,10,1,Pescosolido_Stefano,Hogstedt_Thomas,Hogstedt_Thomas,Copenhagen,1991,03,10,6-4_7-5
-Copenhagen,2,1991,03,10,1,Olhovskiy_Andrei,Altur_JoseFrancisco,Altur_JoseFrancisco,Copenhagen,1991,03,10,7-6(2)_2-6_6-4
+Copenhagen,2,1991,03,10,1,Olhovskiy_Andrei,Altur_Jose_Francisco,Altur_Jose_Francisco,Copenhagen,1991,03,10,7-6(2)_2-6_6-4
 Copenhagen,2,1991,03,10,1,Enqvist_Thomas,Novacek_Karel,Novacek_Karel,Copenhagen,1991,03,10,6-2_3-6_6-4
 Copenhagen,2,1991,03,10,1,Jarryd_Anders,Wuyts_Bart,Jarryd_Anders,Copenhagen,1991,03,10,6-3_6-2
 Copenhagen,2,1991,03,10,1,Gunnarsson_Jan,Kuhnen_Patrik,Gunnarsson_Jan,Copenhagen,1991,03,10,6-3_6-2
@@ -19,7 +19,7 @@ Copenhagen,2,1991,03,10,2,Steeb_CarlUwe,Bergstrom_Christian,Bergstrom_Christian,
 Copenhagen,2,1991,03,10,2,Hlasek_Jakob,Jonsson_Lars,Hlasek_Jakob,Copenhagen,1991,03,10,6-3_6-4
 Copenhagen,2,1991,03,10,2,Saceanu_Christian,Agenor_Ronald,Saceanu_Christian,Copenhagen,1991,03,10,6-3_7-6(6)
 Copenhagen,2,1991,03,10,2,Woodbridge_Todd,Hogstedt_Thomas,Woodbridge_Todd,Copenhagen,1991,03,10,6-3_6-0
-Copenhagen,2,1991,03,10,2,Altur_JoseFrancisco,Novacek_Karel,Novacek_Karel,Copenhagen,1991,03,10,6-3_6-2
+Copenhagen,2,1991,03,10,2,Altur_Jose_Francisco,Novacek_Karel,Novacek_Karel,Copenhagen,1991,03,10,6-3_6-2
 Copenhagen,2,1991,03,10,2,Jarryd_Anders,Gunnarsson_Jan,Jarryd_Anders,Copenhagen,1991,03,10,6-3_6-2
 Copenhagen,2,1991,03,10,2,Woodforde_Mark,Chesnokov_Andrei,Woodforde_Mark,Copenhagen,1991,03,10,6-2_2-6_7-6(2)
 Copenhagen,2,1991,03,10,3,Svensson_Jonas,Bergstrom_Christian,Svensson_Jonas,Copenhagen,1991,03,10,6-4_7-5

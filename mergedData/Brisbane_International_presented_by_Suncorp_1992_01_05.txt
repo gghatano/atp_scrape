@@ -2,7 +2,7 @@ Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Ivanisevic_Goran,Kult
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Arias_Jimmy,Pescosolido_Stefano,Pescosolido_Stefano,Brisbane_International_presented_by_Suncorp,1992,01,05,6-2_7-6(2)
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Mansdorf_Amos,Doyle_Grant,Mansdorf_Amos,Brisbane_International_presented_by_Suncorp,1992,01,05,3-6_7-6(5)_6-4
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Rosset_Marc,Caratti_Cristiano,Rosset_Marc,Brisbane_International_presented_by_Suncorp,1992,01,05,3-6_6-3_6-3
-Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Sanchez_Javier,Van_RensburgChristo,Van_RensburgChristo,Brisbane_International_presented_by_Suncorp,1992,01,05,7-5_6-7(4)_7-6(5)
+Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Sanchez_Javier,Van_Rensburg_Christo,Van_Rensburg_Christo,Brisbane_International_presented_by_Suncorp,1992,01,05,7-5_6-7(4)_7-6(5)
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Pozzi_Gianluca,Gilbert_Rodolphe,Gilbert_Rodolphe,Brisbane_International_presented_by_Suncorp,1992,01,05,6-3_3-6_7-6(5)
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Larsson_Magnus,Braasch_Karsten,Braasch_Karsten,Brisbane_International_presented_by_Suncorp,1992,01,05,6-2_6-4
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Shelton_Bryan,Muster_Thomas,Shelton_Bryan,Brisbane_International_presented_by_Suncorp,1992,01,05,6-3_4-6_7-6(1)
@@ -16,7 +16,7 @@ Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Bergstrom_Christian,Y
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,1,Fitzgerald_John,Siemerink_Jan,Fitzgerald_John,Brisbane_International_presented_by_Suncorp,1992,01,05,6-2_7-6(3)
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Ivanisevic_Goran,Pescosolido_Stefano,Ivanisevic_Goran,Brisbane_International_presented_by_Suncorp,1992,01,05,6-4_6-3
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Mansdorf_Amos,Rosset_Marc,Rosset_Marc,Brisbane_International_presented_by_Suncorp,1992,01,05,3-6_6-3_6-2
-Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Van_RensburgChristo,Gilbert_Rodolphe,Gilbert_Rodolphe,Brisbane_International_presented_by_Suncorp,1992,01,05,6-4_6-3
+Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Van_Rensburg_Christo,Gilbert_Rodolphe,Gilbert_Rodolphe,Brisbane_International_presented_by_Suncorp,1992,01,05,6-4_6-3
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Braasch_Karsten,Shelton_Bryan,Shelton_Bryan,Brisbane_International_presented_by_Suncorp,1992,01,05,7-6(5)_6-3
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Steeb_CarlUwe,Stolle_Sandon,Steeb_CarlUwe,Brisbane_International_presented_by_Suncorp,1992,01,05,4-6_6-2_6-3
 Brisbane_International_presented_by_Suncorp,2,1992,01,05,2,Enqvist_Thomas,Skoff_Horst,Enqvist_Thomas,Brisbane_International_presented_by_Suncorp,1992,01,05,6-3_1-6_6-3

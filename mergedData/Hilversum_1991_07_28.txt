@@ -8,7 +8,7 @@ Hilversum,2,1991,07,28,1,Delaitre_Olivier,Arrese_Jordi,Arrese_Jordi,Hilversum,19
 Hilversum,2,1991,07,28,1,Eltingh_Jacco,Skoff_Horst,Skoff_Horst,Hilversum,1991,07,28,6-4_6-3
 Hilversum,2,1991,07,28,1,Prpic_Goran,Braasch_Karsten,Prpic_Goran,Hilversum,1991,07,28,6-3_7-6(3)
 Hilversum,2,1991,07,28,1,Krajicek_Richard,Rosset_Marc,Rosset_Marc,Hilversum,1991,07,28,6-4_6-4
-Hilversum,2,1991,07,28,1,De_LaPenaHoracio,Jonsson_Lars,Jonsson_Lars,Hilversum,1991,07,28,3-6_6-4_6-0
+Hilversum,2,1991,07,28,1,De_La_Pena_Horacio,Jonsson_Lars,Jonsson_Lars,Hilversum,1991,07,28,3-6_6-4_6-0
 Hilversum,2,1991,07,28,1,Clavet_Francisco,Gustafsson_Magnus,Gustafsson_Magnus,Hilversum,1991,07,28,7-6(4)_7-6(1)
 Hilversum,2,1991,07,28,1,PerezRoldan_Guillermo,Champion_Thierry,Champion_Thierry,Hilversum,1991,07,28,6-4_3-6_7-6(5)
 Hilversum,2,1991,07,28,1,Davin_Franco,Siemerink_Jan,Davin_Franco,Hilversum,1991,07,28,6-4_6-3

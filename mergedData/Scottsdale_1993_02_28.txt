@@ -1,6 +1,6 @@
 Scottsdale,2,1993,02,28,1,RasconLope_JuanLuis,Enqvist_Thomas,Enqvist_Thomas,Scottsdale,1993,02,28,7-5_6-3
 Scottsdale,2,1993,02,28,1,Rostagno_Derrick,Pescosolido_Stefano,Rostagno_Derrick,Scottsdale,1993,02,28,5-7_6-2_6-2
-Scottsdale,2,1993,02,28,1,Van_RensburgChristo,Yzaga_Jaime,Yzaga_Jaime,Scottsdale,1993,02,28,1-6_6-2_7-5
+Scottsdale,2,1993,02,28,1,Van_Rensburg_Christo,Yzaga_Jaime,Yzaga_Jaime,Scottsdale,1993,02,28,1-6_6-2_7-5
 Scottsdale,2,1993,02,28,1,Pate_David,Chesnokov_Andrei,Chesnokov_Andrei,Scottsdale,1993,02,28,6-3_3-6_6-4
 Scottsdale,2,1993,02,28,1,Clavet_Francisco,Ondruska_Marcos,Ondruska_Marcos,Scottsdale,1993,02,28,6-3_6-4
 Scottsdale,2,1993,02,28,1,Connors_Jimmy,Wheaton_David,Wheaton_David,Scottsdale,1993,02,28,6-3_6-3

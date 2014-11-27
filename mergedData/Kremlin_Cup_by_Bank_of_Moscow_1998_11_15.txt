@@ -1,4 +1,4 @@
-Kremlin_Cup_by_Bank_of_Moscow,2,1998,11,15,1,Corretja_Alex,van_LottumJohn,Corretja_Alex,Kremlin_Cup_by_Bank_of_Moscow,1998,11,15,6-3_7-6(2)
+Kremlin_Cup_by_Bank_of_Moscow,2,1998,11,15,1,Corretja_Alex,van_Lottum_John,Corretja_Alex,Kremlin_Cup_by_Bank_of_Moscow,1998,11,15,6-3_7-6(2)
 Kremlin_Cup_by_Bank_of_Moscow,2,1998,11,15,1,Lareau_Sebastien,Roux_Lionel,Lareau_Sebastien,Kremlin_Cup_by_Bank_of_Moscow,1998,11,15,6-3_5-7_6-2
 Kremlin_Cup_by_Bank_of_Moscow,2,1998,11,15,1,Palmer_Jared,Clement_Arnaud,Clement_Arnaud,Kremlin_Cup_by_Bank_of_Moscow,1998,11,15,6-3_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,1998,11,15,1,Sluiter_Raemon,Vacek_Daniel,Sluiter_Raemon,Kremlin_Cup_by_Bank_of_Moscow,1998,11,15,6-2_6-4

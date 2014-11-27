@@ -1,5 +1,5 @@
 Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Bjorkman_Jonas,Stafford_Grant,Bjorkman_Jonas,Brisbane_International_presented_by_Suncorp,1998,01,11,6-4_6-2
-Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Stoltenberg_Jason,Marin_JuanAntonio,Stoltenberg_Jason,Brisbane_International_presented_by_Suncorp,1998,01,11,6-4_6-1
+Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Stoltenberg_Jason,Marin_Juan_Antonio,Stoltenberg_Jason,Brisbane_International_presented_by_Suncorp,1998,01,11,6-4_6-1
 Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Escude_Nicolas,Radulescu_Alex,Escude_Nicolas,Brisbane_International_presented_by_Suncorp,1998,01,11,6-0_7-5
 Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Black_Byron,Johansson_Thomas,Johansson_Thomas,Brisbane_International_presented_by_Suncorp,1998,01,11,7-5_6-3
 Brisbane_International_presented_by_Suncorp,2,1998,01,11,1,Norman_Magnus,Ruud_Christian,Norman_Magnus,Brisbane_International_presented_by_Suncorp,1998,01,11,6-3_1-6_6-4

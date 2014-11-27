@@ -13,7 +13,7 @@ U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Capdeville_Paul,Robredo
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Mirnyi_Max,Soderling_Robin,Soderling_Robin,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-0_6-1
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Luczak_Peter,Carlsen_Kenneth,Carlsen_Kenneth,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(4)_6-3
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Murray_Andy,Schuettler_Rainer,Murray_Andy,U.S._National_Indoor_Tennis_Championships,2006,02,26,1-6_7-5_6-2
-U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Bjorkman_Jonas,De_VoestRik,De_VoestRik,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-4_6-3
+U.S._National_Indoor_Tennis_Championships,2,2006,02,26,1,Bjorkman_Jonas,De_Voest_Rik,De_Voest_Rik,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-4_6-3
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Roddick_Andy,Arthurs_Wayne,Roddick_Andy,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-7(4)_7-6(9)_7-6(2)
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Benneteau_Julien,Malisse_Xavier,Benneteau_Julien,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(4)_6-4
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Tursunov_Dmitry,Saulnier_Cyril,Tursunov_Dmitry,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-0_6-7(3)_6-3
@@ -21,7 +21,7 @@ U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Spadea_Vincent,Haas_Tom
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Vliegen_Kristof,Goldstein_Paul,Vliegen_Kristof,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-1_6-4
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Karlovic_Ivo,Capdeville_Paul,Capdeville_Paul,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(1)_3-6_7-5
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Soderling_Robin,Carlsen_Kenneth,Soderling_Robin,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(3)_6-4
-U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Murray_Andy,De_VoestRik,Murray_Andy,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(4)_3-6_7-5
+U.S._National_Indoor_Tennis_Championships,2,2006,02,26,2,Murray_Andy,De_Voest_Rik,Murray_Andy,U.S._National_Indoor_Tennis_Championships,2006,02,26,7-6(4)_3-6_7-5
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,3,Roddick_Andy,Benneteau_Julien,Benneteau_Julien,U.S._National_Indoor_Tennis_Championships,2006,02,26,3-6_6-4_7-6(4)
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,3,Tursunov_Dmitry,Haas_Tommy,Haas_Tommy,U.S._National_Indoor_Tennis_Championships,2006,02,26,6-7(7)_6-4_6-4
 U.S._National_Indoor_Tennis_Championships,2,2006,02,26,3,Vliegen_Kristof,Capdeville_Paul,Vliegen_Kristof,U.S._National_Indoor_Tennis_Championships,2006,02,26,3-6_7-6(5)_6-4

@@ -13,7 +13,7 @@ Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Marques_Nuno,Kratzmann_Mark,Kra
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Jelen_Eric,Kaplan_Mark,Jelen_Eric,Hall_of_Fame_Tennis_Championships,1990,07,15,6-1_6-3
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Pozzi_Gianluca,Leach_Rick,Leach_Rick,Hall_of_Fame_Tennis_Championships,1990,07,15,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Matuszewski_Richard,Hombrecher_Alexis,Matuszewski_Richard,Hall_of_Fame_Tennis_Championships,1990,07,15,1-6_7-6_6-0
-Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Lundgren_Peter,Van_RensburgChristo,Lundgren_Peter,Hall_of_Fame_Tennis_Championships,1990,07,15,6-1_6-4
+Hall_of_Fame_Tennis_Championships,2,1990,07,15,1,Lundgren_Peter,Van_Rensburg_Christo,Lundgren_Peter,Hall_of_Fame_Tennis_Championships,1990,07,15,6-1_6-4
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,2,Mayotte_Tim,Weiss_Robbie,Weiss_Robbie,Hall_of_Fame_Tennis_Championships,1990,07,15,3-6_6-3_7-6
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,2,Rive_Joey,Aldrich_Pieter,Aldrich_Pieter,Hall_of_Fame_Tennis_Championships,1990,07,15,2-6_6-1_6-4
 Hall_of_Fame_Tennis_Championships,2,1990,07,15,2,Muller_Gary,Baur_Patrick,Muller_Gary,Hall_of_Fame_Tennis_Championships,1990,07,15,6-3_6-3

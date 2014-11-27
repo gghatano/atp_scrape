@@ -5,7 +5,7 @@ Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Estep_Mike,Ramirez_Raul,Ramir
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Tanner_Roscoe,Forget_Guy,Forget_Guy,Western__Southern_Open_-_Cincinnati,1982,09,12,7-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Mayotte_Chris,Visser_Danie,Visser_Danie,Western__Southern_Open_-_Cincinnati,1982,09,12,3-6_6-4_7-6
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Odizor_Nduka,Davis_Marty,Odizor_Nduka,Western__Southern_Open_-_Cincinnati,1982,09,12,1-6_6-1_7-5
-Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,De_PalmerMike,Edmondson_Mark,De_PalmerMike,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-3
+Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,De_Palmer_Mike,Edmondson_Mark,De_Palmer_Mike,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-3
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Gerulaitis_Vitas,Fitzgerald_John,Gerulaitis_Vitas,Western__Southern_Open_-_Cincinnati,1982,09,12,6-4_6-4
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Smith_Stan,LopezMaeso_Jose,Smith_Stan,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-7_6-2
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,McCain_Scott,RogerVasselin_Christophe,RogerVasselin_Christophe,Western__Southern_Open_-_Cincinnati,1982,09,12,6-2_6-4
@@ -23,7 +23,7 @@ Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Bauer_Mike,Arias_Jimmy,Arias_
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Krishnan_Ramesh,Simonsson_Stefan,Krishnan_Ramesh,Western__Southern_Open_-_Cincinnati,1982,09,12,6-4_6-2
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Stockton_Dick,Lendl_Ivan,Lendl_Ivan,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Mayer_Sandy,Leconte_Henri,Leconte_Henri,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_7-6
-Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Lewis_NZLChris,Kirmayr_Carlos,Kirmayr_Carlos,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-1
+Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Lewis_NZL_Chris,Kirmayr_Carlos,Kirmayr_Carlos,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-1
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Dupre_Pat,Carter_David,Dupre_Pat,Western__Southern_Open_-_Cincinnati,1982,09,12,7-6_6-3
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Fagel_Rick,Gottfried_Brian,Gottfried_Brian,Western__Southern_Open_-_Cincinnati,1982,09,12,6-1_6-0
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Teacher_Brian,Iskersky_Erick,Teacher_Brian,Western__Southern_Open_-_Cincinnati,1982,09,12,6-2_6-3
@@ -33,7 +33,7 @@ Western__Southern_Open_-_Cincinnati,2,1982,09,12,1,Doyle_Matt,Connors_Jimmy,Conn
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,McEnroe_John,Simpson_Russell,McEnroe_John,Western__Southern_Open_-_Cincinnati,1982,09,12,6-1_6-3
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Fritz_Bernard,Ramirez_Raul,Ramirez_Raul,Western__Southern_Open_-_Cincinnati,1982,09,12,4-3_RET
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Forget_Guy,Visser_Danie,Forget_Guy,Western__Southern_Open_-_Cincinnati,1982,09,12,4-6_6-2_6-3
-Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Odizor_Nduka,De_PalmerMike,De_PalmerMike,Western__Southern_Open_-_Cincinnati,1982,09,12,4-6_6-3_7-5
+Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Odizor_Nduka,De_Palmer_Mike,De_Palmer_Mike,Western__Southern_Open_-_Cincinnati,1982,09,12,4-6_6-3_7-5
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Gerulaitis_Vitas,Smith_Stan,Gerulaitis_Vitas,Western__Southern_Open_-_Cincinnati,1982,09,12,7-5_6-1
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,RogerVasselin_Christophe,Pfister_Henry,Pfister_Henry,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-2
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Denton_Steve,Gonzalez_Francisco,Denton_Steve,Western__Southern_Open_-_Cincinnati,1982,09,12,3-6_6-3_7-6
@@ -47,7 +47,7 @@ Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Dupre_Pat,Gottfried_Brian,Got
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Teacher_Brian,Birner_Stanislav,Teacher_Brian,Western__Southern_Open_-_Cincinnati,1982,09,12,6-1_6-1
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,2,Dent_Phil,Connors_Jimmy,Connors_Jimmy,Western__Southern_Open_-_Cincinnati,1982,09,12,6-1_6-4
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,McEnroe_John,Ramirez_Raul,McEnroe_John,Western__Southern_Open_-_Cincinnati,1982,09,12,4-6_6-3_6-3
-Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,Forget_Guy,De_PalmerMike,Forget_Guy,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-1
+Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,Forget_Guy,De_Palmer_Mike,Forget_Guy,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-1
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,Gerulaitis_Vitas,Pfister_Henry,Gerulaitis_Vitas,Western__Southern_Open_-_Cincinnati,1982,09,12,7-5_4-6_7-5
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,Denton_Steve,Mitchell_Matt,Denton_Steve,Western__Southern_Open_-_Cincinnati,1982,09,12,7-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1982,09,12,3,Mayer_Gene,Gullikson_Tim,Mayer_Gene,Western__Southern_Open_-_Cincinnati,1982,09,12,6-3_6-1

@@ -11,7 +11,7 @@ Scottsdale,2,1996,03,10,1,Nestor_Daniel,Jensen_Luke,Nestor_Daniel,Scottsdale,199
 Scottsdale,2,1996,03,10,1,Burillo_Jordi,Corretja_Alex,Burillo_Jordi,Scottsdale,1996,03,10,3-6_6-3_6-4
 Scottsdale,2,1996,03,10,1,Costa_Carlos,Costa_Albert,Costa_Albert,Scottsdale,1996,03,10,7-5_6-4
 Scottsdale,2,1996,03,10,1,Larsson_Magnus,Ondruska_Marcos,Larsson_Magnus,Scottsdale,1996,03,10,7-6(4)_6-1
-Scottsdale,2,1996,03,10,1,Stolle_Sandon,El_AynaouiYounes,Stolle_Sandon,Scottsdale,1996,03,10,7-6(5)_6-3
+Scottsdale,2,1996,03,10,1,Stolle_Sandon,El_Aynaoui_Younes,Stolle_Sandon,Scottsdale,1996,03,10,7-6(5)_6-3
 Scottsdale,2,1996,03,10,1,Edberg_Stefan,Pescosolido_Stefano,Edberg_Stefan,Scottsdale,1996,03,10,7-5_6-3
 Scottsdale,2,1996,03,10,1,Draper_Scott,Martin_Todd,Martin_Todd,Scottsdale,1996,03,10,6-4_6-3
 Scottsdale,2,1996,03,10,2,Ferreira_Wayne,Steven_Brett,Ferreira_Wayne,Scottsdale,1996,03,10,6-4_6-4

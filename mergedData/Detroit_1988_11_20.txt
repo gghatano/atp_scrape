@@ -5,10 +5,10 @@ Detroit,2,1988,11,20,1,Shiras_Leif,Matuszewski_Richard,Shiras_Leif,Detroit,1988,
 Detroit,2,1988,11,20,1,Krickstein_Aaron,Goldberg_Dan,Krickstein_Aaron,Detroit,1988,11,20,6-1_6-7_6-3
 Detroit,2,1988,11,20,1,Amritraj_Vijay,Leach_Rick,Leach_Rick,Detroit,1988,11,20,6-1_7-6
 Detroit,2,1988,11,20,1,Svantesson_Tobias,Layendecker_Glenn,Svantesson_Tobias,Detroit,1988,11,20,6-4_6-3
-Detroit,2,1988,11,20,1,Giammalva_JrSammy,Annacone_Paul,Annacone_Paul,Detroit,1988,11,20,6-3_7-6
+Detroit,2,1988,11,20,1,Giammalva_Jr_Sammy,Annacone_Paul,Annacone_Paul,Detroit,1988,11,20,6-3_7-6
 Detroit,2,1988,11,20,1,Rostagno_Derrick,Nelson_Todd,Rostagno_Derrick,Detroit,1988,11,20,6-4_6-4
 Detroit,2,1988,11,20,1,Grabb_Jim,Evernden_Kelly,Evernden_Kelly,Detroit,1988,11,20,6-1_7-6
-Detroit,2,1988,11,20,1,Ross_John,Vant_HofRobert,Vant_HofRobert,Detroit,1988,11,20,6-3_3-6_6-4
+Detroit,2,1988,11,20,1,Ross_John,Vant_Hof_Robert,Vant_Hof_Robert,Detroit,1988,11,20,6-3_3-6_6-4
 Detroit,2,1988,11,20,1,Reneberg_Richey,Goldie_Dan,Goldie_Dan,Detroit,1988,11,20,7-5_3-6_6-3
 Detroit,2,1988,11,20,1,Seguso_Robert,Courier_Jim,Courier_Jim,Detroit,1988,11,20,6-1_6-0
 Detroit,2,1988,11,20,1,Connell_Grant,Flur_Marc,Flur_Marc,Detroit,1988,11,20,6-4_6-1
@@ -19,7 +19,7 @@ Detroit,2,1988,11,20,2,Rive_Joey,Shiras_Leif,Shiras_Leif,Detroit,1988,11,20,7-5_
 Detroit,2,1988,11,20,2,Krickstein_Aaron,Leach_Rick,Krickstein_Aaron,Detroit,1988,11,20,6-4_7-6
 Detroit,2,1988,11,20,2,Svantesson_Tobias,Annacone_Paul,Annacone_Paul,Detroit,1988,11,20,6-3_3-6_6-3
 Detroit,2,1988,11,20,2,Rostagno_Derrick,Evernden_Kelly,Evernden_Kelly,Detroit,1988,11,20,4-6_6-4_7-6
-Detroit,2,1988,11,20,2,Vant_HofRobert,Goldie_Dan,Goldie_Dan,Detroit,1988,11,20,6-3_6-7_6-2
+Detroit,2,1988,11,20,2,Vant_Hof_Robert,Goldie_Dan,Goldie_Dan,Detroit,1988,11,20,6-3_6-7_6-2
 Detroit,2,1988,11,20,2,Courier_Jim,Flur_Marc,Courier_Jim,Detroit,1988,11,20,7-6_6-2
 Detroit,2,1988,11,20,2,Acuna_Ricardo,McEnroe_John,McEnroe_John,Detroit,1988,11,20,6-1_6-1
 Detroit,2,1988,11,20,3,Sampras_Pete,Shiras_Leif,Shiras_Leif,Detroit,1988,11,20,6-4_1-6_6-3

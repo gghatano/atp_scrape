@@ -10,9 +10,9 @@ Erste_Bank_Open,2,2000,10,15,1,Henman_Tim,Rosset_Marc,Henman_Tim,Erste_Bank_Open
 Erste_Bank_Open,2,2000,10,15,1,Clavet_Francisco,Santoro_Fabrice,Santoro_Fabrice,Erste_Bank_Open,2000,10,15,6-4_2-6_6-4
 Erste_Bank_Open,2,2000,10,15,1,Vicente_Fernando,Grosjean_Sebastien,Vicente_Fernando,Erste_Bank_Open,2000,10,15,1-6_6-4_6-2
 Erste_Bank_Open,2,2000,10,15,1,Rusedski_Greg,Kafelnikov_Yevgeny,Rusedski_Greg,Erste_Bank_Open,2000,10,15,6-4_6-7(3)_6-3
-Erste_Bank_Open,2,2000,10,15,1,Ferrero_JuanCarlos,Krajicek_Richard,Krajicek_Richard,Erste_Bank_Open,2000,10,15,6-4_6-4
+Erste_Bank_Open,2,2000,10,15,1,Ferrero_Juan_Carlos,Krajicek_Richard,Krajicek_Richard,Erste_Bank_Open,2000,10,15,6-4_6-4
 Erste_Bank_Open,2,2000,10,15,1,Novak_Jiri,Vinciguerra_Andreas,Vinciguerra_Andreas,Erste_Bank_Open,2000,10,15,6-1_6-4
-Erste_Bank_Open,2,2000,10,15,1,Mirnyi_Max,Di_PasqualeArnaud,Mirnyi_Max,Erste_Bank_Open,2000,10,15,7-5_6-3
+Erste_Bank_Open,2,2000,10,15,1,Mirnyi_Max,Di_Pasquale_Arnaud,Mirnyi_Max,Erste_Bank_Open,2000,10,15,7-5_6-3
 Erste_Bank_Open,2,2000,10,15,1,Federer_Roger,Norman_Magnus,Federer_Roger,Erste_Bank_Open,2000,10,15,4-6_7-6(4)_6-4
 Erste_Bank_Open,2,2000,10,15,2,Escude_Nicolas,Koubek_Stefan,Koubek_Stefan,Erste_Bank_Open,2000,10,15,4-6_6-3_6-2
 Erste_Bank_Open,2,2000,10,15,2,Pavel_Andrei,Pioline_Cedric,Pioline_Cedric,Erste_Bank_Open,2000,10,15,7-6(5)_7-6(3)

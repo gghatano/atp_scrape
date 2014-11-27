@@ -6,7 +6,7 @@ Aircel_Chennai_Open,2,2010,01,10,1,Wawrinka_Stan,Bopanna_Rohan,Wawrinka_Stan,Air
 Aircel_Chennai_Open,2,2010,01,10,1,Amritraj_Prakash,Russell_Michael,Russell_Michael,Aircel_Chennai_Open,2010,01,10,6-3_6-1
 Aircel_Chennai_Open,2,2010,01,10,1,Sorensen_Louk,Robert_Stephane,Robert_Stephane,Aircel_Chennai_Open,2010,01,10,6-2_6-1
 Aircel_Chennai_Open,2,2010,01,10,1,Ventura_Santiago,Berrer_Michael,Berrer_Michael,Aircel_Chennai_Open,2010,01,10,6-3_6-2
-Aircel_Chennai_Open,2,2010,01,10,1,Ram_Rajeev,de_BakkerThiemo,de_BakkerThiemo,Aircel_Chennai_Open,2010,01,10,6-1_6-1
+Aircel_Chennai_Open,2,2010,01,10,1,Ram_Rajeev,de_Bakker_Thiemo,de_Bakker_Thiemo,Aircel_Chennai_Open,2010,01,10,6-1_6-1
 Aircel_Chennai_Open,2,2010,01,10,1,Haase_Robin,Yang_TsungHua,Haase_Robin,Aircel_Chennai_Open,2010,01,10,6-4_6-3
 Aircel_Chennai_Open,2,2010,01,10,1,Devvarman_Somdev,Schuettler_Rainer,Devvarman_Somdev,Aircel_Chennai_Open,2010,01,10,7-5_6-2
 Aircel_Chennai_Open,2,2010,01,10,1,Moya_Carlos,Tipsarevic_Janko,Tipsarevic_Janko,Aircel_Chennai_Open,2010,01,10,6-3_7-6(2)
@@ -18,13 +18,13 @@ Aircel_Chennai_Open,2,2010,01,10,2,Ginepri_Robby,Lacko_Lukas,Lacko_Lukas,Aircel_
 Aircel_Chennai_Open,2,2010,01,10,2,Kim_Kevin,Sela_Dudi,Sela_Dudi,Aircel_Chennai_Open,2010,01,10,7-6(3)_6-2
 Aircel_Chennai_Open,2,2010,01,10,2,Wawrinka_Stan,Russell_Michael,Wawrinka_Stan,Aircel_Chennai_Open,2010,01,10,6-3_6-4
 Aircel_Chennai_Open,2,2010,01,10,2,Robert_Stephane,Berrer_Michael,Berrer_Michael,Aircel_Chennai_Open,2010,01,10,7-6(7)_6-3
-Aircel_Chennai_Open,2,2010,01,10,2,de_BakkerThiemo,Haase_Robin,de_BakkerThiemo,Aircel_Chennai_Open,2010,01,10,6-3_6-4
+Aircel_Chennai_Open,2,2010,01,10,2,de_Bakker_Thiemo,Haase_Robin,de_Bakker_Thiemo,Aircel_Chennai_Open,2010,01,10,6-3_6-4
 Aircel_Chennai_Open,2,2010,01,10,2,Devvarman_Somdev,Tipsarevic_Janko,Tipsarevic_Janko,Aircel_Chennai_Open,2010,01,10,6-2_6-1
 Aircel_Chennai_Open,2,2010,01,10,2,Hajek_Jan,Giraldo_Santiago,Giraldo_Santiago,Aircel_Chennai_Open,2010,01,10,6-4_6-2
 Aircel_Chennai_Open,2,2010,01,10,2,Granollers_Marcel,Cilic_Marin,Cilic_Marin,Aircel_Chennai_Open,2010,01,10,6-7(3)_6-3_6-4
 Aircel_Chennai_Open,2,2010,01,10,3,Lacko_Lukas,Sela_Dudi,Sela_Dudi,Aircel_Chennai_Open,2010,01,10,7-6(3)_7-5
 Aircel_Chennai_Open,2,2010,01,10,3,Wawrinka_Stan,Berrer_Michael,Wawrinka_Stan,Aircel_Chennai_Open,2010,01,10,7-6(5)_6-4
-Aircel_Chennai_Open,2,2010,01,10,3,de_BakkerThiemo,Tipsarevic_Janko,Tipsarevic_Janko,Aircel_Chennai_Open,2010,01,10,7-5_7-5
+Aircel_Chennai_Open,2,2010,01,10,3,de_Bakker_Thiemo,Tipsarevic_Janko,Tipsarevic_Janko,Aircel_Chennai_Open,2010,01,10,7-5_7-5
 Aircel_Chennai_Open,2,2010,01,10,3,Giraldo_Santiago,Cilic_Marin,Cilic_Marin,Aircel_Chennai_Open,2010,01,10,7-6(3)_6-1
 Aircel_Chennai_Open,2,2010,01,10,4,Sela_Dudi,Wawrinka_Stan,Wawrinka_Stan,Aircel_Chennai_Open,2010,01,10,6-4_2-6_7-5
 Aircel_Chennai_Open,2,2010,01,10,4,Tipsarevic_Janko,Cilic_Marin,Cilic_Marin,Aircel_Chennai_Open,2010,01,10,6-1_6-3

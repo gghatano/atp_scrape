@@ -1,4 +1,4 @@
-Maui,2,1980,12,21,1,Fleming_Peter,Van_PattenVincent,Van_PattenVincent,Maui,1980,12,21,6-2_3-6_6-4
+Maui,2,1980,12,21,1,Fleming_Peter,Van_Patten_Vincent,Van_Patten_Vincent,Maui,1980,12,21,6-2_3-6_6-4
 Maui,2,1980,12,21,1,Wilkison_Tim,Dibley_Colin,Wilkison_Tim,Maui,1980,12,21,6-2_6-2
 Maui,2,1980,12,21,1,Purcell_Mel,Rennert_Peter,Purcell_Mel,Maui,1980,12,21,3-6_6-2_6-2
 Maui,2,1980,12,21,1,Taygan_Ferdi,Kriek_Johan,Kriek_Johan,Maui,1980,12,21,4-6_6-3_6-4
@@ -14,7 +14,7 @@ Maui,2,1980,12,21,1,Scanlon_Bill,Gullikson_Tim,Scanlon_Bill,Maui,1980,12,21,3-6_
 Maui,2,1980,12,21,1,Lutz_Robert,Graham_Tony,Lutz_Robert,Maui,1980,12,21,6-0_6-2
 Maui,2,1980,12,21,1,Moor_Terry,Hardie_George,Moor_Terry,Maui,1980,12,21,6-2_6-2
 Maui,2,1980,12,21,1,Manson_Bruce,Fibak_Wojtek,Fibak_Wojtek,Maui,1980,12,21,6-4_6-1
-Maui,2,1980,12,21,2,Van_PattenVincent,Wilkison_Tim,Wilkison_Tim,Maui,1980,12,21,6-3_7-5
+Maui,2,1980,12,21,2,Van_Patten_Vincent,Wilkison_Tim,Wilkison_Tim,Maui,1980,12,21,6-3_7-5
 Maui,2,1980,12,21,2,Purcell_Mel,Kriek_Johan,Purcell_Mel,Maui,1980,12,21,7-5_6-2
 Maui,2,1980,12,21,2,Borowiak_Jeff,Mitton_Bernard,Mitton_Bernard,Maui,1980,12,21,7-6_7-5
 Maui,2,1980,12,21,2,Waltke_Trey,Teacher_Brian,Waltke_Trey,Maui,1980,12,21,6-4_3-6_6-4

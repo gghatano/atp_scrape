@@ -11,7 +11,7 @@ Bangkok,2,2005,10,02,1,Bastl_George,Murray_Andy,Murray_Andy,Bangkok,2005,10,02,6
 Bangkok,2,2005,10,02,1,Norman_Dick,Thomann_Nicolas,Thomann_Nicolas,Bangkok,2005,10,02,6-4_7-6(3)
 Bangkok,2,2005,10,02,1,Udomchoke_Danai,Ginepri_Robby,Ginepri_Robby,Bangkok,2005,10,02,4-6_6-3_6-1
 Bangkok,2,2005,10,02,1,Srichaphan_Paradorn,Chen_Ti,Srichaphan_Paradorn,Bangkok,2005,10,02,6-3_6-4
-Bangkok,2,2005,10,02,1,Fruttero_JohnPaul,GarciaLopez_Guillermo,GarciaLopez_Guillermo,Bangkok,2005,10,02,3-6_6-3_7-6(4)
+Bangkok,2,2005,10,02,1,Fruttero_John_Paul,GarciaLopez_Guillermo,GarciaLopez_Guillermo,Bangkok,2005,10,02,3-6_6-3_7-6(4)
 Bangkok,2,2005,10,02,1,Gimelstob_Justin,Lapentti_Nicolas,Gimelstob_Justin,Bangkok,2005,10,02,6-4_6-3
 Bangkok,2,2005,10,02,1,Dlouhy_Lukas,Hewitt_Lleyton,Hewitt_Lleyton,Bangkok,2005,10,02,6-3_3-6_7-5
 Bangkok,2,2005,10,02,2,Federer_Roger,Gremelmayr_Denis,Federer_Roger,Bangkok,2005,10,02,6-3_6-2

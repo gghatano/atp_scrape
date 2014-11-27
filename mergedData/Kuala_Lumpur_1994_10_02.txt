@@ -12,7 +12,7 @@ Kuala_Lumpur,2,1994,10,02,1,Chang_Albert,Ho_Tommy,Chang_Albert,Kuala_Lumpur,1994
 Kuala_Lumpur,2,1994,10,02,1,Woodbridge_Todd,Tarango_Jeff,Woodbridge_Todd,Kuala_Lumpur,1994,10,02,6-1_7-5
 Kuala_Lumpur,2,1994,10,02,1,Pereira_Nicolas,Weiss_Robbie,Weiss_Robbie,Kuala_Lumpur,1994,10,02,6-3_7-6(4)
 Kuala_Lumpur,2,1994,10,02,1,Nydahl_Tomas,Malik_Adam,Malik_Adam,Kuala_Lumpur,1994,10,02,7-6(14)_7-6(5)
-Kuala_Lumpur,2,1994,10,02,1,Van_RensburgChristo,Poliakov_Dimitri,Van_RensburgChristo,Kuala_Lumpur,1994,10,02,5-7_6-4_6-2
+Kuala_Lumpur,2,1994,10,02,1,Van_Rensburg_Christo,Poliakov_Dimitri,Van_Rensburg_Christo,Kuala_Lumpur,1994,10,02,5-7_6-4_6-2
 Kuala_Lumpur,2,1994,10,02,1,Youl_Simon,Eltingh_Jacco,Eltingh_Jacco,Kuala_Lumpur,1994,10,02,4-6_7-6(3)_6-3
 Kuala_Lumpur,2,1994,10,02,2,Matsuoka_Shuzo,Kulti_Nicklas,Matsuoka_Shuzo,Kuala_Lumpur,1994,10,02,7-6(8)_7-6(4)
 Kuala_Lumpur,2,1994,10,02,2,Ruah_Maurice,Mronz_Alexander,Mronz_Alexander,Kuala_Lumpur,1994,10,02,4-6_6-2_6-3
@@ -21,7 +21,7 @@ Kuala_Lumpur,2,1994,10,02,2,Tebbutt_Michael,Olhovskiy_Andrei,Olhovskiy_Andrei,Ku
 Kuala_Lumpur,2,1994,10,02,2,Jonsson_Lars,Paes_Leander,Paes_Leander,Kuala_Lumpur,1994,10,02,6-4_6-2
 Kuala_Lumpur,2,1994,10,02,2,Chang_Albert,Woodbridge_Todd,Woodbridge_Todd,Kuala_Lumpur,1994,10,02,4-6_6-3_6-4
 Kuala_Lumpur,2,1994,10,02,2,Weiss_Robbie,Malik_Adam,Malik_Adam,Kuala_Lumpur,1994,10,02,4-6_7-6(7)_7-6(2)
-Kuala_Lumpur,2,1994,10,02,2,Van_RensburgChristo,Eltingh_Jacco,Eltingh_Jacco,Kuala_Lumpur,1994,10,02,6-3_7-6(2)
+Kuala_Lumpur,2,1994,10,02,2,Van_Rensburg_Christo,Eltingh_Jacco,Eltingh_Jacco,Kuala_Lumpur,1994,10,02,6-3_7-6(2)
 Kuala_Lumpur,2,1994,10,02,3,Matsuoka_Shuzo,Mronz_Alexander,Mronz_Alexander,Kuala_Lumpur,1994,10,02,6-4_5-7_6-3
 Kuala_Lumpur,2,1994,10,02,3,Pozzi_Gianluca,Olhovskiy_Andrei,Olhovskiy_Andrei,Kuala_Lumpur,1994,10,02,6-1_6-3
 Kuala_Lumpur,2,1994,10,02,3,Paes_Leander,Woodbridge_Todd,Woodbridge_Todd,Kuala_Lumpur,1994,10,02,4-6_6-2_6-1

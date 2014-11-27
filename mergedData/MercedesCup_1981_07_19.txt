@@ -8,7 +8,7 @@ MercedesCup,2,1981,07,19,1,Nastase_Ilie,Ismail_Haroon,Ismail_Haroon,MercedesCup,
 MercedesCup,2,1981,07,19,1,Pattison_Andrew,Borowiak_Jeff,Pattison_Andrew,MercedesCup,1981,07,19,6-3_6-3
 MercedesCup,2,1981,07,19,1,Smid_Tomas,Kodes_Jan,Smid_Tomas,MercedesCup,1981,07,19,6-2_6-3
 MercedesCup,2,1981,07,19,1,Letcher_Cliff,Wunschig_Max,Wunschig_Max,MercedesCup,1981,07,19,6-3_6-1
-MercedesCup,2,1981,07,19,1,El_DawoudiAly,Prucha_Jiri,Prucha_Jiri,MercedesCup,1981,07,19,6-2_6-3
+MercedesCup,2,1981,07,19,1,El_Dawoudi_Aly,Prucha_Jiri,Prucha_Jiri,MercedesCup,1981,07,19,6-2_6-3
 MercedesCup,2,1981,07,19,1,Elter_Peter,McNamara_Peter,McNamara_Peter,MercedesCup,1981,07,19,7-6_6-2
 MercedesCup,2,1981,07,19,1,Edmondson_Mark,Iskersky_Erick,Edmondson_Mark,MercedesCup,1981,07,19,4-6_6-2_6-4
 MercedesCup,2,1981,07,19,1,Maher_Warren,Cox_Mark,Maher_Warren,MercedesCup,1981,07,19,6-3_7-5

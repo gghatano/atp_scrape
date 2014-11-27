@@ -3,7 +3,7 @@ Brisbane,2,1987,10,11,1,Anderson_Johan,Canter_Jonathan,Anderson_Johan,Brisbane,1
 Brisbane,2,1987,10,11,1,Davis_Marty,Anger_Matt,Anger_Matt,Brisbane,1987,10,11,7-6_7-5
 Brisbane,2,1987,10,11,1,Frawley_John,Muller_Gary,Frawley_John,Brisbane,1987,10,11,6-4_6-4
 Brisbane,2,1987,10,11,1,Krishnan_Ramesh,Saceanu_Christian,Krishnan_Ramesh,Brisbane,1987,10,11,6-4_6-4
-Brisbane,2,1987,10,11,1,Giammalva_JrSammy,Mmoh_Tony,Mmoh_Tony,Brisbane,1987,10,11,6-4_6-3
+Brisbane,2,1987,10,11,1,Giammalva_Jr_Sammy,Mmoh_Tony,Mmoh_Tony,Brisbane,1987,10,11,6-4_6-3
 Brisbane,2,1987,10,11,1,Shaw_Steve,Lane_Anthony,Shaw_Steve,Brisbane,1987,10,11,7-6_7-6
 Brisbane,2,1987,10,11,1,Eagle_Charlton,Evernden_Kelly,Evernden_Kelly,Brisbane,1987,10,11,5-7_7-5_6-1
 Brisbane,2,1987,10,11,1,Doohan_Peter,Hooper_Chip,Doohan_Peter,Brisbane,1987,10,11,6-4_4-6_7-6

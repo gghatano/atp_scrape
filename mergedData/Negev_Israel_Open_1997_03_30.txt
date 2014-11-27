@@ -1,5 +1,5 @@
 Negev_Israel_Open,2,1997,03,30,1,Stich_Michael,Fromberg_Richard,Stich_Michael,Negev_Israel_Open,1997,03,30,4-6_7-5_7-6(7)
-Negev_Israel_Open,2,1997,03,30,1,Benfele_AlvarezEmilio,Camporese_Omar,Camporese_Omar,Negev_Israel_Open,1997,03,30,7-6(3)_7-6(1)
+Negev_Israel_Open,2,1997,03,30,1,Benfele_Alvarez_Emilio,Camporese_Omar,Camporese_Omar,Negev_Israel_Open,1997,03,30,7-6(3)_7-6(1)
 Negev_Israel_Open,2,1997,03,30,1,Belov_Alexei,Marques_Nuno,Marques_Nuno,Negev_Israel_Open,1997,03,30,6-4_6-2
 Negev_Israel_Open,2,1997,03,30,1,Roig_Francisco,Carlsen_Kenneth,Carlsen_Kenneth,Negev_Israel_Open,1997,03,30,6-4_6-4
 Negev_Israel_Open,2,1997,03,30,1,Vacek_Daniel,Fredriksson_Patrik,Vacek_Daniel,Negev_Israel_Open,1997,03,30,6-4_3-6_6-2
@@ -13,7 +13,7 @@ Negev_Israel_Open,2,1997,03,30,1,Rehmann_Lars,Prinosil_David,Prinosil_David,Nege
 Negev_Israel_Open,2,1997,03,30,1,Furlan_Renzo,Burgsmuller_Lars,Furlan_Renzo,Negev_Israel_Open,1997,03,30,7-6(2)_7-6(3)
 Negev_Israel_Open,2,1997,03,30,1,Pozzi_Gianluca,Stanoytchev_Orlin,Stanoytchev_Orlin,Negev_Israel_Open,1997,03,30,6-3_6-4
 Negev_Israel_Open,2,1997,03,30,1,Olhovskiy_Andrei,Clement_Arnaud,Clement_Arnaud,Negev_Israel_Open,1997,03,30,7-5_4-1
-Negev_Israel_Open,2,1997,03,30,1,El_SawyTamer,Rusedski_Greg,Rusedski_Greg,Negev_Israel_Open,1997,03,30,4-6_6-1_6-4
+Negev_Israel_Open,2,1997,03,30,1,El_Sawy_Tamer,Rusedski_Greg,Rusedski_Greg,Negev_Israel_Open,1997,03,30,4-6_6-1_6-4
 Negev_Israel_Open,2,1997,03,30,2,Stich_Michael,Camporese_Omar,Stich_Michael,Negev_Israel_Open,1997,03,30,6-4_6-4
 Negev_Israel_Open,2,1997,03,30,2,Marques_Nuno,Carlsen_Kenneth,Carlsen_Kenneth,Negev_Israel_Open,1997,03,30,6-4_6-4
 Negev_Israel_Open,2,1997,03,30,2,Vacek_Daniel,Delaitre_Olivier,Delaitre_Olivier,Negev_Israel_Open,1997,03,30,6-3_7-6(1)

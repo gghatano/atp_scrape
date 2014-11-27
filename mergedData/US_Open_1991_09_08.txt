@@ -9,7 +9,7 @@ US_Open,1,1991,09,08,1,Boetsch_Arnaud,Korda_Petr,Boetsch_Arnaud,US_Open,1991,09,
 US_Open,1,1991,09,08,1,Novacek_Karel,Davis_Scott,Novacek_Karel,US_Open,1991,09,08,6-3_5-7_6-1_6-3
 US_Open,1,1991,09,08,1,Michibata_Glenn,Marques_Nuno,Marques_Nuno,US_Open,1991,09,08,6-3_6-4_7-6(4)
 US_Open,1,1991,09,08,1,Connors_Jimmy,McEnroe_Patrick,Connors_Jimmy,US_Open,1991,09,08,4-6_6-7(4)_6-4_6-2_6-4
-US_Open,1,1991,09,08,1,Schapers_Michiel,Altur_JoseFrancisco,Schapers_Michiel,US_Open,1991,09,08,4-6_6-4_6-2_6-1
+US_Open,1,1991,09,08,1,Schapers_Michiel,Altur_Jose_Francisco,Schapers_Michiel,US_Open,1991,09,08,4-6_6-4_6-2_6-1
 US_Open,1,1991,09,08,1,Rosset_Marc,Raoux_Guillaume,Raoux_Guillaume,US_Open,1991,09,08,5-7_6-3_6-3_4-6_6-3
 US_Open,1,1991,09,08,1,Reneberg_Richey,Clavet_Francisco,Clavet_Francisco,US_Open,1991,09,08,7-6(6)_6-7(5)_6-4_6-2
 US_Open,1,1991,09,08,1,Yzaga_Jaime,Mayotte_Tim,Yzaga_Jaime,US_Open,1991,09,08,7-5_7-5_7-5
@@ -29,7 +29,7 @@ US_Open,1,1991,09,08,1,Sapsford_Danny,Olhovskiy_Andrei,Sapsford_Danny,US_Open,19
 US_Open,1,1991,09,08,1,Fleurian_JeanPhilippe,Simian_Stephane,Simian_Stephane,US_Open,1991,09,08,6-1_6-7(0)_3-6_6-4_6-2
 US_Open,1,1991,09,08,1,Curren_Kevin,Santoro_Fabrice,Curren_Kevin,US_Open,1991,09,08,3-6_2-6_6-3_6-3_6-3
 US_Open,1,1991,09,08,1,Pioline_Cedric,Ferreira_Wayne,Ferreira_Wayne,US_Open,1991,09,08,7-6(5)_4-6_6-2_2-6_6-3
-US_Open,1,1991,09,08,1,Van_RensburgChristo,Sampras_Pete,Sampras_Pete,US_Open,1991,09,08,6-0_6-3_6-2
+US_Open,1,1991,09,08,1,Van_Rensburg_Christo,Sampras_Pete,Sampras_Pete,US_Open,1991,09,08,6-0_6-3_6-2
 US_Open,1,1991,09,08,1,Lendl_Ivan,Krajicek_Richard,Lendl_Ivan,US_Open,1991,09,08,3-6_2-6_6-4_7-6(5)_6-0
 US_Open,1,1991,09,08,1,Youl_Simon,Kuhnen_Patrik,Kuhnen_Patrik,US_Open,1991,09,08,7-6(4)_6-7(5)_6-4_6-2
 US_Open,1,1991,09,08,1,Saceanu_Christian,Vajda_Marian,Saceanu_Christian,US_Open,1991,09,08,2-6_7-6(4)_6-4_6-4

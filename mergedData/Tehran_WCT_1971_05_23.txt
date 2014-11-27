@@ -9,7 +9,7 @@ Tehran_WCT,2,1971,05,23,1,Riessen_Marty,Stolle_Fred,Riessen_Marty,Tehran_WCT,197
 Tehran_WCT,2,1971,05,23,1,Gimeno_Andres,Stone_Allan,Gimeno_Andres,Tehran_WCT,1971,05,23,6-4_6-1
 Tehran_WCT,2,1971,05,23,1,Ulrich_Torben,Okker_Tom,Okker_Tom,Tehran_WCT,1971,05,23,7-6_6-3
 Tehran_WCT,2,1971,05,23,1,Alexander_John,Pilic_Nikola,Alexander_John,Tehran_WCT,1971,05,23,6-2_6-2
-Tehran_WCT,2,1971,05,23,1,El_ShafeiIsmail,Drysdale_Cliff,El_ShafeiIsmail,Tehran_WCT,1971,05,23,3-6_6-4_7-6
+Tehran_WCT,2,1971,05,23,1,El_Shafei_Ismail,Drysdale_Cliff,El_Shafei_Ismail,Tehran_WCT,1971,05,23,3-6_6-4_7-6
 Tehran_WCT,2,1971,05,23,1,Ralston_Dennis,Dent_Phil,Ralston_Dennis,Tehran_WCT,1971,05,23,6-2_6-0
 Tehran_WCT,2,1971,05,23,1,Stilwell_Graham,Emerson_Roy,Emerson_Roy,Tehran_WCT,1971,05,23,6-4_6-2
 Tehran_WCT,2,1971,05,23,1,Cox_Mark,Ruffels_Ray,Cox_Mark,Tehran_WCT,1971,05,23,6-1_6-2
@@ -19,7 +19,7 @@ Tehran_WCT,2,1971,05,23,2,Roche_Tony,Bowrey_Bill,Roche_Tony,Tehran_WCT,1971,05,2
 Tehran_WCT,2,1971,05,23,2,Laver_Rod,Fairlie_Brian,Laver_Rod,Tehran_WCT,1971,05,23,6-1_6-0
 Tehran_WCT,2,1971,05,23,2,Maud_Robert,Riessen_Marty,Riessen_Marty,Tehran_WCT,1971,05,23,6-1_6-4
 Tehran_WCT,2,1971,05,23,2,Gimeno_Andres,Okker_Tom,Gimeno_Andres,Tehran_WCT,1971,05,23,
-Tehran_WCT,2,1971,05,23,2,Alexander_John,El_ShafeiIsmail,Alexander_John,Tehran_WCT,1971,05,23,6-0_6-4
+Tehran_WCT,2,1971,05,23,2,Alexander_John,El_Shafei_Ismail,Alexander_John,Tehran_WCT,1971,05,23,6-0_6-4
 Tehran_WCT,2,1971,05,23,2,Ralston_Dennis,Emerson_Roy,Emerson_Roy,Tehran_WCT,1971,05,23,
 Tehran_WCT,2,1971,05,23,2,Cox_Mark,Ashe_Arthur,Ashe_Arthur,Tehran_WCT,1971,05,23,7-6_6-2
 Tehran_WCT,2,1971,05,23,3,Newcombe_John,Roche_Tony,Newcombe_John,Tehran_WCT,1971,05,23,7-6_7-6

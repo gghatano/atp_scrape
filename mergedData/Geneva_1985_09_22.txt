@@ -1,5 +1,5 @@
 Geneva,2,1985,09,22,1,Wilander_Mats,Ganzabal_Alejandro,Wilander_Mats,Geneva,1985,09,22,4-6_6-2_6-2
-Geneva,2,1985,09,22,1,Keretic_Damir,Zverev_SrAlexander,Zverev_SrAlexander,Geneva,1985,09,22,6-1_3-6_7-6
+Geneva,2,1985,09,22,1,Keretic_Damir,Zverev_Sr_Alexander,Zverev_Sr_Alexander,Geneva,1985,09,22,6-1_3-6_7-6
 Geneva,2,1985,09,22,1,Slozil_Pavel,Vysand_Andres,Slozil_Pavel,Geneva,1985,09,22,6-4_6-4
 Geneva,2,1985,09,22,1,Meyer_Christoph,Hlasek_Jakob,Hlasek_Jakob,Geneva,1985,09,22,6-2_7-6
 Geneva,2,1985,09,22,1,Jaite_Martin,Vajda_Marian,Vajda_Marian,Geneva,1985,09,22,6-7_6-4_7-5
@@ -8,13 +8,13 @@ Geneva,2,1985,09,22,1,Chesnokov_Andrei,Arraya_Pablo,Chesnokov_Andrei,Geneva,1985
 Geneva,2,1985,09,22,1,Casal_Sergio,Leconte_Henri,Leconte_Henri,Geneva,1985,09,22,6-3_6-3
 Geneva,2,1985,09,22,1,Krickstein_Aaron,Grin_Thierry,Krickstein_Aaron,Geneva,1985,09,22,6-1_6-3
 Geneva,2,1985,09,22,1,LopezMaeso_Jose,Arguello_Roberto,Arguello_Roberto,Geneva,1985,09,22,6-2_6-1
-Geneva,2,1985,09,22,1,Ingaramo_Marcelo,De_LaPenaHoracio,Ingaramo_Marcelo,Geneva,1985,09,22,6-3_6-3
+Geneva,2,1985,09,22,1,Ingaramo_Marcelo,De_La_Pena_Horacio,Ingaramo_Marcelo,Geneva,1985,09,22,6-3_6-3
 Geneva,2,1985,09,22,1,Navratil_Jaroslav,Smid_Tomas,Smid_Tomas,Geneva,1985,09,22,2-6_6-3_6-2
 Geneva,2,1985,09,22,1,Gunthardt_Heinz,Scanlon_Bill,Gunthardt_Heinz,Geneva,1985,09,22,6-2_6-7_6-1
-Geneva,2,1985,09,22,1,Rodriguez_JuanAntonio,Lavalle_Leonardo,Lavalle_Leonardo,Geneva,1985,09,22,4-6_6-3_6-0
+Geneva,2,1985,09,22,1,Rodriguez_Juan_Antonio,Lavalle_Leonardo,Lavalle_Leonardo,Geneva,1985,09,22,4-6_6-3_6-0
 Geneva,2,1985,09,22,1,Taroczy_Balazs,Aguilera_Juan,Aguilera_Juan,Geneva,1985,09,22,2-6_7-5_6-2
 Geneva,2,1985,09,22,1,Bengoechea_Eduardo,Nystrom_Joakim,Nystrom_Joakim,Geneva,1985,09,22,6-4_6-3
-Geneva,2,1985,09,22,2,Wilander_Mats,Zverev_SrAlexander,Wilander_Mats,Geneva,1985,09,22,6-2_6-3
+Geneva,2,1985,09,22,2,Wilander_Mats,Zverev_Sr_Alexander,Wilander_Mats,Geneva,1985,09,22,6-2_6-3
 Geneva,2,1985,09,22,2,Slozil_Pavel,Hlasek_Jakob,Hlasek_Jakob,Geneva,1985,09,22,7-6_6-7_6-4
 Geneva,2,1985,09,22,2,Vajda_Marian,Carlsson_Kent,Vajda_Marian,Geneva,1985,09,22,1-6_6-2_7-5
 Geneva,2,1985,09,22,2,Chesnokov_Andrei,Leconte_Henri,Leconte_Henri,Geneva,1985,09,22,6-2_4-6_6-2

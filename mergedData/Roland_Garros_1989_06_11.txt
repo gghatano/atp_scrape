@@ -46,7 +46,7 @@ Roland_Garros,1,1989,06,11,1,Koevermans_Mark,Jarryd_Anders,Jarryd_Anders,Roland_
 Roland_Garros,1,1989,06,11,1,Arias_Jimmy,Pernfors_Mikael,Arias_Jimmy,Roland_Garros,1989,06,11,6-2_6-2_6-2
 Roland_Garros,1,1989,06,11,1,Bergstrom_Christian,Pereira_Nicolas,Pereira_Nicolas,Roland_Garros,1989,06,11,7-5_7-6_6-3
 Roland_Garros,1,1989,06,11,1,Vajda_Marian,Edberg_Stefan,Edberg_Stefan,Roland_Garros,1989,06,11,6-2_6-0_1-6_6-3
-Roland_Garros,1,1989,06,11,1,Mecir_SrMiloslav,Tulasne_Thierry,Tulasne_Thierry,Roland_Garros,1989,06,11,2-6_6-4_6-1_6-3
+Roland_Garros,1,1989,06,11,1,Mecir_Sr_Miloslav,Tulasne_Thierry,Tulasne_Thierry,Roland_Garros,1989,06,11,2-6_6-4_6-1_6-3
 Roland_Garros,1,1989,06,11,1,Skoff_Horst,Bengoechea_Eduardo,Skoff_Horst,Roland_Garros,1989,06,11,6-1_7-6_6-2
 Roland_Garros,1,1989,06,11,1,Raoux_Guillaume,Fleurian_JeanPhilippe,Fleurian_JeanPhilippe,Roland_Garros,1989,06,11,2-6_7-6_7-6_5-7_6-4
 Roland_Garros,1,1989,06,11,1,Meinecke_Tore,Cherkasov_Andrei,Cherkasov_Andrei,Roland_Garros,1989,06,11,6-4_6-2_6-4
@@ -55,7 +55,7 @@ Roland_Garros,1,1989,06,11,1,Prpic_Goran,Dennhardt_Frank,Prpic_Goran,Roland_Garr
 Roland_Garros,1,1989,06,11,1,Nargiso_Diego,Berger_Jay,Berger_Jay,Roland_Garros,1989,06,11,6-4_3-6_6-3_6-2
 Roland_Garros,1,1989,06,11,1,Strelba_Martin,Connors_Jimmy,Connors_Jimmy,Roland_Garros,1989,06,11,6-2_2-6_6-4_6-3
 Roland_Garros,1,1989,06,11,1,PerezRoldan_Guillermo,Casal_Sergio,PerezRoldan_Guillermo,Roland_Garros,1989,06,11,6-1_6-2_6-0
-Roland_Garros,1,1989,06,11,1,De_LaPenaHoracio,Fromberg_Richard,De_LaPenaHoracio,Roland_Garros,1989,06,11,6-4_6-4_6-2
+Roland_Garros,1,1989,06,11,1,De_La_Pena_Horacio,Fromberg_Richard,De_La_Pena_Horacio,Roland_Garros,1989,06,11,6-4_6-4_6-2
 Roland_Garros,1,1989,06,11,1,Cancellotti_Francesco,Pate_David,Cancellotti_Francesco,Roland_Garros,1989,06,11,4-6_6-1_6-4_6-2
 Roland_Garros,1,1989,06,11,1,Michibata_Glenn,Svantesson_Tobias,Michibata_Glenn,Roland_Garros,1989,06,11,6-4_6-4_6-4
 Roland_Garros,1,1989,06,11,1,Bates_Jeremy,Davis_Marty,Bates_Jeremy,Roland_Garros,1989,06,11,6-0_6-4_6-4
@@ -90,7 +90,7 @@ Roland_Garros,1,1989,06,11,2,Tulasne_Thierry,Skoff_Horst,Tulasne_Thierry,Roland_
 Roland_Garros,1,1989,06,11,2,Fleurian_JeanPhilippe,Cherkasov_Andrei,Fleurian_JeanPhilippe,Roland_Garros,1989,06,11,6-3_7-6_6-3
 Roland_Garros,1,1989,06,11,2,Yzaga_Jaime,Prpic_Goran,Yzaga_Jaime,Roland_Garros,1989,06,11,3-6_6-3_6-3_4-6_6-3
 Roland_Garros,1,1989,06,11,2,Berger_Jay,Connors_Jimmy,Berger_Jay,Roland_Garros,1989,06,11,4-6_6-3_7-5_7-5
-Roland_Garros,1,1989,06,11,2,PerezRoldan_Guillermo,De_LaPenaHoracio,PerezRoldan_Guillermo,Roland_Garros,1989,06,11,7-6_2-6_7-5_4-6_6-2
+Roland_Garros,1,1989,06,11,2,PerezRoldan_Guillermo,De_La_Pena_Horacio,PerezRoldan_Guillermo,Roland_Garros,1989,06,11,7-6_2-6_7-5_4-6_6-2
 Roland_Garros,1,1989,06,11,2,Cancellotti_Francesco,Michibata_Glenn,Cancellotti_Francesco,Roland_Garros,1989,06,11,6-4_6-4_6-0
 Roland_Garros,1,1989,06,11,2,Bates_Jeremy,Rahnasto_Olli,Bates_Jeremy,Roland_Garros,1989,06,11,6-3_6-2_6-4
 Roland_Garros,1,1989,06,11,2,Winogradsky_Eric,Becker_Boris,Becker_Boris,Roland_Garros,1989,06,11,7-6_7-5_6-3

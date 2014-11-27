@@ -1,6 +1,6 @@
 Dallas_WCT,2,1971,05,09,1,Ashe_Arthur,Alexander_John,Ashe_Arthur,Dallas_WCT,1971,05,09,3-6_6-3_6-4
 Dallas_WCT,2,1971,05,09,1,Ruffels_Ray,Stone_Allan,Ruffels_Ray,Dallas_WCT,1971,05,09,6-0_6-7_7-6
-Dallas_WCT,2,1971,05,09,1,Maud_Robert,El_ShafeiIsmail,Maud_Robert,Dallas_WCT,1971,05,09,6-3_6-4
+Dallas_WCT,2,1971,05,09,1,Maud_Robert,El_Shafei_Ismail,Maud_Robert,Dallas_WCT,1971,05,09,6-3_6-4
 Dallas_WCT,2,1971,05,09,1,Roche_Tony,Barth_Roy,Roche_Tony,Dallas_WCT,1971,05,09,6-1_6-2
 Dallas_WCT,2,1971,05,09,1,Rosewall_Ken,McMillan_Frew,Rosewall_Ken,Dallas_WCT,1971,05,09,6-0_6-0
 Dallas_WCT,2,1971,05,09,1,Lutz_Robert,Taylor_Roger,Lutz_Robert,Dallas_WCT,1971,05,09,W/O

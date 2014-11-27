@@ -3,10 +3,10 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Carter_David,Fassbender_Jurge
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Thung_Rolf,Stadler_Roland,Thung_Rolf,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Granat_Jiri,Gunthardt_Heinz,Gunthardt_Heinz,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-2_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Warwick_Kim,Edmondson_Mark,Edmondson_Mark,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,7-5_6-3
-Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Prajoux_Belus,Alvarez_ElioLito,Prajoux_Belus,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-3_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Prajoux_Belus,Alvarez_Elio_Lito,Prajoux_Belus,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-3_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Sanders_Louk,Feaver_John,Sanders_Louk,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,3-6_6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Caujolle_JeanFrancois,Borowiak_Jeff,Borowiak_Jeff,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-1_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Lewis_NZLChris,Maurer_Andreas,Maurer_Andreas,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-4_6-1
+Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Lewis_NZL_Chris,Maurer_Andreas,Maurer_Andreas,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-4_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Pinner_Ulrich,Hutka_Pavel,Pinner_Ulrich,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Dowdeswell_Colin,Pilic_Nikola,Dowdeswell_Colin,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,6-3_7-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1978,01,15,1,Letcher_Cliff,Franulovic_Zeljko,Letcher_Cliff,Crédit_Agricole_Suisse_Open_Gstaad,1978,01,15,7-6_7-5

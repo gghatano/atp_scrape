@@ -2,12 +2,12 @@ Auckland,2,1969,02,02,1,Roche_Tony,Parun_Tony,Roche_Tony,Auckland,1969,02,02,6-1
 Auckland,2,1969,02,02,1,Taylor_Roger,Burwash_Peter,Taylor_Roger,Auckland,1969,02,02,6-4_6-3_7-5
 Auckland,2,1969,02,02,1,Chanfreau_JeanBaptiste,Thompson_Paul,Chanfreau_JeanBaptiste,Auckland,1969,02,02,6-3_6-3_6-2
 Auckland,2,1969,02,02,1,Moore_Raymond,Cassidy_Dan,Moore_Raymond,Auckland,1969,02,02,6-4_6-4_6-8_8-6
-Auckland,2,1969,02,02,1,Gonzales_RichardPancho,Bardsley_Tony,Gonzales_RichardPancho,Auckland,1969,02,02,6-2_6-4_6-4
+Auckland,2,1969,02,02,1,Gonzales_Richard_Pancho,Bardsley_Tony,Gonzales_Richard_Pancho,Auckland,1969,02,02,6-2_6-4_6-4
 Auckland,2,1969,02,02,2,Roche_Tony,Taylor_Roger,Newcombe_John,Auckland,1969,02,02,6-1_6-4_6-3
 Auckland,2,1969,02,02,2,Chanfreau_JeanBaptiste,Moore_Raymond,Laver_Rod,Auckland,1969,02,02,6-4_6-0_6-4
-Auckland,2,1969,02,02,2,Gonzales_RichardPancho,Newcombe_John,Roche_Tony,Auckland,1969,02,02,6-3_6-4_10-8
+Auckland,2,1969,02,02,2,Gonzales_Richard_Pancho,Newcombe_John,Roche_Tony,Auckland,1969,02,02,6-3_6-4_10-8
 Auckland,2,1969,02,02,3,Roche_Tony,Taylor_Roger,Moore_Raymond,Auckland,1969,02,02,6-1_8-6_6-2
-Auckland,2,1969,02,02,3,Moore_Raymond,Gonzales_RichardPancho,Gonzales_RichardPancho,Auckland,1969,02,02,7-5_6-4_4-6_8-6
+Auckland,2,1969,02,02,3,Moore_Raymond,Gonzales_Richard_Pancho,Gonzales_Richard_Pancho,Auckland,1969,02,02,7-5_6-4_4-6_8-6
 Auckland,2,1969,02,02,3,Fairlie_Brian,Newcombe_John,Fairlie_Brian,Auckland,1969,02,02,6-4_6-4_6-1
 Auckland,2,1969,02,02,3,Laver_Rod,Leius_Toomas,Newcombe_John,Auckland,1969,02,02,6-0_6-3_6-4
 Auckland,2,1969,02,02,4,Roche_Tony,Moore_Raymond,Laver_Rod,Auckland,1969,02,02,6-3_6-2_6-2

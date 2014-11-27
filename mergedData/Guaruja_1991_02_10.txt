@@ -1,6 +1,6 @@
 Guaruja,2,1991,02,10,1,Mattar_Luiz,Gilbert_Rodolphe,Gilbert_Rodolphe,Guaruja,1991,02,10,6-3_6-2
 Guaruja,2,1991,02,10,1,Rebolledo_Pedro,Arraya_Pablo,Arraya_Pablo,Guaruja,1991,02,10,6-3_6-2
-Guaruja,2,1991,02,10,1,Altur_JoseFrancisco,Matsuoka_Shuzo,Matsuoka_Shuzo,Guaruja,1991,02,10,2-6_6-3_6-4
+Guaruja,2,1991,02,10,1,Altur_Jose_Francisco,Matsuoka_Shuzo,Matsuoka_Shuzo,Guaruja,1991,02,10,2-6_6-3_6-4
 Guaruja,2,1991,02,10,1,Brown_Jimmy,Eltingh_Jacco,Eltingh_Jacco,Guaruja,1991,02,10,6-4_6-1
 Guaruja,2,1991,02,10,1,Furlan_Renzo,Markus_Gabriel,Markus_Gabriel,Guaruja,1991,02,10,6-3_6-4
 Guaruja,2,1991,02,10,1,Baur_Patrick,Delaitre_Olivier,Baur_Patrick,Guaruja,1991,02,10,6-3_4-6_6-2
@@ -9,7 +9,7 @@ Guaruja,2,1991,02,10,1,Meligeni_Fernando,Motta_Cassio,Meligeni_Fernando,Guaruja,
 Guaruja,2,1991,02,10,1,Oncins_Jaime,Menezes_Mauro,Oncins_Jaime,Guaruja,1991,02,10,6-0_2-2
 Guaruja,2,1991,02,10,1,Holm_Henrik,Pozzi_Gianluca,Holm_Henrik,Guaruja,1991,02,10,6-2_6-7(0)_7-5
 Guaruja,2,1991,02,10,1,Wostenholme_Martin,Duncan_Lawson,Wostenholme_Martin,Guaruja,1991,02,10,7-6(3)_6-1
-Guaruja,2,1991,02,10,1,Albano_Pablo,De_LaPenaHoracio,Albano_Pablo,Guaruja,1991,02,10,0-6_6-4_7-6(4)
+Guaruja,2,1991,02,10,1,Albano_Pablo,De_La_Pena_Horacio,Albano_Pablo,Guaruja,1991,02,10,0-6_6-4_7-6(4)
 Guaruja,2,1991,02,10,1,Benhabiles_Tarik,Saliola_Marcelo,Benhabiles_Tarik,Guaruja,1991,02,10,6-4_6-1
 Guaruja,2,1991,02,10,1,Garner_Chris,Allgardh_Christer,Garner_Chris,Guaruja,1991,02,10,6-7(6)_7-5_6-4
 Guaruja,2,1991,02,10,1,Carlsson_Johan,Roese_Fernando,Roese_Fernando,Guaruja,1991,02,10,6-4_7-6(4)

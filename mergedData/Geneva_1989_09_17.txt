@@ -8,7 +8,7 @@ Geneva,2,1989,09,17,1,Brown_Jimmy,Jonsson_Lars,Jonsson_Lars,Geneva,1989,09,17,6-
 Geneva,2,1989,09,17,1,Lochbihler_Stefan,Filippini_Marcelo,Filippini_Marcelo,Geneva,1989,09,17,6-3_6-1
 Geneva,2,1989,09,17,1,Ivanisevic_Goran,Aguilera_Juan,Aguilera_Juan,Geneva,1989,09,17,6-3_7-6
 Geneva,2,1989,09,17,1,Stadler_Roland,Riglewski_Udo,Riglewski_Udo,Geneva,1989,09,17,4-6_7-5_6-2
-Geneva,2,1989,09,17,1,De_LaPenaHoracio,Arguello_Roberto,Arguello_Roberto,Geneva,1989,09,17,2-6_6-0_6-0
+Geneva,2,1989,09,17,1,De_La_Pena_Horacio,Arguello_Roberto,Arguello_Roberto,Geneva,1989,09,17,2-6_6-0_6-0
 Geneva,2,1989,09,17,1,Tulasne_Thierry,PerezRoldan_Guillermo,PerezRoldan_Guillermo,Geneva,1989,09,17,7-5_6-3
 Geneva,2,1989,09,17,1,Oresar_Bruno,Yunis_Francisco,Yunis_Francisco,Geneva,1989,09,17,6-2_6-1
 Geneva,2,1989,09,17,1,Ostoja_Marko,Luza_Gustavo,Ostoja_Marko,Geneva,1989,09,17,6-3_0-6_7-6

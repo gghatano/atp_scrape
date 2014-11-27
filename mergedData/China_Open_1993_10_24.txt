@@ -12,7 +12,7 @@ China_Open,2,1993,10,24,1,Rafter_Patrick,Borwick_Neil,Rafter_Patrick,China_Open,
 China_Open,2,1993,10,24,1,Doyle_Grant,Gilbert_Brad,Gilbert_Brad,China_Open,1993,10,24,4-6_6-4_7-6(3)
 China_Open,2,1993,10,24,1,Morgan_Jamie,Haarhuis_Paul,Morgan_Jamie,China_Open,1993,10,24,6-3_7-5
 China_Open,2,1993,10,24,1,Rusedski_Greg,Tebbutt_Michael,Rusedski_Greg,China_Open,1993,10,24,6-4_6-7(3)_7-6(8)
-China_Open,2,1993,10,24,1,Wahlgren_LarsAnders,Van_RensburgChristo,Van_RensburgChristo,China_Open,1993,10,24,6-1_1-6_6-3
+China_Open,2,1993,10,24,1,Wahlgren_LarsAnders,Van_Rensburg_Christo,Van_Rensburg_Christo,China_Open,1993,10,24,6-1_1-6_6-3
 China_Open,2,1993,10,24,1,Eltingh_Jacco,Gustafsson_Magnus,Gustafsson_Magnus,China_Open,1993,10,24,7-5_6-4
 China_Open,2,1993,10,24,2,Chang_Michael,Matsuoka_Shuzo,Chang_Michael,China_Open,1993,10,24,6-4_6-7(3)_7-5
 China_Open,2,1993,10,24,2,Mronz_Alexander,Bergstrom_Christian,Bergstrom_Christian,China_Open,1993,10,24,6-3_6-2
@@ -21,7 +21,7 @@ China_Open,2,1993,10,24,2,Bjorkman_Jonas,Adams_Chuck,Adams_Chuck,China_Open,1993
 China_Open,2,1993,10,24,2,Svensson_Jonas,Thorne_Kenny,Svensson_Jonas,China_Open,1993,10,24,6-3_6-4
 China_Open,2,1993,10,24,2,Rafter_Patrick,Gilbert_Brad,Gilbert_Brad,China_Open,1993,10,24,7-6(3)_4-6_6-2
 China_Open,2,1993,10,24,2,Morgan_Jamie,Rusedski_Greg,Rusedski_Greg,China_Open,1993,10,24,6-4_7-6(3)
-China_Open,2,1993,10,24,2,Van_RensburgChristo,Gustafsson_Magnus,Gustafsson_Magnus,China_Open,1993,10,24,6-4_6-4
+China_Open,2,1993,10,24,2,Van_Rensburg_Christo,Gustafsson_Magnus,Gustafsson_Magnus,China_Open,1993,10,24,6-4_6-4
 China_Open,2,1993,10,24,3,Chang_Michael,Bergstrom_Christian,Chang_Michael,China_Open,1993,10,24,7-6(6)_6-4
 China_Open,2,1993,10,24,3,Ho_Tommy,Adams_Chuck,Ho_Tommy,China_Open,1993,10,24,7-6(5)_7-6(7)
 China_Open,2,1993,10,24,3,Svensson_Jonas,Gilbert_Brad,Gilbert_Brad,China_Open,1993,10,24,4-6_7-5_6-3

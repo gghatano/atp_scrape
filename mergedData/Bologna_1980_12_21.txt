@@ -1,4 +1,4 @@
-Bologna,2,1980,12,21,1,Borg_Bjorn,Vant_HofRobert,Borg_Bjorn,Bologna,1980,12,21,6-1_6-1
+Bologna,2,1980,12,21,1,Borg_Bjorn,Vant_Hof_Robert,Borg_Bjorn,Bologna,1980,12,21,6-1_6-1
 Bologna,2,1980,12,21,1,RogerVasselin_Christophe,Kodes_Jan,RogerVasselin_Christophe,Bologna,1980,12,21,6-2_6-4
 Bologna,2,1980,12,21,1,Pinner_Ulrich,Dupasquier_Ivan,Pinner_Ulrich,Bologna,1980,12,21,6-0_6-0
 Bologna,2,1980,12,21,1,Ocleppo_Gianni,Smid_Tomas,Smid_Tomas,Bologna,1980,12,21,6-4_6-4

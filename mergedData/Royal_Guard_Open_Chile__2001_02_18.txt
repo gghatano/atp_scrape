@@ -5,12 +5,12 @@ Royal_Guard_Open_Chile_,2,2001,02,18,1,Hantschk_Markus,Arazi_Hicham,Arazi_Hicham
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Vicente_Fernando,Elsner_Daniel,Elsner_Daniel,Royal_Guard_Open_Chile_,2001,02,18,7-6(2)_1-6_6-3
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Garcia_Adrian,Lopez_Feliciano,Lopez_Feliciano,Royal_Guard_Open_Chile_,2001,02,18,6-3_6-3
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Calleri_Agustin,Coria_Guillermo,Coria_Guillermo,Royal_Guard_Open_Chile_,2001,02,18,6-3_6-4
-Royal_Guard_Open_Chile_,2,2001,02,18,1,Di_PasqualeArnaud,Calatrava_Alex,Calatrava_Alex,Royal_Guard_Open_Chile_,2001,02,18,7-6(5)_6-0
+Royal_Guard_Open_Chile_,2,2001,02,18,1,Di_Pasquale_Arnaud,Calatrava_Alex,Calatrava_Alex,Royal_Guard_Open_Chile_,2001,02,18,7-6(5)_6-0
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Clavet_Francisco,Massu_Nicolas,Clavet_Francisco,Royal_Guard_Open_Chile_,2001,02,18,6-3_2-1_RET
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Gonzalez_Fernando,Robredo_Tommy,Gonzalez_Fernando,Royal_Guard_Open_Chile_,2001,02,18,4-6_6-3_7-6(4)
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Blanco_Galo,Fromberg_Richard,Blanco_Galo,Royal_Guard_Open_Chile_,2001,02,18,6-4_6-4
-Royal_Guard_Open_Chile_,2,2001,02,18,1,El_AynaouiYounes,Gaudio_Gaston,Gaudio_Gaston,Royal_Guard_Open_Chile_,2001,02,18,6-4_6-3
-Royal_Guard_Open_Chile_,2,2001,02,18,1,Chela_JuanIgnacio,Portas_Albert,Portas_Albert,Royal_Guard_Open_Chile_,2001,02,18,6-2_6-1
+Royal_Guard_Open_Chile_,2,2001,02,18,1,El_Aynaoui_Younes,Gaudio_Gaston,Gaudio_Gaston,Royal_Guard_Open_Chile_,2001,02,18,6-4_6-3
+Royal_Guard_Open_Chile_,2,2001,02,18,1,Chela_Juan_Ignacio,Portas_Albert,Portas_Albert,Royal_Guard_Open_Chile_,2001,02,18,6-2_6-1
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Sanchez_David,Arquez_Patricio,Sanchez_David,Royal_Guard_Open_Chile_,2001,02,18,6-0_6-1
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Mantilla_Felix,Nalbandian_David,Nalbandian_David,Royal_Guard_Open_Chile_,2001,02,18,6-3_6-2
 Royal_Guard_Open_Chile_,2,2001,02,18,1,Alami_Karim,Rios_Marcelo,Alami_Karim,Royal_Guard_Open_Chile_,2001,02,18,7-6(1)_6-2

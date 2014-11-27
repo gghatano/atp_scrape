@@ -7,9 +7,9 @@ San_Jose,2,1977,02,20,1,Mitton_Bernard,Lloyd_John,Mitton_Bernard,San_Jose,1977,0
 San_Jose,2,1977,02,20,1,Docherty_Steve,Andrew_Jorge,Docherty_Steve,San_Jose,1977,02,20,6-3_6-7_6-3
 San_Jose,2,1977,02,20,1,Moor_Terry,Gorman_Tom,Gorman_Tom,San_Jose,1977,02,20,6-3_6-4
 San_Jose,2,1977,02,20,1,Pattison_Andrew,Kronk_Paul,Pattison_Andrew,San_Jose,1977,02,20,7-6_6-4
-San_Jose,2,1977,02,20,1,Bengtson_OveNils,Mayer_Sandy,Mayer_Sandy,San_Jose,1977,02,20,6-2_6-1
+San_Jose,2,1977,02,20,1,Bengtson_Ove_Nils,Mayer_Sandy,Mayer_Sandy,San_Jose,1977,02,20,6-2_6-1
 San_Jose,2,1977,02,20,1,Smid_Tomas,Masters_Geoff,Masters_Geoff,San_Jose,1977,02,20,6-1_6-4
-San_Jose,2,1977,02,20,1,Van_DillenErik,Dent_Phil,Dent_Phil,San_Jose,1977,02,20,7-6_6-4
+San_Jose,2,1977,02,20,1,Van_Dillen_Erik,Dent_Phil,Dent_Phil,San_Jose,1977,02,20,7-6_6-4
 San_Jose,2,1977,02,20,1,Emerson_Roy,Borisov_Vadim,Emerson_Roy,San_Jose,1977,02,20,6-3_4-6_6-4
 San_Jose,2,1977,02,20,1,Borowiak_Jeff,Taroczy_Balazs,Borowiak_Jeff,San_Jose,1977,02,20,6-2_6-4
 San_Jose,2,1977,02,20,1,Bertram_Byron,Delaney_Jim,Delaney_Jim,San_Jose,1977,02,20,6-2_2-6_6-3

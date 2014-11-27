@@ -1,10 +1,10 @@
 Tel_Aviv,2,1983,10,30,1,Sundstrom_Henrik,Krickstein_Aaron,Krickstein_Aaron,Tel_Aviv,1983,10,30,6-3_1-0_RET
-Tel_Aviv,2,1983,10,30,1,Van_DerMerweSchalk,Puncec_Frank,Van_DerMerweSchalk,Tel_Aviv,1983,10,30,6-3_3-6_7-6
+Tel_Aviv,2,1983,10,30,1,Van_Der_Merwe_Schalk,Puncec_Frank,Van_Der_Merwe_Schalk,Tel_Aviv,1983,10,30,6-3_3-6_7-6
 Tel_Aviv,2,1983,10,30,1,Granat_Jiri,Perkiss_Shahar,Perkiss_Shahar,Tel_Aviv,1983,10,30,6-0_6-3
 Tel_Aviv,2,1983,10,30,1,Theissen_Harald,Myburg_Mike,Theissen_Harald,Tel_Aviv,1983,10,30,6-3_6-2
 Tel_Aviv,2,1983,10,30,1,Dowdeswell_Colin,Chappell_Rory,Dowdeswell_Colin,Tel_Aviv,1983,10,30,6-2_6-7_6-1
 Tel_Aviv,2,1983,10,30,1,Mansdorf_Amos,Feigl_Peter,Mansdorf_Amos,Tel_Aviv,1983,10,30,6-2_6-3
-Tel_Aviv,2,1983,10,30,1,Viljoen_TianC,Svensson_Stefan,Svensson_Stefan,Tel_Aviv,1983,10,30,6-4_6-2
+Tel_Aviv,2,1983,10,30,1,Viljoen_Tian_C,Svensson_Stefan,Svensson_Stefan,Tel_Aviv,1983,10,30,6-4_6-2
 Tel_Aviv,2,1983,10,30,1,Becka_Jaromir,Kuharszky_Zoltan,Becka_Jaromir,Tel_Aviv,1983,10,30,7-6_6-4
 Tel_Aviv,2,1983,10,30,1,Mitton_Bernard,Hjertquist_Per,Hjertquist_Per,Tel_Aviv,1983,10,30,4-6_6-4_7-5
 Tel_Aviv,2,1983,10,30,1,Moretton_Gilles,Beutel_HansDieter,Moretton_Gilles,Tel_Aviv,1983,10,30,6-3_7-5
@@ -14,7 +14,7 @@ Tel_Aviv,2,1983,10,30,1,Visser_Danie,Gehring_Rolf,Gehring_Rolf,Tel_Aviv,1983,10,
 Tel_Aviv,2,1983,10,30,1,Edwards_Eddie,Solomon_Harold,Edwards_Eddie,Tel_Aviv,1983,10,30,6-2_6-0
 Tel_Aviv,2,1983,10,30,1,Sher_Ilan,Meyer_Rick,Meyer_Rick,Tel_Aviv,1983,10,30,7-6_6-2
 Tel_Aviv,2,1983,10,30,1,Evett_Rand,Glickstein_Shlomo,Evett_Rand,Tel_Aviv,1983,10,30,6-2_7-6
-Tel_Aviv,2,1983,10,30,2,Krickstein_Aaron,Van_DerMerweSchalk,Krickstein_Aaron,Tel_Aviv,1983,10,30,6-2_7-5
+Tel_Aviv,2,1983,10,30,2,Krickstein_Aaron,Van_Der_Merwe_Schalk,Krickstein_Aaron,Tel_Aviv,1983,10,30,6-2_7-5
 Tel_Aviv,2,1983,10,30,2,Perkiss_Shahar,Theissen_Harald,Perkiss_Shahar,Tel_Aviv,1983,10,30,6-3_6-2
 Tel_Aviv,2,1983,10,30,2,Dowdeswell_Colin,Mansdorf_Amos,Dowdeswell_Colin,Tel_Aviv,1983,10,30,6-2_6-4
 Tel_Aviv,2,1983,10,30,2,Svensson_Stefan,Becka_Jaromir,Becka_Jaromir,Tel_Aviv,1983,10,30,7-6_4-6_6-3

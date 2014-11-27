@@ -1,11 +1,11 @@
 Johannesburg,2,1980,12,21,1,Vilas_Guillermo,Koch_Thomas,Vilas_Guillermo,Johannesburg,1980,12,21,6-2_6-2
 Johannesburg,2,1980,12,21,1,RogerVasselin_Christophe,Schneider_David,RogerVasselin_Christophe,Johannesburg,1980,12,21,6-2_6-3
-Johannesburg,2,1980,12,21,1,Buehning_Fritz,Van_DerMerweSchalk,Buehning_Fritz,Johannesburg,1980,12,21,6-2_6-3
+Johannesburg,2,1980,12,21,1,Buehning_Fritz,Van_Der_Merwe_Schalk,Buehning_Fritz,Johannesburg,1980,12,21,6-2_6-3
 Johannesburg,2,1980,12,21,1,Elter_Peter,Pattison_Andrew,Pattison_Andrew,Johannesburg,1980,12,21,6-3_7-5
 Johannesburg,2,1980,12,21,1,Lutz_Robert,Cox_Mark,Lutz_Robert,Johannesburg,1980,12,21,4-6_6-1_6-3
 Johannesburg,2,1980,12,21,1,Hocevar_Marcos,Popp_Wolfgang,Hocevar_Marcos,Johannesburg,1980,12,21,6-4_0-6_9-7
 Johannesburg,2,1980,12,21,1,Parun_Onny,Kronk_Paul,Parun_Onny,Johannesburg,1980,12,21,6-7_7-6_6-3
-Johannesburg,2,1980,12,21,1,Vant_HofRobert,McNamee_Paul,McNamee_Paul,Johannesburg,1980,12,21,6-2_4-6_6-4
+Johannesburg,2,1980,12,21,1,Vant_Hof_Robert,McNamee_Paul,McNamee_Paul,Johannesburg,1980,12,21,6-2_4-6_6-4
 Johannesburg,2,1980,12,21,1,Purcell_Mel,Gehring_Rolf,Purcell_Mel,Johannesburg,1980,12,21,6-4_3-0_RET
 Johannesburg,2,1980,12,21,1,Curren_Kevin,Simpson_Russell,Curren_Kevin,Johannesburg,1980,12,21,6-2_6-2
 Johannesburg,2,1980,12,21,1,Moore_Raymond,Saviano_Nick,Moore_Raymond,Johannesburg,1980,12,21,6-4_7-5

@@ -11,7 +11,7 @@ Sofia,2,1980,12,21,1,Stadler_Roland,Lewis_Richard,Stadler_Roland,Sofia,1980,12,2
 Sofia,2,1980,12,21,1,Granat_Jiri,Pampoulov_Bojidar,Granat_Jiri,Sofia,1980,12,21,6-4_6-4
 Sofia,2,1980,12,21,1,Sanders_Louk,Alciati_Marco,Sanders_Louk,Sofia,1980,12,21,6-4_6-4
 Sofia,2,1980,12,21,1,Borisov_Vadim,Palin_Leo,Borisov_Vadim,Sofia,1980,12,21,6-3_6-4
-Sofia,2,1980,12,21,1,El_ShafeiIsmail,Gunthardt_Markus,El_ShafeiIsmail,Sofia,1980,12,21,7-6_6-4
+Sofia,2,1980,12,21,1,El_Shafei_Ismail,Gunthardt_Markus,El_Shafei_Ismail,Sofia,1980,12,21,7-6_6-4
 Sofia,2,1980,12,21,1,Emmrich_Thomas,Schurmann_Edgar,Emmrich_Thomas,Sofia,1980,12,21,7-6_6-4
 Sofia,2,1980,12,21,1,Dirzu_Andrei,Dupasquier_Ivan,Dirzu_Andrei,Sofia,1980,12,21,3-6_6-2_6-4
 Sofia,2,1980,12,21,2,Hjertquist_Per,Meneschincheri_Famiano,Hjertquist_Per,Sofia,1980,12,21,6-1_6-2
@@ -20,7 +20,7 @@ Sofia,2,1980,12,21,2,Pugayev_Konstantin,Stiegler_Helmar,Pugayev_Konstantin,Sofia
 Sofia,2,1980,12,21,2,Svensson_Tenny,Szoke_Peter,Svensson_Tenny,Sofia,1980,12,21,6-3_7-6
 Sofia,2,1980,12,21,2,Hutka_Pavel,Stadler_Roland,Stadler_Roland,Sofia,1980,12,21,7-5_6-4
 Sofia,2,1980,12,21,2,Granat_Jiri,Sanders_Louk,Sanders_Louk,Sofia,1980,12,21,6-2_6-4
-Sofia,2,1980,12,21,2,Borisov_Vadim,El_ShafeiIsmail,Borisov_Vadim,Sofia,1980,12,21,3-6_7-6_6-3
+Sofia,2,1980,12,21,2,Borisov_Vadim,El_Shafei_Ismail,Borisov_Vadim,Sofia,1980,12,21,3-6_7-6_6-3
 Sofia,2,1980,12,21,2,Emmrich_Thomas,Dirzu_Andrei,Emmrich_Thomas,Sofia,1980,12,21,6-4_5-7_1-2_RET
 Sofia,2,1980,12,21,3,Hjertquist_Per,Keretic_Damir,Hjertquist_Per,Sofia,1980,12,21,6-3_6-7_7-5
 Sofia,2,1980,12,21,3,Pugayev_Konstantin,Svensson_Tenny,Pugayev_Konstantin,Sofia,1980,12,21,7-6_7-5

@@ -2,7 +2,7 @@ Lagos,2,1980,03,02,1,Feigl_Peter,Freyss_Christophe,Feigl_Peter,Lagos,1980,03,02,
 Lagos,2,1980,03,02,1,Turpin_Mark,Parun_Onny,Parun_Onny,Lagos,1980,03,02,6-4_6-4
 Lagos,2,1980,03,02,1,Ajayi_Kehinde,Palin_Leo,Palin_Leo,Lagos,1980,03,02,6-4_6-4
 Lagos,2,1980,03,02,1,Lorenzoni_Martin,Johansson_Kjell,Johansson_Kjell,Lagos,1980,03,02,6-0_6-2
-Lagos,2,1980,03,02,1,Kary_Hans,El_ShafeiIsmail,El_ShafeiIsmail,Lagos,1980,03,02,6-2_6-2
+Lagos,2,1980,03,02,1,Kary_Hans,El_Shafei_Ismail,El_Shafei_Ismail,Lagos,1980,03,02,6-2_6-2
 Lagos,2,1980,03,02,1,Graham_Tony,Reininger_Robert,Graham_Tony,Lagos,1980,03,02,6-4_6-3
 Lagos,2,1980,03,02,1,Imonitie_David,Feaver_John,Feaver_John,Lagos,1980,03,02,7-5_6-3
 Lagos,2,1980,03,02,1,Mayotte_Chris,Dowdeswell_Colin,Mayotte_Chris,Lagos,1980,03,02,6-4_6-2
@@ -16,14 +16,14 @@ Lagos,2,1980,03,02,1,Lombardi_Roberto,Zirngibl_Werner,Zirngibl_Werner,Lagos,1980
 Lagos,2,1980,03,02,1,Drysdale_Robin,Spear_Nicola,Drysdale_Robin,Lagos,1980,03,02,6-3_6-1
 Lagos,2,1980,03,02,2,Feigl_Peter,Parun_Onny,Feigl_Peter,Lagos,1980,03,02,6-3_3-6_6-3
 Lagos,2,1980,03,02,2,Palin_Leo,Johansson_Kjell,Johansson_Kjell,Lagos,1980,03,02,6-4_6-0
-Lagos,2,1980,03,02,2,El_ShafeiIsmail,Graham_Tony,El_ShafeiIsmail,Lagos,1980,03,02,6-3_6-4
+Lagos,2,1980,03,02,2,El_Shafei_Ismail,Graham_Tony,El_Shafei_Ismail,Lagos,1980,03,02,6-3_6-4
 Lagos,2,1980,03,02,2,Feaver_John,Mayotte_Chris,Mayotte_Chris,Lagos,1980,03,02,6-2_7-6
 Lagos,2,1980,03,02,2,Elter_Peter,Nichols_Bruce,Elter_Peter,Lagos,1980,03,02,6-1_5-7_6-3
 Lagos,2,1980,03,02,2,Hutka_Pavel,Fritz_Harry,Fritz_Harry,Lagos,1980,03,02,7-5_6-4
 Lagos,2,1980,03,02,2,Franulovic_Zeljko,Menon_Sashi,Menon_Sashi,Lagos,1980,03,02,6-1_7-5
 Lagos,2,1980,03,02,2,Zirngibl_Werner,Drysdale_Robin,Zirngibl_Werner,Lagos,1980,03,02,6-4_6-1
 Lagos,2,1980,03,02,3,Feigl_Peter,Johansson_Kjell,Feigl_Peter,Lagos,1980,03,02,6-2_6-4
-Lagos,2,1980,03,02,3,El_ShafeiIsmail,Mayotte_Chris,Mayotte_Chris,Lagos,1980,03,02,3-6_7-6_7-5
+Lagos,2,1980,03,02,3,El_Shafei_Ismail,Mayotte_Chris,Mayotte_Chris,Lagos,1980,03,02,3-6_7-6_7-5
 Lagos,2,1980,03,02,3,Elter_Peter,Fritz_Harry,Fritz_Harry,Lagos,1980,03,02,4-6_6-1_3-2_RET
 Lagos,2,1980,03,02,3,Menon_Sashi,Zirngibl_Werner,Zirngibl_Werner,Lagos,1980,03,02,6-1_6-3
 Lagos,2,1980,03,02,4,Feigl_Peter,Mayotte_Chris,Feigl_Peter,Lagos,1980,03,02,6-2_6-4

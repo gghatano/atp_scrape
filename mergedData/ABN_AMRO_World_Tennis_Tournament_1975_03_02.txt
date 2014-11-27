@@ -2,14 +2,14 @@ ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Ashe_Arthur,Lloyd_John,Ashe_Arth
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Stewart_Sherwood,Zugarelli_Antonio,Stewart_Sherwood,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_3-6_6-0
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Crealy_Dick,Pilic_Nikola,Crealy_Dick,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Dell_Dick,Hewitt_Bob,Hewitt_Bob,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_6-0
-ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Warwick_Kim,McNair_IVFred,Warwick_Kim,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_6-2
-ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Ball_Syd,Hemmes_SrFred,Ball_Syd,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Warwick_Kim,McNair_IV_Fred,Warwick_Kim,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Ball_Syd,Hemmes_Sr_Fred,Ball_Syd,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-1_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Franulovic_Zeljko,Dominguez_Patrice,Dominguez_Patrice,ABN_AMRO_World_Tennis_Tournament,1975,03,02,3-6_6-3_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Sanders_Louk,Giltinan_Bob,Giltinan_Bob,ABN_AMRO_World_Tennis_Tournament,1975,03,02,5-7_6-3_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Okker_Tom,Taroczy_Balazs,Okker_Tom,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-3_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Kary_Hans,Pohmann_HansJurgen,Kary_Hans,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-2_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Krulevitz_Steve,Bertolucci_Paolo,Krulevitz_Steve,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_7-5
-ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Mottram_BusterC,Panatta_Adriano,Mottram_BusterC,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Mottram_Buster_C,Panatta_Adriano,Mottram_Buster_C,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Pattison_Andrew,Hordijk_Jan,Pattison_Andrew,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-2_6-0
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,McMillan_Frew,Barazzutti_Corrado,McMillan_Frew,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-7(5)_6-3_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,1,Thung_Rolf,Higueras_Jose,Thung_Rolf,ABN_AMRO_World_Tennis_Tournament,1975,03,02,3-6_6-4_7-5
@@ -19,7 +19,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Crealy_Dick,Hewitt_Bob,Hewitt_Bo
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Warwick_Kim,Ball_Syd,Warwick_Kim,ABN_AMRO_World_Tennis_Tournament,1975,03,02,7-6(3)_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Dominguez_Patrice,Giltinan_Bob,Dominguez_Patrice,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-3_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Okker_Tom,Kary_Hans,Okker_Tom,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-3_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Krulevitz_Steve,Mottram_BusterC,Krulevitz_Steve,ABN_AMRO_World_Tennis_Tournament,1975,03,02,7-6(4)_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Krulevitz_Steve,Mottram_Buster_C,Krulevitz_Steve,ABN_AMRO_World_Tennis_Tournament,1975,03,02,7-6(4)_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Pattison_Andrew,McMillan_Frew,McMillan_Frew,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_6-7(1)_7-6(4)
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,2,Thung_Rolf,Borg_Bjorn,Borg_Bjorn,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-4_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1975,03,02,3,Ashe_Arthur,Hewitt_Bob,Ashe_Arthur,ABN_AMRO_World_Tennis_Tournament,1975,03,02,6-3_4-6_6-1

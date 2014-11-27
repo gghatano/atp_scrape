@@ -12,7 +12,7 @@ Las_Vegas,2,1973,05,20,1,Alexander_John,Stolle_Fred,Stolle_Fred,Las_Vegas,1973,0
 Las_Vegas,2,1973,05,20,1,Battrick_Gerald,Drysdale_Cliff,Drysdale_Cliff,Las_Vegas,1973,05,20,6-2_6-0
 Las_Vegas,2,1973,05,20,1,Ashe_Arthur,Mulligan_Martin,Ashe_Arthur,Las_Vegas,1973,05,20,7-6_6-4
 Las_Vegas,2,1973,05,20,1,LoyoMayo_Joaquin,Stockton_Dick,LoyoMayo_Joaquin,Las_Vegas,1973,05,20,6-1_6-7_7-6
-Las_Vegas,2,1973,05,20,1,Lutz_Robert,Fillol_SrJaime,Fillol_SrJaime,Las_Vegas,1973,05,20,7-6_4-6_6-2
+Las_Vegas,2,1973,05,20,1,Lutz_Robert,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Las_Vegas,1973,05,20,7-6_4-6_6-2
 Las_Vegas,2,1973,05,20,1,Crealy_Dick,Laver_Rod,Crealy_Dick,Las_Vegas,1973,05,20,6-4_6-7_6-0
 Las_Vegas,2,1973,05,20,2,Moore_Raymond,Gorman_Tom,Moore_Raymond,Las_Vegas,1973,05,20,6-4_6-3
 Las_Vegas,2,1973,05,20,2,Richey_Cliff,Emerson_Roy,Richey_Cliff,Las_Vegas,1973,05,20,6-0_2-6_6-4
@@ -21,11 +21,11 @@ Las_Vegas,2,1973,05,20,2,Dibley_Colin,Newcombe_John,Dibley_Colin,Las_Vegas,1973,
 Las_Vegas,2,1973,05,20,2,Rosewall_Ken,Tanner_Roscoe,Tanner_Roscoe,Las_Vegas,1973,05,20,2-6_6-3_6-3
 Las_Vegas,2,1973,05,20,2,Stolle_Fred,Drysdale_Cliff,Drysdale_Cliff,Las_Vegas,1973,05,20,6-3_1-6_6-2
 Las_Vegas,2,1973,05,20,2,Ashe_Arthur,LoyoMayo_Joaquin,Ashe_Arthur,Las_Vegas,1973,05,20,6-4_6-2
-Las_Vegas,2,1973,05,20,2,Fillol_SrJaime,Crealy_Dick,Fillol_SrJaime,Las_Vegas,1973,05,20,7-6_6-1
+Las_Vegas,2,1973,05,20,2,Fillol_Sr_Jaime,Crealy_Dick,Fillol_Sr_Jaime,Las_Vegas,1973,05,20,7-6_6-1
 Las_Vegas,2,1973,05,20,3,Moore_Raymond,Richey_Cliff,Richey_Cliff,Las_Vegas,1973,05,20,6-1_6-4
 Las_Vegas,2,1973,05,20,3,Gottfried_Brian,Dibley_Colin,Gottfried_Brian,Las_Vegas,1973,05,20,2-6_7-5_6-0
 Las_Vegas,2,1973,05,20,3,Tanner_Roscoe,Drysdale_Cliff,Tanner_Roscoe,Las_Vegas,1973,05,20,7-6_6-3
-Las_Vegas,2,1973,05,20,3,Ashe_Arthur,Fillol_SrJaime,Ashe_Arthur,Las_Vegas,1973,05,20,7-6_6-3
+Las_Vegas,2,1973,05,20,3,Ashe_Arthur,Fillol_Sr_Jaime,Ashe_Arthur,Las_Vegas,1973,05,20,7-6_6-3
 Las_Vegas,2,1973,05,20,4,Richey_Cliff,Gottfried_Brian,Gottfried_Brian,Las_Vegas,1973,05,20,6-1_7-5
 Las_Vegas,2,1973,05,20,4,Tanner_Roscoe,Ashe_Arthur,Ashe_Arthur,Las_Vegas,1973,05,20,7-6_6-2
 Las_Vegas,2,1973,05,20,5,Gottfried_Brian,Ashe_Arthur,Gottfried_Brian,Las_Vegas,1973,05,20,6-1_6-3

@@ -10,7 +10,7 @@ Aircel_Chennai_Open,2,2000,01,09,1,Tieleman_Laurence,Hantschk_Markus,Hantschk_Ma
 Aircel_Chennai_Open,2,2000,01,09,1,Behrend_Tomas,Popp_Alexander,Behrend_Tomas,Aircel_Chennai_Open,2000,01,09,6-4_4-6_6-1
 Aircel_Chennai_Open,2,2000,01,09,1,Ishii_Yaoki,Vanek_Jiri,Vanek_Jiri,Aircel_Chennai_Open,2000,01,09,6-3_6-4
 Aircel_Chennai_Open,2,2000,01,09,1,Ogorodov_Oleg,Ketola_Tuomas,Ketola_Tuomas,Aircel_Chennai_Open,2000,01,09,7-5_4-6_6-4
-Aircel_Chennai_Open,2,2000,01,09,1,Vinciguerra_Andreas,Lopez_MoronAlex,Vinciguerra_Andreas,Aircel_Chennai_Open,2000,01,09,6-4_6-2
+Aircel_Chennai_Open,2,2000,01,09,1,Vinciguerra_Andreas,Lopez_Moron_Alex,Vinciguerra_Andreas,Aircel_Chennai_Open,2000,01,09,6-4_6-2
 Aircel_Chennai_Open,2,2000,01,09,1,Sanguinetti_Davide,Voinea_Adrian,Sanguinetti_Davide,Aircel_Chennai_Open,2000,01,09,7-6(7)_6-4
 Aircel_Chennai_Open,2,2000,01,09,1,Paes_Leander,Boutter_Julien,Paes_Leander,Aircel_Chennai_Open,2000,01,09,6-4_7-6(6)
 Aircel_Chennai_Open,2,2000,01,09,1,Ram_Andy,Pioline_Cedric,Pioline_Cedric,Aircel_Chennai_Open,2000,01,09,6-3_6-1

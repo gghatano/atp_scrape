@@ -1,9 +1,9 @@
 San_Marino,2,1997,08,10,1,Mantilla_Felix,Fromberg_Richard,Mantilla_Felix,San_Marino,1997,08,10,6-4_4-6_7-6(5)
 San_Marino,2,1997,08,10,1,Camporese_Omar,Sanguinetti_Davide,Sanguinetti_Davide,San_Marino,1997,08,10,6-1_7-5
-San_Marino,2,1997,08,10,1,Marin_JuanAntonio,Grossi_Elia,Marin_JuanAntonio,San_Marino,1997,08,10,7-5_6-1
+San_Marino,2,1997,08,10,1,Marin_Juan_Antonio,Grossi_Elia,Marin_Juan_Antonio,San_Marino,1997,08,10,7-5_6-1
 San_Marino,2,1997,08,10,1,Diaz_Jacobo,Ruud_Christian,Ruud_Christian,San_Marino,1997,08,10,6-2_6-0
 San_Marino,2,1997,08,10,1,Portas_Albert,Voinea_Adrian,Voinea_Adrian,San_Marino,1997,08,10,3-6_6-4_6-0
-San_Marino,2,1997,08,10,1,Morejon_LuisAdrian,Gaudenzi_Andrea,Gaudenzi_Andrea,San_Marino,1997,08,10,6-4_6-3
+San_Marino,2,1997,08,10,1,Morejon_Luis_Adrian,Gaudenzi_Andrea,Gaudenzi_Andrea,San_Marino,1997,08,10,6-4_6-3
 San_Marino,2,1997,08,10,1,Dreekmann_Hendrik,Lapentti_Nicolas,Dreekmann_Hendrik,San_Marino,1997,08,10,3-6_6-3_6-2
 San_Marino,2,1997,08,10,1,Charpentier_Marcelo,Hrbaty_Dominik,Hrbaty_Dominik,San_Marino,1997,08,10,7-6(5)_6-2
 San_Marino,2,1997,08,10,1,Arazi_Hicham,Costa_Carlos,Costa_Carlos,San_Marino,1997,08,10,6-4_6-3
@@ -15,7 +15,7 @@ San_Marino,2,1997,08,10,1,Scala_Davide,Martin_Alberto,Martin_Alberto,San_Marino,
 San_Marino,2,1997,08,10,1,Pavel_Andrei,Knippschild_Jens,Pavel_Andrei,San_Marino,1997,08,10,6-3_6-1
 San_Marino,2,1997,08,10,1,Nargiso_Diego,Berasategui_Alberto,Berasategui_Alberto,San_Marino,1997,08,10,6-3_6-4
 San_Marino,2,1997,08,10,2,Mantilla_Felix,Sanguinetti_Davide,Mantilla_Felix,San_Marino,1997,08,10,6-4_4-6_6-3
-San_Marino,2,1997,08,10,2,Marin_JuanAntonio,Ruud_Christian,Ruud_Christian,San_Marino,1997,08,10,6-3_3-6_6-2
+San_Marino,2,1997,08,10,2,Marin_Juan_Antonio,Ruud_Christian,Ruud_Christian,San_Marino,1997,08,10,6-3_3-6_6-2
 San_Marino,2,1997,08,10,2,Voinea_Adrian,Gaudenzi_Andrea,Voinea_Adrian,San_Marino,1997,08,10,6-0_6-3
 San_Marino,2,1997,08,10,2,Dreekmann_Hendrik,Hrbaty_Dominik,Hrbaty_Dominik,San_Marino,1997,08,10,5-7_7-5_RET
 San_Marino,2,1997,08,10,2,Costa_Carlos,Furlan_Renzo,Costa_Carlos,San_Marino,1997,08,10,5-7_6-3_6-3

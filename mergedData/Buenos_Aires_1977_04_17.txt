@@ -2,7 +2,7 @@ Buenos_Aires,2,1977,04,17,1,Vilas_Guillermo,Gratz_Roberto,Vilas_Guillermo,Buenos
 Buenos_Aires,2,1977,04,17,1,DallaFontana_Fernando,Ganzabal_Julian,DallaFontana_Fernando,Buenos_Aires,1977,04,17,6-0_6-0
 Buenos_Aires,2,1977,04,17,1,Bertolucci_Paolo,Santiago_JuanCarlos,Bertolucci_Paolo,Buenos_Aires,1977,04,17,6-4_7-5
 Buenos_Aires,2,1977,04,17,1,Tiriac_Ion,Soriano_Lorenzo,Tiriac_Ion,Buenos_Aires,1977,04,17,6-3_6-2
-Buenos_Aires,2,1977,04,17,1,Cano_Ricardo,Alvarez_ElioLito,Cano_Ricardo,Buenos_Aires,1977,04,17,3-6_6-2_6-2
+Buenos_Aires,2,1977,04,17,1,Cano_Ricardo,Alvarez_Elio_Lito,Cano_Ricardo,Buenos_Aires,1977,04,17,3-6_6-2_6-2
 Buenos_Aires,2,1977,04,17,1,Taroczy_Balazs,Aubone_Roberto,Taroczy_Balazs,Buenos_Aires,1977,04,17,6-4_6-2
 Buenos_Aires,2,1977,04,17,1,Richey_Cliff,Lando_Carlos,Richey_Cliff,Buenos_Aires,1977,04,17,6-1_6-2
 Buenos_Aires,2,1977,04,17,1,Fibak_Wojtek,Romani_Hector,Fibak_Wojtek,Buenos_Aires,1977,04,17,6-3_6-3

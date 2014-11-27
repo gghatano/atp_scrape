@@ -1,13 +1,13 @@
 Athens,2,1990,10,07,1,Muster_Thomas,Wostenholme_Martin,Muster_Thomas,Athens,1990,10,07,7-6_6-3
 Athens,2,1990,10,07,1,Woehrmann_Jens,Vajda_Marian,Vajda_Marian,Athens,1990,10,07,6-2_7-6
-Athens,2,1990,10,07,1,Carbonell_Tomas,Gorriz_MarcosAurelio,Carbonell_Tomas,Athens,1990,10,07,7-6_6-3
-Athens,2,1990,10,07,1,Perez_Diego,De_LaPenaHoracio,De_LaPenaHoracio,Athens,1990,10,07,6-4_6-4
+Athens,2,1990,10,07,1,Carbonell_Tomas,Gorriz_Marcos_Aurelio,Carbonell_Tomas,Athens,1990,10,07,7-6_6-3
+Athens,2,1990,10,07,1,Perez_Diego,De_La_Pena_Horacio,De_La_Pena_Horacio,Athens,1990,10,07,6-4_6-4
 Athens,2,1990,10,07,1,PerezRoldan_Guillermo,Costa_Carlos,PerezRoldan_Guillermo,Athens,1990,10,07,7-6_6-7_6-1
 Athens,2,1990,10,07,1,Tarango_Jeff,Casal_Sergio,Tarango_Jeff,Athens,1990,10,07,6-3_4-6_6-4
 Athens,2,1990,10,07,1,Luna_Fernando,Strelba_Martin,Luna_Fernando,Athens,1990,10,07,6-2_6-2
 Athens,2,1990,10,07,1,Furlan_Renzo,Davin_Franco,Davin_Franco,Athens,1990,10,07,6-3_6-1
 Athens,2,1990,10,07,1,Sanchez_Javier,Dosedel_Slava,Sanchez_Javier,Athens,1990,10,07,6-7_6-2_6-3
-Athens,2,1990,10,07,1,Altur_JoseFrancisco,Duncan_Lawson,Duncan_Lawson,Athens,1990,10,07,6-3_7-6
+Athens,2,1990,10,07,1,Altur_Jose_Francisco,Duncan_Lawson,Duncan_Lawson,Athens,1990,10,07,6-3_7-6
 Athens,2,1990,10,07,1,Kalovelonis_George,Brown_Jimmy,Brown_Jimmy,Athens,1990,10,07,6-2_6-2
 Athens,2,1990,10,07,1,Lopez_German,Arrese_Jordi,Arrese_Jordi,Athens,1990,10,07,6-2_6-1
 Athens,2,1990,10,07,1,Koevermans_Mark,CunhaSilva_Joao,Koevermans_Mark,Athens,1990,10,07,6-4_6-2
@@ -15,7 +15,7 @@ Athens,2,1990,10,07,1,Azar_Roberto,Bavelas_Tasos,Bavelas_Tasos,Athens,1990,10,07
 Athens,2,1990,10,07,1,Clavet_Francisco,Nydahl_Tomas,Clavet_Francisco,Athens,1990,10,07,2-6_6-3_6-2
 Athens,2,1990,10,07,1,Roig_Francisco,Sanchez_Emilio,Roig_Francisco,Athens,1990,10,07,6-2_7-6
 Athens,2,1990,10,07,2,Muster_Thomas,Vajda_Marian,Vajda_Marian,Athens,1990,10,07,3-6_7-6_6-3
-Athens,2,1990,10,07,2,Carbonell_Tomas,De_LaPenaHoracio,Carbonell_Tomas,Athens,1990,10,07,6-1_6-4
+Athens,2,1990,10,07,2,Carbonell_Tomas,De_La_Pena_Horacio,Carbonell_Tomas,Athens,1990,10,07,6-1_6-4
 Athens,2,1990,10,07,2,PerezRoldan_Guillermo,Tarango_Jeff,PerezRoldan_Guillermo,Athens,1990,10,07,6-2_6-3
 Athens,2,1990,10,07,2,Luna_Fernando,Davin_Franco,Davin_Franco,Athens,1990,10,07,7-5_6-3
 Athens,2,1990,10,07,2,Sanchez_Javier,Duncan_Lawson,Sanchez_Javier,Athens,1990,10,07,6-4_6-0

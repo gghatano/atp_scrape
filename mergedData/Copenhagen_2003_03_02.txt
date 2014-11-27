@@ -2,7 +2,7 @@ Copenhagen,2,2003,03,02,1,Nieminen_Jarkko,Rochus_Olivier,Rochus_Olivier,Copenhag
 Copenhagen,2,2003,03,02,1,Melzer_Jurgen,Burgsmuller_Lars,Burgsmuller_Lars,Copenhagen,2003,03,02,6-4_6-4
 Copenhagen,2,2003,03,02,1,Vanek_Jiri,Norby_Rasmus,Vanek_Jiri,Copenhagen,2003,03,02,6-4_2-6_6-3
 Copenhagen,2,2003,03,02,1,Behrend_Tomas,Ancic_Mario,Behrend_Tomas,Copenhagen,2003,03,02,6-4_6-7(7)_7-6(2)
-Copenhagen,2,2003,03,02,1,Stepanek_Radek,Di_PasqualeArnaud,Stepanek_Radek,Copenhagen,2003,03,02,7-6(3)_3-6_6-3
+Copenhagen,2,2003,03,02,1,Stepanek_Radek,Di_Pasquale_Arnaud,Stepanek_Radek,Copenhagen,2003,03,02,7-6(3)_3-6_6-3
 Copenhagen,2,2003,03,02,1,Nielsen_Frederik,Larsson_Magnus,Larsson_Magnus,Copenhagen,2003,03,02,6-1_6-1
 Copenhagen,2,2003,03,02,1,Gimelstob_Justin,Beck_Karol,Beck_Karol,Copenhagen,2003,03,02,6-4_6-3
 Copenhagen,2,2003,03,02,1,Dupuis_Antony,Verkerk_Martin,Dupuis_Antony,Copenhagen,2003,03,02,6-4_6-4

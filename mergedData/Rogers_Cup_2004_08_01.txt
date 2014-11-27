@@ -5,7 +5,7 @@ Rogers_Cup,3,2004,08,01,1,Pavel_Andrei,Srichaphan_Paradorn,Srichaphan_Paradorn,R
 Rogers_Cup,3,2004,08,01,1,Hewitt_Lleyton,Nadal_Rafael,Hewitt_Lleyton,Rogers_Cup,2004,08,01,1-6_6-4_6-2
 Rogers_Cup,3,2004,08,01,1,Bjorkman_Jonas,Novak_Jiri,Novak_Jiri,Rogers_Cup,2004,08,01,5-7_7-6(10)_6-0
 Rogers_Cup,3,2004,08,01,1,Beck_Karol,Ljubicic_Ivan,Ljubicic_Ivan,Rogers_Cup,2004,08,01,6-2_5-7_6-3
-Rogers_Cup,3,2004,08,01,1,Santoro_Fabrice,Ferrero_JuanCarlos,Santoro_Fabrice,Rogers_Cup,2004,08,01,3-2_RET
+Rogers_Cup,3,2004,08,01,1,Santoro_Fabrice,Ferrero_Juan_Carlos,Santoro_Fabrice,Rogers_Cup,2004,08,01,3-2_RET
 Rogers_Cup,3,2004,08,01,1,Coria_Guillermo,Horna_Luis,Horna_Luis,Rogers_Cup,2004,08,01,5-1_RET
 Rogers_Cup,3,2004,08,01,1,Sanchez_David,Niemeyer_Frederic,Niemeyer_Frederic,Rogers_Cup,2004,08,01,6-1_6-4
 Rogers_Cup,3,2004,08,01,1,Andreev_Igor,Sargsian_Sargis,Andreev_Igor,Rogers_Cup,2004,08,01,7-5_6-7(1)_6-2
@@ -20,13 +20,13 @@ Rogers_Cup,3,2004,08,01,1,Hrbaty_Dominik,Melzer_Jurgen,Melzer_Jurgen,Rogers_Cup,
 Rogers_Cup,3,2004,08,01,1,Haas_Tommy,Agassi_Andre,Agassi_Andre,Rogers_Cup,2004,08,01,4-6_6-4_6-4
 Rogers_Cup,3,2004,08,01,1,Safin_Marat,Kiefer_Nicolas,Kiefer_Nicolas,Rogers_Cup,2004,08,01,6-7(3)_6-4_7-6(2)
 Rogers_Cup,3,2004,08,01,1,Larose_Simon,Ferrer_David,Ferrer_David,Rogers_Cup,2004,08,01,7-5_6-2
-Rogers_Cup,3,2004,08,01,1,Bogomolov_JrAlex,Karlovic_Ivo,Bogomolov_JrAlex,Rogers_Cup,2004,08,01,6-4_7-6(6)
+Rogers_Cup,3,2004,08,01,1,Bogomolov_Jr_Alex,Karlovic_Ivo,Bogomolov_Jr_Alex,Rogers_Cup,2004,08,01,6-4_7-6(6)
 Rogers_Cup,3,2004,08,01,1,Verdasco_Fernando,Moya_Carlos,Moya_Carlos,Rogers_Cup,2004,08,01,6-7(9)_6-3_6-4
 Rogers_Cup,3,2004,08,01,1,Henman_Tim,Zabaleta_Mariano,Henman_Tim,Rogers_Cup,2004,08,01,6-4_6-1
 Rogers_Cup,3,2004,08,01,1,Kuerten_Gustavo,Ginepri_Robby,Kuerten_Gustavo,Rogers_Cup,2004,08,01,6-1_6-4
 Rogers_Cup,3,2004,08,01,1,Labadze_Irakli,Hernych_Jan,Hernych_Jan,Rogers_Cup,2004,08,01,6-1_6-4
 Rogers_Cup,3,2004,08,01,1,Reid_Todd,Gaudio_Gaston,Reid_Todd,Rogers_Cup,2004,08,01,7-6(2)_5-7_6-3
-Rogers_Cup,3,2004,08,01,1,Chela_JuanIgnacio,Malisse_Xavier,Chela_JuanIgnacio,Rogers_Cup,2004,08,01,6-3_5-7_6-3
+Rogers_Cup,3,2004,08,01,1,Chela_Juan_Ignacio,Malisse_Xavier,Chela_Juan_Ignacio,Rogers_Cup,2004,08,01,6-3_5-7_6-3
 Rogers_Cup,3,2004,08,01,1,Lee_HyungTaik,Robredo_Tommy,Robredo_Tommy,Rogers_Cup,2004,08,01,7-6(3)_6-1
 Rogers_Cup,3,2004,08,01,1,Escude_Nicolas,Lopez_Feliciano,Lopez_Feliciano,Rogers_Cup,2004,08,01,7-6(1)_6-2
 Rogers_Cup,3,2004,08,01,1,Benneteau_Julien,Roddick_Andy,Roddick_Andy,Rogers_Cup,2004,08,01,6-4_6-2
@@ -41,10 +41,10 @@ Rogers_Cup,3,2004,08,01,2,Saulnier_Cyril,Youzhny_Mikhail,Saulnier_Cyril,Rogers_C
 Rogers_Cup,3,2004,08,01,2,Gonzalez_Fernando,Spadea_Vincent,Gonzalez_Fernando,Rogers_Cup,2004,08,01,7-5_6-4
 Rogers_Cup,3,2004,08,01,2,Melzer_Jurgen,Agassi_Andre,Melzer_Jurgen,Rogers_Cup,2004,08,01,6-3_6-3
 Rogers_Cup,3,2004,08,01,2,Kiefer_Nicolas,Ferrer_David,Kiefer_Nicolas,Rogers_Cup,2004,08,01,6-3_6-1
-Rogers_Cup,3,2004,08,01,2,Bogomolov_JrAlex,Moya_Carlos,Moya_Carlos,Rogers_Cup,2004,08,01,6-4_6-3
+Rogers_Cup,3,2004,08,01,2,Bogomolov_Jr_Alex,Moya_Carlos,Moya_Carlos,Rogers_Cup,2004,08,01,6-4_6-3
 Rogers_Cup,3,2004,08,01,2,Henman_Tim,Kuerten_Gustavo,Kuerten_Gustavo,Rogers_Cup,2004,08,01,7-5_6-4
 Rogers_Cup,3,2004,08,01,2,Hernych_Jan,Reid_Todd,Hernych_Jan,Rogers_Cup,2004,08,01,6-3_6-3
-Rogers_Cup,3,2004,08,01,2,Chela_JuanIgnacio,Robredo_Tommy,Chela_JuanIgnacio,Rogers_Cup,2004,08,01,6-4_6-0
+Rogers_Cup,3,2004,08,01,2,Chela_Juan_Ignacio,Robredo_Tommy,Chela_Juan_Ignacio,Rogers_Cup,2004,08,01,6-4_6-0
 Rogers_Cup,3,2004,08,01,2,Lopez_Feliciano,Roddick_Andy,Roddick_Andy,Rogers_Cup,2004,08,01,6-3_7-6(5)
 Rogers_Cup,3,2004,08,01,3,Federer_Roger,Mirnyi_Max,Federer_Roger,Rogers_Cup,2004,08,01,7-6(3)_7-6(4)
 Rogers_Cup,3,2004,08,01,3,Hewitt_Lleyton,Santoro_Fabrice,Santoro_Fabrice,Rogers_Cup,2004,08,01,2-6_6-3_6-4
@@ -53,7 +53,7 @@ Rogers_Cup,3,2004,08,01,3,Johansson_Joachim,Saulnier_Cyril,Johansson_Joachim,Rog
 Rogers_Cup,3,2004,08,01,3,Gonzalez_Fernando,Melzer_Jurgen,Melzer_Jurgen,Rogers_Cup,2004,08,01,6-3_6-3
 Rogers_Cup,3,2004,08,01,3,Kiefer_Nicolas,Moya_Carlos,Kiefer_Nicolas,Rogers_Cup,2004,08,01,6-4_2-6_6-4
 Rogers_Cup,3,2004,08,01,3,Kuerten_Gustavo,Hernych_Jan,Hernych_Jan,Rogers_Cup,2004,08,01,5-7_7-6(6)_6-4
-Rogers_Cup,3,2004,08,01,3,Chela_JuanIgnacio,Roddick_Andy,Roddick_Andy,Rogers_Cup,2004,08,01,6-1_6-4
+Rogers_Cup,3,2004,08,01,3,Chela_Juan_Ignacio,Roddick_Andy,Roddick_Andy,Rogers_Cup,2004,08,01,6-1_6-4
 Rogers_Cup,3,2004,08,01,4,Federer_Roger,Santoro_Fabrice,Federer_Roger,Rogers_Cup,2004,08,01,7-5_6-4
 Rogers_Cup,3,2004,08,01,4,Johansson_Thomas,Johansson_Joachim,Johansson_Thomas,Rogers_Cup,2004,08,01,6-3_7-6(5)
 Rogers_Cup,3,2004,08,01,4,Melzer_Jurgen,Kiefer_Nicolas,Kiefer_Nicolas,Rogers_Cup,2004,08,01,3-6_6-1_6-1

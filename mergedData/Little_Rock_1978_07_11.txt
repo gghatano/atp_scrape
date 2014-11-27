@@ -11,9 +11,9 @@ Little_Rock,2,1978,07,11,1,Pasarell_Charlie,Guerry_Zan,Pasarell_Charlie,Little_R
 Little_Rock,2,1978,07,11,1,Mitton_Bernard,Masters_Geoff,Mitton_Bernard,Little_Rock,1978,07,11,6-4_7-5
 Little_Rock,2,1978,07,11,1,Bertram_Byron,Walts_Butch,Bertram_Byron,Little_Rock,1978,07,11,6-4_6-1
 Little_Rock,2,1978,07,11,1,Pfister_Henry,Smid_Tomas,Pfister_Henry,Little_Rock,1978,07,11,6-2_6-0
-Little_Rock,2,1978,07,11,1,Bengtson_OveNils,Cahill_Mike,Cahill_Mike,Little_Rock,1978,07,11,6-3_6-2
+Little_Rock,2,1978,07,11,1,Bengtson_Ove_Nils,Cahill_Mike,Cahill_Mike,Little_Rock,1978,07,11,6-3_6-2
 Little_Rock,2,1978,07,11,1,Gullikson_Tom,Pascale_Raymond,Gullikson_Tom,Little_Rock,1978,07,11,6-2_6-0
-Little_Rock,2,1978,07,11,1,El_ShafeiIsmail,Gullikson_Tim,Gullikson_Tim,Little_Rock,1978,07,11,6-4_6-2
+Little_Rock,2,1978,07,11,1,El_Shafei_Ismail,Gullikson_Tim,Gullikson_Tim,Little_Rock,1978,07,11,6-4_6-2
 Little_Rock,2,1978,07,11,2,Stockton_Dick,Granat_Jiri,Stockton_Dick,Little_Rock,1978,07,11,6-4_5-7_7-6
 Little_Rock,2,1978,07,11,2,Yuill_John,Saviano_Nick,Saviano_Nick,Little_Rock,1978,07,11,6-2_RET
 Little_Rock,2,1978,07,11,2,Dibley_Colin,Amaya_Victor,Amaya_Victor,Little_Rock,1978,07,11,7-6_6-3

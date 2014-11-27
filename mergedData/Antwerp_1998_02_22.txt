@@ -1,7 +1,7 @@
 Antwerp,2,1998,02,22,1,Korda_Petr,Ferreira_Wayne,Korda_Petr,Antwerp,1998,02,22,6-3_6-3
 Antwerp,2,1998,02,22,1,Portas_Albert,Hrbaty_Dominik,Portas_Albert,Antwerp,1998,02,22,6-7(4)_7-6(1)_6-4
 Antwerp,2,1998,02,22,1,Ulihrach_Bohdan,Santoro_Fabrice,Ulihrach_Bohdan,Antwerp,1998,02,22,6-2_6-4
-Antwerp,2,1998,02,22,1,Van_HerckJohan,Kucera_Karol,Kucera_Karol,Antwerp,1998,02,22,6-7(3)_6-4_6-2
+Antwerp,2,1998,02,22,1,Van_Herck_Johan,Kucera_Karol,Kucera_Karol,Antwerp,1998,02,22,6-7(3)_6-4_6-2
 Antwerp,2,1998,02,22,1,Bjorkman_Jonas,Johansson_Thomas,Johansson_Thomas,Antwerp,1998,02,22,6-1_6-2
 Antwerp,2,1998,02,22,1,Damm_Martin,Dewulf_Filip,Damm_Martin,Antwerp,1998,02,22,4-6_7-6(6)_6-4
 Antwerp,2,1998,02,22,1,Raoux_Guillaume,Clavet_Francisco,Raoux_Guillaume,Antwerp,1998,02,22,7-6(4)_5-7_6-2

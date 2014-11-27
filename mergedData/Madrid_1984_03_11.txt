@@ -7,8 +7,8 @@ Madrid,2,1984,03,11,1,Maurer_Andreas,Denton_Steve,Denton_Steve,Madrid,1984,03,11
 Madrid,2,1984,03,11,1,Hooper_Chip,Jelen_Eric,Hooper_Chip,Madrid,1984,03,11,7-6_7-6
 Madrid,2,1984,03,11,1,Simonsson_Stefan,Jarryd_Anders,Jarryd_Anders,Madrid,1984,03,11,3-6_6-4_6-4
 Madrid,2,1984,03,11,1,Gerulaitis_Vitas,Gullikson_Tim,Gerulaitis_Vitas,Madrid,1984,03,11,7-6_6-3
-Madrid,2,1984,03,11,1,Schapers_Michiel,Mecir_SrMiloslav,Mecir_SrMiloslav,Madrid,1984,03,11,6-4_6-3
-Madrid,2,1984,03,11,1,Van_PattenVincent,Carlsson_Johan,Van_PattenVincent,Madrid,1984,03,11,6-7_6-1_6-4
+Madrid,2,1984,03,11,1,Schapers_Michiel,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Madrid,1984,03,11,6-4_6-3
+Madrid,2,1984,03,11,1,Van_Patten_Vincent,Carlsson_Johan,Van_Patten_Vincent,Madrid,1984,03,11,6-7_6-1_6-4
 Madrid,2,1984,03,11,1,Teacher_Brian,Gomez_Andres,Gomez_Andres,Madrid,1984,03,11,6-2_4-6_6-3
 Madrid,2,1984,03,11,1,Smid_Tomas,Gilbert_Brad,Smid_Tomas,Madrid,1984,03,11,6-4_6-3
 Madrid,2,1984,03,11,1,Drewett_Brad,Buehning_Fritz,Drewett_Brad,Madrid,1984,03,11,1-6_6-4_6-4
@@ -18,8 +18,8 @@ Madrid,2,1984,03,11,2,McEnroe_John,Nystrom_Joakim,McEnroe_John,Madrid,1984,03,11
 Madrid,2,1984,03,11,2,Westphal_Michael,Scanlon_Bill,Scanlon_Bill,Madrid,1984,03,11,6-2_6-4
 Madrid,2,1984,03,11,2,Curren_Kevin,Denton_Steve,Curren_Kevin,Madrid,1984,03,11,6-7_7-6_7-5
 Madrid,2,1984,03,11,2,Hooper_Chip,Jarryd_Anders,Jarryd_Anders,Madrid,1984,03,11,6-3_7-5
-Madrid,2,1984,03,11,2,Gerulaitis_Vitas,Mecir_SrMiloslav,Gerulaitis_Vitas,Madrid,1984,03,11,7-6_6-2
-Madrid,2,1984,03,11,2,Van_PattenVincent,Gomez_Andres,Gomez_Andres,Madrid,1984,03,11,6-3_6-4
+Madrid,2,1984,03,11,2,Gerulaitis_Vitas,Mecir_Sr_Miloslav,Gerulaitis_Vitas,Madrid,1984,03,11,7-6_6-2
+Madrid,2,1984,03,11,2,Van_Patten_Vincent,Gomez_Andres,Gomez_Andres,Madrid,1984,03,11,6-3_6-4
 Madrid,2,1984,03,11,2,Smid_Tomas,Drewett_Brad,Smid_Tomas,Madrid,1984,03,11,6-2_6-2
 Madrid,2,1984,03,11,2,Gullikson_Tom,Connors_Jimmy,Gullikson_Tom,Madrid,1984,03,11,4-6_7-5_6-3
 Madrid,2,1984,03,11,3,McEnroe_John,Scanlon_Bill,McEnroe_John,Madrid,1984,03,11,6-4_7-6

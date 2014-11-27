@@ -6,14 +6,14 @@ Milan,2,1984,06,10,1,Vilas_Guillermo,Fitzgerald_John,Fitzgerald_John,Milan,1984,
 Milan,2,1984,06,10,1,Ocleppo_Gianni,Hooper_Chip,Ocleppo_Gianni,Milan,1984,06,10,6-3_0-6_7-6
 Milan,2,1984,06,10,1,Colombo_Simone,Gerulaitis_Vitas,Gerulaitis_Vitas,Milan,1984,06,10,6-4_4-6_6-4
 Milan,2,1984,06,10,1,Edmondson_Mark,Smid_Tomas,Smid_Tomas,Milan,1984,06,10,6-2_6-1
-Milan,2,1984,06,10,1,Lewis_NZLChris,Dickson_Mark,Dickson_Mark,Milan,1984,06,10,6-2_6-3
+Milan,2,1984,06,10,1,Lewis_NZL_Chris,Dickson_Mark,Dickson_Mark,Milan,1984,06,10,6-2_6-3
 Milan,2,1984,06,10,1,Drewett_Brad,Barazzutti_Corrado,Drewett_Brad,Milan,1984,06,10,7-6_6-2
 Milan,2,1984,06,10,1,Hlasek_Jakob,Fibak_Wojtek,Hlasek_Jakob,Milan,1984,06,10,0-6_7-5_6-3
 Milan,2,1984,06,10,1,RogerVasselin_Christophe,Kriek_Johan,Kriek_Johan,Milan,1984,06,10,6-4_6-1
 Milan,2,1984,06,10,1,Jarryd_Anders,Forget_Guy,Jarryd_Anders,Milan,1984,06,10,3-6_6-3_6-2
 Milan,2,1984,06,10,1,Buehning_Fritz,Edberg_Stefan,Edberg_Stefan,Milan,1984,06,10,7-6_6-1
 Milan,2,1984,06,10,1,Wilkison_Tim,Denton_Steve,Denton_Steve,Milan,1984,06,10,6-2_7-5
-Milan,2,1984,06,10,1,Vant_HofRobert,Curren_Kevin,Curren_Kevin,Milan,1984,06,10,6-1_6-1
+Milan,2,1984,06,10,1,Vant_Hof_Robert,Curren_Kevin,Curren_Kevin,Milan,1984,06,10,6-1_6-1
 Milan,2,1984,06,10,2,Wilander_Mats,Nastase_Ilie,Wilander_Mats,Milan,1984,06,10,6-3_6-1
 Milan,2,1984,06,10,2,Glickstein_Shlomo,Leconte_Henri,Leconte_Henri,Milan,1984,06,10,7-5_6-3
 Milan,2,1984,06,10,2,Fitzgerald_John,Ocleppo_Gianni,Fitzgerald_John,Milan,1984,06,10,7-5_6-3

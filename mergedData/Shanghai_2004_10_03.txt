@@ -7,12 +7,12 @@ Shanghai,2,2004,10,03,1,Lisnard_JeanRene,Muller_Gilles,Muller_Gilles,Shanghai,20
 Shanghai,2,2004,10,03,1,Carlsen_Kenneth,Hernych_Jan,Carlsen_Kenneth,Shanghai,2004,10,03,7-5_6-1
 Shanghai,2,2004,10,03,1,Arthurs_Wayne,Lee_HyungTaik,Arthurs_Wayne,Shanghai,2004,10,03,W/O
 Shanghai,2,2004,10,03,1,Mello_Ricardo,Peya_Alexander,Mello_Ricardo,Shanghai,2004,10,03,6-4_6-3
-Shanghai,2,2004,10,03,1,van_LottumJohn,Tipsarevic_Janko,Tipsarevic_Janko,Shanghai,2004,10,03,6-1_6-4
+Shanghai,2,2004,10,03,1,van_Lottum_John,Tipsarevic_Janko,Tipsarevic_Janko,Shanghai,2004,10,03,6-1_6-4
 Shanghai,2,2004,10,03,1,Pless_Kristian,Rochus_Christophe,Pless_Kristian,Shanghai,2004,10,03,4-6_7-5_6-0
 Shanghai,2,2004,10,03,1,GarciaLopez_Guillermo,Canas_Guillermo,Canas_Guillermo,Shanghai,2004,10,03,7-6(1)_6-3
 Shanghai,2,2004,10,03,1,Gambill_JanMichael,Klec_Ivo,Gambill_JanMichael,Shanghai,2004,10,03,6-4_6-3
 Shanghai,2,2004,10,03,1,Zib_Tomas,Zhu_BenQiang,Zhu_BenQiang,Shanghai,2004,10,03,1-6_6-4_6-4
-Shanghai,2,2004,10,03,1,Vacek_Jan,Van_GemerdenMelle,Van_GemerdenMelle,Shanghai,2004,10,03,6-4_6-2
+Shanghai,2,2004,10,03,1,Vacek_Jan,Van_Gemerden_Melle,Van_Gemerden_Melle,Shanghai,2004,10,03,6-4_6-2
 Shanghai,2,2004,10,03,1,Lu_YenHsun,Novak_Jiri,Novak_Jiri,Shanghai,2004,10,03,6-2_6-2
 Shanghai,2,2004,10,03,2,RogerVasselin_Edouard,Burgsmuller_Lars,Burgsmuller_Lars,Shanghai,2004,10,03,6-3_6-2
 Shanghai,2,2004,10,03,2,Sanguinetti_Davide,Nieminen_Jarkko,Sanguinetti_Davide,Shanghai,2004,10,03,6-4_7-5
@@ -21,7 +21,7 @@ Shanghai,2,2004,10,03,2,Carlsen_Kenneth,Arthurs_Wayne,Carlsen_Kenneth,Shanghai,2
 Shanghai,2,2004,10,03,2,Mello_Ricardo,Tipsarevic_Janko,Mello_Ricardo,Shanghai,2004,10,03,1-6_7-6(3)_6-4
 Shanghai,2,2004,10,03,2,Pless_Kristian,Canas_Guillermo,Canas_Guillermo,Shanghai,2004,10,03,6-2_4-6_6-4
 Shanghai,2,2004,10,03,2,Gambill_JanMichael,Zhu_BenQiang,Gambill_JanMichael,Shanghai,2004,10,03,6-0_7-6(5)
-Shanghai,2,2004,10,03,2,Van_GemerdenMelle,Novak_Jiri,Novak_Jiri,Shanghai,2004,10,03,6-4_6-7(5)_6-1
+Shanghai,2,2004,10,03,2,Van_Gemerden_Melle,Novak_Jiri,Novak_Jiri,Shanghai,2004,10,03,6-4_6-7(5)_6-1
 Shanghai,2,2004,10,03,3,Burgsmuller_Lars,Sanguinetti_Davide,Burgsmuller_Lars,Shanghai,2004,10,03,6-3_6-7(5)_7-6(6)
 Shanghai,2,2004,10,03,3,Muller_Gilles,Carlsen_Kenneth,Carlsen_Kenneth,Shanghai,2004,10,03,7-6(5)_6-1
 Shanghai,2,2004,10,03,3,Mello_Ricardo,Canas_Guillermo,Canas_Guillermo,Shanghai,2004,10,03,6-3_6-4

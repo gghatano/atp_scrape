@@ -3,7 +3,7 @@ Bologna,2,1985,06,16,1,Campos_Dacio,Tous_Alberto,Tous_Alberto,Bologna,1985,06,16
 Bologna,2,1985,06,16,1,Alexander_John,Portes_Pascal,Portes_Pascal,Bologna,1985,06,16,6-1_6-4
 Bologna,2,1985,06,16,1,Kuharszky_Zoltan,Barbosa_Givaldo,Kuharszky_Zoltan,Bologna,1985,06,16,3-6_6-1_7-6
 Bologna,2,1985,06,16,1,Panatta_Claudio,Gasparini_Luca,Panatta_Claudio,Bologna,1985,06,16,6-1_6-2
-Bologna,2,1985,06,16,1,Limberger_Carl,Viver_RaulAntonio,Viver_RaulAntonio,Bologna,1985,06,16,6-4_6-2
+Bologna,2,1985,06,16,1,Limberger_Carl,Viver_Raul_Antonio,Viver_Raul_Antonio,Bologna,1985,06,16,6-4_6-2
 Bologna,2,1985,06,16,1,Aprili_Corrado,Colombo_Simone,Colombo_Simone,Bologna,1985,06,16,4-6_6-2_6-1
 Bologna,2,1985,06,16,1,Narducci_Massimiliano,Perez_Diego,Narducci_Massimiliano,Bologna,1985,06,16,6-4_6-2
 Bologna,2,1985,06,16,1,Luna_Fernando,Cierro_Massimo,Luna_Fernando,Bologna,1985,06,16,5-7_6-3_6-1
@@ -11,12 +11,12 @@ Bologna,2,1985,06,16,1,Agenor_Ronald,Cane_Paolo,Agenor_Ronald,Bologna,1985,06,16
 Bologna,2,1985,06,16,1,Miniussi_Christian,Elter_Peter,Elter_Peter,Bologna,1985,06,16,6-2_6-4
 Bologna,2,1985,06,16,1,Arrese_Jordi,Tulasne_Thierry,Tulasne_Thierry,Bologna,1985,06,16,6-4_6-3
 Bologna,2,1985,06,16,1,Keretic_Damir,Bottazzi_Luca,Keretic_Damir,Bologna,1985,06,16,4-6_6-4_6-0
-Bologna,2,1985,06,16,1,De_MinicisAlessandro,Kley_Ivan,Kley_Ivan,Bologna,1985,06,16,6-3_6-7_6-4
+Bologna,2,1985,06,16,1,De_Minicis_Alessandro,Kley_Ivan,Kley_Ivan,Bologna,1985,06,16,6-3_6-7_6-4
 Bologna,2,1985,06,16,1,Yunis_Francisco,Mezzadri_Claudio,Mezzadri_Claudio,Bologna,1985,06,16,6-2_6-1
 Bologna,2,1985,06,16,1,Prpic_Goran,Vilas_Guillermo,Prpic_Goran,Bologna,1985,06,16,6-3_6-4
 Bologna,2,1985,06,16,2,Hocevar_Marcos,Tous_Alberto,Tous_Alberto,Bologna,1985,06,16,6-4_7-5
 Bologna,2,1985,06,16,2,Portes_Pascal,Kuharszky_Zoltan,Kuharszky_Zoltan,Bologna,1985,06,16,6-3_7-6
-Bologna,2,1985,06,16,2,Panatta_Claudio,Viver_RaulAntonio,Panatta_Claudio,Bologna,1985,06,16,4-6_7-6_6-3
+Bologna,2,1985,06,16,2,Panatta_Claudio,Viver_Raul_Antonio,Panatta_Claudio,Bologna,1985,06,16,4-6_7-6_6-3
 Bologna,2,1985,06,16,2,Colombo_Simone,Narducci_Massimiliano,Narducci_Massimiliano,Bologna,1985,06,16,6-2_6-3
 Bologna,2,1985,06,16,2,Luna_Fernando,Agenor_Ronald,Agenor_Ronald,Bologna,1985,06,16,7-6_6-3
 Bologna,2,1985,06,16,2,Elter_Peter,Tulasne_Thierry,Tulasne_Thierry,Bologna,1985,06,16,6-2_6-3

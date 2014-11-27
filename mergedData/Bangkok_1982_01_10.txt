@@ -1,7 +1,7 @@
 Bangkok,2,1982,01,10,1,Amritraj_Vijay,Stefanki_Larry,Amritraj_Vijay,Bangkok,1982,01,10,6-4_6-3
 Bangkok,2,1982,01,10,1,Frawley_Rod,Drewett_Brad,Frawley_Rod,Bangkok,1982,01,10,7-6_7-6
 Bangkok,2,1982,01,10,1,Wilborts_Eric,Jarryd_Anders,Jarryd_Anders,Bangkok,1982,01,10,6-4_6-2
-Bangkok,2,1982,01,10,1,Vant_HofRobert,Lewis_NZLChris,Lewis_NZLChris,Bangkok,1982,01,10,6-2_6-3
+Bangkok,2,1982,01,10,1,Vant_Hof_Robert,Lewis_NZL_Chris,Lewis_NZL_Chris,Bangkok,1982,01,10,6-2_6-3
 Bangkok,2,1982,01,10,1,Scanlon_Bill,Pladchunil_Panomkorn,Scanlon_Bill,Bangkok,1982,01,10,6-3_6-1
 Bangkok,2,1982,01,10,1,Mayotte_Chris,Reininger_Robert,Mayotte_Chris,Bangkok,1982,01,10,6-4_3-6_7-6
 Bangkok,2,1982,01,10,1,Smith_Jonathan,Feigl_Peter,Smith_Jonathan,Bangkok,1982,01,10,7-6_6-0
@@ -15,7 +15,7 @@ Bangkok,2,1982,01,10,1,Uamongkol_Sombat,Bourne_Lloyd,Bourne_Lloyd,Bangkok,1982,0
 Bangkok,2,1982,01,10,1,Hansson_Hans,Krishnan_Ramesh,Krishnan_Ramesh,Bangkok,1982,01,10,6-3_7-6
 Bangkok,2,1982,01,10,1,Simonsson_Hans,Edmondson_Mark,Edmondson_Mark,Bangkok,1982,01,10,6-3_3-6_6-3
 Bangkok,2,1982,01,10,2,Amritraj_Vijay,Frawley_Rod,Amritraj_Vijay,Bangkok,1982,01,10,6-3_6-4
-Bangkok,2,1982,01,10,2,Jarryd_Anders,Lewis_NZLChris,Jarryd_Anders,Bangkok,1982,01,10,6-1_6-2
+Bangkok,2,1982,01,10,2,Jarryd_Anders,Lewis_NZL_Chris,Jarryd_Anders,Bangkok,1982,01,10,6-1_6-2
 Bangkok,2,1982,01,10,2,Scanlon_Bill,Mayotte_Chris,Scanlon_Bill,Bangkok,1982,01,10,6-2_6-1
 Bangkok,2,1982,01,10,2,Smith_Jonathan,Austin_John,Austin_John,Bangkok,1982,01,10,6-4_7-5
 Bangkok,2,1982,01,10,2,Nystrom_Joakim,Wilander_Mats,Wilander_Mats,Bangkok,1982,01,10,6-2_6-0

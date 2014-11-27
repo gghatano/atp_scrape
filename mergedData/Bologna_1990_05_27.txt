@@ -11,8 +11,8 @@ Bologna,2,1990,05,27,1,Pereira_Nicolas,Witsken_Todd,Witsken_Todd,Bologna,1990,05
 Bologna,2,1990,05,27,1,Motta_Cassio,Camporese_Omar,Camporese_Omar,Bologna,1990,05,27,6-0_6-2
 Bologna,2,1990,05,27,1,Nargiso_Diego,Davin_Franco,Davin_Franco,Bologna,1990,05,27,6-4_6-4
 Bologna,2,1990,05,27,1,Cane_Paolo,Furlan_Renzo,Cane_Paolo,Bologna,1990,05,27,6-2_3-6_6-3
-Bologna,2,1990,05,27,1,Altur_JoseFrancisco,Duncan_Lawson,Duncan_Lawson,Bologna,1990,05,27,6-3_6-0
-Bologna,2,1990,05,27,1,De_LaPenaHoracio,Mordegan_Federico,De_LaPenaHoracio,Bologna,1990,05,27,6-3_6-3
+Bologna,2,1990,05,27,1,Altur_Jose_Francisco,Duncan_Lawson,Duncan_Lawson,Bologna,1990,05,27,6-3_6-0
+Bologna,2,1990,05,27,1,De_La_Pena_Horacio,Mordegan_Federico,De_La_Pena_Horacio,Bologna,1990,05,27,6-3_6-3
 Bologna,2,1990,05,27,1,Bloom_Gilad,Rosset_Marc,Rosset_Marc,Bologna,1990,05,27,6-2_3-6_6-1
 Bologna,2,1990,05,27,2,PerezRoldan_Guillermo,Daufresne_Xavier,PerezRoldan_Guillermo,Bologna,1990,05,27,6-0_6-0
 Bologna,2,1990,05,27,2,Pistolesi_Claudio,Fromberg_Richard,Fromberg_Richard,Bologna,1990,05,27,3-6_6-0_6-3
@@ -21,7 +21,7 @@ Bologna,2,1990,05,27,2,Pugh_Jim,Potier_Jerome,Potier_Jerome,Bologna,1990,05,27,6
 Bologna,2,1990,05,27,2,Strelba_Martin,Witsken_Todd,Witsken_Todd,Bologna,1990,05,27,7-6_6-1
 Bologna,2,1990,05,27,2,Camporese_Omar,Davin_Franco,Davin_Franco,Bologna,1990,05,27,1-6_7-5_7-5
 Bologna,2,1990,05,27,2,Cane_Paolo,Duncan_Lawson,Duncan_Lawson,Bologna,1990,05,27,7-5_6-3
-Bologna,2,1990,05,27,2,De_LaPenaHoracio,Rosset_Marc,Rosset_Marc,Bologna,1990,05,27,7-6_3-6_6-4
+Bologna,2,1990,05,27,2,De_La_Pena_Horacio,Rosset_Marc,Rosset_Marc,Bologna,1990,05,27,7-6_3-6_6-4
 Bologna,2,1990,05,27,3,PerezRoldan_Guillermo,Fromberg_Richard,Fromberg_Richard,Bologna,1990,05,27,6-0_1-6_6-4
 Bologna,2,1990,05,27,3,Tulasne_Thierry,Potier_Jerome,Potier_Jerome,Bologna,1990,05,27,7-5_1-0_RET
 Bologna,2,1990,05,27,3,Witsken_Todd,Davin_Franco,Davin_Franco,Bologna,1990,05,27,6-4_6-0

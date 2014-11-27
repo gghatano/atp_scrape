@@ -1,7 +1,7 @@
 Copa_Claro,2,2012,02,26,1,Ferrer_David,Molteni_Andres,Ferrer_David,Copa_Claro,2012,02,26,6-1_6-0
 Copa_Claro,2,2012,02,26,1,Bagnis_Facundo,Mayer_Leonardo,Bagnis_Facundo,Copa_Claro,2012,02,26,5-7_6-4_6-2
 Copa_Claro,2,2012,02,26,1,Gonzalez_Fernando,Montanes_Albert,Gonzalez_Fernando,Copa_Claro,2012,02,26,7-5_1-0_RET
-Copa_Claro,2,2012,02,26,1,RamosVinolas_Albert,Chela_JuanIgnacio,RamosVinolas_Albert,Copa_Claro,2012,02,26,4-6_6-3_6-4
+Copa_Claro,2,2012,02,26,1,RamosVinolas_Albert,Chela_Juan_Ignacio,RamosVinolas_Albert,Copa_Claro,2012,02,26,4-6_6-3_6-4
 Copa_Claro,2,2012,02,26,1,Simon_Gilles,Machado_Rui,Simon_Gilles,Copa_Claro,2012,02,26,6-3_7-5
 Copa_Claro,2,2012,02,26,1,Berlocq_Carlos,Riba_Pere,Berlocq_Carlos,Copa_Claro,2012,02,26,6-7(5)_6-0_6-0
 Copa_Claro,2,2012,02,26,1,Nalbandian_David,Odesnik_Wayne,Nalbandian_David,Copa_Claro,2012,02,26,6-2_6-3
@@ -9,7 +9,7 @@ Copa_Claro,2,2012,02,26,1,Volandri_Filippo,Monaco_Juan,Monaco_Juan,Copa_Claro,20
 Copa_Claro,2,2012,02,26,1,Wawrinka_Stan,Zeballos_Horacio,Wawrinka_Stan,Copa_Claro,2012,02,26,6-3_6-4
 Copa_Claro,2,2012,02,26,1,Paire_Benoit,Marti_Javier,Paire_Benoit,Copa_Claro,2012,02,26,2-6_7-6(0)_6-2
 Copa_Claro,2,2012,02,26,1,Hanescu_Victor,Andujar_Pablo,Hanescu_Victor,Copa_Claro,2012,02,26,6-3_4-6_7-6(4)
-Copa_Claro,2,2012,02,26,1,Ferrero_JuanCarlos,Nishikori_Kei,Nishikori_Kei,Copa_Claro,2012,02,26,7-5_3-6_6-2
+Copa_Claro,2,2012,02,26,1,Ferrero_Juan_Carlos,Nishikori_Kei,Nishikori_Kei,Copa_Claro,2012,02,26,7-5_3-6_6-2
 Copa_Claro,2,2012,02,26,1,Verdasco_Fernando,Prodon_Eric,Verdasco_Fernando,Copa_Claro,2012,02,26,6-4_6-1
 Copa_Claro,2,2012,02,26,1,Kavcic_Blaz,Andreev_Igor,Andreev_Igor,Copa_Claro,2012,02,26,6-2_6-2
 Copa_Claro,2,2012,02,26,1,Gil_Frederico,Delbonis_Federico,Delbonis_Federico,Copa_Claro,2012,02,26,6-2_6-2

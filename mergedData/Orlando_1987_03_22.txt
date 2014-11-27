@@ -11,7 +11,7 @@ Orlando,2,1987,03,22,1,Annacone_Paul,Purcell_Mel,Annacone_Paul,Orlando,1987,03,2
 Orlando,2,1987,03,22,1,Ross_John,Steyn_Christo,Steyn_Christo,Orlando,1987,03,22,6-4_6-1
 Orlando,2,1987,03,22,1,Berger_Jay,Mayotte_Tim,Mayotte_Tim,Orlando,1987,03,22,6-4_7-6
 Orlando,2,1987,03,22,1,Krickstein_Aaron,Davis_Scott,Davis_Scott,Orlando,1987,03,22,6-3_6-0
-Orlando,2,1987,03,22,1,Van_RensburgChristo,Giammalva_JrSammy,Van_RensburgChristo,Orlando,1987,03,22,6-3_6-4
+Orlando,2,1987,03,22,1,Van_Rensburg_Christo,Giammalva_Jr_Sammy,Van_Rensburg_Christo,Orlando,1987,03,22,6-3_6-4
 Orlando,2,1987,03,22,1,Rostagno_Derrick,Layendecker_Glenn,Rostagno_Derrick,Orlando,1987,03,22,6-3_6-4
 Orlando,2,1987,03,22,1,Pearce_Brad,Gomez_Andres,Gomez_Andres,Orlando,1987,03,22,6-3_6-3
 Orlando,2,1987,03,22,2,Connors_Jimmy,Holmes_Greg,Connors_Jimmy,Orlando,1987,03,22,6-2_7-6
@@ -20,12 +20,12 @@ Orlando,2,1987,03,22,2,Gilbert_Brad,Anger_Matt,Gilbert_Brad,Orlando,1987,03,22,6
 Orlando,2,1987,03,22,2,Freeman_Marcel,Witsken_Todd,Freeman_Marcel,Orlando,1987,03,22,6-7_6-1_7-5
 Orlando,2,1987,03,22,2,Teltscher_Eliot,Annacone_Paul,Annacone_Paul,Orlando,1987,03,22,4-6_6-3_6-4
 Orlando,2,1987,03,22,2,Steyn_Christo,Mayotte_Tim,Mayotte_Tim,Orlando,1987,03,22,6-4_7-5
-Orlando,2,1987,03,22,2,Davis_Scott,Van_RensburgChristo,Van_RensburgChristo,Orlando,1987,03,22,6-0_6-1
+Orlando,2,1987,03,22,2,Davis_Scott,Van_Rensburg_Christo,Van_Rensburg_Christo,Orlando,1987,03,22,6-0_6-1
 Orlando,2,1987,03,22,2,Rostagno_Derrick,Gomez_Andres,Rostagno_Derrick,Orlando,1987,03,22,6-2_6-3
 Orlando,2,1987,03,22,3,Connors_Jimmy,Wilkison_Tim,Connors_Jimmy,Orlando,1987,03,22,6-2_5-2_RET
 Orlando,2,1987,03,22,3,Gilbert_Brad,Freeman_Marcel,Gilbert_Brad,Orlando,1987,03,22,4-6_6-3_6-1
 Orlando,2,1987,03,22,3,Annacone_Paul,Mayotte_Tim,Mayotte_Tim,Orlando,1987,03,22,6-1_7-5
-Orlando,2,1987,03,22,3,Van_RensburgChristo,Rostagno_Derrick,Van_RensburgChristo,Orlando,1987,03,22,2-6_6-1_7-5
+Orlando,2,1987,03,22,3,Van_Rensburg_Christo,Rostagno_Derrick,Van_Rensburg_Christo,Orlando,1987,03,22,2-6_6-1_7-5
 Orlando,2,1987,03,22,4,Connors_Jimmy,Gilbert_Brad,Connors_Jimmy,Orlando,1987,03,22,3-6_6-4_6-2
-Orlando,2,1987,03,22,4,Mayotte_Tim,Van_RensburgChristo,Van_RensburgChristo,Orlando,1987,03,22,2-6_7-6_6-4
-Orlando,2,1987,03,22,5,Connors_Jimmy,Van_RensburgChristo,Van_RensburgChristo,Orlando,1987,03,22,6-3_3-6_6-1
+Orlando,2,1987,03,22,4,Mayotte_Tim,Van_Rensburg_Christo,Van_Rensburg_Christo,Orlando,1987,03,22,2-6_7-6_6-4
+Orlando,2,1987,03,22,5,Connors_Jimmy,Van_Rensburg_Christo,Van_Rensburg_Christo,Orlando,1987,03,22,6-3_3-6_6-1

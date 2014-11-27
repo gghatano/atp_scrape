@@ -9,7 +9,7 @@ Boston,2,1979,07,08,1,Grant_Michael,Amritraj_Vijay,Amritraj_Vijay,Boston,1979,07
 Boston,2,1979,07,08,1,Taroczy_Balazs,Marks_John,Taroczy_Balazs,Boston,1979,07,08,6-4_7-5
 Boston,2,1979,07,08,1,Slozil_Pavel,Amritraj_Ashok,Slozil_Pavel,Boston,1979,07,08,7-6_7-5
 Boston,2,1979,07,08,1,Garcia_Tim,James_John,James_John,Boston,1979,07,08,6-3_6-4
-Boston,2,1979,07,08,1,Nunez_Juan,Mottram_BusterC,Mottram_BusterC,Boston,1979,07,08,6-2_6-0
+Boston,2,1979,07,08,1,Nunez_Juan,Mottram_Buster_C,Mottram_Buster_C,Boston,1979,07,08,6-2_6-0
 Boston,2,1979,07,08,1,Warwick_Kim,Lapidus_Jay,Lapidus_Jay,Boston,1979,07,08,6-2_7-5
 Boston,2,1979,07,08,1,Ismail_Haroon,Fromm_Eric,Fromm_Eric,Boston,1979,07,08,6-3_6-1
 Boston,2,1979,07,08,1,McNamee_Paul,Girle_Warren,McNamee_Paul,Boston,1979,07,08,7-6_6-2
@@ -20,12 +20,12 @@ Boston,2,1979,07,08,1,Molina_Ivan,Stansbury_Cary,Molina_Ivan,Boston,1979,07,08,6
 Boston,2,1979,07,08,1,Gildemeister_Heinz,Case_Ross,Case_Ross,Boston,1979,07,08,6-1_7-5
 Boston,2,1979,07,08,1,Gunthardt_Heinz,Campbell_Peter,Gunthardt_Heinz,Boston,1979,07,08,6-4_6-3
 Boston,2,1979,07,08,1,Edmondson_Mark,Joubert_Deon,Joubert_Deon,Boston,1979,07,08,6-2_6-1
-Boston,2,1979,07,08,1,Norback_Jan,Malin_GeneStuart,Norback_Jan,Boston,1979,07,08,6-1_7-6
+Boston,2,1979,07,08,1,Norback_Jan,Malin_Gene_Stuart,Norback_Jan,Boston,1979,07,08,6-1_7-6
 Boston,2,1979,07,08,1,Fritz_Harry,Orantes_Manuel,Orantes_Manuel,Boston,1979,07,08,6-1_6-1
 Boston,2,1979,07,08,1,Lendl_Ivan,Fagel_Rick,Lendl_Ivan,Boston,1979,07,08,6-4_7-6
 Boston,2,1979,07,08,1,Krulevitz_Steve,Benavides_Ramiro,Krulevitz_Steve,Boston,1979,07,08,6-3_7-5
 Boston,2,1979,07,08,1,Mayotte_Tim,Phillips_Noel,Phillips_Noel,Boston,1979,07,08,6-3_6-3
-Boston,2,1979,07,08,1,Parun_Onny,Lewis_NZLChris,Lewis_NZLChris,Boston,1979,07,08,7-6_6-3
+Boston,2,1979,07,08,1,Parun_Onny,Lewis_NZL_Chris,Lewis_NZL_Chris,Boston,1979,07,08,7-6_6-3
 Boston,2,1979,07,08,1,Gildemeister_Hans,Montano_Emilio,Gildemeister_Hans,Boston,1979,07,08,6-3_6-3
 Boston,2,1979,07,08,1,Schneider_David,Iskersky_Erick,Iskersky_Erick,Boston,1979,07,08,7-6_6-1
 Boston,2,1979,07,08,1,Carter_David,Gattiker_Carlos,Carter_David,Boston,1979,07,08,6-3_6-2
@@ -35,7 +35,7 @@ Boston,2,1979,07,08,2,Dilouie_Jai,Moor_Terry,Moor_Terry,Boston,1979,07,08,6-3_6-
 Boston,2,1979,07,08,2,Kodes_Jan,Lloyd_John,Lloyd_John,Boston,1979,07,08,6-4_6-1
 Boston,2,1979,07,08,2,Palin_Leo,Amritraj_Vijay,Amritraj_Vijay,Boston,1979,07,08,6-3_7-6
 Boston,2,1979,07,08,2,Taroczy_Balazs,Slozil_Pavel,Slozil_Pavel,Boston,1979,07,08,6-2_6-1
-Boston,2,1979,07,08,2,James_John,Mottram_BusterC,James_John,Boston,1979,07,08,7-5_6-2
+Boston,2,1979,07,08,2,James_John,Mottram_Buster_C,James_John,Boston,1979,07,08,7-5_6-2
 Boston,2,1979,07,08,2,Lapidus_Jay,Fromm_Eric,Lapidus_Jay,Boston,1979,07,08,6-3_5-4_RET
 Boston,2,1979,07,08,2,McNamee_Paul,Smid_Tomas,Smid_Tomas,Boston,1979,07,08,6-4_7-6
 Boston,2,1979,07,08,2,Kriek_Johan,Menon_Sashi,Kriek_Johan,Boston,1979,07,08,W/O
@@ -43,7 +43,7 @@ Boston,2,1979,07,08,2,Molina_Ivan,Case_Ross,Case_Ross,Boston,1979,07,08,6-3_6-4
 Boston,2,1979,07,08,2,Gunthardt_Heinz,Joubert_Deon,Gunthardt_Heinz,Boston,1979,07,08,7-6_5-7_6-4
 Boston,2,1979,07,08,2,Norback_Jan,Orantes_Manuel,Orantes_Manuel,Boston,1979,07,08,W/O
 Boston,2,1979,07,08,2,Lendl_Ivan,Krulevitz_Steve,Lendl_Ivan,Boston,1979,07,08,6-3_6-2
-Boston,2,1979,07,08,2,Phillips_Noel,Lewis_NZLChris,Lewis_NZLChris,Boston,1979,07,08,7-5_6-1
+Boston,2,1979,07,08,2,Phillips_Noel,Lewis_NZL_Chris,Lewis_NZL_Chris,Boston,1979,07,08,7-5_6-1
 Boston,2,1979,07,08,2,Gildemeister_Hans,Iskersky_Erick,Gildemeister_Hans,Boston,1979,07,08,6-2_7-5
 Boston,2,1979,07,08,2,Carter_David,Cahill_Mike,Cahill_Mike,Boston,1979,07,08,6-2_4-6_6-0
 Boston,2,1979,07,08,3,Higueras_Jose,Moor_Terry,Higueras_Jose,Boston,1979,07,08,6-3_6-3
@@ -52,7 +52,7 @@ Boston,2,1979,07,08,3,Slozil_Pavel,James_John,Slozil_Pavel,Boston,1979,07,08,6-3
 Boston,2,1979,07,08,3,Lapidus_Jay,Smid_Tomas,Smid_Tomas,Boston,1979,07,08,7-5_6-1
 Boston,2,1979,07,08,3,Kriek_Johan,Case_Ross,Kriek_Johan,Boston,1979,07,08,6-2_6-4
 Boston,2,1979,07,08,3,Gunthardt_Heinz,Orantes_Manuel,Orantes_Manuel,Boston,1979,07,08,6-3_6-4
-Boston,2,1979,07,08,3,Lendl_Ivan,Lewis_NZLChris,Lendl_Ivan,Boston,1979,07,08,3-6_6-3_6-0
+Boston,2,1979,07,08,3,Lendl_Ivan,Lewis_NZL_Chris,Lendl_Ivan,Boston,1979,07,08,3-6_6-3_6-0
 Boston,2,1979,07,08,3,Gildemeister_Hans,Cahill_Mike,Gildemeister_Hans,Boston,1979,07,08,6-2_6-3
 Boston,2,1979,07,08,4,Higueras_Jose,Amritraj_Vijay,Higueras_Jose,Boston,1979,07,08,6-2_6-7_6-2
 Boston,2,1979,07,08,4,Slozil_Pavel,Smid_Tomas,Smid_Tomas,Boston,1979,07,08,6-3_3-6_6-2

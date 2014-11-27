@@ -5,7 +5,7 @@ Venice,2,1981,07,05,1,Maynetto_Fernando,Cano_Ricardo,Cano_Ricardo,Venice,1981,07
 Venice,2,1981,07,05,1,Kirmayr_Carlos,Bertolucci_Paolo,Bertolucci_Paolo,Venice,1981,07,05,7-5_5-7_6-2
 Venice,2,1981,07,05,1,Zugarelli_Antonio,Caujolle_JeanFrancois,Zugarelli_Antonio,Venice,1981,07,05,2-6_6-2_6-4
 Venice,2,1981,07,05,1,Perez_Diego,Rinaldini_Gianluca,Perez_Diego,Venice,1981,07,05,6-4_6-4
-Venice,2,1981,07,05,1,Viver_RaulAntonio,Ycaza_Ricardo,Ycaza_Ricardo,Venice,1981,07,05,6-1_6-3
+Venice,2,1981,07,05,1,Viver_Raul_Antonio,Ycaza_Ricardo,Ycaza_Ricardo,Venice,1981,07,05,6-1_6-3
 Venice,2,1981,07,05,1,Gimenez_Angel,Panatta_Claudio,Panatta_Claudio,Venice,1981,07,05,6-4_6-2
 Venice,2,1981,07,05,1,Hocevar_Marcos,Popp_Wolfgang,Hocevar_Marcos,Venice,1981,07,05,4-6_6-3_6-4
 Venice,2,1981,07,05,1,Simonsson_Stefan,Urpi_Gabriel,Simonsson_Stefan,Venice,1981,07,05,3-6_7-5_6-2

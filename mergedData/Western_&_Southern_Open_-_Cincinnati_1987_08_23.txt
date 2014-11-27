@@ -23,7 +23,7 @@ Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Drewett_Brad,Edwards_Eddie,Dr
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Pfister_Henry,Chamberlin_Paul,Chamberlin_Paul,Western__Southern_Open_-_Cincinnati,1987,08,23,7-5_6-3
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Berger_Jay,Connors_Jimmy,Connors_Jimmy,Western__Southern_Open_-_Cincinnati,1987,08,23,4-6_6-2_6-1
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Gilbert_Brad,Yzaga_Jaime,Gilbert_Brad,Western__Southern_Open_-_Cincinnati,1987,08,23,3-6_6-3_6-4
-Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Van_RensburgChristo,Agenor_Ronald,Van_RensburgChristo,Western__Southern_Open_-_Cincinnati,1987,08,23,6-1_6-4
+Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Van_Rensburg_Christo,Agenor_Ronald,Van_Rensburg_Christo,Western__Southern_Open_-_Cincinnati,1987,08,23,6-1_6-4
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Flach_Ken,Herr_Howard,Herr_Howard,Western__Southern_Open_-_Cincinnati,1987,08,23,7-6_6-1
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Masur_Wally,Curren_Kevin,Masur_Wally,Western__Southern_Open_-_Cincinnati,1987,08,23,6-3_6-2
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,1,Benhabiles_Tarik,Limberger_Carl,Benhabiles_Tarik,Western__Southern_Open_-_Cincinnati,1987,08,23,6-3_7-6
@@ -42,7 +42,7 @@ Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Canter_Jonathan,Purcell_Mel,C
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Odizor_Nduka,Pugh_Jim,Odizor_Nduka,Western__Southern_Open_-_Cincinnati,1987,08,23,7-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Evernden_Kelly,Drewett_Brad,Evernden_Kelly,Western__Southern_Open_-_Cincinnati,1987,08,23,6-2_6-7_6-3
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Chamberlin_Paul,Connors_Jimmy,Connors_Jimmy,Western__Southern_Open_-_Cincinnati,1987,08,23,6-1_6-3
-Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Gilbert_Brad,Van_RensburgChristo,Gilbert_Brad,Western__Southern_Open_-_Cincinnati,1987,08,23,5-2_RET
+Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Gilbert_Brad,Van_Rensburg_Christo,Gilbert_Brad,Western__Southern_Open_-_Cincinnati,1987,08,23,5-2_RET
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Herr_Howard,Masur_Wally,Masur_Wally,Western__Southern_Open_-_Cincinnati,1987,08,23,6-3_6-1
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Benhabiles_Tarik,Krishnan_Ramesh,Benhabiles_Tarik,Western__Southern_Open_-_Cincinnati,1987,08,23,7-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1987,08,23,2,Hlasek_Jakob,Edberg_Stefan,Edberg_Stefan,Western__Southern_Open_-_Cincinnati,1987,08,23,7-6_7-5

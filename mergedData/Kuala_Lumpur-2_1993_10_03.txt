@@ -12,7 +12,7 @@ Kuala_Lumpur-2,2,1993,10,03,1,Antonitsch_Alex,Ramachandran_Ramayah,Antonitsch_Al
 Kuala_Lumpur-2,2,1993,10,03,1,Haarhuis_Paul,Holm_Henrik,Haarhuis_Paul,Kuala_Lumpur-2,1993,10,03,6-4_6-4
 Kuala_Lumpur-2,2,1993,10,03,1,Stoltenberg_Jason,Bjorkman_Jonas,Bjorkman_Jonas,Kuala_Lumpur-2,1993,10,03,6-4_2-0_RET
 Kuala_Lumpur-2,2,1993,10,03,1,Bailey_Chris,Denman_Heath,Bailey_Chris,Kuala_Lumpur-2,1993,10,03,6-3_6-4
-Kuala_Lumpur-2,2,1993,10,03,1,Weiss_Robbie,Van_RensburgChristo,Weiss_Robbie,Kuala_Lumpur-2,1993,10,03,6-0_3-6_6-2
+Kuala_Lumpur-2,2,1993,10,03,1,Weiss_Robbie,Van_Rensburg_Christo,Weiss_Robbie,Kuala_Lumpur-2,1993,10,03,6-0_3-6_6-2
 Kuala_Lumpur-2,2,1993,10,03,1,Yamamoto_Yasufumi,Chang_Michael,Chang_Michael,Kuala_Lumpur-2,1993,10,03,7-5_6-2
 Kuala_Lumpur-2,2,1993,10,03,2,Courier_Jim,Eltingh_Jacco,Eltingh_Jacco,Kuala_Lumpur-2,1993,10,03,6-4_6-3
 Kuala_Lumpur-2,2,1993,10,03,2,Thorne_Kenny,Svensson_Jonas,Svensson_Jonas,Kuala_Lumpur-2,1993,10,03,6-2_6-4

@@ -1,13 +1,13 @@
 Bologna,2,1996,06,23,1,Costa_Carlos,Arrese_Jordi,Costa_Carlos,Bologna,1996,06,23,6-4_6-3
 Bologna,2,1996,06,23,1,PerezRoldan_Guillermo,Diaz_Jacobo,Diaz_Jacobo,Bologna,1996,06,23,6-1_6-3
-Bologna,2,1996,06,23,1,VilocaPuig_JuanAlbert,Szymanski_Jimy,Szymanski_Jimy,Bologna,1996,06,23,6-4_6-2
+Bologna,2,1996,06,23,1,VilocaPuig_Juan_Albert,Szymanski_Jimy,Szymanski_Jimy,Bologna,1996,06,23,6-4_6-2
 Bologna,2,1996,06,23,1,Baur_Patrick,Mantilla_Felix,Mantilla_Felix,Bologna,1996,06,23,7-6(4)_6-2
 Bologna,2,1996,06,23,1,Ulihrach_Bohdan,Roux_Lionel,Ulihrach_Bohdan,Bologna,1996,06,23,7-6(4)_6-4
 Bologna,2,1996,06,23,1,Wiltschnig_Herbert,Fromberg_Richard,Fromberg_Richard,Bologna,1996,06,23,3-6_6-1_6-4
 Bologna,2,1996,06,23,1,Camporese_Omar,Sanchez_Javier,Sanchez_Javier,Bologna,1996,06,23,6-4_6-4
 Bologna,2,1996,06,23,1,Arazi_Hicham,Medvedev_Andrei,Arazi_Hicham,Bologna,1996,06,23,6-4_3-6_6-3
 Bologna,2,1996,06,23,1,Berasategui_Alberto,Noszaly_Sandor,Berasategui_Alberto,Bologna,1996,06,23,3-6_7-6(3)_6-0
-Bologna,2,1996,06,23,1,Blanco_Galo,El_AynaouiYounes,Blanco_Galo,Bologna,1996,06,23,6-3_6-2
+Bologna,2,1996,06,23,1,Blanco_Galo,El_Aynaoui_Younes,Blanco_Galo,Bologna,1996,06,23,6-3_6-2
 Bologna,2,1996,06,23,1,Caratti_Cristiano,Chesnokov_Andrei,Chesnokov_Andrei,Bologna,1996,06,23,7-5_6-1
 Bologna,2,1996,06,23,1,Gilbert_Rodolphe,Schaller_Gilbert,Schaller_Gilbert,Bologna,1996,06,23,7-5_6-4
 Bologna,2,1996,06,23,1,Dewulf_Filip,Goossens_Kris,Goossens_Kris,Bologna,1996,06,23,6-4_3-6_6-4

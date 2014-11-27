@@ -2,9 +2,9 @@ Valencia_Open_500,2,1997,09,14,1,Costa_Albert,Vicente_Fernando,Costa_Albert,Vale
 Valencia_Open_500,2,1997,09,14,1,Burillo_Jordi,Sanchez_David,Burillo_Jordi,Valencia_Open_500,1997,09,14,6-4_6-4
 Valencia_Open_500,2,1997,09,14,1,Gaudenzi_Andrea,Navarro_Salvador,Gaudenzi_Andrea,Valencia_Open_500,1997,09,14,6-0_6-2
 Valencia_Open_500,2,1997,09,14,1,Sanchez_Emilio,Raoux_Guillaume,Raoux_Guillaume,Valencia_Open_500,1997,09,14,6-1_6-3
-Valencia_Open_500,2,1997,09,14,1,Portas_Albert,VilocaPuig_JuanAlbert,Portas_Albert,Valencia_Open_500,1997,09,14,3-6_7-5_6-2
+Valencia_Open_500,2,1997,09,14,1,Portas_Albert,VilocaPuig_Juan_Albert,Portas_Albert,Valencia_Open_500,1997,09,14,3-6_7-5_6-2
 Valencia_Open_500,2,1997,09,14,1,Roig_Francisco,Carretero_Roberto,Roig_Francisco,Valencia_Open_500,1997,09,14,6-1_6-0
-Valencia_Open_500,2,1997,09,14,1,Marin_JuanAntonio,Benfele_AlvarezEmilio,Benfele_AlvarezEmilio,Valencia_Open_500,1997,09,14,6-3_6-4
+Valencia_Open_500,2,1997,09,14,1,Marin_Juan_Antonio,Benfele_Alvarez_Emilio,Benfele_Alvarez_Emilio,Valencia_Open_500,1997,09,14,6-3_6-4
 Valencia_Open_500,2,1997,09,14,1,Lozano_Diego,Blanco_Galo,Blanco_Galo,Valencia_Open_500,1997,09,14,6-2_4-6_7-6(2)
 Valencia_Open_500,2,1997,09,14,1,Alami_Karim,Moldovan_Ion,Alami_Karim,Valencia_Open_500,1997,09,14,6-2_6-3
 Valencia_Open_500,2,1997,09,14,1,Craca_Marcello,Schaller_Gilbert,Craca_Marcello,Valencia_Open_500,1997,09,14,3-6_6-2_6-1
@@ -17,7 +17,7 @@ Valencia_Open_500,2,1997,09,14,1,Costa_Carlos,Berasategui_Alberto,Berasategui_Al
 Valencia_Open_500,2,1997,09,14,2,Costa_Albert,Burillo_Jordi,Costa_Albert,Valencia_Open_500,1997,09,14,7-6(4)_6-3
 Valencia_Open_500,2,1997,09,14,2,Gaudenzi_Andrea,Raoux_Guillaume,Gaudenzi_Andrea,Valencia_Open_500,1997,09,14,6-4_6-2
 Valencia_Open_500,2,1997,09,14,2,Portas_Albert,Roig_Francisco,Roig_Francisco,Valencia_Open_500,1997,09,14,6-4_6-3
-Valencia_Open_500,2,1997,09,14,2,Benfele_AlvarezEmilio,Blanco_Galo,Blanco_Galo,Valencia_Open_500,1997,09,14,6-4_6-4
+Valencia_Open_500,2,1997,09,14,2,Benfele_Alvarez_Emilio,Blanco_Galo,Blanco_Galo,Valencia_Open_500,1997,09,14,6-4_6-4
 Valencia_Open_500,2,1997,09,14,2,Alami_Karim,Craca_Marcello,Alami_Karim,Valencia_Open_500,1997,09,14,4-6_6-3_7-5
 Valencia_Open_500,2,1997,09,14,2,Clement_Arnaud,Hrbaty_Dominik,Hrbaty_Dominik,Valencia_Open_500,1997,09,14,6-4_6-4
 Valencia_Open_500,2,1997,09,14,2,Alonso_Julian,Karbacher_Bernd,Alonso_Julian,Valencia_Open_500,1997,09,14,6-4_6-1

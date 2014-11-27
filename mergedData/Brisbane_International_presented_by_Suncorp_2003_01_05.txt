@@ -4,7 +4,7 @@ Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Kennedy_Adam,Vahaly_B
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Reid_Todd,Spadea_Vincent,Spadea_Vincent,Brisbane_International_presented_by_Suncorp,2003,01,05,3-6_6-3_6-3
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Enqvist_Thomas,Vliegen_Kristof,Vliegen_Kristof,Brisbane_International_presented_by_Suncorp,2003,01,05,3-6_6-4_6-3
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Parmar_Arvind,Levy_Harel,Parmar_Arvind,Brisbane_International_presented_by_Suncorp,2003,01,05,6-7(5)_6-4_6-1
-Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Di_PasqualeArnaud,Gasquet_Richard,Gasquet_Richard,Brisbane_International_presented_by_Suncorp,2003,01,05,3-6_6-3_6-4
+Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Di_Pasquale_Arnaud,Gasquet_Richard,Gasquet_Richard,Brisbane_International_presented_by_Suncorp,2003,01,05,3-6_6-3_6-4
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Melzer_Jurgen,Martin_Alberto,Martin_Alberto,Brisbane_International_presented_by_Suncorp,2003,01,05,6-1_6-3
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Zabaleta_Mariano,Waske_Alexander,Zabaleta_Mariano,Brisbane_International_presented_by_Suncorp,2003,01,05,6-1_6-4
 Brisbane_International_presented_by_Suncorp,2,2003,01,05,1,Serra_Florent,Verkerk_Martin,Verkerk_Martin,Brisbane_International_presented_by_Suncorp,2003,01,05,6-3_6-4

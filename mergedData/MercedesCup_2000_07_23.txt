@@ -2,7 +2,7 @@ MercedesCup,2,2000,07,23,1,Norman_Magnus,Phau_Bjorn,Norman_Magnus,MercedesCup,20
 MercedesCup,2,2000,07,23,1,Clavet_Francisco,Elsner_Daniel,Elsner_Daniel,MercedesCup,2000,07,23,6-4_4-6_6-3
 MercedesCup,2,2000,07,23,1,Meligeni_Fernando,Hantschk_Markus,Meligeni_Fernando,MercedesCup,2000,07,23,6-1_6-2
 MercedesCup,2,2000,07,23,1,Novak_Jiri,Hrbaty_Dominik,Novak_Jiri,MercedesCup,2000,07,23,6-3_7-5
-MercedesCup,2,2000,07,23,1,El_AynaouiYounes,Vinck_Christian,El_AynaouiYounes,MercedesCup,2000,07,23,6-1_7-6(8)
+MercedesCup,2,2000,07,23,1,El_Aynaoui_Younes,Vinck_Christian,El_Aynaoui_Younes,MercedesCup,2000,07,23,6-1_7-6(8)
 MercedesCup,2,2000,07,23,1,Kucera_Karol,Dosedel_Slava,Kucera_Karol,MercedesCup,2000,07,23,6-2_6-1
 MercedesCup,2,2000,07,23,1,Hernych_Jan,Goellner_MarcKevin,Goellner_MarcKevin,MercedesCup,2000,07,23,6-1_6-3
 MercedesCup,2,2000,07,23,1,Gonzalez_Fernando,Squillari_Franco,Squillari_Franco,MercedesCup,2000,07,23,6-1_6-3
@@ -16,7 +16,7 @@ MercedesCup,2,2000,07,23,1,Medvedev_Andrei,Karbacher_Bernd,Medvedev_Andrei,Merce
 MercedesCup,2,2000,07,23,1,Boutter_Julien,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,MercedesCup,2000,07,23,7-6(3)_6-7(5)_7-6(6)
 MercedesCup,2,2000,07,23,2,Norman_Magnus,Elsner_Daniel,Elsner_Daniel,MercedesCup,2000,07,23,4-6_7-6(2)_6-4
 MercedesCup,2,2000,07,23,2,Meligeni_Fernando,Novak_Jiri,Novak_Jiri,MercedesCup,2000,07,23,6-3_6-2
-MercedesCup,2,2000,07,23,2,El_AynaouiYounes,Kucera_Karol,Kucera_Karol,MercedesCup,2000,07,23,6-3_6-2
+MercedesCup,2,2000,07,23,2,El_Aynaoui_Younes,Kucera_Karol,Kucera_Karol,MercedesCup,2000,07,23,6-3_6-2
 MercedesCup,2,2000,07,23,2,Goellner_MarcKevin,Squillari_Franco,Squillari_Franco,MercedesCup,2000,07,23,4-6_6-2_6-3
 MercedesCup,2,2000,07,23,2,Haas_Tommy,Schuettler_Rainer,Schuettler_Rainer,MercedesCup,2000,07,23,7-5_2-1_RET
 MercedesCup,2,2000,07,23,2,Ilie_Andrew,Safin_Marat,Ilie_Andrew,MercedesCup,2000,07,23,7-6(4)_7-6(4)

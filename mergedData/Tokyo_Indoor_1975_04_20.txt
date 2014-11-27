@@ -6,10 +6,10 @@ Tokyo_Indoor,2,1975,04,20,1,Smith_Stan,Tezuka_Yuji,Smith_Stan,Tokyo_Indoor,1975,
 Tokyo_Indoor,2,1975,04,20,1,Kamiwazumi_Jun,Stilwell_Graham,Kamiwazumi_Jun,Tokyo_Indoor,1975,04,20,6-1_6-3
 Tokyo_Indoor,2,1975,04,20,1,Sakai_Toshiro,Amritraj_Vijay,Amritraj_Vijay,Tokyo_Indoor,1975,04,20,6-3_7-5
 Tokyo_Indoor,2,1975,04,20,1,Hirai_Kenichi,Stockton_Dick,Stockton_Dick,Tokyo_Indoor,1975,04,20,6-2_6-2
-Tokyo_Indoor,2,1975,04,20,1,Solomon_Harold,Van_DillenErik,Solomon_Harold,Tokyo_Indoor,1975,04,20,6-2_5-7_7-6(5)
+Tokyo_Indoor,2,1975,04,20,1,Solomon_Harold,Van_Dillen_Erik,Solomon_Harold,Tokyo_Indoor,1975,04,20,6-2_5-7_7-6(5)
 Tokyo_Indoor,2,1975,04,20,1,Ishiguro_Osamu,PhillipsMoore_Barry,PhillipsMoore_Barry,Tokyo_Indoor,1975,04,20,6-3_6-2
 Tokyo_Indoor,2,1975,04,20,1,Uehara_A,Holecek_Milan,Holecek_Milan,Tokyo_Indoor,1975,04,20,6-1_6-1
-Tokyo_Indoor,2,1975,04,20,1,Reid_GroverRaz,Lutz_Robert,Lutz_Robert,Tokyo_Indoor,1975,04,20,6-3_6-3
+Tokyo_Indoor,2,1975,04,20,1,Reid_Grover_Raz,Lutz_Robert,Lutz_Robert,Tokyo_Indoor,1975,04,20,6-3_6-3
 Tokyo_Indoor,2,1975,04,20,1,Dent_Phil,Amritraj_Anand,Amritraj_Anand,Tokyo_Indoor,1975,04,20,4-6_7-6(5)_6-4
 Tokyo_Indoor,2,1975,04,20,1,Drysdale_Cliff,Estep_Mike,Drysdale_Cliff,Tokyo_Indoor,1975,04,20,6-1_7-5
 Tokyo_Indoor,2,1975,04,20,1,Simpson_Russell,Gorman_Tom,Simpson_Russell,Tokyo_Indoor,1975,04,20,6-1_4-6_6-4

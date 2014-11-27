@@ -9,7 +9,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Birner_Stanislav,Leconte_Henri,L
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Mezzadri_Claudio,Novacek_Karel,Mezzadri_Claudio,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-1_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Cihak_Josef,Kuhnen_Patrik,Kuhnen_Patrik,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-1_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Vajda_Marian,Oosting_Menno,Vajda_Marian,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-4_6-4
-ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Stankovic_Branislav,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-3_6-1
+ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Stankovic_Branislav,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-3_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Svensson_Jonas,Mattar_Luiz,Svensson_Jonas,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Chamberlin_Paul,Casal_Sergio,Casal_Sergio,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-1_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,1,Pimek_Libor,Cahill_Darren,Pimek_Libor,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-4_6-3
@@ -19,13 +19,13 @@ ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Fibak_Wojtek,Srejber_Milan,Srejb
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Goldie_Dan,Schapers_Michiel,Schapers_Michiel,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-3_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Saceanu_Christian,Leconte_Henri,Saceanu_Christian,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Mezzadri_Claudio,Kuhnen_Patrik,Mezzadri_Claudio,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-1_6-0
-ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Vajda_Marian,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_7-6
+ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Vajda_Marian,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_7-6
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Svensson_Jonas,Casal_Sergio,Svensson_Jonas,ABN_AMRO_World_Tennis_Tournament,1988,02,14,7-6_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,2,Pimek_Libor,Connors_Jimmy,Connors_Jimmy,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,3,Edberg_Stefan,Srejber_Milan,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-4_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,3,Schapers_Michiel,Saceanu_Christian,Schapers_Michiel,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_4-6_7-6
-ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,3,Mezzadri_Claudio,Mecir_SrMiloslav,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_4-6_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,3,Mezzadri_Claudio,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_4-6_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,3,Svensson_Jonas,Connors_Jimmy,Svensson_Jonas,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-3_5-7_7-6
 ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,4,Edberg_Stefan,Schapers_Michiel,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-3_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,4,Mecir_SrMiloslav,Svensson_Jonas,Mecir_SrMiloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,5,Edberg_Stefan,Mecir_SrMiloslav,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1988,02,14,7-6_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,4,Mecir_Sr_Miloslav,Svensson_Jonas,Mecir_Sr_Miloslav,ABN_AMRO_World_Tennis_Tournament,1988,02,14,6-2_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1988,02,14,5,Edberg_Stefan,Mecir_Sr_Miloslav,Edberg_Stefan,ABN_AMRO_World_Tennis_Tournament,1988,02,14,7-6_6-2

@@ -13,7 +13,7 @@ Zaragoza,2,1994,03,20,1,Caratti_Cristiano,Larsson_Magnus,Larsson_Magnus,Zaragoza
 Zaragoza,2,1994,03,20,1,Hlasek_Jakob,Jarryd_Anders,Jarryd_Anders,Zaragoza,1994,03,20,6-3_7-5
 Zaragoza,2,1994,03,20,1,Dier_Dirk,Zoecke_Markus,Zoecke_Markus,Zaragoza,1994,03,20,6-7(5)_6-4_6-2
 Zaragoza,2,1994,03,20,1,Renzenbrink_Joern,Prinosil_David,Prinosil_David,Zaragoza,1994,03,20,7-6(6)_3-6_6-2
-Zaragoza,2,1994,03,20,1,Van_HerckJohan,Svensson_Jonas,Svensson_Jonas,Zaragoza,1994,03,20,6-1_6-4
+Zaragoza,2,1994,03,20,1,Van_Herck_Johan,Svensson_Jonas,Svensson_Jonas,Zaragoza,1994,03,20,6-1_6-4
 Zaragoza,2,1994,03,20,2,Bergstrom_Christian,Rehmann_Lars,Rehmann_Lars,Zaragoza,1994,03,20,6-3_6-4
 Zaragoza,2,1994,03,20,2,Pozzi_Gianluca,Carbonell_Tomas,Pozzi_Gianluca,Zaragoza,1994,03,20,4-6_6-3_7-5
 Zaragoza,2,1994,03,20,2,Kafelnikov_Yevgeny,RasconLope_JuanLuis,Kafelnikov_Yevgeny,Zaragoza,1994,03,20,6-3_6-4

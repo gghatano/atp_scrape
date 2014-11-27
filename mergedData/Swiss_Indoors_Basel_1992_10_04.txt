@@ -7,7 +7,7 @@ Swiss_Indoors_Basel,2,1992,10,04,1,Boetsch_Arnaud,Delaitre_Olivier,Boetsch_Arnau
 Swiss_Indoors_Basel,2,1992,10,04,1,Chesnokov_Andrei,Bahrami_Mansour,Chesnokov_Andrei,Swiss_Indoors_Basel,1992,10,04,6-3_6-4
 Swiss_Indoors_Basel,2,1992,10,04,1,Miniussi_Christian,Gilbert_Brad,Gilbert_Brad,Swiss_Indoors_Basel,1992,10,04,6-1_6-3
 Swiss_Indoors_Basel,2,1992,10,04,1,Novacek_Karel,Mezzadri_Claudio,Mezzadri_Claudio,Swiss_Indoors_Basel,1992,10,04,6-3_6-2
-Swiss_Indoors_Basel,2,1992,10,04,1,Davids_HendrikJan,Lundgren_Peter,Lundgren_Peter,Swiss_Indoors_Basel,1992,10,04,6-7(4)_6-3_6-3
+Swiss_Indoors_Basel,2,1992,10,04,1,Davids_Hendrik_Jan,Lundgren_Peter,Lundgren_Peter,Swiss_Indoors_Basel,1992,10,04,6-7(4)_6-3_6-3
 Swiss_Indoors_Basel,2,1992,10,04,1,Hlasek_Jakob,Svensson_Jonas,Svensson_Jonas,Swiss_Indoors_Basel,1992,10,04,6-1_4-6_6-1
 Swiss_Indoors_Basel,2,1992,10,04,1,Rosset_Marc,Volkov_Alexander,Rosset_Marc,Swiss_Indoors_Basel,1992,10,04,7-6(1)_6-4
 Swiss_Indoors_Basel,2,1992,10,04,1,Mansdorf_Amos,Agenor_Ronald,Mansdorf_Amos,Swiss_Indoors_Basel,1992,10,04,2-6_7-6(3)_6-4

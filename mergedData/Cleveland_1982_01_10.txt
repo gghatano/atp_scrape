@@ -1,7 +1,7 @@
 Cleveland,2,1982,01,10,1,Mayer_Gene,Bauer_Mike,Mayer_Gene,Cleveland,1982,01,10,6-2_6-3
 Cleveland,2,1982,01,10,1,Farrow_Juan,James_John,James_John,Cleveland,1982,01,10,6-4_6-4
 Cleveland,2,1982,01,10,1,Testerman_Ben,Menon_Sashi,Testerman_Ben,Cleveland,1982,01,10,7-5_6-4
-Cleveland,2,1982,01,10,1,Davis_Marty,Van_DillenErik,Van_DillenErik,Cleveland,1982,01,10,6-4_5-7_6-4
+Cleveland,2,1982,01,10,1,Davis_Marty,Van_Dillen_Erik,Van_Dillen_Erik,Cleveland,1982,01,10,6-4_5-7_6-4
 Cleveland,2,1982,01,10,1,Ocleppo_Gianni,Fernandez_Ernie,Fernandez_Ernie,Cleveland,1982,01,10,5-7_7-6_6-3
 Cleveland,2,1982,01,10,1,Harris_Ian,Cain_Tom,Harris_Ian,Cleveland,1982,01,10,4-6_6-2_6-3
 Cleveland,2,1982,01,10,1,Winitsky_Van,McDonald_Matthew,Winitsky_Van,Cleveland,1982,01,10,6-1_6-3
@@ -15,7 +15,7 @@ Cleveland,2,1982,01,10,1,Kures_Michael,Dilouie_Jai,Kures_Michael,Cleveland,1982,
 Cleveland,2,1982,01,10,1,Grant_Michael,Odizor_Nduka,Odizor_Nduka,Cleveland,1982,01,10,6-1_6-3
 Cleveland,2,1982,01,10,1,Dibley_Colin,Fibak_Wojtek,Dibley_Colin,Cleveland,1982,01,10,6-4_2-6_6-3
 Cleveland,2,1982,01,10,2,Mayer_Gene,James_John,Mayer_Gene,Cleveland,1982,01,10,6-1_6-2
-Cleveland,2,1982,01,10,2,Testerman_Ben,Van_DillenErik,Testerman_Ben,Cleveland,1982,01,10,6-1_6-2
+Cleveland,2,1982,01,10,2,Testerman_Ben,Van_Dillen_Erik,Testerman_Ben,Cleveland,1982,01,10,6-1_6-2
 Cleveland,2,1982,01,10,2,Fernandez_Ernie,Harris_Ian,Fernandez_Ernie,Cleveland,1982,01,10,6-4_6-2
 Cleveland,2,1982,01,10,2,Winitsky_Van,Harmon_Rodney,Harmon_Rodney,Cleveland,1982,01,10,4-6_6-3_6-3
 Cleveland,2,1982,01,10,2,Wittus_Craig,Dunk_Chris,Dunk_Chris,Cleveland,1982,01,10,6-2_6-2

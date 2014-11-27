@@ -8,7 +8,7 @@ Schenectady,2,1989,07,23,1,Robertson_Michael,Garner_Chris,Robertson_Michael,Sche
 Schenectady,2,1989,07,23,1,Warner_Scott,Frawley_John,Warner_Scott,Schenectady,1989,07,23,6-3_6-4
 Schenectady,2,1989,07,23,1,Laurendeau_Martin,Ho_Tommy,Laurendeau_Martin,Schenectady,1989,07,23,6-1_6-4
 Schenectady,2,1989,07,23,1,Youl_Simon,Fromberg_Richard,Youl_Simon,Schenectady,1989,07,23,6-2_4-6_7-5
-Schenectady,2,1989,07,23,1,Baguena_JuanCarlos,Burke_Doug,Burke_Doug,Schenectady,1989,07,23,6-2_6-4
+Schenectady,2,1989,07,23,1,Baguena_Juan_Carlos,Burke_Doug,Burke_Doug,Schenectady,1989,07,23,6-2_6-4
 Schenectady,2,1989,07,23,1,Pearce_Brad,Krishnan_Ramesh,Krishnan_Ramesh,Schenectady,1989,07,23,6-3_6-3
 Schenectady,2,1989,07,23,1,Michibata_Glenn,Moir_Barry,Michibata_Glenn,Schenectady,1989,07,23,6-4_6-7_6-4
 Schenectady,2,1989,07,23,1,Kinnear_Kent,Odizor_Nduka,Odizor_Nduka,Schenectady,1989,07,23,4-6_6-4_6-4

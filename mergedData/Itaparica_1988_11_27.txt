@@ -1,7 +1,7 @@
 Itaparica,2,1988,11,27,1,Sanchez_Emilio,Frana_Javier,Frana_Javier,Itaparica,1988,11,27,6-4_6-4
 Itaparica,2,1988,11,27,1,Clavet_Francisco,Hennemann_Marcelo,Hennemann_Marcelo,Itaparica,1988,11,27,6-3_6-0
-Itaparica,2,1988,11,27,1,Viver_RaulAntonio,Perez_Diego,Perez_Diego,Itaparica,1988,11,27,6-1_5-7_7-6
-Itaparica,2,1988,11,27,1,Roig_Francisco,De_LaPenaHoracio,De_LaPenaHoracio,Itaparica,1988,11,27,3-6_7-6_6-4
+Itaparica,2,1988,11,27,1,Viver_Raul_Antonio,Perez_Diego,Perez_Diego,Itaparica,1988,11,27,6-1_5-7_7-6
+Itaparica,2,1988,11,27,1,Roig_Francisco,De_La_Pena_Horacio,De_La_Pena_Horacio,Itaparica,1988,11,27,3-6_7-6_6-4
 Itaparica,2,1988,11,27,1,Krickstein_Aaron,Bengoechea_Eduardo,Krickstein_Aaron,Itaparica,1988,11,27,6-1_3-6_6-0
 Itaparica,2,1988,11,27,1,Sanchez_Javier,Menezes_Mauro,Sanchez_Javier,Itaparica,1988,11,27,6-2_6-2
 Itaparica,2,1988,11,27,1,Roese_Fernando,Motta_Cassio,Motta_Cassio,Itaparica,1988,11,27,7-5_6-1
@@ -15,7 +15,7 @@ Itaparica,2,1988,11,27,1,Jabali_Roberto,Yzaga_Jaime,Yzaga_Jaime,Itaparica,1988,1
 Itaparica,2,1988,11,27,1,Courier_Jim,Kley_Ivan,Courier_Jim,Itaparica,1988,11,27,6-4_6-2
 Itaparica,2,1988,11,27,1,Rebolledo_Pedro,Chesnokov_Andrei,Chesnokov_Andrei,Itaparica,1988,11,27,4-6_7-5_7-6
 Itaparica,2,1988,11,27,2,Frana_Javier,Hennemann_Marcelo,Frana_Javier,Itaparica,1988,11,27,4-6_6-2_7-6
-Itaparica,2,1988,11,27,2,Perez_Diego,De_LaPenaHoracio,Perez_Diego,Itaparica,1988,11,27,6-7_6-2_6-0
+Itaparica,2,1988,11,27,2,Perez_Diego,De_La_Pena_Horacio,Perez_Diego,Itaparica,1988,11,27,6-7_6-2_6-0
 Itaparica,2,1988,11,27,2,Krickstein_Aaron,Sanchez_Javier,Sanchez_Javier,Itaparica,1988,11,27,6-1_7-6
 Itaparica,2,1988,11,27,2,Motta_Cassio,Mancini_Alberto,Mancini_Alberto,Itaparica,1988,11,27,3-6_6-1_7-6
 Itaparica,2,1988,11,27,2,Jaite_Martin,Arraya_Pablo,Jaite_Martin,Itaparica,1988,11,27,7-6_6-2

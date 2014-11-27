@@ -2,7 +2,7 @@ Shanghai,2,2001,09,23,1,Agassi_Andre,Labadze_Irakli,Labadze_Irakli,Shanghai,2001
 Shanghai,2,2001,09,23,1,Gimelstob_Justin,Srichaphan_Paradorn,Gimelstob_Justin,Shanghai,2001,09,23,7-6(6)_3-6_6-4
 Shanghai,2,2001,09,23,1,Koenig_Robbie,Sa_Andre,Sa_Andre,Shanghai,2001,09,23,6-3_2-6_6-2
 Shanghai,2,2001,09,23,1,Carlsen_Kenneth,Calatrava_Alex,Carlsen_Kenneth,Shanghai,2001,09,23,6-4_7-6(1)
-Shanghai,2,2001,09,23,1,Kratochvil_Michel,Wang_YuJr,Kratochvil_Michel,Shanghai,2001,09,23,6-2_6-1
+Shanghai,2,2001,09,23,1,Kratochvil_Michel,Wang_Yu_Jr,Kratochvil_Michel,Shanghai,2001,09,23,6-2_6-1
 Shanghai,2,2001,09,23,1,Luxa_Petr,Bastl_George,Bastl_George,Shanghai,2001,09,23,6-1_7-5
 Shanghai,2,2001,09,23,1,Onoda_Michihisa,Kempes_Edwin,Kempes_Edwin,Shanghai,2001,09,23,6-3_6-1
 Shanghai,2,2001,09,23,1,Black_Byron,Burgsmuller_Lars,Black_Byron,Shanghai,2001,09,23,7-6(6)_6-3

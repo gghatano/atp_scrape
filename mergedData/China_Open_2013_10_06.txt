@@ -7,7 +7,7 @@ China_Open,2,2013,10,06,1,Matosevic_Marinko,Benneteau_Julien,Matosevic_Marinko,C
 China_Open,2,2013,10,06,1,Tomic_Bernard,Zhang_Ze,Tomic_Bernard,China_Open,2013,10,06,7-6(4)_6-4
 China_Open,2,2013,10,06,1,Mayer_Florian,Gasquet_Richard,Gasquet_Richard,China_Open,2013,10,06,6-3_7-6(2)
 China_Open,2,2013,10,06,1,Isner_John,Wu_Di,Isner_John,China_Open,2013,10,06,5-7_7-6(4)_6-3
-China_Open,2,2013,10,06,1,Dimitrov_Grigor,Bautista_AgutRoberto,Bautista_AgutRoberto,China_Open,2013,10,06,6-4_6-2
+China_Open,2,2013,10,06,1,Dimitrov_Grigor,Bautista_Agut_Roberto,Bautista_Agut_Roberto,China_Open,2013,10,06,6-4_6-2
 China_Open,2,2013,10,06,1,Lu_YenHsun,Davydenko_Nikolay,Davydenko_Nikolay,China_Open,2013,10,06,7-6(3)_6-4
 China_Open,2,2013,10,06,1,Andujar_Pablo,Berdych_Tomas,Berdych_Tomas,China_Open,2013,10,06,6-4_6-1
 China_Open,2,2013,10,06,1,Haas_Tommy,Hewitt_Lleyton,Hewitt_Lleyton,China_Open,2013,10,06,7-6(6)_6-3
@@ -18,7 +18,7 @@ China_Open,2,2013,10,06,2,Djokovic_Novak,Verdasco_Fernando,Djokovic_Novak,China_
 China_Open,2,2013,10,06,2,Querrey_Sam,Wawrinka_Stan,Querrey_Sam,China_Open,2013,10,06,6-3_7-6(2)
 China_Open,2,2013,10,06,2,Ferrer_David,Matosevic_Marinko,Ferrer_David,China_Open,2013,10,06,5-7_6-1_6-2
 China_Open,2,2013,10,06,2,Tomic_Bernard,Gasquet_Richard,Gasquet_Richard,China_Open,2013,10,06,7-6(2)_6-4
-China_Open,2,2013,10,06,2,Isner_John,Bautista_AgutRoberto,Isner_John,China_Open,2013,10,06,6-2_6-7(3)_6-4
+China_Open,2,2013,10,06,2,Isner_John,Bautista_Agut_Roberto,Isner_John,China_Open,2013,10,06,6-2_6-7(3)_6-4
 China_Open,2,2013,10,06,2,Davydenko_Nikolay,Berdych_Tomas,Berdych_Tomas,China_Open,2013,10,06,W/O
 China_Open,2,2013,10,06,2,Hewitt_Lleyton,Fognini_Fabio,Fognini_Fabio,China_Open,2013,10,06,6-0_6-2
 China_Open,2,2013,10,06,2,Kohlschreiber_Philipp,Nadal_Rafael,Nadal_Rafael,China_Open,2013,10,06,6-4_7-6(3)

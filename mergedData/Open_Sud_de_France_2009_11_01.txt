@@ -2,7 +2,7 @@ Open_Sud_de_France,2,2009,11,01,1,Tsonga_JoWilfried,Kim_Kevin,Tsonga_JoWilfried,
 Open_Sud_de_France,2,2009,11,01,1,Rochus_Olivier,Millot_Vincent,Rochus_Olivier,Open_Sud_de_France,2009,11,01,6-3_6-2
 Open_Sud_de_France,2,2009,11,01,1,Hernandez_Oscar,Clement_Arnaud,Clement_Arnaud,Open_Sud_de_France,2009,11,01,6-1_6-3
 Open_Sud_de_France,2,2009,11,01,1,Lorenzi_Paolo,Becker_Benjamin,Becker_Benjamin,Open_Sud_de_France,2009,11,01,6-2_6-2
-Open_Sud_de_France,2,2009,11,01,1,Ljubicic_Ivan,Vassallo_ArguelloMartin,Ljubicic_Ivan,Open_Sud_de_France,2009,11,01,6-3_6-4
+Open_Sud_de_France,2,2009,11,01,1,Ljubicic_Ivan,Vassallo_Arguello_Martin,Ljubicic_Ivan,Open_Sud_de_France,2009,11,01,6-3_6-4
 Open_Sud_de_France,2,2009,11,01,1,Kiefer_Nicolas,Grosjean_Sebastien,Kiefer_Nicolas,Open_Sud_de_France,2009,11,01,4-6_7-6(7)_7-6(2)
 Open_Sud_de_France,2,2009,11,01,1,Rochus_Christophe,Serra_Florent,Serra_Florent,Open_Sud_de_France,2009,11,01,6-3_6-3
 Open_Sud_de_France,2,2009,11,01,1,Santoro_Fabrice,Montanes_Albert,Montanes_Albert,Open_Sud_de_France,2009,11,01,6-4_6-4

@@ -8,7 +8,7 @@ Taipei,2,1984,11,05,1,Dowlen_David,Seguso_Robert,Seguso_Robert,Taipei,1984,11,05
 Taipei,2,1984,11,05,1,Flach_Ken,McCain_Scott,Flach_Ken,Taipei,1984,11,05,6-7_6-4_6-4
 Taipei,2,1984,11,05,1,Moor_Terry,Pfister_Henry,Pfister_Henry,Taipei,1984,11,05,6-2_2-6_6-4
 Taipei,2,1984,11,05,1,Winitsky_Van,Giammalva_Tony,Giammalva_Tony,Taipei,1984,11,05,6-1_3-6_6-3
-Taipei,2,1984,11,05,1,Vant_HofRobert,Masur_Wally,Masur_Wally,Taipei,1984,11,05,6-4_6-1
+Taipei,2,1984,11,05,1,Vant_Hof_Robert,Masur_Wally,Masur_Wally,Taipei,1984,11,05,6-4_6-1
 Taipei,2,1984,11,05,1,Saltz_Danny,Bauer_Mike,Bauer_Mike,Taipei,1984,11,05,6-3_7-6
 Taipei,2,1984,11,05,1,Gullikson_Tom,Freeman_Marcel,Freeman_Marcel,Taipei,1984,11,05,6-4_6-7_7-6
 Taipei,2,1984,11,05,1,Bourne_Lloyd,Odizor_Nduka,Bourne_Lloyd,Taipei,1984,11,05,6-4_7-6

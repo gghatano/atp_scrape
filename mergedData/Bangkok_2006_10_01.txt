@@ -10,7 +10,7 @@ Bangkok,2,2006,10,01,1,Nieminen_Jarkko,Massa_Edgardo,Nieminen_Jarkko,Bangkok,200
 Bangkok,2,2006,10,01,1,Dancevic_Frank,Burgsmuller_Lars,Dancevic_Frank,Bangkok,2006,10,01,7-5_3-6_7-6(7)
 Bangkok,2,2006,10,01,1,Balleret_Benjamin,Waske_Alexander,Balleret_Benjamin,Bangkok,2006,10,01,7-5_2-6_6-1
 Bangkok,2,2006,10,01,1,Cilic_Marin,Blake_James,Blake_James,Bangkok,2006,10,01,6-1_6-2
-Bangkok,2,2006,10,01,1,Ferrero_JuanCarlos,Zverev_Mischa,Zverev_Mischa,Bangkok,2006,10,01,4-6_6-2_6-4
+Bangkok,2,2006,10,01,1,Ferrero_Juan_Carlos,Zverev_Mischa,Zverev_Mischa,Bangkok,2006,10,01,4-6_6-2_6-4
 Bangkok,2,2006,10,01,1,Schuettler_Rainer,Lee_HyungTaik,Schuettler_Rainer,Bangkok,2006,10,01,6-1_6-4
 Bangkok,2,2006,10,01,1,Safin_Marat,Kim_Kevin,Safin_Marat,Bangkok,2006,10,01,2-6_6-1_6-4
 Bangkok,2,2006,10,01,1,Benneteau_Julien,Iwabuchi_Satoshi,Benneteau_Julien,Bangkok,2006,10,01,6-4_6-2

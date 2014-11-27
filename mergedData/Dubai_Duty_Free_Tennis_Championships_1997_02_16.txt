@@ -1,10 +1,10 @@
-Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Ivanisevic_Goran,El_AynaouiYounes,Ivanisevic_Goran,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-4
+Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Ivanisevic_Goran,El_Aynaoui_Younes,Ivanisevic_Goran,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Ulihrach_Bohdan,Karbacher_Bernd,Ulihrach_Bohdan,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-4_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Rikl_David,Stolle_Sandon,Stolle_Sandon,Dubai_Duty_Free_Tennis_Championships,1997,02,16,7-5_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Goellner_MarcKevin,Becker_Boris,Becker_Boris,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-2_6-7(5)_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Krajicek_Richard,Paes_Leander,Krajicek_Richard,Dubai_Duty_Free_Tennis_Championships,1997,02,16,5-7_6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Jonsson_Lars,Sanchez_Javier,Sanchez_Javier,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-4_6-7(2)_6-2
-Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Furlan_Renzo,Davids_HendrikJan,Davids_HendrikJan,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-4_7-6(6)
+Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Furlan_Renzo,Davids_Hendrik_Jan,Davids_Hendrik_Jan,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-4_7-6(6)
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Novak_Jiri,Moya_Carlos,Novak_Jiri,Dubai_Duty_Free_Tennis_Championships,1997,02,16,2-6_6-0_7-5
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Costa_Albert,Prinosil_David,Costa_Albert,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-2_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Medvedev_Andrei,Courier_Jim,Courier_Jim,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-0
@@ -17,7 +17,7 @@ Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,1,Nydahl_Tomas,Muster_Thomas,M
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Ivanisevic_Goran,Ulihrach_Bohdan,Ivanisevic_Goran,Dubai_Duty_Free_Tennis_Championships,1997,02,16,7-6(8)_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Stolle_Sandon,Becker_Boris,Becker_Boris,Dubai_Duty_Free_Tennis_Championships,1997,02,16,7-6(7)_6-1
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Krajicek_Richard,Sanchez_Javier,Krajicek_Richard,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-2
-Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Davids_HendrikJan,Novak_Jiri,Novak_Jiri,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-3
+Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Davids_Hendrik_Jan,Novak_Jiri,Novak_Jiri,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-3_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Costa_Albert,Courier_Jim,Courier_Jim,Dubai_Duty_Free_Tennis_Championships,1997,02,16,6-2_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Cash_Pat,Ferreira_Wayne,Ferreira_Wayne,Dubai_Duty_Free_Tennis_Championships,1997,02,16,3-6_6-2_7-5
 Dubai_Duty_Free_Tennis_Championships,2,1997,02,16,2,Ruud_Christian,Gumy_Hernan,Ruud_Christian,Dubai_Duty_Free_Tennis_Championships,1997,02,16,1-6_6-4_6-2

@@ -3,9 +3,9 @@ Stowe,2,1983,10,30,1,Gilbert_Brad,Waltke_Trey,Gilbert_Brad,Stowe,1983,10,30,6-2_
 Stowe,2,1983,10,30,1,Wittus_Craig,Wooldridge_Mark,Wittus_Craig,Stowe,1983,10,30,6-3_6-4
 Stowe,2,1983,10,30,1,Doyle_Matt,Lapidus_Jay,Doyle_Matt,Stowe,1983,10,30,6-2_6-4
 Stowe,2,1983,10,30,1,McNamee_Paul,Brunnberg_Mike,McNamee_Paul,Stowe,1983,10,30,6-1_6-1
-Stowe,2,1983,10,30,1,Bourne_Lloyd,Strode_CharlesBuzz,Bourne_Lloyd,Stowe,1983,10,30,6-4_7-6
+Stowe,2,1983,10,30,1,Bourne_Lloyd,Strode_Charles_Buzz,Bourne_Lloyd,Stowe,1983,10,30,6-4_7-6
 Stowe,2,1983,10,30,1,Saltz_Danny,Nastase_Ilie,Saltz_Danny,Stowe,1983,10,30,7-6_6-4
-Stowe,2,1983,10,30,1,Amritraj_Vijay,Van_PattenVincent,Amritraj_Vijay,Stowe,1983,10,30,6-2_6-1
+Stowe,2,1983,10,30,1,Amritraj_Vijay,Van_Patten_Vincent,Amritraj_Vijay,Stowe,1983,10,30,6-2_6-1
 Stowe,2,1983,10,30,1,Buehning_Fritz,Anger_Matt,Buehning_Fritz,Stowe,1983,10,30,6-4_6-4
 Stowe,2,1983,10,30,1,Fromm_Eric,Flur_Marc,Fromm_Eric,Stowe,1983,10,30,6-4_6-1
 Stowe,2,1983,10,30,1,Warwick_Kim,Edwards_Eddie,Warwick_Kim,Stowe,1983,10,30,7-6_3-6_6-4

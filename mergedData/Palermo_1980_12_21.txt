@@ -2,13 +2,13 @@ Palermo,2,1980,12,21,1,Vilas_Guillermo,Luna_Fernando,Vilas_Guillermo,Palermo,198
 Palermo,2,1980,12,21,1,Alciati_Marco,Cortes_Alejandro,Alciati_Marco,Palermo,1980,12,21,7-6_6-3
 Palermo,2,1980,12,21,1,Dilouie_Jai,Ostoja_Marko,Dilouie_Jai,Palermo,1980,12,21,3-6_7-5_6-4
 Palermo,2,1980,12,21,1,Pierola_Alejandro,Ocleppo_Gianni,Ocleppo_Gianni,Palermo,1980,12,21,6-3_6-1
-Palermo,2,1980,12,21,1,Pecci_SrVictor,Frawley_Rod,Frawley_Rod,Palermo,1980,12,21,4-6_7-6_6-4
+Palermo,2,1980,12,21,1,Pecci_Sr_Victor,Frawley_Rod,Frawley_Rod,Palermo,1980,12,21,4-6_7-6_6-4
 Palermo,2,1980,12,21,1,Merlone_Franco,Capineri_Bruno,Merlone_Franco,Palermo,1980,12,21,3-6_6-2_7-5
 Palermo,2,1980,12,21,1,Urpi_Gabriel,Siegler_Dave,Urpi_Gabriel,Palermo,1980,12,21,6-3_6-4
 Palermo,2,1980,12,21,1,Mir_Miguel,Dent_Phil,Dent_Phil,Palermo,1980,12,21,6-0_1-0_RET
 Palermo,2,1980,12,21,1,Martinez_Mario,Grassotti_Massimo,Martinez_Mario,Palermo,1980,12,21,7-6_6-2
 Palermo,2,1980,12,21,1,Benavides_Ramiro,Norback_Jan,Benavides_Ramiro,Palermo,1980,12,21,7-6_6-3
-Palermo,2,1980,12,21,1,Panatta_Adriano,El_ShafeiIsmail,Panatta_Adriano,Palermo,1980,12,21,6-2_6-3
+Palermo,2,1980,12,21,1,Panatta_Adriano,El_Shafei_Ismail,Panatta_Adriano,Palermo,1980,12,21,6-2_6-3
 Palermo,2,1980,12,21,1,Albert_Marc,Taroczy_Balazs,Taroczy_Balazs,Palermo,1980,12,21,4-6_6-3_6-2
 Palermo,2,1980,12,21,1,McNamee_Paul,Bertolucci_Paolo,McNamee_Paul,Palermo,1980,12,21,6-2_6-2
 Palermo,2,1980,12,21,1,Marten_Ulrich,Franulovic_Zeljko,Marten_Ulrich,Palermo,1980,12,21,6-3_7-5

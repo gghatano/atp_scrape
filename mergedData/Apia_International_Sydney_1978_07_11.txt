@@ -5,7 +5,7 @@ Apia_International_Sydney,2,1978,07,11,1,Moore_Raymond,Masters_Geoff,Masters_Geo
 Apia_International_Sydney,2,1978,07,11,1,Amaya_Victor,Jarrett_Andrew,Amaya_Victor,Apia_International_Sydney,1978,07,11,5-7_6-4_6-1
 Apia_International_Sydney,2,1978,07,11,1,Frawley_Rod,Carter_David,Frawley_Rod,Apia_International_Sydney,1978,07,11,6-3_6-2
 Apia_International_Sydney,2,1978,07,11,1,McNamara_Peter,Stewart_Sherwood,Stewart_Sherwood,Apia_International_Sydney,1978,07,11,6-3_6-0
-Apia_International_Sydney,2,1978,07,11,1,El_ShafeiIsmail,Lewis_NZLChris,Lewis_NZLChris,Apia_International_Sydney,1978,07,11,6-2_6-3
+Apia_International_Sydney,2,1978,07,11,1,El_Shafei_Ismail,Lewis_NZL_Chris,Lewis_NZL_Chris,Apia_International_Sydney,1978,07,11,6-2_6-3
 Apia_International_Sydney,2,1978,07,11,1,Gullikson_Tim,Freyss_Christophe,Gullikson_Tim,Apia_International_Sydney,1978,07,11,7-5_6-4
 Apia_International_Sydney,2,1978,07,11,1,Rocavert_Terry,Collings_Dale,Rocavert_Terry,Apia_International_Sydney,1978,07,11,4-6_6-2_6-1
 Apia_International_Sydney,2,1978,07,11,1,Maher_Warren,Lewis_Richard,Lewis_Richard,Apia_International_Sydney,1978,07,11,6-2_6-3
@@ -33,7 +33,7 @@ Apia_International_Sydney,2,1978,07,11,1,Docherty_Steve,Clerc_JoseLuis,Clerc_Jos
 Apia_International_Sydney,2,1978,07,11,2,Vilas_Guillermo,Fancutt_Charlie,Vilas_Guillermo,Apia_International_Sydney,1978,07,11,6-3_6-2
 Apia_International_Sydney,2,1978,07,11,2,James_John,Masters_Geoff,James_John,Apia_International_Sydney,1978,07,11,7-6_5-7_6-2
 Apia_International_Sydney,2,1978,07,11,2,Amaya_Victor,Frawley_Rod,Amaya_Victor,Apia_International_Sydney,1978,07,11,6-4_7-6
-Apia_International_Sydney,2,1978,07,11,2,Stewart_Sherwood,Lewis_NZLChris,Stewart_Sherwood,Apia_International_Sydney,1978,07,11,DEF
+Apia_International_Sydney,2,1978,07,11,2,Stewart_Sherwood,Lewis_NZL_Chris,Stewart_Sherwood,Apia_International_Sydney,1978,07,11,DEF
 Apia_International_Sydney,2,1978,07,11,2,Gullikson_Tim,Rocavert_Terry,Gullikson_Tim,Apia_International_Sydney,1978,07,11,7-5_6-2
 Apia_International_Sydney,2,1978,07,11,2,Lewis_Richard,Warwick_Kim,Warwick_Kim,Apia_International_Sydney,1978,07,11,7-5_6-4
 Apia_International_Sydney,2,1978,07,11,2,Roche_Tony,Kronk_Paul,Kronk_Paul,Apia_International_Sydney,1978,07,11,7-6_6-4

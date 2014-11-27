@@ -8,7 +8,7 @@ SkiStar_Swedish_Open,2,1992,07,12,1,Pistolesi_Claudio,Eltingh_Jacco,Pistolesi_Cl
 SkiStar_Swedish_Open,2,1992,07,12,1,Koslowski_Lars,PerezRoldan_Guillermo,PerezRoldan_Guillermo,SkiStar_Swedish_Open,1992,07,12,6-2_6-0
 SkiStar_Swedish_Open,2,1992,07,12,1,Bergstrom_Christian,Mattar_Luiz,Bergstrom_Christian,SkiStar_Swedish_Open,1992,07,12,7-5_6-4
 SkiStar_Swedish_Open,2,1992,07,12,1,Jaite_Martin,Jarryd_Anders,Jaite_Martin,SkiStar_Swedish_Open,1992,07,12,6-2_6-2
-SkiStar_Swedish_Open,2,1992,07,12,1,Kulti_Nicklas,Gorriz_MarcosAurelio,Gorriz_MarcosAurelio,SkiStar_Swedish_Open,1992,07,12,4-6_6-2_6-2
+SkiStar_Swedish_Open,2,1992,07,12,1,Kulti_Nicklas,Gorriz_Marcos_Aurelio,Gorriz_Marcos_Aurelio,SkiStar_Swedish_Open,1992,07,12,4-6_6-2_6-2
 SkiStar_Swedish_Open,2,1992,07,12,1,Naewie_Markus,Arrese_Jordi,Arrese_Jordi,SkiStar_Swedish_Open,1992,07,12,7-5_5-7_6-2
 SkiStar_Swedish_Open,2,1992,07,12,1,Furlan_Renzo,Enqvist_Thomas,Enqvist_Thomas,SkiStar_Swedish_Open,1992,07,12,7-5_6-2
 SkiStar_Swedish_Open,2,1992,07,12,1,Karbacher_Bernd,Holm_Henrik,Holm_Henrik,SkiStar_Swedish_Open,1992,07,12,6-3_6-2
@@ -19,7 +19,7 @@ SkiStar_Swedish_Open,2,1992,07,12,2,Gunnarsson_Jan,Boetsch_Arnaud,Boetsch_Arnaud
 SkiStar_Swedish_Open,2,1992,07,12,2,Larsson_Magnus,Fetterlein_Frederik,Larsson_Magnus,SkiStar_Swedish_Open,1992,07,12,3-6_6-4_6-2
 SkiStar_Swedish_Open,2,1992,07,12,2,Pistolesi_Claudio,PerezRoldan_Guillermo,PerezRoldan_Guillermo,SkiStar_Swedish_Open,1992,07,12,6-4_6-1
 SkiStar_Swedish_Open,2,1992,07,12,2,Bergstrom_Christian,Jaite_Martin,Bergstrom_Christian,SkiStar_Swedish_Open,1992,07,12,7-5_6-2
-SkiStar_Swedish_Open,2,1992,07,12,2,Gorriz_MarcosAurelio,Arrese_Jordi,Arrese_Jordi,SkiStar_Swedish_Open,1992,07,12,6-4_2-6_6-2
+SkiStar_Swedish_Open,2,1992,07,12,2,Gorriz_Marcos_Aurelio,Arrese_Jordi,Arrese_Jordi,SkiStar_Swedish_Open,1992,07,12,6-4_2-6_6-2
 SkiStar_Swedish_Open,2,1992,07,12,2,Enqvist_Thomas,Holm_Henrik,Enqvist_Thomas,SkiStar_Swedish_Open,1992,07,12,6-4_6-4
 SkiStar_Swedish_Open,2,1992,07,12,2,Oncins_Jaime,Gustafsson_Magnus,Gustafsson_Magnus,SkiStar_Swedish_Open,1992,07,12,2-6_6-2_6-1
 SkiStar_Swedish_Open,2,1992,07,12,3,Carbonell_Tomas,Boetsch_Arnaud,Carbonell_Tomas,SkiStar_Swedish_Open,1992,07,12,3-6_6-2_7-6(3)

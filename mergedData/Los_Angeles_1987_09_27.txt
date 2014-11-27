@@ -3,7 +3,7 @@ Los_Angeles,2,1987,09,27,1,Berger_Jay,Purcell_Mel,Berger_Jay,Los_Angeles,1987,09
 Los_Angeles,2,1987,09,27,1,Rostagno_Derrick,Anger_Matt,Rostagno_Derrick,Los_Angeles,1987,09,27,7-6_6-2
 Los_Angeles,2,1987,09,27,1,Annacone_Paul,Krishnan_Ramesh,Annacone_Paul,Los_Angeles,1987,09,27,6-4_6-3
 Los_Angeles,2,1987,09,27,1,Davis_Scott,Muller_Gary,Muller_Gary,Los_Angeles,1987,09,27,7-6_6-2
-Los_Angeles,2,1987,09,27,1,Wilkison_Tim,Giammalva_JrSammy,Wilkison_Tim,Los_Angeles,1987,09,27,6-7_6-4_6-2
+Los_Angeles,2,1987,09,27,1,Wilkison_Tim,Giammalva_Jr_Sammy,Wilkison_Tim,Los_Angeles,1987,09,27,6-7_6-4_6-2
 Los_Angeles,2,1987,09,27,1,Pugh_Jim,Davis_Marty,Davis_Marty,Los_Angeles,1987,09,27,7-6_7-6
 Los_Angeles,2,1987,09,27,1,Goldie_Dan,Curren_Kevin,Curren_Kevin,Los_Angeles,1987,09,27,3-6_7-5_6-2
 Los_Angeles,2,1987,09,27,1,Forget_Guy,Fleming_Peter,Forget_Guy,Los_Angeles,1987,09,27,6-3_6-7_6-1

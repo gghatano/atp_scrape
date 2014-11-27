@@ -4,7 +4,7 @@ BMW_Open_by_FWU_AG,2,1999,05,02,1,Solves_Gerard,Burgsmuller_Lars,Burgsmuller_Lar
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Gross_Oliver,Puerta_Mariano,Gross_Oliver,BMW_Open_by_FWU_AG,1999,05,02,7-6(5)_7-5
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Haas_Tommy,Calatrava_Alex,Haas_Tommy,BMW_Open_by_FWU_AG,1999,05,02,4-6_7-6(2)_6-4
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Squillari_Franco,Scala_Davide,Squillari_Franco,BMW_Open_by_FWU_AG,1999,05,02,6-2_6-2
-BMW_Open_by_FWU_AG,2,1999,05,02,1,Kohlmann_Michael,van_LottumJohn,Kohlmann_Michael,BMW_Open_by_FWU_AG,1999,05,02,7-5_6-4
+BMW_Open_by_FWU_AG,2,1999,05,02,1,Kohlmann_Michael,van_Lottum_John,Kohlmann_Michael,BMW_Open_by_FWU_AG,1999,05,02,7-5_6-4
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Becker_Boris,Ferreira_Wayne,Ferreira_Wayne,BMW_Open_by_FWU_AG,1999,05,02,3-6_6-3_6-4
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Rosset_Marc,Berasategui_Alberto,Berasategui_Alberto,BMW_Open_by_FWU_AG,1999,05,02,2-6_6-3_6-1
 BMW_Open_by_FWU_AG,2,1999,05,02,1,Schuettler_Rainer,Karbacher_Bernd,Karbacher_Bernd,BMW_Open_by_FWU_AG,1999,05,02,7-6(2)_6-4

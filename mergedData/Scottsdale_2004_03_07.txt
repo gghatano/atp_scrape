@@ -1,11 +1,11 @@
-Scottsdale,2,2004,03,07,1,Roddick_Andy,van_LottumJohn,Roddick_Andy,Scottsdale,2004,03,07,6-3_7-5
-Scottsdale,2,2004,03,07,1,Marcaccio_Gustavo,Bogomolov_JrAlex,Bogomolov_JrAlex,Scottsdale,2004,03,07,6-3_5-7_6-4
+Scottsdale,2,2004,03,07,1,Roddick_Andy,van_Lottum_John,Roddick_Andy,Scottsdale,2004,03,07,6-3_7-5
+Scottsdale,2,2004,03,07,1,Marcaccio_Gustavo,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Scottsdale,2004,03,07,6-3_5-7_6-4
 Scottsdale,2,2004,03,07,1,Evans_Brendan,Gambill_JanMichael,Gambill_JanMichael,Scottsdale,2004,03,07,6-1_6-4
 Scottsdale,2,2004,03,07,1,Burgsmuller_Lars,Kim_Alex,Burgsmuller_Lars,Scottsdale,2004,03,07,6-4_3-6_7-5
 Scottsdale,2,2004,03,07,1,Spadea_Vincent,Johansson_Thomas,Spadea_Vincent,Scottsdale,2004,03,07,6-4_6-4
 Scottsdale,2,2004,03,07,1,Corretja_Alex,Arthurs_Wayne,Arthurs_Wayne,Scottsdale,2004,03,07,6-1_6-4
 Scottsdale,2,2004,03,07,1,Andreev_Igor,Ancic_Mario,Andreev_Igor,Scottsdale,2004,03,07,4-6_7-6(5)_6-4
-Scottsdale,2,2004,03,07,1,Vassallo_ArguelloMartin,Blake_James,Blake_James,Scottsdale,2004,03,07,6-3_6-1
+Scottsdale,2,2004,03,07,1,Vassallo_Arguello_Martin,Blake_James,Blake_James,Scottsdale,2004,03,07,6-3_6-1
 Scottsdale,2,2004,03,07,1,Kiefer_Nicolas,Vahaly_Brian,Kiefer_Nicolas,Scottsdale,2004,03,07,6-3_6-3
 Scottsdale,2,2004,03,07,1,Karlovic_Ivo,Tursunov_Dmitry,Tursunov_Dmitry,Scottsdale,2004,03,07,6-3_6-4
 Scottsdale,2,2004,03,07,1,Moodie_Wesley,Dupuis_Antony,Moodie_Wesley,Scottsdale,2004,03,07,6-7(6)_6-2_6-2
@@ -14,7 +14,7 @@ Scottsdale,2,2004,03,07,1,Ferreira_Wayne,Hanescu_Victor,Hanescu_Victor,Scottsdal
 Scottsdale,2,2004,03,07,1,Malisse_Xavier,Soderling_Robin,Soderling_Robin,Scottsdale,2004,03,07,6-3_7-6(3)
 Scottsdale,2,2004,03,07,1,Mamiit_Cecil,Lisnard_JeanRene,Mamiit_Cecil,Scottsdale,2004,03,07,6-0_4-6_6-3
 Scottsdale,2,2004,03,07,1,Allegro_Yves,Verkerk_Martin,Verkerk_Martin,Scottsdale,2004,03,07,6-3_6-2
-Scottsdale,2,2004,03,07,2,Roddick_Andy,Bogomolov_JrAlex,Roddick_Andy,Scottsdale,2004,03,07,6-4_6-3
+Scottsdale,2,2004,03,07,2,Roddick_Andy,Bogomolov_Jr_Alex,Roddick_Andy,Scottsdale,2004,03,07,6-4_6-3
 Scottsdale,2,2004,03,07,2,Gambill_JanMichael,Burgsmuller_Lars,Gambill_JanMichael,Scottsdale,2004,03,07,7-5_7-5
 Scottsdale,2,2004,03,07,2,Spadea_Vincent,Arthurs_Wayne,Spadea_Vincent,Scottsdale,2004,03,07,6-3_6-2
 Scottsdale,2,2004,03,07,2,Andreev_Igor,Blake_James,Blake_James,Scottsdale,2004,03,07,6-3_6-2

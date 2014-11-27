@@ -21,7 +21,7 @@ Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Pavel_Andrei,Johansson_Thomas
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Moya_Carlos,Mantilla_Felix,Moya_Carlos,Western__Southern_Open_-_Cincinnati,2001,08,12,6-3_6-3
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Ljubicic_Ivan,Squillari_Franco,Ljubicic_Ivan,Western__Southern_Open_-_Cincinnati,2001,08,12,6-2_6-0
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Arazi_Hicham,Coria_Guillermo,Arazi_Hicham,Western__Southern_Open_-_Cincinnati,2001,08,12,7-5_6-2
-Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Arthurs_Wayne,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Western__Southern_Open_-_Cincinnati,2001,08,12,6-4_6-4
+Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Arthurs_Wayne,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Western__Southern_Open_-_Cincinnati,2001,08,12,6-4_6-4
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Rafter_Patrick,Portas_Albert,Rafter_Patrick,Western__Southern_Open_-_Cincinnati,2001,08,12,7-5_6-3
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Bjorkman_Jonas,Malisse_Xavier,Malisse_Xavier,Western__Southern_Open_-_Cincinnati,2001,08,12,6-3_6-3
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,1,Boutter_Julien,Blake_James,Blake_James,Western__Southern_Open_-_Cincinnati,2001,08,12,7-6(5)_6-0
@@ -41,7 +41,7 @@ Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Lee_HyungTaik,Henman_Tim,Henm
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Hewitt_Lleyton,Ulihrach_Bohdan,Hewitt_Lleyton,Western__Southern_Open_-_Cincinnati,2001,08,12,6-2_5-7_6-2
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Mirnyi_Max,Pavel_Andrei,Mirnyi_Max,Western__Southern_Open_-_Cincinnati,2001,08,12,6-1_6-1
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Moya_Carlos,Ljubicic_Ivan,Ljubicic_Ivan,Western__Southern_Open_-_Cincinnati,2001,08,12,7-6(5)_7-5
-Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Arazi_Hicham,Ferrero_JuanCarlos,Arazi_Hicham,Western__Southern_Open_-_Cincinnati,2001,08,12,6-7(1)_6-4_6-4
+Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Arazi_Hicham,Ferrero_Juan_Carlos,Arazi_Hicham,Western__Southern_Open_-_Cincinnati,2001,08,12,6-7(1)_6-4_6-4
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Rafter_Patrick,Malisse_Xavier,Rafter_Patrick,Western__Southern_Open_-_Cincinnati,2001,08,12,6-0_6-3
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Blake_James,Clement_Arnaud,Blake_James,Western__Southern_Open_-_Cincinnati,2001,08,12,7-5_6-4
 Western__Southern_Open_-_Cincinnati,3,2001,08,12,2,Schalken_Sjeng,Koubek_Stefan,Koubek_Stefan,Western__Southern_Open_-_Cincinnati,2001,08,12,6-1_7-6(5)

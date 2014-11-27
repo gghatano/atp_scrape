@@ -10,7 +10,7 @@ BMW_Open_by_FWU_AG,2,1976,06,13,1,Meiler_Karl,Lloyd_John,Meiler_Karl,BMW_Open_by
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Molina_Ivan,Santana_Manuel,Santana_Manuel,BMW_Open_by_FWU_AG,1976,06,13,6-3_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Taylor_Roger,Eberhard_Klaus,Taylor_Roger,BMW_Open_by_FWU_AG,1976,06,13,7-5_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Hrebec_Jiri,Higueras_Jose,Hrebec_Jiri,BMW_Open_by_FWU_AG,1976,06,13,6-2_3-6_6-3
-BMW_Open_by_FWU_AG,2,1976,06,13,1,Gisbert_SrJuan,Warwick_Kim,Gisbert_SrJuan,BMW_Open_by_FWU_AG,1976,06,13,6-1_6-3
+BMW_Open_by_FWU_AG,2,1976,06,13,1,Gisbert_Sr_Juan,Warwick_Kim,Gisbert_Sr_Juan,BMW_Open_by_FWU_AG,1976,06,13,6-1_6-3
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Kronk_Paul,Pohmann_HansJurgen,Pohmann_HansJurgen,BMW_Open_by_FWU_AG,1976,06,13,4-6_7-5_6-1
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Zednik_Vladimir,Crealy_Dick,Crealy_Dick,BMW_Open_by_FWU_AG,1976,06,13,6-3_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,1,Gebert_Frank,Kodes_Jan,Kodes_Jan,BMW_Open_by_FWU_AG,1976,06,13,6-4_6-2
@@ -20,12 +20,12 @@ BMW_Open_by_FWU_AG,2,1976,06,13,2,Cano_Ricardo,Cahill_Mike,Cahill_Mike,BMW_Open_
 BMW_Open_by_FWU_AG,2,1976,06,13,2,Andersson_Birger,Kary_Hans,Kary_Hans,BMW_Open_by_FWU_AG,1976,06,13,7-6_6-0
 BMW_Open_by_FWU_AG,2,1976,06,13,2,Meiler_Karl,Santana_Manuel,Meiler_Karl,BMW_Open_by_FWU_AG,1976,06,13,6-1_6-3
 BMW_Open_by_FWU_AG,2,1976,06,13,2,Taylor_Roger,Hrebec_Jiri,Hrebec_Jiri,BMW_Open_by_FWU_AG,1976,06,13,6-3_6-4
-BMW_Open_by_FWU_AG,2,1976,06,13,2,Gisbert_SrJuan,Pohmann_HansJurgen,Gisbert_SrJuan,BMW_Open_by_FWU_AG,1976,06,13,1-6_6-3_6-4
+BMW_Open_by_FWU_AG,2,1976,06,13,2,Gisbert_Sr_Juan,Pohmann_HansJurgen,Gisbert_Sr_Juan,BMW_Open_by_FWU_AG,1976,06,13,1-6_6-3_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,2,Crealy_Dick,Kodes_Jan,Kodes_Jan,BMW_Open_by_FWU_AG,1976,06,13,6-2_1-6_6-3
 BMW_Open_by_FWU_AG,2,1976,06,13,3,Orantes_Manuel,Jauffret_Francois,Orantes_Manuel,BMW_Open_by_FWU_AG,1976,06,13,6-2_6-0
 BMW_Open_by_FWU_AG,2,1976,06,13,3,Cahill_Mike,Kary_Hans,Kary_Hans,BMW_Open_by_FWU_AG,1976,06,13,6-2_6-7_6-1
 BMW_Open_by_FWU_AG,2,1976,06,13,3,Meiler_Karl,Hrebec_Jiri,Meiler_Karl,BMW_Open_by_FWU_AG,1976,06,13,7-5_6-4
-BMW_Open_by_FWU_AG,2,1976,06,13,3,Gisbert_SrJuan,Kodes_Jan,Kodes_Jan,BMW_Open_by_FWU_AG,1976,06,13,6-3_6-3
+BMW_Open_by_FWU_AG,2,1976,06,13,3,Gisbert_Sr_Juan,Kodes_Jan,Kodes_Jan,BMW_Open_by_FWU_AG,1976,06,13,6-3_6-3
 BMW_Open_by_FWU_AG,2,1976,06,13,4,Orantes_Manuel,Kary_Hans,Orantes_Manuel,BMW_Open_by_FWU_AG,1976,06,13,6-1_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,4,Meiler_Karl,Kodes_Jan,Meiler_Karl,BMW_Open_by_FWU_AG,1976,06,13,5-7_6-4_6-4
 BMW_Open_by_FWU_AG,2,1976,06,13,5,Orantes_Manuel,Meiler_Karl,Orantes_Manuel,BMW_Open_by_FWU_AG,1976,06,13,6-1_6-4_6-1

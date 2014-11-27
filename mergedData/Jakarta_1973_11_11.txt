@@ -1,6 +1,6 @@
 Jakarta,2,1973,11,11,1,Newcombe_John,Sangitan_Samudra,Newcombe_John,Jakarta,1973,11,11,6-4_6-0
 Jakarta,2,1973,11,11,1,Ponte_Felix,Sugiarto_Sutarjo,Sugiarto_Sutarjo,Jakarta,1973,11,11,6-4_2-6_6-2
-Jakarta,2,1973,11,11,1,Lara_Marcelo,McNair_IVFred,Lara_Marcelo,Jakarta,1973,11,11,6-3_6-3
+Jakarta,2,1973,11,11,1,Lara_Marcelo,McNair_IV_Fred,Lara_Marcelo,Jakarta,1973,11,11,6-3_6-3
 Jakarta,2,1973,11,11,1,Murdono_Diko,Wullur_Jacky,Murdono_Diko,Jakarta,1973,11,11,7-6_6-2
 Jakarta,2,1973,11,11,1,Masters_Geoff,SutaWibawa_Ardyanto,Masters_Geoff,Jakarta,1973,11,11,6-0_6-0
 Jakarta,2,1973,11,11,1,Warwick_Kim,Fletcher_Ian,Fletcher_Ian,Jakarta,1973,11,11,4-6_6-0_7-5

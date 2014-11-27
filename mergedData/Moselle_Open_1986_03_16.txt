@@ -1,13 +1,13 @@
 Moselle_Open,2,1986,03,16,1,Tulasne_Thierry,Hooper_Chip,Tulasne_Thierry,Moselle_Open,1986,03,16,7-5_6-2
 Moselle_Open,2,1986,03,16,1,Potier_Jerome,Warneke_Tomm,Warneke_Tomm,Moselle_Open,1986,03,16,6-4_6-4
-Moselle_Open,2,1986,03,16,1,De_MinicisAlessandro,Robertson_Michael,Robertson_Michael,Moselle_Open,1986,03,16,7-6_6-2
+Moselle_Open,2,1986,03,16,1,De_Minicis_Alessandro,Robertson_Michael,Robertson_Michael,Moselle_Open,1986,03,16,7-6_6-2
 Moselle_Open,2,1986,03,16,1,Beutel_HansDieter,Nelson_Todd,Nelson_Todd,Moselle_Open,1986,03,16,7-6_6-3
 Moselle_Open,2,1986,03,16,1,Schapers_Michiel,Masso_Eduardo,Schapers_Michiel,Moselle_Open,1986,03,16,7-5_6-1
 Moselle_Open,2,1986,03,16,1,Scanlon_Bill,Gonzalez_Francisco,Scanlon_Bill,Moselle_Open,1986,03,16,6-7_6-3_9-7
 Moselle_Open,2,1986,03,16,1,Elter_Peter,Wilder_Vallis,Elter_Peter,Moselle_Open,1986,03,16,7-6_1-6_8-6
 Moselle_Open,2,1986,03,16,1,Popp_Wolfgang,Dickson_Mark,Dickson_Mark,Moselle_Open,1986,03,16,6-4_5-7_10-8
 Moselle_Open,2,1986,03,16,1,Fibak_Wojtek,Windahl_Jorgen,Windahl_Jorgen,Moselle_Open,1986,03,16,1-6_7-5_12-10
-Moselle_Open,2,1986,03,16,1,Delaitre_Olivier,El_MehelmyAhmed,Delaitre_Olivier,Moselle_Open,1986,03,16,1-6_6-3_6-2
+Moselle_Open,2,1986,03,16,1,Delaitre_Olivier,El_Mehelmy_Ahmed,Delaitre_Olivier,Moselle_Open,1986,03,16,1-6_6-3_6-2
 Moselle_Open,2,1986,03,16,1,Dyke_Broderick,Drewett_Brad,Dyke_Broderick,Moselle_Open,1986,03,16,2-6_6-0_6-4
 Moselle_Open,2,1986,03,16,1,Kandler_HansPeter,Forget_Guy,Forget_Guy,Moselle_Open,1986,03,16,6-2_6-3
 Moselle_Open,2,1986,03,16,1,Muster_Thomas,Carlsson_Johan,Carlsson_Johan,Moselle_Open,1986,03,16,1-6_6-4_6-3

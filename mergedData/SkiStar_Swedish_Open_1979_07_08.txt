@@ -1,5 +1,5 @@
 SkiStar_Swedish_Open,2,1979,07,08,1,Borg_Bjorn,Freyss_Christophe,Borg_Bjorn,SkiStar_Swedish_Open,1979,07,08,6-4_6-0
-SkiStar_Swedish_Open,2,1979,07,08,1,Bengtson_OveNils,Zugarelli_Antonio,Zugarelli_Antonio,SkiStar_Swedish_Open,1979,07,08,6-4_6-1
+SkiStar_Swedish_Open,2,1979,07,08,1,Bengtson_Ove_Nils,Zugarelli_Antonio,Zugarelli_Antonio,SkiStar_Swedish_Open,1979,07,08,6-4_6-1
 SkiStar_Swedish_Open,2,1979,07,08,1,Kary_Hans,Bergstrand_Goran,Kary_Hans,SkiStar_Swedish_Open,1979,07,08,6-2_6-2
 SkiStar_Swedish_Open,2,1979,07,08,1,Svensson_Stefan,Martin_Billy,Martin_Billy,SkiStar_Swedish_Open,1979,07,08,6-1_6-1
 SkiStar_Swedish_Open,2,1979,07,08,1,Gunthardt_Heinz,Simonsson_Stefan,Gunthardt_Heinz,SkiStar_Swedish_Open,1979,07,08,6-1_6-4
@@ -9,7 +9,7 @@ SkiStar_Swedish_Open,2,1979,07,08,1,RogerVasselin_Christophe,Johansson_Kjell,Joh
 SkiStar_Swedish_Open,2,1979,07,08,1,Proisy_Patrick,Hageskog_CarlAxel,Proisy_Patrick,SkiStar_Swedish_Open,1979,07,08,6-1_6-0
 SkiStar_Swedish_Open,2,1979,07,08,1,Andrew_Jorge,Goven_Georges,Goven_Georges,SkiStar_Swedish_Open,1979,07,08,7-6_6-1
 SkiStar_Swedish_Open,2,1979,07,08,1,Meiler_Karl,Jarrett_Andrew,Jarrett_Andrew,SkiStar_Swedish_Open,1979,07,08,6-3_4-6_6-1
-SkiStar_Swedish_Open,2,1979,07,08,1,El_ShafeiIsmail,Edmondson_Mark,Edmondson_Mark,SkiStar_Swedish_Open,1979,07,08,7-5_6-3
+SkiStar_Swedish_Open,2,1979,07,08,1,El_Shafei_Ismail,Edmondson_Mark,Edmondson_Mark,SkiStar_Swedish_Open,1979,07,08,7-5_6-3
 SkiStar_Swedish_Open,2,1979,07,08,1,Marks_John,Hjertquist_Per,Hjertquist_Per,SkiStar_Swedish_Open,1979,07,08,7-6_3-6_6-4
 SkiStar_Swedish_Open,2,1979,07,08,1,Gimenez_Angel,Carter_David,Carter_David,SkiStar_Swedish_Open,1979,07,08,6-4_6-2
 SkiStar_Swedish_Open,2,1979,07,08,1,Norback_Jan,Carmichael_Bob,Carmichael_Bob,SkiStar_Swedish_Open,1979,07,08,7-5_4-6_6-2

@@ -5,7 +5,7 @@ Los_Angeles,2,1977,09,25,1,Amritraj_Vijay,Waltke_Trey,Waltke_Trey,Los_Angeles,19
 Los_Angeles,2,1977,09,25,1,Stockton_Dick,Gorman_Tom,Gorman_Tom,Los_Angeles,1977,09,25,7-6_6-4
 Los_Angeles,2,1977,09,25,1,Menon_Sashi,Pasarell_Charlie,Menon_Sashi,Los_Angeles,1977,09,25,6-3_1-6_6-1
 Los_Angeles,2,1977,09,25,1,Blocher_Woody,Walts_Butch,Walts_Butch,Los_Angeles,1977,09,25,7-5_7-5
-Los_Angeles,2,1977,09,25,1,Fassbender_Jurgen,Hagey_JamesChico,Fassbender_Jurgen,Los_Angeles,1977,09,25,6-4_6-4
+Los_Angeles,2,1977,09,25,1,Fassbender_Jurgen,Hagey_James_Chico,Fassbender_Jurgen,Los_Angeles,1977,09,25,6-4_6-4
 Los_Angeles,2,1977,09,25,1,Dibbs_Eddie,Holladay_John,Dibbs_Eddie,Los_Angeles,1977,09,25,6-3_6-4
 Los_Angeles,2,1977,09,25,1,Fagel_Rick,Riessen_Marty,Riessen_Marty,Los_Angeles,1977,09,25,6-1_6-1
 Los_Angeles,2,1977,09,25,1,Mayer_Sandy,Parun_Onny,Parun_Onny,Los_Angeles,1977,09,25,7-6_6-7_6-4
@@ -21,7 +21,7 @@ Los_Angeles,2,1977,09,25,1,Whitlinger_John,Petrovic_Glenn,Petrovic_Glenn,Los_Ang
 Los_Angeles,2,1977,09,25,1,Pfister_Henry,Pattison_Andrew,Pattison_Andrew,Los_Angeles,1977,09,25,6-3_7-6
 Los_Angeles,2,1977,09,25,1,Kronk_Paul,Dibley_Colin,Dibley_Colin,Los_Angeles,1977,09,25,6-1_6-2
 Los_Angeles,2,1977,09,25,1,Palm_Douglas,Lloyd_John,Lloyd_John,Los_Angeles,1977,09,25,6-2_6-2
-Los_Angeles,2,1977,09,25,1,Bohrnstedt_DickR,Ramirez_Raul,Ramirez_Raul,Los_Angeles,1977,09,25,6-1_1-0_RET
+Los_Angeles,2,1977,09,25,1,Bohrnstedt_Dick_R,Ramirez_Raul,Ramirez_Raul,Los_Angeles,1977,09,25,6-1_1-0_RET
 Los_Angeles,2,1977,09,25,1,Krulevitz_Steve,Leonard_Tom,Leonard_Tom,Los_Angeles,1977,09,25,7-6_4-6_7-6
 Los_Angeles,2,1977,09,25,1,Palm_JanEric,Borowiak_Jeff,Borowiak_Jeff,Los_Angeles,1977,09,25,6-2_6-3
 Los_Angeles,2,1977,09,25,1,Teacher_Brian,Manson_Bruce,Teacher_Brian,Los_Angeles,1977,09,25,4-6_6-3_7-6

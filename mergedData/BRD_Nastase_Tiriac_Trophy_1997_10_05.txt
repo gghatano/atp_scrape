@@ -1,11 +1,11 @@
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Moya_Carlos,Dreekmann_Hendrik,Moya_Carlos,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-1_4-6_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Costa_Carlos,Moldovan_Ion,Costa_Carlos,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-6(7)_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Vicente_Fernando,Ruud_Christian,Ruud_Christian,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-6(3)_7-5
-BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,VilocaPuig_JuanAlbert,Goellner_MarcKevin,Goellner_MarcKevin,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-3_6-3
+BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,VilocaPuig_Juan_Albert,Goellner_MarcKevin,Goellner_MarcKevin,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-3_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Berasategui_Alberto,Pescariu_Dinu,Berasategui_Alberto,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-3_1-6_7-6(7)
-BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Lapentti_Nicolas,Benfele_AlvarezEmilio,Lapentti_Nicolas,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_6-3
+BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Lapentti_Nicolas,Benfele_Alvarez_Emilio,Lapentti_Nicolas,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Gaudenzi_Andrea,Alonso_Julian,Gaudenzi_Andrea,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-1_6-4
-BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Marin_JuanAntonio,Filippini_Marcelo,Marin_JuanAntonio,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-2_6-3
+BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Marin_Juan_Antonio,Filippini_Marcelo,Marin_Juan_Antonio,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-2_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Arazi_Hicham,Fromberg_Richard,Fromberg_Richard,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_6-0
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Carbonell_Tomas,Voinea_Adrian,Voinea_Adrian,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-6(2)_6-1
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Sanguinetti_Davide,Stanoytchev_Orlin,Sanguinetti_Davide,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_7-6(8)
@@ -17,7 +17,7 @@ BRD_Nastase_Tiriac_Trophy,2,1997,10,05,1,Tarango_Jeff,Corretja_Alex,Corretja_Ale
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Moya_Carlos,Costa_Carlos,Costa_Carlos,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-0_4-6_6-4
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Ruud_Christian,Goellner_MarcKevin,Goellner_MarcKevin,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-2_5-7_6-2
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Berasategui_Alberto,Lapentti_Nicolas,Lapentti_Nicolas,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-6(5)_6-3
-BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Gaudenzi_Andrea,Marin_JuanAntonio,Gaudenzi_Andrea,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_7-5
+BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Gaudenzi_Andrea,Marin_Juan_Antonio,Gaudenzi_Andrea,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_7-5
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Fromberg_Richard,Voinea_Adrian,Fromberg_Richard,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-5_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Sanguinetti_Davide,Portas_Albert,Portas_Albert,BRD_Nastase_Tiriac_Trophy,1997,10,05,6-4_6-3
 BRD_Nastase_Tiriac_Trophy,2,1997,10,05,2,Clavet_Francisco,Behrend_Tomas,Clavet_Francisco,BRD_Nastase_Tiriac_Trophy,1997,10,05,7-6(5)_6-4

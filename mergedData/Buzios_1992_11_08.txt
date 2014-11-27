@@ -1,5 +1,5 @@
 Buzios,2,1992,11,08,1,Arrese_Jordi,Stringari_Martin,Stringari_Martin,Buzios,1992,11,08,5-2_RET
-Buzios,2,1992,11,08,1,Altur_JoseFrancisco,Roese_Fernando,Roese_Fernando,Buzios,1992,11,08,6-3_6-4
+Buzios,2,1992,11,08,1,Altur_Jose_Francisco,Roese_Fernando,Roese_Fernando,Buzios,1992,11,08,6-3_6-4
 Buzios,2,1992,11,08,1,Corretja_Alex,Koslowski_Lars,Corretja_Alex,Buzios,1992,11,08,6-4_6-3
 Buzios,2,1992,11,08,1,Nemecek_Libor,Roig_Francisco,Roig_Francisco,Buzios,1992,11,08,4-6_6-2_6-3
 Buzios,2,1992,11,08,1,Yzaga_Jaime,Marcelino_Danilo,Marcelino_Danilo,Buzios,1992,11,08,6-3_7-6(4)

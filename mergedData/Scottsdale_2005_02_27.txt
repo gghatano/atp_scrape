@@ -11,7 +11,7 @@ Scottsdale,2,2005,02,27,1,Moodie_Wesley,Lapentti_Giovanni,Lapentti_Giovanni,Scot
 Scottsdale,2,2005,02,27,1,Behrend_Tomas,Philippoussis_Mark,Philippoussis_Mark,Scottsdale,2005,02,27,7-5_1-6_6-4
 Scottsdale,2,2005,02,27,1,Evans_Brendan,Ancic_Mario,Ancic_Mario,Scottsdale,2005,02,27,3-6_6-2_6-3
 Scottsdale,2,2005,02,27,1,Carlsen_Kenneth,Blake_James,Blake_James,Scottsdale,2005,02,27,7-6(9)_7-5
-Scottsdale,2,2005,02,27,1,Bogomolov_JrAlex,Salzenstein_Jeff,Salzenstein_Jeff,Scottsdale,2005,02,27,6-3_7-6(4)
+Scottsdale,2,2005,02,27,1,Bogomolov_Jr_Alex,Salzenstein_Jeff,Salzenstein_Jeff,Scottsdale,2005,02,27,6-3_7-6(4)
 Scottsdale,2,2005,02,27,1,Tipsarevic_Janko,Gambill_JanMichael,Tipsarevic_Janko,Scottsdale,2005,02,27,6-4_6-2
 Scottsdale,2,2005,02,27,1,Reynolds_Bobby,Spadea_Vincent,Spadea_Vincent,Scottsdale,2005,02,27,1-6_7-6(4)_7-6(2)
 Scottsdale,2,2005,02,27,2,Goldstein_Paul,Sanguinetti_Davide,Sanguinetti_Davide,Scottsdale,2005,02,27,3-6_6-1_6-4

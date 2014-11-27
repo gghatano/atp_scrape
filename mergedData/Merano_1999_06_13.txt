@@ -1,10 +1,10 @@
 Merano,2,1999,06,13,1,Hrbaty_Dominik,Berasategui_Alberto,Hrbaty_Dominik,Merano,1999,06,13,6-1_6-2
 Merano,2,1999,06,13,1,Sanguinetti_Davide,Koubek_Stefan,Koubek_Stefan,Merano,1999,06,13,6-3_6-7(5)_6-4
 Merano,2,1999,06,13,1,Allgauer_Florian,Blanco_Galo,Blanco_Galo,Merano,1999,06,13,6-4_6-3
-Merano,2,1999,06,13,1,Furlan_Renzo,Di_PasqualeArnaud,Furlan_Renzo,Merano,1999,06,13,1-6_7-6(5)_7-5
+Merano,2,1999,06,13,1,Furlan_Renzo,Di_Pasquale_Arnaud,Furlan_Renzo,Merano,1999,06,13,1-6_7-6(5)_7-5
 Merano,2,1999,06,13,1,Arazi_Hicham,Portas_Albert,Arazi_Hicham,Merano,1999,06,13,6-1_6-1
-Merano,2,1999,06,13,1,Voinea_Adrian,Arnold_KerLucas,Voinea_Adrian,Merano,1999,06,13,7-5_6-7(2)_6-4
-Merano,2,1999,06,13,1,Navarro_Salvador,Marin_JuanAntonio,Navarro_Salvador,Merano,1999,06,13,2-6_7-6(2)_6-3
+Merano,2,1999,06,13,1,Voinea_Adrian,Arnold_Ker_Lucas,Voinea_Adrian,Merano,1999,06,13,7-5_6-7(2)_6-4
+Merano,2,1999,06,13,1,Navarro_Salvador,Marin_Juan_Antonio,Navarro_Salvador,Merano,1999,06,13,2-6_7-6(2)_6-3
 Merano,2,1999,06,13,1,Canas_Guillermo,Alami_Karim,Canas_Guillermo,Merano,1999,06,13,7-6(3)_7-6(5)
 Merano,2,1999,06,13,1,Ruud_Christian,Gaudio_Gaston,Ruud_Christian,Merano,1999,06,13,6-3_3-6_6-1
 Merano,2,1999,06,13,1,Gaudenzi_Andrea,Gumy_Hernan,Gaudenzi_Andrea,Merano,1999,06,13,6-1_6-3
@@ -13,7 +13,7 @@ Merano,2,1999,06,13,1,Hipfl_Markus,Puerta_Mariano,Hipfl_Markus,Merano,1999,06,13
 Merano,2,1999,06,13,1,Delgado_Ramon,Pescariu_Dinu,Pescariu_Dinu,Merano,1999,06,13,6-2_6-2
 Merano,2,1999,06,13,1,Vicente_Fernando,Santopadre_Vincenzo,Vicente_Fernando,Merano,1999,06,13,6-3_2-6_6-2
 Merano,2,1999,06,13,1,Martin_Alberto,Martelli_Marzio,Martin_Alberto,Merano,1999,06,13,6-3_6-4
-Merano,2,1999,06,13,1,Rodriguez_Martin,El_AynaouiYounes,Rodriguez_Martin,Merano,1999,06,13,7-5_2-0_RET
+Merano,2,1999,06,13,1,Rodriguez_Martin,El_Aynaoui_Younes,Rodriguez_Martin,Merano,1999,06,13,7-5_2-0_RET
 Merano,2,1999,06,13,2,Hrbaty_Dominik,Koubek_Stefan,Hrbaty_Dominik,Merano,1999,06,13,6-2_6-3
 Merano,2,1999,06,13,2,Blanco_Galo,Furlan_Renzo,Blanco_Galo,Merano,1999,06,13,6-3_6-0
 Merano,2,1999,06,13,2,Arazi_Hicham,Voinea_Adrian,Arazi_Hicham,Merano,1999,06,13,6-7(5)_6-1_6-4

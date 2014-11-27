@@ -4,7 +4,7 @@ Aircel_Chennai_Open,2,2009,01,11,1,Karanusic_Roko,Beck_Andreas,Beck_Andreas,Airc
 Aircel_Chennai_Open,2,2009,01,11,1,Lee_HyungTaik,Granollers_Marcel,Granollers_Marcel,Aircel_Chennai_Open,2009,01,11,6-4_7-5
 Aircel_Chennai_Open,2,2009,01,11,1,Cilic_Marin,Martin_Alberto,Cilic_Marin,Aircel_Chennai_Open,2009,01,11,6-4_6-4
 Aircel_Chennai_Open,2,2009,01,11,1,Istomin_Denis,Bopanna_Rohan,Istomin_Denis,Aircel_Chennai_Open,2009,01,11,6-4_7-6(3)
-Aircel_Chennai_Open,2,2009,01,11,1,Ramirez_HidalgoRuben,Sela_Dudi,Sela_Dudi,Aircel_Chennai_Open,2009,01,11,4-6_7-6(3)_6-1
+Aircel_Chennai_Open,2,2009,01,11,1,Ramirez_Hidalgo_Ruben,Sela_Dudi,Sela_Dudi,Aircel_Chennai_Open,2009,01,11,4-6_7-6(3)_6-1
 Aircel_Chennai_Open,2,2009,01,11,1,Andujar_Pablo,Tipsarevic_Janko,Tipsarevic_Janko,Aircel_Chennai_Open,2009,01,11,6-3_6-2
 Aircel_Chennai_Open,2,2009,01,11,1,Moya_Carlos,Udomchoke_Danai,Moya_Carlos,Aircel_Chennai_Open,2009,01,11,6-3_7-6(4)
 Aircel_Chennai_Open,2,2009,01,11,1,Devvarman_Somdev,Kim_Kevin,Devvarman_Somdev,Aircel_Chennai_Open,2009,01,11,6-3_6-3

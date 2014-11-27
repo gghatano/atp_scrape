@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## parse html/html into player-tounament-format
+
 dir=$(dirname $0)
 
 file=$1

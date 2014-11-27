@@ -1,8 +1,8 @@
 Philadelphia,2,1982,09,12,1,McEnroe_John,Delatte_Tracy,McEnroe_John,Philadelphia,1982,09,12,6-3_6-1
 Philadelphia,2,1982,09,12,1,Gehring_Rolf,Portes_Pascal,Gehring_Rolf,Philadelphia,1982,09,12,7-6_6-1
 Philadelphia,2,1982,09,12,1,Moor_Terry,Gullikson_Tim,Moor_Terry,Philadelphia,1982,09,12,2-6_6-4_6-3
-Philadelphia,2,1982,09,12,1,Van_PattenVincent,Mayer_Sandy,Mayer_Sandy,Philadelphia,1982,09,12,7-6_6-4
-Philadelphia,2,1982,09,12,1,Gerulaitis_Vitas,Giammalva_JrSammy,Gerulaitis_Vitas,Philadelphia,1982,09,12,6-3_6-1
+Philadelphia,2,1982,09,12,1,Van_Patten_Vincent,Mayer_Sandy,Mayer_Sandy,Philadelphia,1982,09,12,7-6_6-4
+Philadelphia,2,1982,09,12,1,Gerulaitis_Vitas,Giammalva_Jr_Sammy,Gerulaitis_Vitas,Philadelphia,1982,09,12,6-3_6-1
 Philadelphia,2,1982,09,12,1,Denton_Steve,Krishnan_Ramesh,Denton_Steve,Philadelphia,1982,09,12,6-2_3-6_6-2
 Philadelphia,2,1982,09,12,1,Buehning_Fritz,Winitsky_Van,Winitsky_Van,Philadelphia,1982,09,12,6-4_3-6_6-4
 Philadelphia,2,1982,09,12,1,Curren_Kevin,Gottfried_Brian,Curren_Kevin,Philadelphia,1982,09,12,6-4_6-4

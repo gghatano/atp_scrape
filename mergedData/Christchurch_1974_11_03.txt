@@ -3,9 +3,9 @@ Christchurch,2,1974,11,03,1,Mooney_T,Simpson_Jeff,Simpson_Jeff,Christchurch,1974
 Christchurch,2,1974,11,03,1,Ball_Syd,Hawkes_Richard,Ball_Syd,Christchurch,1974,11,03,6-3_6-3
 Christchurch,2,1974,11,03,1,Harris_G,Stolle_Fred,Stolle_Fred,Christchurch,1974,11,03,6-0_6-1
 Christchurch,2,1974,11,03,1,Fassbender_Jurgen,Slater_Garry,Fassbender_Jurgen,Christchurch,1974,11,03,6-4_6-3
-Christchurch,2,1974,11,03,1,Lewis_NZLChris,Warwick_Kim,Warwick_Kim,Christchurch,1974,11,03,3-6_6-1_6-3
+Christchurch,2,1974,11,03,1,Lewis_NZL_Chris,Warwick_Kim,Warwick_Kim,Christchurch,1974,11,03,3-6_6-1_6-3
 Christchurch,2,1974,11,03,1,Langsford_Peter,Mayer_Sandy,Mayer_Sandy,Christchurch,1974,11,03,6-4_7-5
-Christchurch,2,1974,11,03,1,Neilson_D,El_ShafeiIsmail,El_ShafeiIsmail,Christchurch,1974,11,03,6-0_6-0
+Christchurch,2,1974,11,03,1,Neilson_D,El_Shafei_Ismail,El_Shafei_Ismail,Christchurch,1974,11,03,6-0_6-0
 Christchurch,2,1974,11,03,1,Parun_Onny,Hampton_Peter,Parun_Onny,Christchurch,1974,11,03,6-1_6-1
 Christchurch,2,1974,11,03,1,Simpson_Russell,Segura_Spencer,Simpson_Russell,Christchurch,1974,11,03,W/O
 Christchurch,2,1974,11,03,1,Crealy_Dick,Whittaker_A,Crealy_Dick,Christchurch,1974,11,03,6-2_6-2
@@ -17,7 +17,7 @@ Christchurch,2,1974,11,03,1,Boyne_Nick,Richey_Cliff,Richey_Cliff,Christchurch,19
 Christchurch,2,1974,11,03,2,Tanner_Roscoe,Simpson_Jeff,Tanner_Roscoe,Christchurch,1974,11,03,7-6_6-4
 Christchurch,2,1974,11,03,2,Ball_Syd,Stolle_Fred,Stolle_Fred,Christchurch,1974,11,03,6-4_2-6_6-2
 Christchurch,2,1974,11,03,2,Fassbender_Jurgen,Warwick_Kim,Fassbender_Jurgen,Christchurch,1974,11,03,6-3_7-5
-Christchurch,2,1974,11,03,2,Mayer_Sandy,El_ShafeiIsmail,Mayer_Sandy,Christchurch,1974,11,03,7-6_6-7_6-4
+Christchurch,2,1974,11,03,2,Mayer_Sandy,El_Shafei_Ismail,Mayer_Sandy,Christchurch,1974,11,03,7-6_6-7_6-4
 Christchurch,2,1974,11,03,2,Parun_Onny,Simpson_Russell,Parun_Onny,Christchurch,1974,11,03,6-1_6-4
 Christchurch,2,1974,11,03,2,Crealy_Dick,Pohmann_HansJurgen,Crealy_Dick,Christchurch,1974,11,03,6-2_6-2
 Christchurch,2,1974,11,03,2,Fairlie_Brian,Ruffels_Ray,Ruffels_Ray,Christchurch,1974,11,03,W/O

@@ -1,4 +1,4 @@
-Portugal_Open,2,2001,04,15,1,Ferrero_JuanCarlos,Levy_Harel,Ferrero_JuanCarlos,Portugal_Open,2001,04,15,6-3_7-6(2)
+Portugal_Open,2,2001,04,15,1,Ferrero_Juan_Carlos,Levy_Harel,Ferrero_Juan_Carlos,Portugal_Open,2001,04,15,6-3_7-6(2)
 Portugal_Open,2,2001,04,15,1,Dosedel_Slava,Couto_Emanuel,Dosedel_Slava,Portugal_Open,2001,04,15,6-3_6-4
 Portugal_Open,2,2001,04,15,1,Kucera_Karol,Davydenko_Nikolay,Kucera_Karol,Portugal_Open,2001,04,15,6-3_7-6(3)
 Portugal_Open,2,2001,04,15,1,Montanes_Albert,Chang_Michael,Montanes_Albert,Portugal_Open,2001,04,15,6-1_6-3
@@ -7,14 +7,14 @@ Portugal_Open,2,2001,04,15,1,Sousa_Tiago,Siemerink_Jan,Siemerink_Jan,Portugal_Op
 Portugal_Open,2,2001,04,15,1,Pozzi_Gianluca,Portas_Albert,Portas_Albert,Portugal_Open,2001,04,15,6-3_4-6_6-3
 Portugal_Open,2,2001,04,15,1,Coria_Guillermo,Lapentti_Nicolas,Coria_Guillermo,Portugal_Open,2001,04,15,7-6(9)_6-0
 Portugal_Open,2,2001,04,15,1,Pavel_Andrei,Malisse_Xavier,Pavel_Andrei,Portugal_Open,2001,04,15,6-1_6-1
-Portugal_Open,2,2001,04,15,1,VilocaPuig_JuanAlbert,Sanchez_David,Sanchez_David,Portugal_Open,2001,04,15,6-2_7-6(4)
+Portugal_Open,2,2001,04,15,1,VilocaPuig_Juan_Albert,Sanchez_David,Sanchez_David,Portugal_Open,2001,04,15,6-2_7-6(4)
 Portugal_Open,2,2001,04,15,1,Tabara_Michal,Martin_Alberto,Martin_Alberto,Portugal_Open,2001,04,15,6-3_6-4
 Portugal_Open,2,2001,04,15,1,Rochus_Christophe,Squillari_Franco,Squillari_Franco,Portugal_Open,2001,04,15,6-4_7-6(3)
 Portugal_Open,2,2001,04,15,1,Costa_Albert,Hipfl_Markus,Hipfl_Markus,Portugal_Open,2001,04,15,6-4_6-2
 Portugal_Open,2,2001,04,15,1,Balcells_Juan,Medvedev_Andrei,Balcells_Juan,Portugal_Open,2001,04,15,6-2_3-0_RET
 Portugal_Open,2,2001,04,15,1,Novak_Jiri,Mantilla_Felix,Mantilla_Felix,Portugal_Open,2001,04,15,4-6_6-4_6-3
 Portugal_Open,2,2001,04,15,1,Koubek_Stefan,Henman_Tim,Henman_Tim,Portugal_Open,2001,04,15,6-4_6-1
-Portugal_Open,2,2001,04,15,2,Ferrero_JuanCarlos,Dosedel_Slava,Ferrero_JuanCarlos,Portugal_Open,2001,04,15,6-3_6-0
+Portugal_Open,2,2001,04,15,2,Ferrero_Juan_Carlos,Dosedel_Slava,Ferrero_Juan_Carlos,Portugal_Open,2001,04,15,6-3_6-0
 Portugal_Open,2,2001,04,15,2,Kucera_Karol,Montanes_Albert,Montanes_Albert,Portugal_Open,2001,04,15,6-3_6-3
 Portugal_Open,2,2001,04,15,2,Hrbaty_Dominik,Siemerink_Jan,Hrbaty_Dominik,Portugal_Open,2001,04,15,6-1_6-3
 Portugal_Open,2,2001,04,15,2,Portas_Albert,Coria_Guillermo,Portas_Albert,Portugal_Open,2001,04,15,6-7(2)_6-4_6-1
@@ -22,10 +22,10 @@ Portugal_Open,2,2001,04,15,2,Pavel_Andrei,Sanchez_David,Pavel_Andrei,Portugal_Op
 Portugal_Open,2,2001,04,15,2,Martin_Alberto,Squillari_Franco,Squillari_Franco,Portugal_Open,2001,04,15,6-3_2-6_6-3
 Portugal_Open,2,2001,04,15,2,Hipfl_Markus,Balcells_Juan,Hipfl_Markus,Portugal_Open,2001,04,15,5-7_6-4_6-0
 Portugal_Open,2,2001,04,15,2,Mantilla_Felix,Henman_Tim,Mantilla_Felix,Portugal_Open,2001,04,15,7-5_6-1
-Portugal_Open,2,2001,04,15,3,Ferrero_JuanCarlos,Montanes_Albert,Ferrero_JuanCarlos,Portugal_Open,2001,04,15,6-2_6-4
+Portugal_Open,2,2001,04,15,3,Ferrero_Juan_Carlos,Montanes_Albert,Ferrero_Juan_Carlos,Portugal_Open,2001,04,15,6-2_6-4
 Portugal_Open,2,2001,04,15,3,Hrbaty_Dominik,Portas_Albert,Portas_Albert,Portugal_Open,2001,04,15,6-2_6-4
 Portugal_Open,2,2001,04,15,3,Pavel_Andrei,Squillari_Franco,Pavel_Andrei,Portugal_Open,2001,04,15,7-6(6)_7-6(6)
 Portugal_Open,2,2001,04,15,3,Hipfl_Markus,Mantilla_Felix,Mantilla_Felix,Portugal_Open,2001,04,15,3-6_6-3_6-1
-Portugal_Open,2,2001,04,15,4,Ferrero_JuanCarlos,Portas_Albert,Ferrero_JuanCarlos,Portugal_Open,2001,04,15,6-3_6-1
+Portugal_Open,2,2001,04,15,4,Ferrero_Juan_Carlos,Portas_Albert,Ferrero_Juan_Carlos,Portugal_Open,2001,04,15,6-3_6-1
 Portugal_Open,2,2001,04,15,4,Pavel_Andrei,Mantilla_Felix,Mantilla_Felix,Portugal_Open,2001,04,15,6-2_3-6_6-2
-Portugal_Open,2,2001,04,15,5,Ferrero_JuanCarlos,Mantilla_Felix,Ferrero_JuanCarlos,Portugal_Open,2001,04,15,7-6(3)_4-6_6-3
+Portugal_Open,2,2001,04,15,5,Ferrero_Juan_Carlos,Mantilla_Felix,Ferrero_Juan_Carlos,Portugal_Open,2001,04,15,7-6(3)_4-6_6-3

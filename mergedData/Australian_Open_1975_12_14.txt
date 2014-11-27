@@ -1,6 +1,6 @@
 Australian_Open,1,1975,12,14,1,Rosewall_Ken,Braun_Greg,Rosewall_Ken,Australian_Open,1975,12,14,6-3_6-1_6-4
 Australian_Open,1,1975,12,14,1,Lewis_Richard,Trickey_John,Lewis_Richard,Australian_Open,1975,12,14,1-6_6-7_7-5_2-1_RET
-Australian_Open,1,1975,12,14,1,Ball_Syd,Reid_GroverRaz,Ball_Syd,Australian_Open,1975,12,14,6-2_7-6_6-2
+Australian_Open,1,1975,12,14,1,Ball_Syd,Reid_Grover_Raz,Ball_Syd,Australian_Open,1975,12,14,6-2_7-6_6-2
 Australian_Open,1,1975,12,14,1,Coghlan_William,Bartlett_John,Coghlan_William,Australian_Open,1975,12,14,3-6_2-6_6-3_6-2_6-4
 Australian_Open,1,1975,12,14,1,Stone_Allan,McNamee_Paul,Stone_Allan,Australian_Open,1975,12,14,7-6_6-0_7-6
 Australian_Open,1,1975,12,14,1,Drewett_Brad,Elschenbroich_Harald,Drewett_Brad,Australian_Open,1975,12,14,6-1_6-4_6-4
@@ -26,7 +26,7 @@ Australian_Open,1,1975,12,14,1,Durham_William,Ewert_Ernie,Durham_William,Austral
 Australian_Open,1,1975,12,14,1,Dibley_Colin,Pasarell_Charlie,Pasarell_Charlie,Australian_Open,1975,12,14,6-3_6-4_6-4
 Australian_Open,1,1975,12,14,1,Carter_David,Busby_Glenn,Carter_David,Australian_Open,1975,12,14,6-3_6-3_3-6_6-2
 Australian_Open,1,1975,12,14,1,Hancock_Keith,Case_Ross,Case_Ross,Australian_Open,1975,12,14,6-3_4-6_6-2_6-4
-Australian_Open,1,1975,12,14,1,Lewis_NZLChris,Wimmer_Gerard,Lewis_NZLChris,Australian_Open,1975,12,14,6-1_6-2_6-4
+Australian_Open,1,1975,12,14,1,Lewis_NZL_Chris,Wimmer_Gerard,Lewis_NZL_Chris,Australian_Open,1975,12,14,6-1_6-2_6-4
 Australian_Open,1,1975,12,14,1,Thomson_Graeme,Moore_Raymond,Moore_Raymond,Australian_Open,1975,12,14,6-2_6-3_6-2
 Australian_Open,1,1975,12,14,1,Kukal_Jan,Eriksson_Ulf,Kukal_Jan,Australian_Open,1975,12,14,7-5_7-5_7-5
 Australian_Open,1,1975,12,14,1,Gehring_Rolf,Newcombe_John,Newcombe_John,Australian_Open,1975,12,14,7-6_6-1_7-6
@@ -44,7 +44,7 @@ Australian_Open,1,1975,12,14,2,Marten_Ulrich,Warwick_Kim,Warwick_Kim,Australian_
 Australian_Open,1,1975,12,14,2,Little_Trevor,Roche_Tony,Roche_Tony,Australian_Open,1975,12,14,7-6_6-1_6-2
 Australian_Open,1,1975,12,14,2,Durham_William,Pasarell_Charlie,Pasarell_Charlie,Australian_Open,1975,12,14,6-4_6-2_6-4
 Australian_Open,1,1975,12,14,2,Carter_David,Case_Ross,Case_Ross,Australian_Open,1975,12,14,6-4_6-3_6-2
-Australian_Open,1,1975,12,14,2,Lewis_NZLChris,Moore_Raymond,Moore_Raymond,Australian_Open,1975,12,14,6-2_7-6_3-6_6-2
+Australian_Open,1,1975,12,14,2,Lewis_NZL_Chris,Moore_Raymond,Moore_Raymond,Australian_Open,1975,12,14,6-2_7-6_3-6_6-2
 Australian_Open,1,1975,12,14,2,Kukal_Jan,Newcombe_John,Newcombe_John,Australian_Open,1975,12,14,6-3_6-4_6-2
 Australian_Open,1,1975,12,14,3,Rosewall_Ken,Ball_Syd,Rosewall_Ken,Australian_Open,1975,12,14,3-6_7-6_6-0_6-4
 Australian_Open,1,1975,12,14,3,Drewett_Brad,Anderson_Mal,Drewett_Brad,Australian_Open,1975,12,14,6-4_6-3_5-7_6-3

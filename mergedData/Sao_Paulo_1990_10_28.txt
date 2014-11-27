@@ -9,7 +9,7 @@ Sao_Paulo,2,1990,10,28,1,CunhaSilva_Joao,Azar_Roberto,CunhaSilva_Joao,Sao_Paulo,
 Sao_Paulo,2,1990,10,28,1,Motta_Cassio,Roese_Fernando,Motta_Cassio,Sao_Paulo,1990,10,28,6-3_3-6_6-2
 Sao_Paulo,2,1990,10,28,1,Pernfors_Mikael,Garner_Chris,Garner_Chris,Sao_Paulo,1990,10,28,6-3_6-0
 Sao_Paulo,2,1990,10,28,1,Saliola_Marcelo,Vojtischek_Paul,Saliola_Marcelo,Sao_Paulo,1990,10,28,4-6_6-1_6-2
-Sao_Paulo,2,1990,10,28,1,Gorriz_MarcosAurelio,Yzaga_Jaime,Yzaga_Jaime,Sao_Paulo,1990,10,28,6-2_6-2
+Sao_Paulo,2,1990,10,28,1,Gorriz_Marcos_Aurelio,Yzaga_Jaime,Yzaga_Jaime,Sao_Paulo,1990,10,28,6-2_6-2
 Sao_Paulo,2,1990,10,28,1,Marques_Nuno,Frana_Javier,Frana_Javier,Sao_Paulo,1990,10,28,7-6_6-3
 Sao_Paulo,2,1990,10,28,1,Wilkison_Tim,Marcelino_Danilo,Marcelino_Danilo,Sao_Paulo,1990,10,28,6-3_6-4
 Sao_Paulo,2,1990,10,28,1,Oresar_Bruno,Pescosolido_Stefano,Oresar_Bruno,Sao_Paulo,1990,10,28,6-4_6-2

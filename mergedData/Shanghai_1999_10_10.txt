@@ -9,9 +9,9 @@ Shanghai,2,1999,10,10,1,Goldstein_Paul,Bjorkman_Jonas,Bjorkman_Jonas,Shanghai,19
 Shanghai,2,1999,10,10,1,Chang_Michael,MacPhie_Brian,Chang_Michael,Shanghai,1999,10,10,7-5_7-6(5)
 Shanghai,2,1999,10,10,1,Black_Byron,Mirnyi_Max,Mirnyi_Max,Shanghai,1999,10,10,6-3_2-6_6-4
 Shanghai,2,1999,10,10,1,Dupuis_Antony,Arthurs_Wayne,Dupuis_Antony,Shanghai,1999,10,10,6-7(5)_7-6(5)_7-6(6)
-Shanghai,2,1999,10,10,1,Wang_YuJr,Gambill_JanMichael,Gambill_JanMichael,Shanghai,1999,10,10,6-0_6-1
+Shanghai,2,1999,10,10,1,Wang_Yu_Jr,Gambill_JanMichael,Gambill_JanMichael,Shanghai,1999,10,10,6-0_6-1
 Shanghai,2,1999,10,10,1,Nestor_Daniel,Srichaphan_Paradorn,Srichaphan_Paradorn,Shanghai,1999,10,10,6-4_6-4
-Shanghai,2,1999,10,10,1,van_LottumJohn,Zhu_BenQiang,van_LottumJohn,Shanghai,1999,10,10,6-4_6-2
+Shanghai,2,1999,10,10,1,van_Lottum_John,Zhu_BenQiang,van_Lottum_John,Shanghai,1999,10,10,6-4_6-2
 Shanghai,2,1999,10,10,1,Wessels_Peter,Huet_Stephane,Wessels_Peter,Shanghai,1999,10,10,6-2_2-6_6-3
 Shanghai,2,1999,10,10,1,Ketola_Tuomas,Norman_Magnus,Norman_Magnus,Shanghai,1999,10,10,6-1_6-3
 Shanghai,2,1999,10,10,2,Rios_Marcelo,Ljubicic_Ivan,Rios_Marcelo,Shanghai,1999,10,10,6-3_6-2
@@ -20,7 +20,7 @@ Shanghai,2,1999,10,10,2,Vinciguerra_Andreas,Mamiit_Cecil,Vinciguerra_Andreas,Sha
 Shanghai,2,1999,10,10,2,Burgsmuller_Lars,Bjorkman_Jonas,Bjorkman_Jonas,Shanghai,1999,10,10,7-5_3-6_6-2
 Shanghai,2,1999,10,10,2,Chang_Michael,Mirnyi_Max,Chang_Michael,Shanghai,1999,10,10,6-4_7-5
 Shanghai,2,1999,10,10,2,Dupuis_Antony,Gambill_JanMichael,Gambill_JanMichael,Shanghai,1999,10,10,6-3_6-4
-Shanghai,2,1999,10,10,2,Srichaphan_Paradorn,van_LottumJohn,Srichaphan_Paradorn,Shanghai,1999,10,10,6-3_6-2
+Shanghai,2,1999,10,10,2,Srichaphan_Paradorn,van_Lottum_John,Srichaphan_Paradorn,Shanghai,1999,10,10,6-3_6-2
 Shanghai,2,1999,10,10,2,Wessels_Peter,Norman_Magnus,Norman_Magnus,Shanghai,1999,10,10,6-7(4)_7-5_7-6(3)
 Shanghai,2,1999,10,10,3,Rios_Marcelo,Woodbridge_Todd,Rios_Marcelo,Shanghai,1999,10,10,6-3_6-3
 Shanghai,2,1999,10,10,3,Vinciguerra_Andreas,Bjorkman_Jonas,Bjorkman_Jonas,Shanghai,1999,10,10,6-3_3-6_6-4

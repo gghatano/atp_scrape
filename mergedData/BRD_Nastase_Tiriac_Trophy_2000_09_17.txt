@@ -6,12 +6,12 @@ BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Koubek_Stefan,Alonso_Julian,Alonso_Juli
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Stanoytchev_Orlin,Blanco_Galo,Blanco_Galo,BRD_Nastase_Tiriac_Trophy,2000,09,17,7-5_6-3
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Elsner_Daniel,Goellner_MarcKevin,Goellner_MarcKevin,BRD_Nastase_Tiriac_Trophy,2000,09,17,4-6_6-1_6-0
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Moldovan_Ion,Gustafsson_Magnus,Gustafsson_Magnus,BRD_Nastase_Tiriac_Trophy,2000,09,17,7-5_6-4
-BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Martin_Alberto,Marin_JuanAntonio,Martin_Alberto,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-4_6-0
+BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Martin_Alberto,Marin_Juan_Antonio,Martin_Alberto,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-4_6-0
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Rochus_Christophe,Sanchez_David,Rochus_Christophe,BRD_Nastase_Tiriac_Trophy,2000,09,17,2-6
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Voinea_Adrian,Hantschk_Markus,Hantschk_Markus,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-3_6-3
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Pescariu_Dinu,Clavet_Francisco,Pescariu_Dinu,BRD_Nastase_Tiriac_Trophy,2000,09,17,4-6_6-3_6-4
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Calatrava_Alex,Gumy_Hernan,Calatrava_Alex,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-3_6-1
-BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Benfele_AlvarezEmilio,Knippschild_Jens,Knippschild_Jens,BRD_Nastase_Tiriac_Trophy,2000,09,17,7-6(3)_6-3
+BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Benfele_Alvarez_Emilio,Knippschild_Jens,Knippschild_Jens,BRD_Nastase_Tiriac_Trophy,2000,09,17,7-6(3)_6-3
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,HermZahlava_Jakub,Kohlmann_Michael,Kohlmann_Michael,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-1_6-3
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,1,Meligeni_Fernando,Alami_Karim,Meligeni_Fernando,BRD_Nastase_Tiriac_Trophy,2000,09,17,7-5_6-3
 BRD_Nastase_Tiriac_Trophy,2,2000,09,17,2,Puerta_Mariano,Balcells_Juan,Balcells_Juan,BRD_Nastase_Tiriac_Trophy,2000,09,17,6-4_6-4

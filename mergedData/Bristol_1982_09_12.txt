@@ -1,4 +1,4 @@
-Bristol,2,1982,09,12,1,Kriek_Johan,El_ShafeiIsmail,Kriek_Johan,Bristol,1982,09,12,6-1_6-2
+Bristol,2,1982,09,12,1,Kriek_Johan,El_Shafei_Ismail,Kriek_Johan,Bristol,1982,09,12,6-1_6-2
 Bristol,2,1982,09,12,1,Simpson_Russell,Mitton_Bernard,Simpson_Russell,Bristol,1982,09,12,6-1_7-5
 Bristol,2,1982,09,12,1,Saviano_Nick,LopezMaeso_Jose,LopezMaeso_Jose,Bristol,1982,09,12,6-4_6-2
 Bristol,2,1982,09,12,1,Smith_Stan,Pfister_Henry,Pfister_Henry,Bristol,1982,09,12,6-2_6-4
@@ -6,11 +6,11 @@ Bristol,2,1982,09,12,1,Tanner_Roscoe,Krishnan_Ramesh,Tanner_Roscoe,Bristol,1982,
 Bristol,2,1982,09,12,1,McNamee_Paul,Soares_Joao,Soares_Joao,Bristol,1982,09,12,7-6_6-4
 Bristol,2,1982,09,12,1,Goes_Julio,Leconte_Henri,Leconte_Henri,Bristol,1982,09,12,6-3_6-1
 Bristol,2,1982,09,12,1,Visser_Danie,Mayotte_Tim,Mayotte_Tim,Bristol,1982,09,12,6-7_6-3_6-4
-Bristol,2,1982,09,12,1,Van_PattenVincent,Hocevar_Marcos,Hocevar_Marcos,Bristol,1982,09,12,6-4_4-6_7-6
+Bristol,2,1982,09,12,1,Van_Patten_Vincent,Hocevar_Marcos,Hocevar_Marcos,Bristol,1982,09,12,6-4_4-6_7-6
 Bristol,2,1982,09,12,1,Nastase_Ilie,Davis_Marty,Davis_Marty,Bristol,1982,09,12,6-1_7-6
 Bristol,2,1982,09,12,1,Smith_Jonathan,Buehning_Fritz,Smith_Jonathan,Bristol,1982,09,12,7-6_6-4
 Bristol,2,1982,09,12,1,Frawley_Rod,Sadri_John,Sadri_John,Bristol,1982,09,12,4-6_6-3_7-6
-Bristol,2,1982,09,12,1,Lewis_NZLChris,Alexander_John,Alexander_John,Bristol,1982,09,12,6-3_6-7_6-3
+Bristol,2,1982,09,12,1,Lewis_NZL_Chris,Alexander_John,Alexander_John,Bristol,1982,09,12,6-3_6-7_6-3
 Bristol,2,1982,09,12,1,Fitzgerald_John,Gullikson_Tim,Gullikson_Tim,Bristol,1982,09,12,6-4_6-4
 Bristol,2,1982,09,12,1,Winitsky_Van,Doyle_Matt,Doyle_Matt,Bristol,1982,09,12,6-4_4-6_6-1
 Bristol,2,1982,09,12,1,Tarr_Derek,Edmondson_Mark,Edmondson_Mark,Bristol,1982,09,12,6-3_6-4

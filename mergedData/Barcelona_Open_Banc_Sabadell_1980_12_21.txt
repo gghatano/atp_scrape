@@ -21,13 +21,13 @@ Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Franulovic_Zeljko,Gimenez_Angel,Fran
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Panatta_Adriano,Goven_Georges,Panatta_Adriano,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-2
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Birner_Stanislav,Bertolucci_Paolo,Birner_Stanislav,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_5-7_6-4
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Fagel_Rick,Puncec_Frank,Fagel_Rick,Barcelona_Open_Banc_Sabadell,1980,12,21,6-3_7-5
-Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Fillol_SrJaime,Dibbs_Eddie,Dibbs_Eddie,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-2
+Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Fillol_Sr_Jaime,Dibbs_Eddie,Dibbs_Eddie,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-2
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Smid_Tomas,Munoz_Antonio,Smid_Tomas,Barcelona_Open_Banc_Sabadell,1980,12,21,6-0_6-2
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Kodes_Jan,Jarrett_Andrew,Kodes_Jan,Barcelona_Open_Banc_Sabadell,1980,12,21,5-0_RET
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Urpi_Gabriel,Prucha_Jiri,Urpi_Gabriel,Barcelona_Open_Banc_Sabadell,1980,12,21,6-7_6-3_6-4
-Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Casa_Christophe,Lewis_NZLChris,Lewis_NZLChris,Barcelona_Open_Banc_Sabadell,1980,12,21,1-6_7-5_6-4
+Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Casa_Christophe,Lewis_NZL_Chris,Lewis_NZL_Chris,Barcelona_Open_Banc_Sabadell,1980,12,21,1-6_7-5_6-4
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Martinez_Mario,LopezMaeso_Jose,LopezMaeso_Jose,Barcelona_Open_Banc_Sabadell,1980,12,21,1-6_6-4_6-4
-Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Velasco_SrJairo,Pierola_Alejandro,Velasco_SrJairo,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-2
+Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Velasco_Sr_Jairo,Pierola_Alejandro,Velasco_Sr_Jairo,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-2
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Torralbo_Juan,Cain_Tom,Torralbo_Juan,Barcelona_Open_Banc_Sabadell,1980,12,21,6-3_6-3
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,1,Popp_Wolfgang,Lendl_Ivan,Lendl_Ivan,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-3
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Vilas_Guillermo,Hutka_Pavel,Vilas_Guillermo,Barcelona_Open_Banc_Sabadell,1980,12,21,6-0_6-0
@@ -43,8 +43,8 @@ Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Case_Ross,Franulovic_Zeljko,Franulov
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Panatta_Adriano,Birner_Stanislav,Panatta_Adriano,Barcelona_Open_Banc_Sabadell,1980,12,21,3-6_6-2_6-3
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Fagel_Rick,Dibbs_Eddie,Dibbs_Eddie,Barcelona_Open_Banc_Sabadell,1980,12,21,6-4_6-3
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Smid_Tomas,Kodes_Jan,Smid_Tomas,Barcelona_Open_Banc_Sabadell,1980,12,21,6-1_6-7_10-8
-Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Urpi_Gabriel,Lewis_NZLChris,Urpi_Gabriel,Barcelona_Open_Banc_Sabadell,1980,12,21,6-1_6-2
-Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,LopezMaeso_Jose,Velasco_SrJairo,LopezMaeso_Jose,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_1-6_6-0
+Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Urpi_Gabriel,Lewis_NZL_Chris,Urpi_Gabriel,Barcelona_Open_Banc_Sabadell,1980,12,21,6-1_6-2
+Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,LopezMaeso_Jose,Velasco_Sr_Jairo,LopezMaeso_Jose,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_1-6_6-0
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,2,Torralbo_Juan,Lendl_Ivan,Lendl_Ivan,Barcelona_Open_Banc_Sabadell,1980,12,21,6-0_6-0
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,3,Vilas_Guillermo,Luna_Fernando,Vilas_Guillermo,Barcelona_Open_Banc_Sabadell,1980,12,21,6-2_6-0
 Barcelona_Open_Banc_Sabadell,2,1980,12,21,3,Elter_Peter,Taroczy_Balazs,Taroczy_Balazs,Barcelona_Open_Banc_Sabadell,1980,12,21,6-3_6-3

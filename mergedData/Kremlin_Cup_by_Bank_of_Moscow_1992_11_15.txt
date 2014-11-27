@@ -1,6 +1,6 @@
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Novacek_Karel,Raoux_Guillaume,Novacek_Karel,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Grabb_Jim,Zoecke_Markus,Zoecke_Markus,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,7-5_6-4
-Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Gorriz_MarcosAurelio,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_7-6(2)
+Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Gorriz_Marcos_Aurelio,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_7-6(2)
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Bates_Jeremy,Rosset_Marc,Rosset_Marc,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Cherkasov_Andrei,Poliakov_Dimitri,Cherkasov_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-3_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Jonsson_Lars,Wheaton_David,Wheaton_David,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-7(4)_6-0_6-2
@@ -8,7 +8,7 @@ Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Dzelde_Girts,Reneberg_Richey,Renebe
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Antonitsch_Alex,Pioline_Cedric,Pioline_Cedric,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-2_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Steeb_CarlUwe,Carlsen_Kenneth,Steeb_CarlUwe,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Eltingh_Jacco,Kulti_Nicklas,Kulti_Nicklas,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,7-6(3)_6-7(3)_6-4
-Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Van_RensburgChristo,Stadling_Mikael,Van_RensburgChristo,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_7-5
+Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Van_Rensburg_Christo,Stadling_Mikael,Van_Rensburg_Christo,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_7-5
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Delaitre_Olivier,Medvedev_Andrei,Medvedev_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-3_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Tarango_Jeff,Hlasek_Jakob,Hlasek_Jakob,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-3_7-5
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,1,Schapers_Michiel,Kuhnen_Patrik,Schapers_Michiel,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,7-5_2-6_7-5
@@ -19,7 +19,7 @@ Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Kafelnikov_Yevgeny,Rosset_Marc,Ross
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Cherkasov_Andrei,Wheaton_David,Cherkasov_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_7-6(2)
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Reneberg_Richey,Pioline_Cedric,Pioline_Cedric,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,4-6_6-0_7-6(1)
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Steeb_CarlUwe,Kulti_Nicklas,Steeb_CarlUwe,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-2_6-3
-Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Van_RensburgChristo,Medvedev_Andrei,Medvedev_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,7-6(3)_0-6_6-2
+Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Van_Rensburg_Christo,Medvedev_Andrei,Medvedev_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,7-6(3)_0-6_6-2
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Hlasek_Jakob,Schapers_Michiel,Hlasek_Jakob,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-7(5)_7-5_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,2,Siemerink_Jan,Bloom_Gilad,Bloom_Gilad,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,3-6_6-3_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1992,11,15,3,Novacek_Karel,Rosset_Marc,Rosset_Marc,Kremlin_Cup_by_Bank_of_Moscow,1992,11,15,6-4_6-2

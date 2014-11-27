@@ -1,5 +1,5 @@
 SkiStar_Swedish_Open,2,1991,07,14,1,Cherkasov_Andrei,Larsson_Magnus,Larsson_Magnus,SkiStar_Swedish_Open,1991,07,14,6-3_6-2
-SkiStar_Swedish_Open,2,1991,07,14,1,Gorriz_MarcosAurelio,Wahlgren_LarsAnders,Wahlgren_LarsAnders,SkiStar_Swedish_Open,1991,07,14,6-3_3-6_6-3
+SkiStar_Swedish_Open,2,1991,07,14,1,Gorriz_Marcos_Aurelio,Wahlgren_LarsAnders,Wahlgren_LarsAnders,SkiStar_Swedish_Open,1991,07,14,6-3_3-6_6-3
 SkiStar_Swedish_Open,2,1991,07,14,1,Pistolesi_Claudio,Champion_Thierry,Pistolesi_Claudio,SkiStar_Swedish_Open,1991,07,14,6-4_6-0
 SkiStar_Swedish_Open,2,1991,07,14,1,Bjorkman_Jonas,Mancini_Alberto,Mancini_Alberto,SkiStar_Swedish_Open,1991,07,14,6-3_6-1
 SkiStar_Swedish_Open,2,1991,07,14,1,Volkov_Alexander,Paloheimo_Veli,Volkov_Alexander,SkiStar_Swedish_Open,1991,07,14,6-4_6-4

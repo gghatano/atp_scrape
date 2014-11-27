@@ -2,11 +2,11 @@ London,2,1972,11,26,1,Nastase_Ilie,Dibley_Colin,Nastase_Ilie,London,1972,11,26,6
 London,2,1972,11,26,1,Warboys_Stephen,Graebner_Clark,Graebner_Clark,London,1972,11,26,7-5_6-4
 London,2,1972,11,26,1,Proisy_Patrick,Fassbender_Jurgen,Proisy_Patrick,London,1972,11,26,6-4_6-1
 London,2,1972,11,26,1,Lloyd_David,Paish_John,Lloyd_David,London,1972,11,26,7-6_6-4
-London,2,1972,11,26,1,Gimeno_Andres,Fillol_SrJaime,Fillol_SrJaime,London,1972,11,26,1-6_6-3_6-3
-London,2,1972,11,26,1,McMillan_Frew,Gisbert_SrJuan,McMillan_Frew,London,1972,11,26,4-6_6-2_6-4
+London,2,1972,11,26,1,Gimeno_Andres,Fillol_Sr_Jaime,Fillol_Sr_Jaime,London,1972,11,26,1-6_6-3_6-3
+London,2,1972,11,26,1,McMillan_Frew,Gisbert_Sr_Juan,McMillan_Frew,London,1972,11,26,4-6_6-2_6-4
 London,2,1972,11,26,1,Connors_Jimmy,Fletcher_Ian,Connors_Jimmy,London,1972,11,26,6-4_6-4
 London,2,1972,11,26,1,Moore_Raymond,Weatherley_Ken,Moore_Raymond,London,1972,11,26,6-1_5-7_6-3
-London,2,1972,11,26,1,Lloyd_John,De_MendozaJohn,De_MendozaJohn,London,1972,11,26,6-3_6-1
+London,2,1972,11,26,1,Lloyd_John,De_Mendoza_John,De_Mendoza_John,London,1972,11,26,6-3_6-1
 London,2,1972,11,26,1,Hrebec_Jiri,Gorman_Tom,Gorman_Tom,London,1972,11,26,W/O
 London,2,1972,11,26,1,Cramer_Pat,PhillipsMoore_Barry,PhillipsMoore_Barry,London,1972,11,26,3-6_7-6_6-3
 London,2,1972,11,26,1,McManus_Jim,Kodes_Jan,Kodes_Jan,London,1972,11,26,6-3_7-6
@@ -16,9 +16,9 @@ London,2,1972,11,26,1,Parun_Onny,Lewis_Richard,Parun_Onny,London,1972,11,26,7-6_
 London,2,1972,11,26,1,Zednik_Vladimir,Smith_Stan,Smith_Stan,London,1972,11,26,W/O
 London,2,1972,11,26,2,Nastase_Ilie,Graebner_Clark,Nastase_Ilie,London,1972,11,26,6-2_6-4
 London,2,1972,11,26,2,Proisy_Patrick,Lloyd_David,Proisy_Patrick,London,1972,11,26,7-6_6-4
-London,2,1972,11,26,2,Fillol_SrJaime,McMillan_Frew,McMillan_Frew,London,1972,11,26,2-6_6-3_7-6
+London,2,1972,11,26,2,Fillol_Sr_Jaime,McMillan_Frew,McMillan_Frew,London,1972,11,26,2-6_6-3_7-6
 London,2,1972,11,26,2,Connors_Jimmy,Moore_Raymond,Connors_Jimmy,London,1972,11,26,3-6_6-0_6-0
-London,2,1972,11,26,2,De_MendozaJohn,Gorman_Tom,Gorman_Tom,London,1972,11,26,6-3_6-3
+London,2,1972,11,26,2,De_Mendoza_John,Gorman_Tom,Gorman_Tom,London,1972,11,26,6-3_6-3
 London,2,1972,11,26,2,PhillipsMoore_Barry,Kodes_Jan,PhillipsMoore_Barry,London,1972,11,26,6-4_6-4
 London,2,1972,11,26,2,Pala_Frantisek,Pattison_Andrew,Pattison_Andrew,London,1972,11,26,6-1_4-6_7-5
 London,2,1972,11,26,2,Parun_Onny,Smith_Stan,Parun_Onny,London,1972,11,26,6-4_6-3

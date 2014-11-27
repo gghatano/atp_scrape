@@ -11,7 +11,7 @@ Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Belic_Luka,Riba_Pere,Riba_Pere,Vegeta_Cr
 Vegeta_Croatia_Open_Umag,2,2007,07,29,1,RogerVasselin_Edouard,Acasuso_Jose,Acasuso_Jose,Vegeta_Croatia_Open_Umag,2007,07,29,6-2_6-0
 Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Montanes_Albert,Ferrer_David,Ferrer_David,Vegeta_Croatia_Open_Umag,2007,07,29,6-2_6-2
 Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Canas_Guillermo,Karanusic_Roko,Canas_Guillermo,Vegeta_Croatia_Open_Umag,2007,07,29,6-3_6-3
-Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Gaudio_Gaston,Ramirez_HidalgoRuben,Ramirez_HidalgoRuben,Vegeta_Croatia_Open_Umag,2007,07,29,6-0_6-4
+Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Gaudio_Gaston,Ramirez_Hidalgo_Ruben,Ramirez_Hidalgo_Ruben,Vegeta_Croatia_Open_Umag,2007,07,29,6-0_6-4
 Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Cilic_Marin,Montcourt_Mathieu,Cilic_Marin,Vegeta_Croatia_Open_Umag,2007,07,29,3-6_6-4_6-1
 Vegeta_Croatia_Open_Umag,2,2007,07,29,1,Simon_Gilles,Davydenko_Nikolay,Simon_Gilles,Vegeta_Croatia_Open_Umag,2007,07,29,6-2_2-6_6-3
 Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Djokovic_Novak,Troicki_Viktor,Troicki_Viktor,Vegeta_Croatia_Open_Umag,2007,07,29,2-6_6-4_7-5
@@ -20,7 +20,7 @@ Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Pavel_Andrei,Haase_Robin,Pavel_Andrei,Ve
 Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Zverev_Mischa,Volandri_Filippo,Volandri_Filippo,Vegeta_Croatia_Open_Umag,2007,07,29,7-6(2)_7-5
 Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Moya_Carlos,Riba_Pere,Moya_Carlos,Vegeta_Croatia_Open_Umag,2007,07,29,6-0_6-3
 Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Acasuso_Jose,Ferrer_David,Ferrer_David,Vegeta_Croatia_Open_Umag,2007,07,29,2-6_7-6(4)_6-2
-Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Canas_Guillermo,Ramirez_HidalgoRuben,Canas_Guillermo,Vegeta_Croatia_Open_Umag,2007,07,29,6-4_6-3
+Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Canas_Guillermo,Ramirez_Hidalgo_Ruben,Canas_Guillermo,Vegeta_Croatia_Open_Umag,2007,07,29,6-4_6-3
 Vegeta_Croatia_Open_Umag,2,2007,07,29,2,Cilic_Marin,Simon_Gilles,Simon_Gilles,Vegeta_Croatia_Open_Umag,2007,07,29,7-5_2-6_6-3
 Vegeta_Croatia_Open_Umag,2,2007,07,29,3,Troicki_Viktor,Berlocq_Carlos,Troicki_Viktor,Vegeta_Croatia_Open_Umag,2007,07,29,7-5_6-2
 Vegeta_Croatia_Open_Umag,2,2007,07,29,3,Pavel_Andrei,Volandri_Filippo,Pavel_Andrei,Vegeta_Croatia_Open_Umag,2007,07,29,1-6_6-2_6-3

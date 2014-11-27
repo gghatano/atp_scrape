@@ -12,7 +12,7 @@ Bologna,2,1988,06,12,1,Perez_Diego,Stenlund_Ulf,Stenlund_Ulf,Bologna,1988,06,12,
 Bologna,2,1988,06,12,1,Hennemann_Marcelo,Jaite_Martin,Jaite_Martin,Bologna,1988,06,12,6-1_6-1
 Bologna,2,1988,06,12,1,Miniussi_Christian,Sanchez_Javier,Sanchez_Javier,Bologna,1988,06,12,6-1_5-7_7-5
 Bologna,2,1988,06,12,1,Arraya_Pablo,Cane_Paolo,Arraya_Pablo,Bologna,1988,06,12,6-4_6-4
-Bologna,2,1988,06,12,1,Pistolesi_Claudio,De_MinicisAlessandro,Pistolesi_Claudio,Bologna,1988,06,12,6-0_6-3
+Bologna,2,1988,06,12,1,Pistolesi_Claudio,De_Minicis_Alessandro,Pistolesi_Claudio,Bologna,1988,06,12,6-0_6-3
 Bologna,2,1988,06,12,1,Cancellotti_Francesco,Sanchez_Emilio,Sanchez_Emilio,Bologna,1988,06,12,6-0_3-6_6-0
 Bologna,2,1988,06,12,2,Carlsson_Kent,Aguilera_Juan,Carlsson_Kent,Bologna,1988,06,12,6-0_6-2
 Bologna,2,1988,06,12,2,Camporese_Omar,Maciel_Francisco,Camporese_Omar,Bologna,1988,06,12,7-5_7-6

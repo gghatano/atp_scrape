@@ -12,7 +12,7 @@ BMW_Open_by_FWU_AG,2,1998,05,03,1,Nydahl_Tomas,Vinck_Christian,Nydahl_Tomas,BMW_
 BMW_Open_by_FWU_AG,2,1998,05,03,1,Knippschild_Jens,Henman_Tim,Henman_Tim,BMW_Open_by_FWU_AG,1998,05,03,6-4_4-6_6-1
 BMW_Open_by_FWU_AG,2,1998,05,03,1,Agassi_Andre,Woodbridge_Todd,Agassi_Andre,BMW_Open_by_FWU_AG,1998,05,03,6-1_3-6_6-3
 BMW_Open_by_FWU_AG,2,1998,05,03,1,Woodforde_Mark,Schuettler_Rainer,Schuettler_Rainer,BMW_Open_by_FWU_AG,1998,05,03,6-4_7-6(2)
-BMW_Open_by_FWU_AG,2,1998,05,03,1,Van_GarsseChristophe,Steven_Brett,Van_GarsseChristophe,BMW_Open_by_FWU_AG,1998,05,03,7-5_6-1
+BMW_Open_by_FWU_AG,2,1998,05,03,1,Van_Garsse_Christophe,Steven_Brett,Van_Garsse_Christophe,BMW_Open_by_FWU_AG,1998,05,03,7-5_6-1
 BMW_Open_by_FWU_AG,2,1998,05,03,1,Medvedev_Andrei,Bjorkman_Jonas,Bjorkman_Jonas,BMW_Open_by_FWU_AG,1998,05,03,2-6_6-4_6-0
 BMW_Open_by_FWU_AG,2,1998,05,03,2,Gross_Oliver,ImazRuiz_Jose,Gross_Oliver,BMW_Open_by_FWU_AG,1998,05,03,6-1_6-0
 BMW_Open_by_FWU_AG,2,1998,05,03,2,Rosset_Marc,Enqvist_Thomas,Enqvist_Thomas,BMW_Open_by_FWU_AG,1998,05,03,6-2_6-3
@@ -21,7 +21,7 @@ BMW_Open_by_FWU_AG,2,1998,05,03,2,Escude_Nicolas,Philippoussis_Mark,Escude_Nicol
 BMW_Open_by_FWU_AG,2,1998,05,03,2,Blanco_Galo,Mandl_Gerald,Blanco_Galo,BMW_Open_by_FWU_AG,1998,05,03,6-4_6-2
 BMW_Open_by_FWU_AG,2,1998,05,03,2,Nydahl_Tomas,Henman_Tim,Nydahl_Tomas,BMW_Open_by_FWU_AG,1998,05,03,6-3_6-1
 BMW_Open_by_FWU_AG,2,1998,05,03,2,Agassi_Andre,Schuettler_Rainer,Agassi_Andre,BMW_Open_by_FWU_AG,1998,05,03,6-1_6-4
-BMW_Open_by_FWU_AG,2,1998,05,03,2,Van_GarsseChristophe,Bjorkman_Jonas,Bjorkman_Jonas,BMW_Open_by_FWU_AG,1998,05,03,6-4_2-0_RET
+BMW_Open_by_FWU_AG,2,1998,05,03,2,Van_Garsse_Christophe,Bjorkman_Jonas,Bjorkman_Jonas,BMW_Open_by_FWU_AG,1998,05,03,6-4_2-0_RET
 BMW_Open_by_FWU_AG,2,1998,05,03,3,Gross_Oliver,Enqvist_Thomas,Enqvist_Thomas,BMW_Open_by_FWU_AG,1998,05,03,6-3_6-3
 BMW_Open_by_FWU_AG,2,1998,05,03,3,Gustafsson_Magnus,Escude_Nicolas,Gustafsson_Magnus,BMW_Open_by_FWU_AG,1998,05,03,6-3_6-1
 BMW_Open_by_FWU_AG,2,1998,05,03,3,Blanco_Galo,Nydahl_Tomas,Blanco_Galo,BMW_Open_by_FWU_AG,1998,05,03,7-5_5-7_7-6(1)

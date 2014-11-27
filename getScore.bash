@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## get score data from html-file in htmls/. 
+
 dir=$(dirname $0)
 
 # file=$(ls htmls | grep 1968 | grep t_1 | head -n 1)
@@ -10,9 +12,8 @@ file=$1
 ## tournament title
 title=$(cat $dir/htmls/$file | 
 grep "tournamentTitle" | 
-sed -e 's/<[^>]*>//g' -e 's/^ *//g' -e 's/.$//' -e 's/ /_/g' -e "s/\'/_/g")
+sed -e 's/<[^>]*>//g' -e 's/^ *//g' -e 's/.$//' -e 's/ /_/g' -e "s/\'/_/g" -e 's/,//')
 echo $title
-
 
 ## tournament date 
 date=$(cat $dir/htmls/$file | 

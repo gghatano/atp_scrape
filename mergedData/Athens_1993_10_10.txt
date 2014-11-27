@@ -1,5 +1,5 @@
-Athens,2,1993,10,10,1,Sanchez_Javier,Gisbert_JrJuan,Sanchez_Javier,Athens,1993,10,10,6-4_7-6(3)
-Athens,2,1993,10,10,1,Altur_JoseFrancisco,Krocsko_Jozsef,Krocsko_Jozsef,Athens,1993,10,10,6-3_7-5
+Athens,2,1993,10,10,1,Sanchez_Javier,Gisbert_Jr_Juan,Sanchez_Javier,Athens,1993,10,10,6-4_7-6(3)
+Athens,2,1993,10,10,1,Altur_Jose_Francisco,Krocsko_Jozsef,Krocsko_Jozsef,Athens,1993,10,10,6-3_7-5
 Athens,2,1993,10,10,1,Azar_Roberto,Bavelas_Tasos,Azar_Roberto,Athens,1993,10,10,6-7(4)_6-1_6-2
 Athens,2,1993,10,10,1,Rikl_David,Gaudenzi_Andrea,Gaudenzi_Andrea,Athens,1993,10,10,6-2_6-2
 Athens,2,1993,10,10,1,Karbacher_Bernd,Arriens_Carsten,Arriens_Carsten,Athens,1993,10,10,4-6_6-1_6-2
@@ -10,7 +10,7 @@ Athens,2,1993,10,10,1,Corretja_Alex,Agenor_Ronald,Corretja_Alex,Athens,1993,10,1
 Athens,2,1993,10,10,1,Pescosolido_Stefano,Carretero_Roberto,Pescosolido_Stefano,Athens,1993,10,10,6-4_4-6_6-1
 Athens,2,1993,10,10,1,Filippini_Marcelo,Velev_Milen,Filippini_Marcelo,Athens,1993,10,10,7-5_6-0
 Athens,2,1993,10,10,1,Kafelnikov_Yevgeny,Berasategui_Alberto,Berasategui_Alberto,Athens,1993,10,10,6-2_6-1
-Athens,2,1993,10,10,1,De_LaPenaHoracio,Nargiso_Diego,De_LaPenaHoracio,Athens,1993,10,10,6-7(6)_7-5_6-1
+Athens,2,1993,10,10,1,De_La_Pena_Horacio,Nargiso_Diego,De_La_Pena_Horacio,Athens,1993,10,10,6-7(6)_7-5_6-1
 Athens,2,1993,10,10,1,Sanchez_Federico,Clavet_Francisco,Clavet_Francisco,Athens,1993,10,10,0-6_6-3_6-2
 Athens,2,1993,10,10,1,Schaller_Gilbert,Koevermans_Mark,Schaller_Gilbert,Athens,1993,10,10,6-7(3)_6-4_6-4
 Athens,2,1993,10,10,1,Kalovelonis_George,Cherkasov_Andrei,Cherkasov_Andrei,Athens,1993,10,10,6-1_6-3
@@ -20,12 +20,12 @@ Athens,2,1993,10,10,2,Arriens_Carsten,Arrese_Jordi,Arrese_Jordi,Athens,1993,10,1
 Athens,2,1993,10,10,2,Montana_Francisco,Furlan_Renzo,Furlan_Renzo,Athens,1993,10,10,6-1_6-4
 Athens,2,1993,10,10,2,Corretja_Alex,Pescosolido_Stefano,Pescosolido_Stefano,Athens,1993,10,10,6-4_6-3
 Athens,2,1993,10,10,2,Filippini_Marcelo,Berasategui_Alberto,Berasategui_Alberto,Athens,1993,10,10,2-6_6-4_7-5
-Athens,2,1993,10,10,2,De_LaPenaHoracio,Clavet_Francisco,De_LaPenaHoracio,Athens,1993,10,10,5-7_6-1_6-0
+Athens,2,1993,10,10,2,De_La_Pena_Horacio,Clavet_Francisco,De_La_Pena_Horacio,Athens,1993,10,10,5-7_6-1_6-0
 Athens,2,1993,10,10,2,Schaller_Gilbert,Cherkasov_Andrei,Schaller_Gilbert,Athens,1993,10,10,7-6(2)_6-2
 Athens,2,1993,10,10,3,Sanchez_Javier,Gaudenzi_Andrea,Sanchez_Javier,Athens,1993,10,10,6-4_RET
 Athens,2,1993,10,10,3,Arrese_Jordi,Furlan_Renzo,Arrese_Jordi,Athens,1993,10,10,6-4_7-5
 Athens,2,1993,10,10,3,Pescosolido_Stefano,Berasategui_Alberto,Berasategui_Alberto,Athens,1993,10,10,6-2_6-2
-Athens,2,1993,10,10,3,De_LaPenaHoracio,Schaller_Gilbert,De_LaPenaHoracio,Athens,1993,10,10,6-3_6-2
+Athens,2,1993,10,10,3,De_La_Pena_Horacio,Schaller_Gilbert,De_La_Pena_Horacio,Athens,1993,10,10,6-3_6-2
 Athens,2,1993,10,10,4,Sanchez_Javier,Arrese_Jordi,Arrese_Jordi,Athens,1993,10,10,6-3_4-6_7-6(1)
-Athens,2,1993,10,10,4,Berasategui_Alberto,De_LaPenaHoracio,Berasategui_Alberto,Athens,1993,10,10,6-3_7-5
+Athens,2,1993,10,10,4,Berasategui_Alberto,De_La_Pena_Horacio,Berasategui_Alberto,Athens,1993,10,10,6-3_7-5
 Athens,2,1993,10,10,5,Arrese_Jordi,Berasategui_Alberto,Arrese_Jordi,Athens,1993,10,10,6-4_3-6_6-3

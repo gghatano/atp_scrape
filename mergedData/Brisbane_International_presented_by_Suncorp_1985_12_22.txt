@@ -2,7 +2,7 @@ Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Frawley_John,Cahill_D
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Bauer_Mike,Masur_Wally,Masur_Wally,Brisbane_International_presented_by_Suncorp,1985,12,22,6-3_7-6
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Fulwood_Nick,Scanlon_Bill,Scanlon_Bill,Brisbane_International_presented_by_Suncorp,1985,12,22,6-7_6-4_6-3
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Saad_Roberto,Bates_Jeremy,Saad_Roberto,Brisbane_International_presented_by_Suncorp,1985,12,22,6-3_7-6
-Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Mansdorf_Amos,Van_BoeckelHuub,Mansdorf_Amos,Brisbane_International_presented_by_Suncorp,1985,12,22,6-7_6-4_6-4
+Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Mansdorf_Amos,Van_Boeckel_Huub,Mansdorf_Amos,Brisbane_International_presented_by_Suncorp,1985,12,22,6-7_6-4_6-4
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Osterthun_Ricki,Schapers_Michiel,Schapers_Michiel,Brisbane_International_presented_by_Suncorp,1985,12,22,6-7_6-3_6-1
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Emerson_Antony,Drewett_Brad,Drewett_Brad,Brisbane_International_presented_by_Suncorp,1985,12,22,6-2_6-3
 Brisbane_International_presented_by_Suncorp,2,1985,12,22,1,Gonzalez_Francisco,Doohan_Peter,Doohan_Peter,Brisbane_International_presented_by_Suncorp,1985,12,22,6-4_7-6

@@ -1,6 +1,6 @@
 Nice,2,1986,04,20,1,Tulasne_Thierry,Schwaier_Hans,Tulasne_Thierry,Nice,1986,04,20,6-3_6-0
 Nice,2,1986,04,20,1,Perez_Diego,Arraya_Pablo,Perez_Diego,Nice,1986,04,20,5-7_6-3_6-4
-Nice,2,1986,04,20,1,Pistolesi_Claudio,Pecci_SrVictor,Pistolesi_Claudio,Nice,1986,04,20,6-3_6-2
+Nice,2,1986,04,20,1,Pistolesi_Claudio,Pecci_Sr_Victor,Pistolesi_Claudio,Nice,1986,04,20,6-3_6-2
 Nice,2,1986,04,20,1,McNamee_Paul,Yzaga_Jaime,McNamee_Paul,Nice,1986,04,20,6-3_6-3
 Nice,2,1986,04,20,1,Forget_Guy,Duncan_Lawson,Forget_Guy,Nice,1986,04,20,5-7_6-4_6-2
 Nice,2,1986,04,20,1,Segarceanu_Florin,Agenor_Ronald,Segarceanu_Florin,Nice,1986,04,20,6-2_7-6
@@ -13,7 +13,7 @@ Nice,2,1986,04,20,1,Sanchez_Emilio,Pernfors_Mikael,Sanchez_Emilio,Nice,1986,04,2
 Nice,2,1986,04,20,1,Casal_Sergio,Schapers_Michiel,Casal_Sergio,Nice,1986,04,20,6-4_6-4
 Nice,2,1986,04,20,1,Arguello_Roberto,Brown_Jimmy,Arguello_Roberto,Nice,1986,04,20,6-1_6-4
 Nice,2,1986,04,20,1,Vajda_Marian,Aguilera_Juan,Vajda_Marian,Nice,1986,04,20,7-5_6-2
-Nice,2,1986,04,20,1,De_LaPenaHoracio,Jaite_Martin,De_LaPenaHoracio,Nice,1986,04,20,7-5_6-3
+Nice,2,1986,04,20,1,De_La_Pena_Horacio,Jaite_Martin,De_La_Pena_Horacio,Nice,1986,04,20,7-5_6-3
 Nice,2,1986,04,20,2,Tulasne_Thierry,Perez_Diego,Tulasne_Thierry,Nice,1986,04,20,3-6_6-1_6-1
 Nice,2,1986,04,20,2,Pistolesi_Claudio,McNamee_Paul,McNamee_Paul,Nice,1986,04,20,6-4_6-3
 Nice,2,1986,04,20,2,Forget_Guy,Segarceanu_Florin,Segarceanu_Florin,Nice,1986,04,20,4-6_6-0_6-1
@@ -21,7 +21,7 @@ Nice,2,1986,04,20,2,Arrese_Jordi,Maurer_Andreas,Arrese_Jordi,Nice,1986,04,20,6-2
 Nice,2,1986,04,20,2,Benhabiles_Tarik,Cancellotti_Francesco,Benhabiles_Tarik,Nice,1986,04,20,1-6_6-2_6-4
 Nice,2,1986,04,20,2,Woodforde_Mark,Sanchez_Emilio,Sanchez_Emilio,Nice,1986,04,20,6-2_6-3
 Nice,2,1986,04,20,2,Casal_Sergio,Arguello_Roberto,Casal_Sergio,Nice,1986,04,20,6-1_6-2
-Nice,2,1986,04,20,2,Vajda_Marian,De_LaPenaHoracio,Vajda_Marian,Nice,1986,04,20,7-5_3-6_7-5
+Nice,2,1986,04,20,2,Vajda_Marian,De_La_Pena_Horacio,Vajda_Marian,Nice,1986,04,20,7-5_3-6_7-5
 Nice,2,1986,04,20,3,Tulasne_Thierry,McNamee_Paul,McNamee_Paul,Nice,1986,04,20,7-5_6-4
 Nice,2,1986,04,20,3,Segarceanu_Florin,Arrese_Jordi,Arrese_Jordi,Nice,1986,04,20,6-3_6-1
 Nice,2,1986,04,20,3,Benhabiles_Tarik,Sanchez_Emilio,Sanchez_Emilio,Nice,1986,04,20,6-2_6-0

@@ -1,11 +1,11 @@
 If_Stockholm_Open,2,2002,10,27,1,Hewitt_Lleyton,Enqvist_Thomas,Hewitt_Lleyton,If_Stockholm_Open,2002,10,27,W/O
 If_Stockholm_Open,2,2002,10,27,1,Sluiter_Raemon,Spadea_Vincent,Sluiter_Raemon,If_Stockholm_Open,2002,10,27,6-4_7-6(5)
-If_Stockholm_Open,2,2002,10,27,1,Llodra_Michael,van_LottumJohn,Llodra_Michael,If_Stockholm_Open,2002,10,27,6-3_6-2
+If_Stockholm_Open,2,2002,10,27,1,Llodra_Michael,van_Lottum_John,Llodra_Michael,If_Stockholm_Open,2002,10,27,6-3_6-2
 If_Stockholm_Open,2,2002,10,27,1,Soderling_Robin,Srichaphan_Paradorn,Srichaphan_Paradorn,If_Stockholm_Open,2002,10,27,6-2_6-1
 If_Stockholm_Open,2,2002,10,27,1,Johansson_Thomas,Robredo_Tommy,Robredo_Tommy,If_Stockholm_Open,2002,10,27,3-6_6-3_6-2
 If_Stockholm_Open,2,2002,10,27,1,Nieminen_Jarkko,Martin_Todd,Martin_Todd,If_Stockholm_Open,2002,10,27,6-3_7-5
 If_Stockholm_Open,2,2002,10,27,1,Portas_Albert,Johansson_Joachim,Johansson_Joachim,If_Stockholm_Open,2002,10,27,6-3_6-3
-If_Stockholm_Open,2,2002,10,27,1,Santoro_Fabrice,Chela_JuanIgnacio,Santoro_Fabrice,If_Stockholm_Open,2002,10,27,6-1_6-3
+If_Stockholm_Open,2,2002,10,27,1,Santoro_Fabrice,Chela_Juan_Ignacio,Santoro_Fabrice,If_Stockholm_Open,2002,10,27,6-1_6-3
 If_Stockholm_Open,2,2002,10,27,1,Rios_Marcelo,Arthurs_Wayne,Rios_Marcelo,If_Stockholm_Open,2002,10,27,6-4_6-7(5)_6-1
 If_Stockholm_Open,2,2002,10,27,1,Gambill_JanMichael,Rochus_Olivier,Gambill_JanMichael,If_Stockholm_Open,2002,10,27,6-1_3-6_7-6(8)
 If_Stockholm_Open,2,2002,10,27,1,Beck_Karol,Vinciguerra_Andreas,Vinciguerra_Andreas,If_Stockholm_Open,2002,10,27,7-6(5)_6-1

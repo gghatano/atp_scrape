@@ -12,7 +12,7 @@ Adelaide,2,1977,12,11,1,Crealy_Dick,Ball_Syd,Ball_Syd,Adelaide,1977,12,11,6-3_7-
 Adelaide,2,1977,12,11,1,Pascale_Raymond,Meiler_Karl,Meiler_Karl,Adelaide,1977,12,11,6-3_6-1
 Adelaide,2,1977,12,11,1,Pfister_Henry,Drewett_Brad,Pfister_Henry,Adelaide,1977,12,11,7-6_6-2
 Adelaide,2,1977,12,11,1,Moretton_Gilles,Wilkison_Tim,Wilkison_Tim,Adelaide,1977,12,11,6-3_6-2
-Adelaide,2,1977,12,11,1,Lewis_Richard,Lewis_NZLChris,Lewis_NZLChris,Adelaide,1977,12,11,6-2_6-2
+Adelaide,2,1977,12,11,1,Lewis_Richard,Lewis_NZL_Chris,Lewis_NZL_Chris,Adelaide,1977,12,11,6-2_6-2
 Adelaide,2,1977,12,11,1,Lloyd_John,Dibley_Colin,Dibley_Colin,Adelaide,1977,12,11,6-3_6-3
 Adelaide,2,1977,12,11,1,Gullikson_Tim,Clarke_Simon,Gullikson_Tim,Adelaide,1977,12,11,6-7_6-3_6-4
 Adelaide,2,1977,12,11,1,Carter_David,Eke_Victor,Carter_David,Adelaide,1977,12,11,6-2_6-3
@@ -37,7 +37,7 @@ Adelaide,2,1977,12,11,2,Clements_Tim,Warwick_Kim,Warwick_Kim,Adelaide,1977,12,11
 Adelaide,2,1977,12,11,2,Dent_Phil,Feaver_John,Dent_Phil,Adelaide,1977,12,11,7-6_6-4
 Adelaide,2,1977,12,11,2,Ball_Syd,Meiler_Karl,Meiler_Karl,Adelaide,1977,12,11,3-6_6-3_6-4
 Adelaide,2,1977,12,11,2,Pfister_Henry,Wilkison_Tim,Pfister_Henry,Adelaide,1977,12,11,5-7_6-4_6-3
-Adelaide,2,1977,12,11,2,Lewis_NZLChris,Dibley_Colin,Lewis_NZLChris,Adelaide,1977,12,11,7-6_7-6
+Adelaide,2,1977,12,11,2,Lewis_NZL_Chris,Dibley_Colin,Lewis_NZL_Chris,Adelaide,1977,12,11,7-6_7-6
 Adelaide,2,1977,12,11,2,Gullikson_Tim,Carter_David,Gullikson_Tim,Adelaide,1977,12,11,2-6_6-4_7-5
 Adelaide,2,1977,12,11,2,Holladay_John,Case_Ross,Case_Ross,Adelaide,1977,12,11,6-3_7-6
 Adelaide,2,1977,12,11,2,Walts_Butch,Rocavert_Terry,Walts_Butch,Adelaide,1977,12,11,6-4_6-3
@@ -49,15 +49,15 @@ Adelaide,2,1977,12,11,2,Friedler_Eric,Tanner_Roscoe,Tanner_Roscoe,Adelaide,1977,
 Adelaide,2,1977,12,11,3,Docherty_Steve,Scanlon_Bill,Scanlon_Bill,Adelaide,1977,12,11,6-4_6-2
 Adelaide,2,1977,12,11,3,Lloyd_William,Warwick_Kim,Warwick_Kim,Adelaide,1977,12,11,6-3_7-5
 Adelaide,2,1977,12,11,3,Dent_Phil,Meiler_Karl,Dent_Phil,Adelaide,1977,12,11,6-4_6-4
-Adelaide,2,1977,12,11,3,Pfister_Henry,Lewis_NZLChris,Lewis_NZLChris,Adelaide,1977,12,11,6-2_6-3
+Adelaide,2,1977,12,11,3,Pfister_Henry,Lewis_NZL_Chris,Lewis_NZL_Chris,Adelaide,1977,12,11,6-2_6-3
 Adelaide,2,1977,12,11,3,Gullikson_Tim,Case_Ross,Gullikson_Tim,Adelaide,1977,12,11,6-1_7-5
 Adelaide,2,1977,12,11,3,Walts_Butch,Alexander_John,Alexander_John,Adelaide,1977,12,11,6-4_6-7_9-7
 Adelaide,2,1977,12,11,3,Stone_Allan,Feigl_Peter,Stone_Allan,Adelaide,1977,12,11,6-7_6-2_6-4
 Adelaide,2,1977,12,11,3,Gorman_Tom,Tanner_Roscoe,Gorman_Tom,Adelaide,1977,12,11,6-7_7-5_6-3
 Adelaide,2,1977,12,11,4,Scanlon_Bill,Warwick_Kim,Warwick_Kim,Adelaide,1977,12,11,6-3_6-3
-Adelaide,2,1977,12,11,4,Dent_Phil,Lewis_NZLChris,Lewis_NZLChris,Adelaide,1977,12,11,6-3_7-6
+Adelaide,2,1977,12,11,4,Dent_Phil,Lewis_NZL_Chris,Lewis_NZL_Chris,Adelaide,1977,12,11,6-3_7-6
 Adelaide,2,1977,12,11,4,Gullikson_Tim,Alexander_John,Gullikson_Tim,Adelaide,1977,12,11,7-6_6-7_6-4
 Adelaide,2,1977,12,11,4,Stone_Allan,Gorman_Tom,Gorman_Tom,Adelaide,1977,12,11,3-6_6-4_8-6
-Adelaide,2,1977,12,11,5,Warwick_Kim,Lewis_NZLChris,Lewis_NZLChris,Adelaide,1977,12,11,7-5_6-4
+Adelaide,2,1977,12,11,5,Warwick_Kim,Lewis_NZL_Chris,Lewis_NZL_Chris,Adelaide,1977,12,11,7-5_6-4
 Adelaide,2,1977,12,11,5,Gullikson_Tim,Gorman_Tom,Gullikson_Tim,Adelaide,1977,12,11,3-6_6-1_6-2
-Adelaide,2,1977,12,11,6,Lewis_NZLChris,Gullikson_Tim,Gullikson_Tim,Adelaide,1977,12,11,3-6_6-4_3-6_6-2_6-4
+Adelaide,2,1977,12,11,6,Lewis_NZL_Chris,Gullikson_Tim,Gullikson_Tim,Adelaide,1977,12,11,3-6_6-4_3-6_6-2_6-4

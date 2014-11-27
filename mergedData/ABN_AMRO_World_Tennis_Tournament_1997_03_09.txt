@@ -1,9 +1,9 @@
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Ivanisevic_Goran,Santoro_Fabrice,Ivanisevic_Goran,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-3_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Simian_Stephane,Raoux_Guillaume,Raoux_Guillaume,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-3_6-2
-ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Boetsch_Arnaud,Van_HerckJohan,Van_HerckJohan,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-4_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Boetsch_Arnaud,Van_Herck_Johan,Van_Herck_Johan,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Alami_Karim,Korda_Petr,Korda_Petr,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-3_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Siemerink_Jan,Vacek_Daniel,Vacek_Daniel,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-6(3)_7-6(2)
-ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Van_ScheppingenDennis,Fromberg_Richard,Van_ScheppingenDennis,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-2_6-4
+ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Van_Scheppingen_Dennis,Fromberg_Richard,Van_Scheppingen_Dennis,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-2_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Delaitre_Olivier,Eltingh_Jacco,Delaitre_Olivier,ABN_AMRO_World_Tennis_Tournament,1997,03,09,1-6_7-6(5)_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Furlan_Renzo,Corretja_Alex,Furlan_Renzo,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-4_3-6_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Haarhuis_Paul,Sinner_Martin,Sinner_Martin,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-3_6-4
@@ -15,8 +15,8 @@ ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Johansson_Thomas,Carbonell_Tomas
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Prinosil_David,Kucera_Karol,Prinosil_David,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-2_2-6_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,1,Damm_Martin,Krajicek_Richard,Krajicek_Richard,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Ivanisevic_Goran,Raoux_Guillaume,Ivanisevic_Goran,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-5_6-7(5)_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Van_HerckJohan,Korda_Petr,Korda_Petr,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-6(4)_6-2
-ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Vacek_Daniel,Van_ScheppingenDennis,Vacek_Daniel,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-6(5)_4-6_6-1
+ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Van_Herck_Johan,Korda_Petr,Korda_Petr,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-6(4)_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Vacek_Daniel,Van_Scheppingen_Dennis,Vacek_Daniel,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-6(5)_4-6_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Delaitre_Olivier,Furlan_Renzo,Furlan_Renzo,ABN_AMRO_World_Tennis_Tournament,1997,03,09,7-5_7-6(5)
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Sinner_Martin,Radulescu_Alex,Radulescu_Alex,ABN_AMRO_World_Tennis_Tournament,1997,03,09,3-6_7-6(2)_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1997,03,09,2,Kiefer_Nicolas,Enqvist_Thomas,Enqvist_Thomas,ABN_AMRO_World_Tennis_Tournament,1997,03,09,6-2_6-2

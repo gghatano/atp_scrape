@@ -1,11 +1,11 @@
 Zagreb,2,1997,02,02,1,Ivanisevic_Goran,Norman_Magnus,Ivanisevic_Goran,Zagreb,1997,02,02,7-6(5)_6-7(4)_7-5
 Zagreb,2,1997,02,02,1,Goellner_MarcKevin,Johansson_Thomas,Johansson_Thomas,Zagreb,1997,02,02,7-5_6-2
-Zagreb,2,1997,02,02,1,Voinea_Adrian,Gorriz_MarcosAurelio,Voinea_Adrian,Zagreb,1997,02,02,7-6(2)_6-3
+Zagreb,2,1997,02,02,1,Voinea_Adrian,Gorriz_Marcos_Aurelio,Voinea_Adrian,Zagreb,1997,02,02,7-6(2)_6-3
 Zagreb,2,1997,02,02,1,Radulescu_Alex,Dreekmann_Hendrik,Radulescu_Alex,Zagreb,1997,02,02,7-6(7)_6-2
 Zagreb,2,1997,02,02,1,Rosset_Marc,Krocsko_Jozsef,Rosset_Marc,Zagreb,1997,02,02,2-6_7-6(4)_6-2
 Zagreb,2,1997,02,02,1,Hirszon_Sasa,Etlis_Gaston,Etlis_Gaston,Zagreb,1997,02,02,7-5_7-6(9)
 Zagreb,2,1997,02,02,1,Hrbaty_Dominik,Schaller_Gilbert,Schaller_Gilbert,Zagreb,1997,02,02,6-1_6-3
-Zagreb,2,1997,02,02,1,VilocaPuig_JuanAlbert,Sanchez_Javier,Sanchez_Javier,Zagreb,1997,02,02,7-6(6)_7-6(5)
+Zagreb,2,1997,02,02,1,VilocaPuig_Juan_Albert,Sanchez_Javier,Sanchez_Javier,Zagreb,1997,02,02,7-6(6)_7-6(5)
 Zagreb,2,1997,02,02,1,Furlan_Renzo,Frana_Javier,Furlan_Renzo,Zagreb,1997,02,02,3-6_7-6(4)_6-4
 Zagreb,2,1997,02,02,1,Carlsen_Kenneth,Damm_Martin,Damm_Martin,Zagreb,1997,02,02,6-7(6)_7-6(7)_7-6(3)
 Zagreb,2,1997,02,02,1,Montana_Francisco,Rusedski_Greg,Rusedski_Greg,Zagreb,1997,02,02,6-3_6-4

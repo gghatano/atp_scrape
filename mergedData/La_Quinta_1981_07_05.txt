@@ -5,7 +5,7 @@ La_Quinta,2,1981,07,05,1,Higueras_Jose,Hayes_John,Higueras_Jose,La_Quinta,1981,0
 La_Quinta,2,1981,07,05,1,RogerVasselin_Christophe,Amaya_Victor,RogerVasselin_Christophe,La_Quinta,1981,07,05,1-6_6-3_RET
 La_Quinta,2,1981,07,05,1,Dupre_Pat,Holroyd_Glen,Dupre_Pat,La_Quinta,1981,07,05,6-4_6-1
 La_Quinta,2,1981,07,05,1,Dent_Phil,Redondo_Walter,Dent_Phil,La_Quinta,1981,07,05,7-5_6-3
-La_Quinta,2,1981,07,05,1,Vant_HofRobert,Noah_Yannick,Vant_HofRobert,La_Quinta,1981,07,05,7-5_6-4
+La_Quinta,2,1981,07,05,1,Vant_Hof_Robert,Noah_Yannick,Vant_Hof_Robert,La_Quinta,1981,07,05,7-5_6-4
 La_Quinta,2,1981,07,05,1,Walts_Butch,Teacher_Brian,Walts_Butch,La_Quinta,1981,07,05,4-6_7-6_6-4
 La_Quinta,2,1981,07,05,1,Kronk_Paul,Stewart_Sherwood,Kronk_Paul,La_Quinta,1981,07,05,6-1_6-4
 La_Quinta,2,1981,07,05,1,Buehning_Fritz,LopezMaeso_Jose,Buehning_Fritz,La_Quinta,1981,07,05,7-6_6-1
@@ -33,7 +33,7 @@ La_Quinta,2,1981,07,05,1,Lendl_Ivan,Smith_Stan,Lendl_Ivan,La_Quinta,1981,07,05,6
 La_Quinta,2,1981,07,05,2,Connors_Jimmy,Dunk_Chris,Connors_Jimmy,La_Quinta,1981,07,05,6-3_6-1
 La_Quinta,2,1981,07,05,2,Moor_Terry,Higueras_Jose,Moor_Terry,La_Quinta,1981,07,05,6-3_6-1
 La_Quinta,2,1981,07,05,2,RogerVasselin_Christophe,Dupre_Pat,Dupre_Pat,La_Quinta,1981,07,05,6-7_7-5_6-4
-La_Quinta,2,1981,07,05,2,Dent_Phil,Vant_HofRobert,Dent_Phil,La_Quinta,1981,07,05,6-3_6-4
+La_Quinta,2,1981,07,05,2,Dent_Phil,Vant_Hof_Robert,Dent_Phil,La_Quinta,1981,07,05,6-3_6-4
 La_Quinta,2,1981,07,05,2,Walts_Butch,Kronk_Paul,Kronk_Paul,La_Quinta,1981,07,05,6-4_6-4
 La_Quinta,2,1981,07,05,2,Buehning_Fritz,Smid_Tomas,Smid_Tomas,La_Quinta,1981,07,05,7-6_7-6
 La_Quinta,2,1981,07,05,2,Dibbs_Eddie,Frawley_Rod,Dibbs_Eddie,La_Quinta,1981,07,05,6-1_6-4

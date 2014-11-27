@@ -2,7 +2,7 @@ Aegon_International,2,1992,06,21,1,Volkov_Alexander,Masur_Wally,Masur_Wally,Aego
 Aegon_International,2,1992,06,21,1,Pozzi_Gianluca,Schapers_Michiel,Pozzi_Gianluca,Aegon_International,1992,06,21,5-7_7-6(2)_6-3
 Aegon_International,2,1992,06,21,1,Castle_Andrew,Nargiso_Diego,Nargiso_Diego,Aegon_International,1992,06,21,3-6_6-3_6-2
 Aegon_International,2,1992,06,21,1,Tarango_Jeff,Chesnokov_Andrei,Tarango_Jeff,Aegon_International,1992,06,21,7-6(6)_2-6_7-6(12)
-Aegon_International,2,1992,06,21,1,Wheaton_David,Van_RensburgChristo,Wheaton_David,Aegon_International,1992,06,21,4-6_7-6(5)_7-6(5)
+Aegon_International,2,1992,06,21,1,Wheaton_David,Van_Rensburg_Christo,Wheaton_David,Aegon_International,1992,06,21,4-6_7-6(5)_7-6(5)
 Aegon_International,2,1992,06,21,1,Eltingh_Jacco,Curren_Kevin,Eltingh_Jacco,Aegon_International,1992,06,21,6-3_6-4
 Aegon_International,2,1992,06,21,1,Thoms_Arne,Wilkinson_Chris,Thoms_Arne,Aegon_International,1992,06,21,6-4_6-2
 Aegon_International,2,1992,06,21,1,Annacone_Paul,Cherkasov_Andrei,Annacone_Paul,Aegon_International,1992,06,21,7-6(4)_6-7(2)_7-6(7)

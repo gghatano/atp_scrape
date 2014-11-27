@@ -24,7 +24,7 @@ Roland_Garros,1,1988,06,05,1,Reneberg_Richey,Engel_David,Reneberg_Richey,Roland_
 Roland_Garros,1,1988,06,05,1,Frawley_John,Chesnokov_Andrei,Chesnokov_Andrei,Roland_Garros,1988,06,05,6-2_6-4_7-6
 Roland_Garros,1,1988,06,05,1,Leconte_Henri,Youl_Simon,Leconte_Henri,Roland_Garros,1988,06,05,6-3_4-6_6-7_6-4_6-3
 Roland_Garros,1,1988,06,05,1,Oresar_Bruno,Skoff_Horst,Oresar_Bruno,Roland_Garros,1988,06,05,6-2_4-6_6-4_4-6_9-7
-Roland_Garros,1,1988,06,05,1,De_LaPenaHoracio,Jelen_Eric,De_LaPenaHoracio,Roland_Garros,1988,06,05,6-2_6-2_6-1
+Roland_Garros,1,1988,06,05,1,De_La_Pena_Horacio,Jelen_Eric,De_La_Pena_Horacio,Roland_Garros,1988,06,05,6-2_6-2_6-1
 Roland_Garros,1,1988,06,05,1,Grabb_Jim,Davis_Marty,Davis_Marty,Roland_Garros,1988,06,05,6-4_3-6_7-6_6-3
 Roland_Garros,1,1988,06,05,1,Grenier_Stephane,Hennemann_Marcelo,Hennemann_Marcelo,Roland_Garros,1988,06,05,6-4_6-4_2-6_7-6
 Roland_Garros,1,1988,06,05,1,Muster_Thomas,Flach_Ken,Muster_Thomas,Roland_Garros,1988,06,05,6-0_6-1_6-2
@@ -75,7 +75,7 @@ Roland_Garros,1,1988,06,05,2,Woodforde_Mark,Arrese_Jordi,Woodforde_Mark,Roland_G
 Roland_Garros,1,1988,06,05,2,Vilas_Guillermo,Bengoechea_Eduardo,Bengoechea_Eduardo,Roland_Garros,1988,06,05,6-3_4-6_7-5_6-0
 Roland_Garros,1,1988,06,05,2,Reneberg_Richey,Chesnokov_Andrei,Chesnokov_Andrei,Roland_Garros,1988,06,05,6-4_6-3_4-6_6-3
 Roland_Garros,1,1988,06,05,2,Leconte_Henri,Oresar_Bruno,Leconte_Henri,Roland_Garros,1988,06,05,6-1_6-0_6-7_1-6_6-2
-Roland_Garros,1,1988,06,05,2,De_LaPenaHoracio,Davis_Marty,De_LaPenaHoracio,Roland_Garros,1988,06,05,4-6_6-3_6-1_6-1
+Roland_Garros,1,1988,06,05,2,De_La_Pena_Horacio,Davis_Marty,De_La_Pena_Horacio,Roland_Garros,1988,06,05,4-6_6-3_6-1_6-1
 Roland_Garros,1,1988,06,05,2,Hennemann_Marcelo,Muster_Thomas,Muster_Thomas,Roland_Garros,1988,06,05,6-1_6-0_6-2
 Roland_Garros,1,1988,06,05,2,Korda_Petr,Becker_Boris,Becker_Boris,Roland_Garros,1988,06,05,6-4_6-3_6-4
 Roland_Garros,1,1988,06,05,2,Noah_Yannick,Mattar_Luiz,Noah_Yannick,Roland_Garros,1988,06,05,6-2_6-4_4-6_7-6
@@ -100,7 +100,7 @@ Roland_Garros,1,1988,06,05,3,Nystrom_Joakim,Svensson_Jonas,Svensson_Jonas,Roland
 Roland_Garros,1,1988,06,05,3,Jaite_Martin,Carlsson_Kent,Carlsson_Kent,Roland_Garros,1988,06,05,6-2_6-3_6-1
 Roland_Garros,1,1988,06,05,3,Cash_Pat,Woodforde_Mark,Cash_Pat,Roland_Garros,1988,06,05,4-6_6-2_6-1_6-2
 Roland_Garros,1,1988,06,05,3,Bengoechea_Eduardo,Chesnokov_Andrei,Chesnokov_Andrei,Roland_Garros,1988,06,05,6-1_4-6_6-4_6-0
-Roland_Garros,1,1988,06,05,3,Leconte_Henri,De_LaPenaHoracio,Leconte_Henri,Roland_Garros,1988,06,05,6-4_7-5_6-1
+Roland_Garros,1,1988,06,05,3,Leconte_Henri,De_La_Pena_Horacio,Leconte_Henri,Roland_Garros,1988,06,05,6-4_7-5_6-1
 Roland_Garros,1,1988,06,05,3,Muster_Thomas,Becker_Boris,Becker_Boris,Roland_Garros,1988,06,05,6-1_4-6_7-5_6-3
 Roland_Garros,1,1988,06,05,3,Noah_Yannick,Hlasek_Jakob,Noah_Yannick,Roland_Garros,1988,06,05,6-4_6-4_6-7_6-3
 Roland_Garros,1,1988,06,05,3,Forget_Guy,Sanchez_Emilio,Sanchez_Emilio,Roland_Garros,1988,06,05,6-4_6-4_3-6_6-4

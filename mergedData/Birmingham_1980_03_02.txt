@@ -7,7 +7,7 @@ Birmingham,2,1980,03,02,1,Kriek_Johan,Bailey_Joel,Kriek_Johan,Birmingham,1980,03
 Birmingham,2,1980,03,02,1,Walts_Butch,Okker_Tom,Walts_Butch,Birmingham,1980,03,02,6-4_6-4
 Birmingham,2,1980,03,02,1,Gunthardt_Heinz,Fibak_Wojtek,Fibak_Wojtek,Birmingham,1980,03,02,2-6_7-5_6-3
 Birmingham,2,1980,03,02,1,Clerc_JoseLuis,Smith_Stan,Smith_Stan,Birmingham,1980,03,02,2-6_6-3_6-4
-Birmingham,2,1980,03,02,1,Van_PattenVincent,Mottram_BusterC,Mottram_BusterC,Birmingham,1980,03,02,7-5_7-5
+Birmingham,2,1980,03,02,1,Van_Patten_Vincent,Mottram_Buster_C,Mottram_Buster_C,Birmingham,1980,03,02,7-5_7-5
 Birmingham,2,1980,03,02,1,Dowlen_David,Teltscher_Eliot,Teltscher_Eliot,Birmingham,1980,03,02,6-1_6-3
 Birmingham,2,1980,03,02,1,Ramirez_Raul,Diaz_Manuel,Ramirez_Raul,Birmingham,1980,03,02,6-3_7-5
 Birmingham,2,1980,03,02,1,Fleming_Peter,Fagel_Rick,Fleming_Peter,Birmingham,1980,03,02,7-6_6-1
@@ -18,13 +18,13 @@ Birmingham,2,1980,03,02,2,Connors_Jimmy,Taroczy_Balazs,Connors_Jimmy,Birmingham,
 Birmingham,2,1980,03,02,2,Pattison_Andrew,Dibbs_Eddie,Dibbs_Eddie,Birmingham,1980,03,02,6-3_6-1
 Birmingham,2,1980,03,02,2,Nastase_Ilie,Kriek_Johan,Nastase_Ilie,Birmingham,1980,03,02,6-4_3-6_6-3
 Birmingham,2,1980,03,02,2,Walts_Butch,Fibak_Wojtek,Walts_Butch,Birmingham,1980,03,02,7-5_7-6
-Birmingham,2,1980,03,02,2,Smith_Stan,Mottram_BusterC,Mottram_BusterC,Birmingham,1980,03,02,6-3_4-6_7-6
+Birmingham,2,1980,03,02,2,Smith_Stan,Mottram_Buster_C,Mottram_Buster_C,Birmingham,1980,03,02,6-3_4-6_7-6
 Birmingham,2,1980,03,02,2,Teltscher_Eliot,Ramirez_Raul,Teltscher_Eliot,Birmingham,1980,03,02,6-0_6-1
 Birmingham,2,1980,03,02,2,Fleming_Peter,Amritraj_Vijay,Amritraj_Vijay,Birmingham,1980,03,02,6-3_7-6
 Birmingham,2,1980,03,02,2,Scanlon_Bill,Gerulaitis_Vitas,Gerulaitis_Vitas,Birmingham,1980,03,02,4-6_6-2_6-3
 Birmingham,2,1980,03,02,3,Connors_Jimmy,Dibbs_Eddie,Connors_Jimmy,Birmingham,1980,03,02,6-2_6-2
 Birmingham,2,1980,03,02,3,Nastase_Ilie,Walts_Butch,Walts_Butch,Birmingham,1980,03,02,6-3_6-4
-Birmingham,2,1980,03,02,3,Mottram_BusterC,Teltscher_Eliot,Teltscher_Eliot,Birmingham,1980,03,02,7-6_6-3
+Birmingham,2,1980,03,02,3,Mottram_Buster_C,Teltscher_Eliot,Teltscher_Eliot,Birmingham,1980,03,02,7-6_6-3
 Birmingham,2,1980,03,02,3,Amritraj_Vijay,Gerulaitis_Vitas,Amritraj_Vijay,Birmingham,1980,03,02,6-1_0-6_6-4
 Birmingham,2,1980,03,02,4,Connors_Jimmy,Walts_Butch,Connors_Jimmy,Birmingham,1980,03,02,6-3_6-3
 Birmingham,2,1980,03,02,4,Teltscher_Eliot,Amritraj_Vijay,Teltscher_Eliot,Birmingham,1980,03,02,7-6_RET

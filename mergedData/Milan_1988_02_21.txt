@@ -9,7 +9,7 @@ Milan,2,1988,02,21,1,Novacek_Karel,Noah_Yannick,Noah_Yannick,Milan,1988,02,21,6-
 Milan,2,1988,02,21,1,Sanchez_Emilio,Schapers_Michiel,Schapers_Michiel,Milan,1988,02,21,7-5_6-3
 Milan,2,1988,02,21,1,Bergstrom_Christian,Srejber_Milan,Srejber_Milan,Milan,1988,02,21,3-6_6-4_6-4
 Milan,2,1988,02,21,1,Smid_Tomas,Svensson_Jonas,Svensson_Jonas,Milan,1988,02,21,6-3_6-2
-Milan,2,1988,02,21,1,Nargiso_Diego,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1988,02,21,4-6_6-3_6-4
+Milan,2,1988,02,21,1,Nargiso_Diego,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1988,02,21,4-6_6-3_6-4
 Milan,2,1988,02,21,1,Zivojinovic_Slobodan,Osterthun_Ricki,Osterthun_Ricki,Milan,1988,02,21,6-3_6-7_6-3
 Milan,2,1988,02,21,1,Mezzadri_Claudio,Steeb_CarlUwe,Steeb_CarlUwe,Milan,1988,02,21,6-4_6-2
 Milan,2,1988,02,21,1,Cancellotti_Francesco,Jelen_Eric,Jelen_Eric,Milan,1988,02,21,4-6_6-3_7-5
@@ -19,12 +19,12 @@ Milan,2,1988,02,21,2,Chesnokov_Andrei,Leconte_Henri,Leconte_Henri,Milan,1988,02,
 Milan,2,1988,02,21,2,Cash_Pat,Casal_Sergio,Cash_Pat,Milan,1988,02,21,6-3_7-6
 Milan,2,1988,02,21,2,Antonitsch_Alex,Noah_Yannick,Noah_Yannick,Milan,1988,02,21,6-4_1-6_6-3
 Milan,2,1988,02,21,2,Schapers_Michiel,Srejber_Milan,Srejber_Milan,Milan,1988,02,21,3-6_6-2_6-2
-Milan,2,1988,02,21,2,Svensson_Jonas,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1988,02,21,6-4_6-0
+Milan,2,1988,02,21,2,Svensson_Jonas,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1988,02,21,6-4_6-0
 Milan,2,1988,02,21,2,Osterthun_Ricki,Steeb_CarlUwe,Steeb_CarlUwe,Milan,1988,02,21,7-6_1-6_7-5
 Milan,2,1988,02,21,2,Jelen_Eric,Connors_Jimmy,Connors_Jimmy,Milan,1988,02,21,6-3_6-1
 Milan,2,1988,02,21,3,Becker_Boris,Leconte_Henri,Becker_Boris,Milan,1988,02,21,6-1_6-2
 Milan,2,1988,02,21,3,Cash_Pat,Noah_Yannick,Noah_Yannick,Milan,1988,02,21,6-4_6-1
-Milan,2,1988,02,21,3,Srejber_Milan,Mecir_SrMiloslav,Srejber_Milan,Milan,1988,02,21,6-4_3-6_7-6
+Milan,2,1988,02,21,3,Srejber_Milan,Mecir_Sr_Miloslav,Srejber_Milan,Milan,1988,02,21,6-4_3-6_7-6
 Milan,2,1988,02,21,3,Steeb_CarlUwe,Connors_Jimmy,Connors_Jimmy,Milan,1988,02,21,7-5_6-3
 Milan,2,1988,02,21,4,Becker_Boris,Noah_Yannick,Noah_Yannick,Milan,1988,02,21,6-4_4-6_7-6
 Milan,2,1988,02,21,4,Srejber_Milan,Connors_Jimmy,Connors_Jimmy,Milan,1988,02,21,6-1_3-6_6-1

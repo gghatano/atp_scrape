@@ -6,12 +6,12 @@ Stowe,2,1978,07,11,1,Lutz_Robert,Granat_Jiri,Lutz_Robert,Stowe,1978,07,11,6-1_6-
 Stowe,2,1978,07,11,1,McNamara_Peter,Mitton_Bernard,Mitton_Bernard,Stowe,1978,07,11,6-4_7-5
 Stowe,2,1978,07,11,1,Palm_Douglas,James_John,James_John,Stowe,1978,07,11,4-6_6-1_6-4
 Stowe,2,1978,07,11,1,Delaney_Jim,Richey_Cliff,Richey_Cliff,Stowe,1978,07,11,6-2_6-2
-Stowe,2,1978,07,11,1,Fleming_Peter,Bohrnstedt_DickR,Fleming_Peter,Stowe,1978,07,11,6-3_6-4
+Stowe,2,1978,07,11,1,Fleming_Peter,Bohrnstedt_Dick_R,Fleming_Peter,Stowe,1978,07,11,6-3_6-4
 Stowe,2,1978,07,11,1,Birner_Stanislav,Hardie_George,Hardie_George,Stowe,1978,07,11,6-4_6-0
 Stowe,2,1978,07,11,1,Kriek_Johan,Myburg_Mike,Kriek_Johan,Stowe,1978,07,11,3-6_6-3_6-2
 Stowe,2,1978,07,11,1,Crealy_Dick,Gullikson_Tim,Gullikson_Tim,Stowe,1978,07,11,6-3_5-3_RET
 Stowe,2,1978,07,11,1,Warwick_Kim,Docherty_Steve,Warwick_Kim,Stowe,1978,07,11,4-6_6-3_6-4
-Stowe,2,1978,07,11,1,Alvarez_ElioLito,Teltscher_Eliot,Teltscher_Eliot,Stowe,1978,07,11,6-1_6-3
+Stowe,2,1978,07,11,1,Alvarez_Elio_Lito,Teltscher_Eliot,Teltscher_Eliot,Stowe,1978,07,11,6-1_6-3
 Stowe,2,1978,07,11,1,Rocavert_Terry,Krulevitz_Steve,Rocavert_Terry,Stowe,1978,07,11,0-6_7-6_6-4
 Stowe,2,1978,07,11,1,Edmondson_Mark,Solomon_Harold,Solomon_Harold,Stowe,1978,07,11,6-4_6-3
 Stowe,2,1978,07,11,2,Connors_Jimmy,Taygan_Ferdi,Connors_Jimmy,Stowe,1978,07,11,6-4_6-1

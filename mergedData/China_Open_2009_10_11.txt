@@ -11,7 +11,7 @@ China_Open,2,2009,10,11,1,Robredo_Tommy,Becker_Benjamin,Robredo_Tommy,China_Open
 China_Open,2,2009,10,11,1,Mathieu_PaulHenri,Ljubicic_Ivan,Ljubicic_Ivan,China_Open,2009,10,11,7-6(8)_4-6_6-1
 China_Open,2,2009,10,11,1,Kubot_Lukasz,Roddick_Andy,Kubot_Lukasz,China_Open,2009,10,11,6-2_6-4
 China_Open,2,2009,10,11,1,Verdasco_Fernando,Ginepri_Robby,Verdasco_Fernando,China_Open,2009,10,11,6-7(7)_6-1_6-2
-China_Open,2,2009,10,11,1,Almagro_Nicolas,Ferrero_JuanCarlos,Ferrero_JuanCarlos,China_Open,2009,10,11,7-5_7-6(3)
+China_Open,2,2009,10,11,1,Almagro_Nicolas,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,China_Open,2009,10,11,7-5_7-6(3)
 China_Open,2,2009,10,11,1,Fognini_Fabio,Troicki_Viktor,Troicki_Viktor,China_Open,2009,10,11,7-6(5)_7-5
 China_Open,2,2009,10,11,1,Hanescu_Victor,Djokovic_Novak,Djokovic_Novak,China_Open,2009,10,11,6-3_7-5
 China_Open,2,2009,10,11,2,Nadal_Rafael,Blake_James,Nadal_Rafael,China_Open,2009,10,11,7-5_6-7(4)_6-3
@@ -20,7 +20,7 @@ China_Open,2,2009,10,11,2,Davydenko_Nikolay,Kohlschreiber_Philipp,Davydenko_Niko
 China_Open,2,2009,10,11,2,Benneteau_Julien,Cilic_Marin,Cilic_Marin,China_Open,2009,10,11,6-2_2-6_6-0
 China_Open,2,2009,10,11,2,Soderling_Robin,Robredo_Tommy,Soderling_Robin,China_Open,2009,10,11,6-3_6-3
 China_Open,2,2009,10,11,2,Ljubicic_Ivan,Kubot_Lukasz,Ljubicic_Ivan,China_Open,2009,10,11,7-6(6)_4-6_6-4
-China_Open,2,2009,10,11,2,Verdasco_Fernando,Ferrero_JuanCarlos,Verdasco_Fernando,China_Open,2009,10,11,7-5_6-4
+China_Open,2,2009,10,11,2,Verdasco_Fernando,Ferrero_Juan_Carlos,Verdasco_Fernando,China_Open,2009,10,11,7-5_6-4
 China_Open,2,2009,10,11,2,Troicki_Viktor,Djokovic_Novak,Djokovic_Novak,China_Open,2009,10,11,6-3_6-0
 China_Open,2,2009,10,11,3,Nadal_Rafael,Safin_Marat,Nadal_Rafael,China_Open,2009,10,11,6-3_6-1
 China_Open,2,2009,10,11,3,Davydenko_Nikolay,Cilic_Marin,Cilic_Marin,China_Open,2009,10,11,6-4_6-4

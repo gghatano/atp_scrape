@@ -1,4 +1,4 @@
-Tokyo_Indoor,2,1983,10,30,1,Lendl_Ivan,Giammalva_JrSammy,Lendl_Ivan,Tokyo_Indoor,1983,10,30,7-5_6-1
+Tokyo_Indoor,2,1983,10,30,1,Lendl_Ivan,Giammalva_Jr_Sammy,Lendl_Ivan,Tokyo_Indoor,1983,10,30,7-5_6-1
 Tokyo_Indoor,2,1983,10,30,1,Gonzalez_Francisco,Fukui_Tsuyoshi,Gonzalez_Francisco,Tokyo_Indoor,1983,10,30,6-4_7-5
 Tokyo_Indoor,2,1983,10,30,1,Hooper_Chip,Drewett_Brad,Hooper_Chip,Tokyo_Indoor,1983,10,30,3-6_6-2_6-2
 Tokyo_Indoor,2,1983,10,30,1,Fitzgerald_John,Teltscher_Eliot,Teltscher_Eliot,Tokyo_Indoor,1983,10,30,6-4_6-0
@@ -11,8 +11,8 @@ Tokyo_Indoor,2,1983,10,30,1,Tulasne_Thierry,Ocleppo_Gianni,Tulasne_Thierry,Tokyo
 Tokyo_Indoor,2,1983,10,30,1,Teacher_Brian,Edmondson_Mark,Edmondson_Mark,Tokyo_Indoor,1983,10,30,7-6_6-4
 Tokyo_Indoor,2,1983,10,30,1,RogerVasselin_Christophe,Gomez_Andres,Gomez_Andres,Tokyo_Indoor,1983,10,30,6-4_6-1
 Tokyo_Indoor,2,1983,10,30,1,Denton_Steve,Michibata_Glenn,Michibata_Glenn,Tokyo_Indoor,1983,10,30,7-6_6-4
-Tokyo_Indoor,2,1983,10,30,1,Vant_HofRobert,Bauer_Mike,Bauer_Mike,Tokyo_Indoor,1983,10,30,6-4_6-4
-Tokyo_Indoor,2,1983,10,30,1,Van_PattenVincent,Winitsky_Van,Winitsky_Van,Tokyo_Indoor,1983,10,30,6-2_4-6_7-5
+Tokyo_Indoor,2,1983,10,30,1,Vant_Hof_Robert,Bauer_Mike,Bauer_Mike,Tokyo_Indoor,1983,10,30,6-4_6-4
+Tokyo_Indoor,2,1983,10,30,1,Van_Patten_Vincent,Winitsky_Van,Winitsky_Van,Tokyo_Indoor,1983,10,30,6-2_4-6_7-5
 Tokyo_Indoor,2,1983,10,30,1,Shirato_Hitoshi,Connors_Jimmy,Connors_Jimmy,Tokyo_Indoor,1983,10,30,6-0_6-1
 Tokyo_Indoor,2,1983,10,30,2,Lendl_Ivan,Gonzalez_Francisco,Lendl_Ivan,Tokyo_Indoor,1983,10,30,6-1_6-3
 Tokyo_Indoor,2,1983,10,30,2,Hooper_Chip,Teltscher_Eliot,Teltscher_Eliot,Tokyo_Indoor,1983,10,30,6-4_4-6_7-6

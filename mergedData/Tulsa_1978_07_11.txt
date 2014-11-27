@@ -1,5 +1,5 @@
 Tulsa,2,1978,07,11,1,Dibbs_Eddie,Hoyt_Hubertus,Dibbs_Eddie,Tulsa,1978,07,11,6-0_6-2
-Tulsa,2,1978,07,11,1,Feaver_John,Van_DillenErik,Feaver_John,Tulsa,1978,07,11,6-4_6-2
+Tulsa,2,1978,07,11,1,Feaver_John,Van_Dillen_Erik,Feaver_John,Tulsa,1978,07,11,6-4_6-2
 Tulsa,2,1978,07,11,1,Manson_Bruce,Wilkison_Tim,Manson_Bruce,Tulsa,1978,07,11,6-2_6-2
 Tulsa,2,1978,07,11,1,Lara_Marcelo,Mayer_Gene,Mayer_Gene,Tulsa,1978,07,11,6-2_6-1
 Tulsa,2,1978,07,11,1,Richey_Cliff,Kirmayr_Carlos,Kirmayr_Carlos,Tulsa,1978,07,11,6-3_6-0
@@ -11,7 +11,7 @@ Tulsa,2,1978,07,11,1,Walthall_Pancho,Menon_Sashi,Walthall_Pancho,Tulsa,1978,07,1
 Tulsa,2,1978,07,11,1,Lewis_Richard,Docherty_Steve,Docherty_Steve,Tulsa,1978,07,11,6-4_7-6
 Tulsa,2,1978,07,11,1,Halder_Greg,Moor_Terry,Halder_Greg,Tulsa,1978,07,11,6-1_6-7_6-2
 Tulsa,2,1978,07,11,1,Dupre_Pat,Taygan_Ferdi,Dupre_Pat,Tulsa,1978,07,11,6-7_7-6_6-2
-Tulsa,2,1978,07,11,1,Blocher_Woody,Bengtson_OveNils,Bengtson_OveNils,Tulsa,1978,07,11,6-1_6-1
+Tulsa,2,1978,07,11,1,Blocher_Woody,Bengtson_Ove_Nils,Bengtson_Ove_Nils,Tulsa,1978,07,11,6-1_6-1
 Tulsa,2,1978,07,11,1,Winitsky_Van,Newman_Butch,Newman_Butch,Tulsa,1978,07,11,6-4_7-6
 Tulsa,2,1978,07,11,1,Lloyd_William,Stockton_Dick,Stockton_Dick,Tulsa,1978,07,11,6-3_6-3
 Tulsa,2,1978,07,11,2,Dibbs_Eddie,Feaver_John,Dibbs_Eddie,Tulsa,1978,07,11,6-7_6-3_6-2
@@ -20,7 +20,7 @@ Tulsa,2,1978,07,11,2,Kirmayr_Carlos,Hardie_George,Kirmayr_Carlos,Tulsa,1978,07,1
 Tulsa,2,1978,07,11,2,Scanlon_Bill,James_John,James_John,Tulsa,1978,07,11,6-3_6-1
 Tulsa,2,1978,07,11,2,Simpson_Russell,Walthall_Pancho,Walthall_Pancho,Tulsa,1978,07,11,2-6_6-4_6-4
 Tulsa,2,1978,07,11,2,Docherty_Steve,Halder_Greg,Docherty_Steve,Tulsa,1978,07,11,7-6_6-3
-Tulsa,2,1978,07,11,2,Dupre_Pat,Bengtson_OveNils,Dupre_Pat,Tulsa,1978,07,11,7-5_6-4
+Tulsa,2,1978,07,11,2,Dupre_Pat,Bengtson_Ove_Nils,Dupre_Pat,Tulsa,1978,07,11,7-5_6-4
 Tulsa,2,1978,07,11,2,Newman_Butch,Stockton_Dick,Stockton_Dick,Tulsa,1978,07,11,6-4_6-2
 Tulsa,2,1978,07,11,3,Dibbs_Eddie,Manson_Bruce,Dibbs_Eddie,Tulsa,1978,07,11,7-6_6-0
 Tulsa,2,1978,07,11,3,Kirmayr_Carlos,James_John,James_John,Tulsa,1978,07,11,6-3_6-4

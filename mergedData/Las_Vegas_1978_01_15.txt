@@ -1,11 +1,11 @@
-Las_Vegas,2,1978,01,15,1,Connors_Jimmy,Hagey_JamesChico,Connors_Jimmy,Las_Vegas,1978,01,15,6-2_6-3
+Las_Vegas,2,1978,01,15,1,Connors_Jimmy,Hagey_James_Chico,Connors_Jimmy,Las_Vegas,1978,01,15,6-2_6-3
 Las_Vegas,2,1978,01,15,1,Ashe_Arthur,Pfister_Henry,Pfister_Henry,Las_Vegas,1978,01,15,6-4_7-5
 Las_Vegas,2,1978,01,15,1,Fibak_Wojtek,Fleming_Peter,Fibak_Wojtek,Las_Vegas,1978,01,15,6-3_6-7_6-3
 Las_Vegas,2,1978,01,15,1,Hewitt_Bob,Tanner_Roscoe,Tanner_Roscoe,Las_Vegas,1978,01,15,7-5_6-3
 Las_Vegas,2,1978,01,15,1,Barazzutti_Corrado,Franulovic_Zeljko,Barazzutti_Corrado,Las_Vegas,1978,01,15,6-2_7-6
 Las_Vegas,2,1978,01,15,1,Pasarell_Charlie,Lutz_Robert,Lutz_Robert,Las_Vegas,1978,01,15,6-0_6-1
 Las_Vegas,2,1978,01,15,1,Newcombe_John,Fritz_Guy,Newcombe_John,Las_Vegas,1978,01,15,6-2_6-3
-Las_Vegas,2,1978,01,15,1,Fillol_SrJaime,McEnroe_John,McEnroe_John,Las_Vegas,1978,01,15,6-0_2-6_6-3
+Las_Vegas,2,1978,01,15,1,Fillol_Sr_Jaime,McEnroe_John,McEnroe_John,Las_Vegas,1978,01,15,6-0_2-6_6-3
 Las_Vegas,2,1978,01,15,1,Nastase_Ilie,Warwick_Kim,Warwick_Kim,Las_Vegas,1978,01,15,3-6_7-6_6-4
 Las_Vegas,2,1978,01,15,1,Lloyd_John,Borowiak_Jeff,Lloyd_John,Las_Vegas,1978,01,15,6-2_6-2
 Las_Vegas,2,1978,01,15,1,Kronk_Paul,Rosewall_Ken,Rosewall_Ken,Las_Vegas,1978,01,15,6-4_6-3

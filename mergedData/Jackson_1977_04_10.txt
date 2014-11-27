@@ -1,6 +1,6 @@
 Jackson,2,1977,04,10,1,Rosewall_Ken,Owens_Charles,Rosewall_Ken,Jackson,1977,04,10,6-1_6-1
 Jackson,2,1977,04,10,1,McMillan_Frew,Mayer_Gene,Mayer_Gene,Jackson,1977,04,10,6-1_6-2
-Jackson,2,1977,04,10,1,Teacher_Brian,McNair_IVFred,Teacher_Brian,Jackson,1977,04,10,6-1_6-3
+Jackson,2,1977,04,10,1,Teacher_Brian,McNair_IV_Fred,Teacher_Brian,Jackson,1977,04,10,6-1_6-3
 Jackson,2,1977,04,10,1,Pattison_Andrew,Dent_Phil,Pattison_Andrew,Jackson,1977,04,10,7-5_6-2
 Jackson,2,1977,04,10,1,Richey_Cliff,Ycaza_Ricardo,Richey_Cliff,Jackson,1977,04,10,6-1_7-5
 Jackson,2,1977,04,10,1,Stewart_Sherwood,Martin_Billy,Martin_Billy,Jackson,1977,04,10,7-6_6-1

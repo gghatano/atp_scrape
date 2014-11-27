@@ -1,6 +1,6 @@
 Bordeaux,2,1991,09,15,1,Forget_Guy,Gilbert_Rodolphe,Forget_Guy,Bordeaux,1991,09,15,6-2_6-1
 Bordeaux,2,1991,09,15,1,Kuhnen_Patrik,Anzari_Tomas,Kuhnen_Patrik,Bordeaux,1991,09,15,6-4_6-4
-Bordeaux,2,1991,09,15,1,Prades_Laurent,Altur_JoseFrancisco,Prades_Laurent,Bordeaux,1991,09,15,5-7_6-4_6-4
+Bordeaux,2,1991,09,15,1,Prades_Laurent,Altur_Jose_Francisco,Prades_Laurent,Bordeaux,1991,09,15,5-7_6-4_6-4
 Bordeaux,2,1991,09,15,1,Jonsson_Lars,Saceanu_Christian,Jonsson_Lars,Bordeaux,1991,09,15,6-4_1-6_6-3
 Bordeaux,2,1991,09,15,1,Santoro_Fabrice,Poliakov_Dimitri,Santoro_Fabrice,Bordeaux,1991,09,15,6-3_2-6_6-4
 Bordeaux,2,1991,09,15,1,Wostenholme_Martin,Costa_Carlos,Costa_Carlos,Bordeaux,1991,09,15,7-5_7-6(13)

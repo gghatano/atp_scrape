@@ -7,11 +7,11 @@ Wimbledon,1,1973,07,08,1,Mayer_Sandy,Lewis_Richard,Mayer_Sandy,Wimbledon,1973,07
 Wimbledon,1,1973,07,08,1,Messmer_Steve,Iles_Clay,Iles_Clay,Wimbledon,1973,07,08,7-5_6-2_6-4
 Wimbledon,1,1973,07,08,1,Misra_Gaurav,Zednik_Vladimir,Zednik_Vladimir,Wimbledon,1973,07,08,6-4_6-4_6-1
 Wimbledon,1,1973,07,08,1,Fassbender_Jurgen,Gulyas_Istvan,Fassbender_Jurgen,Wimbledon,1973,07,08,8-6_6-8_6-3_6-3
-Wimbledon,1,1973,07,08,1,Moreno_JoseA,Collins_Mike,Moreno_JoseA,Wimbledon,1973,07,08,6-4_6-3_6-3
-Wimbledon,1,1973,07,08,1,Keldie_Ray,Bohrnstedt_DickR,Keldie_Ray,Wimbledon,1973,07,08,7-5_6-3_4-6_6-3
+Wimbledon,1,1973,07,08,1,Moreno_Jose_A,Collins_Mike,Moreno_Jose_A,Wimbledon,1973,07,08,6-4_6-3_6-3
+Wimbledon,1,1973,07,08,1,Keldie_Ray,Bohrnstedt_Dick_R,Keldie_Ray,Wimbledon,1973,07,08,7-5_6-3_4-6_6-3
 Wimbledon,1,1973,07,08,1,Gebert_Frank,Svensson_Tenny,Svensson_Tenny,Wimbledon,1973,07,08,6-8_9-8_7-5_9-7
 Wimbledon,1,1973,07,08,1,Pietrangeli_Nicola,Simpson_Jeff,Simpson_Jeff,Wimbledon,1973,07,08,8-6_2-6_7-5_6-2
-Wimbledon,1,1973,07,08,1,Fraser_Neale,Hagey_JamesChico,Hagey_JamesChico,Wimbledon,1973,07,08,6-4_7-5_8-6
+Wimbledon,1,1973,07,08,1,Fraser_Neale,Hagey_James_Chico,Hagey_James_Chico,Wimbledon,1973,07,08,6-4_7-5_8-6
 Wimbledon,1,1973,07,08,1,Paish_John,Lara_Marcelo,Lara_Marcelo,Wimbledon,1973,07,08,5-7_6-4_7-5_6-2
 Wimbledon,1,1973,07,08,1,McHugo_Colin,Pohmann_HansJurgen,Pohmann_HansJurgen,Wimbledon,1973,07,08,6-3_6-4_6-4
 Wimbledon,1,1973,07,08,1,Metreveli_Alex,Matthews_Stanley,Metreveli_Alex,Wimbledon,1973,07,08,6-3_6-4_9-8
@@ -66,9 +66,9 @@ Wimbledon,1,1973,07,08,2,Nastase_Ilie,Molina_Ivan,Nastase_Ilie,Wimbledon,1973,07
 Wimbledon,1,1973,07,08,2,Kary_Hans,Sakai_Toshiro,Sakai_Toshiro,Wimbledon,1973,07,08,6-1_6-3_3-6_6-3
 Wimbledon,1,1973,07,08,2,Chavez_Roberto,Mayer_Sandy,Mayer_Sandy,Wimbledon,1973,07,08,7-9_6-1_9-7_6-2
 Wimbledon,1,1973,07,08,2,Iles_Clay,Zednik_Vladimir,Zednik_Vladimir,Wimbledon,1973,07,08,6-3_6-3_4-6_6-2
-Wimbledon,1,1973,07,08,2,Fassbender_Jurgen,Moreno_JoseA,Fassbender_Jurgen,Wimbledon,1973,07,08,6-3_6-4_6-4
+Wimbledon,1,1973,07,08,2,Fassbender_Jurgen,Moreno_Jose_A,Fassbender_Jurgen,Wimbledon,1973,07,08,6-3_6-4_6-4
 Wimbledon,1,1973,07,08,2,Keldie_Ray,Svensson_Tenny,Keldie_Ray,Wimbledon,1973,07,08,6-4_8-9_6-0_6-4
-Wimbledon,1,1973,07,08,2,Simpson_Jeff,Hagey_JamesChico,Simpson_Jeff,Wimbledon,1973,07,08,8-6_6-4_8-9_6-3
+Wimbledon,1,1973,07,08,2,Simpson_Jeff,Hagey_James_Chico,Simpson_Jeff,Wimbledon,1973,07,08,8-6_6-4_8-9_6-3
 Wimbledon,1,1973,07,08,2,Lara_Marcelo,Pohmann_HansJurgen,Pohmann_HansJurgen,Wimbledon,1973,07,08,2-6_7-5_2-6_6-1_7-5
 Wimbledon,1,1973,07,08,2,Metreveli_Alex,Giltinan_Bob,Metreveli_Alex,Wimbledon,1973,07,08,6-4_6-2_7-5
 Wimbledon,1,1973,07,08,2,McDonald_Allan,Cooper_John,Cooper_John,Wimbledon,1973,07,08,6-4_4-6_4-6_7-5_9-7

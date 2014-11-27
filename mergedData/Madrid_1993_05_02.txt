@@ -1,6 +1,6 @@
-Madrid,2,1993,05,02,1,Edberg_Stefan,Conde_JoseAntonioPepe,Edberg_Stefan,Madrid,1993,05,02,6-0_6-3
+Madrid,2,1993,05,02,1,Edberg_Stefan,Conde_Jose_Antonio_Pepe,Edberg_Stefan,Madrid,1993,05,02,6-0_6-3
 Madrid,2,1993,05,02,1,Gilbert_Rodolphe,Svensson_Jonas,Svensson_Jonas,Madrid,1993,05,02,6-0_6-1
-Madrid,2,1993,05,02,1,Gisbert_JrJuan,Markus_Gabriel,Markus_Gabriel,Madrid,1993,05,02,6-2_6-4
+Madrid,2,1993,05,02,1,Gisbert_Jr_Juan,Markus_Gabriel,Markus_Gabriel,Madrid,1993,05,02,6-2_6-4
 Madrid,2,1993,05,02,1,Corretja_Alex,Arrese_Jordi,Corretja_Alex,Madrid,1993,05,02,6-4_6-1
 Madrid,2,1993,05,02,1,Costa_Carlos,Wuyts_Bart,Costa_Carlos,Madrid,1993,05,02,3-6_7-5_6-1
 Madrid,2,1993,05,02,1,Roig_Francisco,Jarryd_Anders,Jarryd_Anders,Madrid,1993,05,02,6-1_6-1
@@ -10,7 +10,7 @@ Madrid,2,1993,05,02,1,Clavet_Francisco,Hlasek_Jakob,Clavet_Francisco,Madrid,1993
 Madrid,2,1993,05,02,1,Mattar_Luiz,Burillo_Jordi,Burillo_Jordi,Madrid,1993,05,02,6-4_6-2
 Madrid,2,1993,05,02,1,Furlan_Renzo,Filippini_Marcelo,Filippini_Marcelo,Madrid,1993,05,02,6-2_6-3
 Madrid,2,1993,05,02,1,Mancisidor_Alejo,Bruguera_Sergi,Bruguera_Sergi,Madrid,1993,05,02,6-4_6-2
-Madrid,2,1993,05,02,1,Oncins_Jaime,Gorriz_MarcosAurelio,Oncins_Jaime,Madrid,1993,05,02,6-0_6-3
+Madrid,2,1993,05,02,1,Oncins_Jaime,Gorriz_Marcos_Aurelio,Oncins_Jaime,Madrid,1993,05,02,6-0_6-3
 Madrid,2,1993,05,02,1,RasconLope_JuanLuis,Carbonell_Tomas,Carbonell_Tomas,Madrid,1993,05,02,6-2_6-3
 Madrid,2,1993,05,02,1,Montana_Francisco,Chesnokov_Andrei,Chesnokov_Andrei,Madrid,1993,05,02,6-2_6-2
 Madrid,2,1993,05,02,1,Davin_Franco,Becker_Boris,Davin_Franco,Madrid,1993,05,02,6-2_6-2

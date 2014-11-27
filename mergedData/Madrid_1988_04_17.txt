@@ -1,6 +1,6 @@
-Madrid,2,1988,04,17,1,Carlsson_Kent,Rodriguez_JuanAntonio,Carlsson_Kent,Madrid,1988,04,17,6-0_6-2
+Madrid,2,1988,04,17,1,Carlsson_Kent,Rodriguez_Juan_Antonio,Carlsson_Kent,Madrid,1988,04,17,6-0_6-2
 Madrid,2,1988,04,17,1,Davin_Franco,Aguilera_Juan,Davin_Franco,Madrid,1988,04,17,6-3_7-5
-Madrid,2,1988,04,17,1,Schwaier_Hans,De_MiguelDavid,De_MiguelDavid,Madrid,1988,04,17,6-4_6-2
+Madrid,2,1988,04,17,1,Schwaier_Hans,De_Miguel_David,De_Miguel_David,Madrid,1988,04,17,6-4_6-2
 Madrid,2,1988,04,17,1,Masso_Eduardo,Sanchez_Javier,Masso_Eduardo,Madrid,1988,04,17,2-6_6-4_6-3
 Madrid,2,1988,04,17,1,Sanchez_Emilio,Falk_Conny,Sanchez_Emilio,Madrid,1988,04,17,6-3_6-3
 Madrid,2,1988,04,17,1,Mancini_Alberto,Yunis_Francisco,Mancini_Alberto,Madrid,1988,04,17,3-6_6-4_6-1
@@ -15,7 +15,7 @@ Madrid,2,1988,04,17,1,Bathman_Ronnie,LopezMaeso_Jose,LopezMaeso_Jose,Madrid,1988
 Madrid,2,1988,04,17,1,Narducci_Massimiliano,Pistolesi_Claudio,Pistolesi_Claudio,Madrid,1988,04,17,6-1_7-6
 Madrid,2,1988,04,17,1,Luna_Fernando,Jaite_Martin,Luna_Fernando,Madrid,1988,04,17,6-4_6-1
 Madrid,2,1988,04,17,2,Carlsson_Kent,Davin_Franco,Carlsson_Kent,Madrid,1988,04,17,7-5_6-1
-Madrid,2,1988,04,17,2,De_MiguelDavid,Masso_Eduardo,Masso_Eduardo,Madrid,1988,04,17,6-4_6-3
+Madrid,2,1988,04,17,2,De_Miguel_David,Masso_Eduardo,Masso_Eduardo,Madrid,1988,04,17,6-4_6-3
 Madrid,2,1988,04,17,2,Sanchez_Emilio,Mancini_Alberto,Mancini_Alberto,Madrid,1988,04,17,2-6_6-3_6-3
 Madrid,2,1988,04,17,2,Limberger_Carl,Carbonell_Tomas,Limberger_Carl,Madrid,1988,04,17,6-1_2-6_6-2
 Madrid,2,1988,04,17,2,Casal_Sergio,Arguello_Roberto,Casal_Sergio,Madrid,1988,04,17,3-6_6-4_6-4

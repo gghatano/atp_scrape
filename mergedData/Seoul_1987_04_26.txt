@@ -1,13 +1,13 @@
 Seoul,2,1987,04,26,1,Krishnan_Ramesh,Jones_Kelly,Jones_Kelly,Seoul,1987,04,26,7-6_6-1
 Seoul,2,1987,04,26,1,Fitzgerald_John,Lapidus_Jay,Fitzgerald_John,Seoul,1987,04,26,6-3_3-6_6-3
 Seoul,2,1987,04,26,1,Schultz_Bud,Simpson_Russell,Simpson_Russell,Seoul,1987,04,26,5-7_6-2_6-3
-Seoul,2,1987,04,26,1,Cox_CharlesBud,Agassi_Andre,Agassi_Andre,Seoul,1987,04,26,7-6_3-6_7-5
+Seoul,2,1987,04,26,1,Cox_Charles_Bud,Agassi_Andre,Agassi_Andre,Seoul,1987,04,26,7-6_3-6_7-5
 Seoul,2,1987,04,26,1,Yzaga_Jaime,Carlsson_Peter,Yzaga_Jaime,Seoul,1987,04,26,6-4_7-6
 Seoul,2,1987,04,26,1,Lee_WooRyong,Leach_Mike,Leach_Mike,Seoul,1987,04,26,6-3_6-4
 Seoul,2,1987,04,26,1,Chamberlin_Paul,Ro_GapTaik,Chamberlin_Paul,Seoul,1987,04,26,7-6_6-3
 Seoul,2,1987,04,26,1,Castle_Andrew,Testerman_Ben,Testerman_Ben,Seoul,1987,04,26,7-5_3-6_7-6
 Seoul,2,1987,04,26,1,Fleurian_JeanPhilippe,Pearce_Brad,Fleurian_JeanPhilippe,Seoul,1987,04,26,3-6_7-6_6-4
-Seoul,2,1987,04,26,1,De_PalmerMike,Kures_Michael,Kures_Michael,Seoul,1987,04,26,7-6_6-4
+Seoul,2,1987,04,26,1,De_Palmer_Mike,Kures_Michael,Kures_Michael,Seoul,1987,04,26,7-6_6-4
 Seoul,2,1987,04,26,1,Kim_BongSoo,Yoo_JinSun,Kim_BongSoo,Seoul,1987,04,26,6-2_6-4
 Seoul,2,1987,04,26,1,Sadri_John,Matuszewski_Richard,Sadri_John,Seoul,1987,04,26,6-3_6-1
 Seoul,2,1987,04,26,1,Schapers_Michiel,Wright_Peter,Schapers_Michiel,Seoul,1987,04,26,6-4_6-2

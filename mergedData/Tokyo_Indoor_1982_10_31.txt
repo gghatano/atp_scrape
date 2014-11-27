@@ -1,4 +1,4 @@
-Tokyo_Indoor,2,1982,10,31,1,McEnroe_John,Strode_CharlesBuzz,McEnroe_John,Tokyo_Indoor,1982,10,31,6-0_6-3
+Tokyo_Indoor,2,1982,10,31,1,McEnroe_John,Strode_Charles_Buzz,McEnroe_John,Tokyo_Indoor,1982,10,31,6-0_6-3
 Tokyo_Indoor,2,1982,10,31,1,Fukui_Tsuyoshi,Dent_Phil,Dent_Phil,Tokyo_Indoor,1982,10,31,6-1_7-6
 Tokyo_Indoor,2,1982,10,31,1,Mayotte_Tim,Gullikson_Tom,Mayotte_Tim,Tokyo_Indoor,1982,10,31,7-6_7-5
 Tokyo_Indoor,2,1982,10,31,1,Sadri_John,Denton_Steve,Denton_Steve,Tokyo_Indoor,1982,10,31,6-1_7-6
@@ -8,10 +8,10 @@ Tokyo_Indoor,2,1982,10,31,1,Gonzalez_Francisco,Arias_Jimmy,Arias_Jimmy,Tokyo_Ind
 Tokyo_Indoor,2,1982,10,31,1,Gullikson_Tim,Edmondson_Mark,Edmondson_Mark,Tokyo_Indoor,1982,10,31,7-6_6-4
 Tokyo_Indoor,2,1982,10,31,1,Teacher_Brian,Michibata_Glenn,Teacher_Brian,Tokyo_Indoor,1982,10,31,6-2_6-7_6-4
 Tokyo_Indoor,2,1982,10,31,1,Winitsky_Van,Maurer_Andreas,Winitsky_Van,Tokyo_Indoor,1982,10,31,6-1_7-5
-Tokyo_Indoor,2,1982,10,31,1,Amaya_Victor,Van_PattenVincent,Van_PattenVincent,Tokyo_Indoor,1982,10,31,6-4_6-4
+Tokyo_Indoor,2,1982,10,31,1,Amaya_Victor,Van_Patten_Vincent,Van_Patten_Vincent,Tokyo_Indoor,1982,10,31,6-4_6-4
 Tokyo_Indoor,2,1982,10,31,1,Hooper_Chip,McNamara_Peter,McNamara_Peter,Tokyo_Indoor,1982,10,31,6-2_6-4
 Tokyo_Indoor,2,1982,10,31,1,Kriek_Johan,Bedel_Dominique,Bedel_Dominique,Tokyo_Indoor,1982,10,31,3-0_RET
-Tokyo_Indoor,2,1982,10,31,1,Vant_HofRobert,McNamee_Paul,Vant_HofRobert,Tokyo_Indoor,1982,10,31,4-6_7-5_6-4
+Tokyo_Indoor,2,1982,10,31,1,Vant_Hof_Robert,McNamee_Paul,Vant_Hof_Robert,Tokyo_Indoor,1982,10,31,4-6_7-5_6-4
 Tokyo_Indoor,2,1982,10,31,1,Leach_Mike,Gilbert_Brad,Leach_Mike,Tokyo_Indoor,1982,10,31,7-6_4-6_6-3
 Tokyo_Indoor,2,1982,10,31,1,Nishio_Shigeyuki,Gerulaitis_Vitas,Gerulaitis_Vitas,Tokyo_Indoor,1982,10,31,6-2_6-2
 Tokyo_Indoor,2,1982,10,31,2,McEnroe_John,Dent_Phil,McEnroe_John,Tokyo_Indoor,1982,10,31,6-1_7-5
@@ -19,13 +19,13 @@ Tokyo_Indoor,2,1982,10,31,2,Mayotte_Tim,Denton_Steve,Denton_Steve,Tokyo_Indoor,1
 Tokyo_Indoor,2,1982,10,31,2,Dupre_Pat,Pfister_Henry,Dupre_Pat,Tokyo_Indoor,1982,10,31,6-2_6-4
 Tokyo_Indoor,2,1982,10,31,2,Arias_Jimmy,Edmondson_Mark,Edmondson_Mark,Tokyo_Indoor,1982,10,31,6-7_7-5_7-6
 Tokyo_Indoor,2,1982,10,31,2,Teacher_Brian,Winitsky_Van,Teacher_Brian,Tokyo_Indoor,1982,10,31,6-2_6-3
-Tokyo_Indoor,2,1982,10,31,2,Van_PattenVincent,McNamara_Peter,McNamara_Peter,Tokyo_Indoor,1982,10,31,7-6_6-4
-Tokyo_Indoor,2,1982,10,31,2,Bedel_Dominique,Vant_HofRobert,Vant_HofRobert,Tokyo_Indoor,1982,10,31,7-6_6-7_6-2
+Tokyo_Indoor,2,1982,10,31,2,Van_Patten_Vincent,McNamara_Peter,McNamara_Peter,Tokyo_Indoor,1982,10,31,7-6_6-4
+Tokyo_Indoor,2,1982,10,31,2,Bedel_Dominique,Vant_Hof_Robert,Vant_Hof_Robert,Tokyo_Indoor,1982,10,31,7-6_6-7_6-2
 Tokyo_Indoor,2,1982,10,31,2,Leach_Mike,Gerulaitis_Vitas,Gerulaitis_Vitas,Tokyo_Indoor,1982,10,31,6-1_6-4
 Tokyo_Indoor,2,1982,10,31,3,McEnroe_John,Denton_Steve,McEnroe_John,Tokyo_Indoor,1982,10,31,7-6_7-5
 Tokyo_Indoor,2,1982,10,31,3,Dupre_Pat,Edmondson_Mark,Edmondson_Mark,Tokyo_Indoor,1982,10,31,6-3_7-5
 Tokyo_Indoor,2,1982,10,31,3,Teacher_Brian,McNamara_Peter,McNamara_Peter,Tokyo_Indoor,1982,10,31,6-3_2-6_6-4
-Tokyo_Indoor,2,1982,10,31,3,Vant_HofRobert,Gerulaitis_Vitas,Gerulaitis_Vitas,Tokyo_Indoor,1982,10,31,7-6_7-5
+Tokyo_Indoor,2,1982,10,31,3,Vant_Hof_Robert,Gerulaitis_Vitas,Gerulaitis_Vitas,Tokyo_Indoor,1982,10,31,7-6_7-5
 Tokyo_Indoor,2,1982,10,31,4,McEnroe_John,Edmondson_Mark,McEnroe_John,Tokyo_Indoor,1982,10,31,6-3_6-2
 Tokyo_Indoor,2,1982,10,31,4,McNamara_Peter,Gerulaitis_Vitas,McNamara_Peter,Tokyo_Indoor,1982,10,31,6-3_3-6_6-2
 Tokyo_Indoor,2,1982,10,31,5,McEnroe_John,McNamara_Peter,McEnroe_John,Tokyo_Indoor,1982,10,31,7-6_7-5

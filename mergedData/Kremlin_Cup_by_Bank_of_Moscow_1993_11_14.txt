@@ -5,8 +5,8 @@ Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Prinosil_David,Haarhuis_Paul,Haarhu
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Mansdorf_Amos,Poliakov_Dimitri,Poliakov_Dimitri,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-3_4-6_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Steeb_CarlUwe,Black_Byron,Black_Byron,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,3-6_6-3_6-2
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Eltingh_Jacco,Damm_Martin,Damm_Martin,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-2_7-6(3)
-Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,De_BeerJohan,Hlasek_Jakob,Hlasek_Jakob,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-0_7-6(2)
-Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Stark_Jonathan,Van_RensburgChristo,Stark_Jonathan,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-3_6-1
+Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,De_Beer_Johan,Hlasek_Jakob,Hlasek_Jakob,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-0_7-6(2)
+Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Stark_Jonathan,Van_Rensburg_Christo,Stark_Jonathan,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-3_6-1
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Hogstedt_Thomas,Olhovskiy_Andrei,Olhovskiy_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,6-0_6-4
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Karbacher_Bernd,Kuhnen_Patrik,Kuhnen_Patrik,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,5-7_7-6(5)_6-0
 Kremlin_Cup_by_Bank_of_Moscow,2,1993,11,14,1,Nargiso_Diego,Cherkasov_Andrei,Cherkasov_Andrei,Kremlin_Cup_by_Bank_of_Moscow,1993,11,14,7-6(1)_7-5

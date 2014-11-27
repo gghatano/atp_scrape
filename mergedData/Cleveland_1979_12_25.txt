@@ -1,6 +1,6 @@
 Cleveland,2,1979,12,25,1,Panatta_Adriano,Collings_Dale,Panatta_Adriano,Cleveland,1979,12,25,6-4_6-2
-Cleveland,2,1979,12,25,1,Prinsloo_Willem,Malin_GeneStuart,Malin_GeneStuart,Cleveland,1979,12,25,6-3_2-6_6-2
-Cleveland,2,1979,12,25,1,McNair_IVFred,Leonard_Tom,Leonard_Tom,Cleveland,1979,12,25,6-4_6-3
+Cleveland,2,1979,12,25,1,Prinsloo_Willem,Malin_Gene_Stuart,Malin_Gene_Stuart,Cleveland,1979,12,25,6-3_2-6_6-2
+Cleveland,2,1979,12,25,1,McNair_IV_Fred,Leonard_Tom,Leonard_Tom,Cleveland,1979,12,25,6-4_6-3
 Cleveland,2,1979,12,25,1,Andrew_Jorge,Krishnan_Ramesh,Krishnan_Ramesh,Cleveland,1979,12,25,6-4_4-6_6-0
 Cleveland,2,1979,12,25,1,Nastase_Ilie,Stansbury_Cary,Nastase_Ilie,Cleveland,1979,12,25,6-3_6-2
 Cleveland,2,1979,12,25,1,Stefanki_Larry,Denton_Steve,Stefanki_Larry,Cleveland,1979,12,25,6-1_6-2
@@ -14,7 +14,7 @@ Cleveland,2,1979,12,25,1,Gonzalez_Francisco,Phillips_Noel,Gonzalez_Francisco,Cle
 Cleveland,2,1979,12,25,1,Brash_Nial,Parun_Onny,Brash_Nial,Cleveland,1979,12,25,6-4_1-6_7-6
 Cleveland,2,1979,12,25,1,Gunning_Chris,Campbell_Peter,Gunning_Chris,Cleveland,1979,12,25,6-4_7-6
 Cleveland,2,1979,12,25,1,Ycaza_Ricardo,Smith_Stan,Smith_Stan,Cleveland,1979,12,25,7-5_6-2
-Cleveland,2,1979,12,25,2,Panatta_Adriano,Malin_GeneStuart,Malin_GeneStuart,Cleveland,1979,12,25,6-2_4-6_7-6
+Cleveland,2,1979,12,25,2,Panatta_Adriano,Malin_Gene_Stuart,Malin_Gene_Stuart,Cleveland,1979,12,25,6-2_4-6_7-6
 Cleveland,2,1979,12,25,2,Leonard_Tom,Krishnan_Ramesh,Krishnan_Ramesh,Cleveland,1979,12,25,6-4_6-2
 Cleveland,2,1979,12,25,2,Nastase_Ilie,Stefanki_Larry,Nastase_Ilie,Cleveland,1979,12,25,6-2_6-4
 Cleveland,2,1979,12,25,2,Drysdale_Robin,Yuill_John,Yuill_John,Cleveland,1979,12,25,7-5_6-4
@@ -22,10 +22,10 @@ Cleveland,2,1979,12,25,2,Mayer_Sandy,Kachel_Chris,Kachel_Chris,Cleveland,1979,12
 Cleveland,2,1979,12,25,2,Jones_Warrick,Lutz_Robert,Lutz_Robert,Cleveland,1979,12,25,7-6_7-6
 Cleveland,2,1979,12,25,2,Gonzalez_Francisco,Brash_Nial,Gonzalez_Francisco,Cleveland,1979,12,25,6-2_6-1
 Cleveland,2,1979,12,25,2,Gunning_Chris,Smith_Stan,Smith_Stan,Cleveland,1979,12,25,7-6_6-2
-Cleveland,2,1979,12,25,3,Malin_GeneStuart,Krishnan_Ramesh,Malin_GeneStuart,Cleveland,1979,12,25,3-6_6-4_6-0
+Cleveland,2,1979,12,25,3,Malin_Gene_Stuart,Krishnan_Ramesh,Malin_Gene_Stuart,Cleveland,1979,12,25,3-6_6-4_6-0
 Cleveland,2,1979,12,25,3,Nastase_Ilie,Yuill_John,Nastase_Ilie,Cleveland,1979,12,25,7-5_6-4
 Cleveland,2,1979,12,25,3,Kachel_Chris,Lutz_Robert,Lutz_Robert,Cleveland,1979,12,25,7-5_6-3
 Cleveland,2,1979,12,25,3,Gonzalez_Francisco,Smith_Stan,Smith_Stan,Cleveland,1979,12,25,7-5_6-3
-Cleveland,2,1979,12,25,4,Malin_GeneStuart,Nastase_Ilie,Nastase_Ilie,Cleveland,1979,12,25,7-6_6-7_6-3
+Cleveland,2,1979,12,25,4,Malin_Gene_Stuart,Nastase_Ilie,Nastase_Ilie,Cleveland,1979,12,25,7-6_6-7_6-3
 Cleveland,2,1979,12,25,4,Lutz_Robert,Smith_Stan,Smith_Stan,Cleveland,1979,12,25,6-4_6-4
 Cleveland,2,1979,12,25,5,Nastase_Ilie,Smith_Stan,Smith_Stan,Cleveland,1979,12,25,7-6_7-5

@@ -4,12 +4,12 @@ Qatar_ExxonMobil_Open,2,1997,01,05,1,Sabau_Razvan,Gross_Oliver,Sabau_Razvan,Qata
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Schalken_Sjeng,Courier_Jim,Courier_Jim,Qatar_ExxonMobil_Open,1997,01,05,7-6(10)_7-5
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Stich_Michael,Bruguera_Sergi,Bruguera_Sergi,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-1
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Sanchez_Javier,Raoux_Guillaume,Sanchez_Javier,Qatar_ExxonMobil_Open,1997,01,05,6-3_4-6_6-4
-Qatar_ExxonMobil_Open,2,1997,01,05,1,VilocaPuig_JuanAlbert,Norman_Magnus,Norman_Magnus,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-0
+Qatar_ExxonMobil_Open,2,1997,01,05,1,VilocaPuig_Juan_Albert,Norman_Magnus,Norman_Magnus,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-0
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Simian_Stephane,Korda_Petr,Korda_Petr,Qatar_ExxonMobil_Open,1997,01,05,6-1_6-2
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Gustafsson_Magnus,Burillo_Jordi,Gustafsson_Magnus,Qatar_ExxonMobil_Open,1997,01,05,4-6_6-1_6-4
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Pescariu_Dinu,Hrbaty_Dominik,Hrbaty_Dominik,Qatar_ExxonMobil_Open,1997,01,05,6-7(4)_7-5_6-2
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Henman_Tim,Wiltschnig_Herbert,Henman_Tim,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-2
-Qatar_ExxonMobil_Open,2,1997,01,05,1,El_SawyTamer,Siemerink_Jan,El_SawyTamer,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-7(2)_7-6(5)
+Qatar_ExxonMobil_Open,2,1997,01,05,1,El_Sawy_Tamer,Siemerink_Jan,El_Sawy_Tamer,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-7(2)_7-6(5)
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Haarhuis_Paul,McEnroe_Patrick,McEnroe_Patrick,Qatar_ExxonMobil_Open,1997,01,05,6-4_1-6_6-2
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Paes_Leander,Arazi_Hicham,Arazi_Hicham,Qatar_ExxonMobil_Open,1997,01,05,6-2_6-3
 Qatar_ExxonMobil_Open,2,1997,01,05,1,Fredriksson_Patrik,Alami_Karim,Fredriksson_Patrik,Qatar_ExxonMobil_Open,1997,01,05,6-2_6-2
@@ -19,7 +19,7 @@ Qatar_ExxonMobil_Open,2,1997,01,05,2,Sabau_Razvan,Courier_Jim,Courier_Jim,Qatar_
 Qatar_ExxonMobil_Open,2,1997,01,05,2,Bruguera_Sergi,Sanchez_Javier,Bruguera_Sergi,Qatar_ExxonMobil_Open,1997,01,05,6-0_6-1
 Qatar_ExxonMobil_Open,2,1997,01,05,2,Norman_Magnus,Korda_Petr,Korda_Petr,Qatar_ExxonMobil_Open,1997,01,05,6-7(3)_6-4_6-2
 Qatar_ExxonMobil_Open,2,1997,01,05,2,Gustafsson_Magnus,Hrbaty_Dominik,Gustafsson_Magnus,Qatar_ExxonMobil_Open,1997,01,05,6-2_2-6_6-4
-Qatar_ExxonMobil_Open,2,1997,01,05,2,Henman_Tim,El_SawyTamer,Henman_Tim,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-2
+Qatar_ExxonMobil_Open,2,1997,01,05,2,Henman_Tim,El_Sawy_Tamer,Henman_Tim,Qatar_ExxonMobil_Open,1997,01,05,6-3_6-2
 Qatar_ExxonMobil_Open,2,1997,01,05,2,McEnroe_Patrick,Arazi_Hicham,Arazi_Hicham,Qatar_ExxonMobil_Open,1997,01,05,2-6_7-5_7-5
 Qatar_ExxonMobil_Open,2,1997,01,05,2,Fredriksson_Patrik,Larsson_Magnus,Larsson_Magnus,Qatar_ExxonMobil_Open,1997,01,05,6-4_7-6(4)
 Qatar_ExxonMobil_Open,2,1997,01,05,3,Muster_Thomas,Courier_Jim,Courier_Jim,Qatar_ExxonMobil_Open,1997,01,05,6-3_7-5

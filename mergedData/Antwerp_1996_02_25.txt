@@ -7,7 +7,7 @@ Antwerp,2,1996,02,25,1,Sanchez_Javier,Dewulf_Filip,Dewulf_Filip,Antwerp,1996,02,
 Antwerp,2,1996,02,25,1,Hlasek_Jakob,Siemerink_Jan,Siemerink_Jan,Antwerp,1996,02,25,6-3_7-6(2)
 Antwerp,2,1996,02,25,1,Furlan_Renzo,Bruguera_Sergi,Furlan_Renzo,Antwerp,1996,02,25,6-4_6-3
 Antwerp,2,1996,02,25,1,Stich_Michael,Vacek_Daniel,Stich_Michael,Antwerp,1996,02,25,6-4_7-6(2)
-Antwerp,2,1996,02,25,1,Arrese_Jordi,Van_HerckJohan,Van_HerckJohan,Antwerp,1996,02,25,4-2_RET
+Antwerp,2,1996,02,25,1,Arrese_Jordi,Van_Herck_Johan,Van_Herck_Johan,Antwerp,1996,02,25,4-2_RET
 Antwerp,2,1996,02,25,1,Kucera_Karol,Ulihrach_Bohdan,Kucera_Karol,Antwerp,1996,02,25,6-1_4-6_7-5
 Antwerp,2,1996,02,25,1,McEnroe_Patrick,Krajicek_Richard,Krajicek_Richard,Antwerp,1996,02,25,7-6(3)_6-3
 Antwerp,2,1996,02,25,1,Rosset_Marc,Mronz_Alexander,Rosset_Marc,Antwerp,1996,02,25,6-1_6-4
@@ -18,7 +18,7 @@ Antwerp,2,1996,02,25,2,Becker_Boris,Olhovskiy_Andrei,Becker_Boris,Antwerp,1996,0
 Antwerp,2,1996,02,25,2,Bjorkman_Jonas,Clavet_Francisco,Clavet_Francisco,Antwerp,1996,02,25,7-6(1)_6-3
 Antwerp,2,1996,02,25,2,Ivanisevic_Goran,Dewulf_Filip,Ivanisevic_Goran,Antwerp,1996,02,25,6-2_6-3
 Antwerp,2,1996,02,25,2,Siemerink_Jan,Furlan_Renzo,Furlan_Renzo,Antwerp,1996,02,25,6-4_7-6(3)
-Antwerp,2,1996,02,25,2,Stich_Michael,Van_HerckJohan,Stich_Michael,Antwerp,1996,02,25,7-6(3)_6-4
+Antwerp,2,1996,02,25,2,Stich_Michael,Van_Herck_Johan,Stich_Michael,Antwerp,1996,02,25,7-6(3)_6-4
 Antwerp,2,1996,02,25,2,Kucera_Karol,Krajicek_Richard,Krajicek_Richard,Antwerp,1996,02,25,6-4_6-4
 Antwerp,2,1996,02,25,2,Rosset_Marc,Volkov_Alexander,Rosset_Marc,Antwerp,1996,02,25,6-3_6-3
 Antwerp,2,1996,02,25,2,Voinea_Adrian,Medvedev_Andrei,Medvedev_Andrei,Antwerp,1996,02,25,6-3_6-3

@@ -2,7 +2,7 @@ Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Rafter_Patrick,Suzuki
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Dosedel_Slava,Courier_Jim,Dosedel_Slava,Brisbane_International_presented_by_Suncorp,1999,01,10,7-5_6-3
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Novak_Jiri,Ilie_Andrew,Novak_Jiri,Brisbane_International_presented_by_Suncorp,1999,01,10,6-2_6-1
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Hewitt_Lleyton,Kiefer_Nicolas,Hewitt_Lleyton,Brisbane_International_presented_by_Suncorp,1999,01,10,7-5_6-4
-Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Stoltenberg_Jason,Di_PasqualeArnaud,Stoltenberg_Jason,Brisbane_International_presented_by_Suncorp,1999,01,10,6-1_6-4
+Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Stoltenberg_Jason,Di_Pasquale_Arnaud,Stoltenberg_Jason,Brisbane_International_presented_by_Suncorp,1999,01,10,6-1_6-4
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Woodbridge_Todd,Pozzi_Gianluca,Pozzi_Gianluca,Brisbane_International_presented_by_Suncorp,1999,01,10,6-4_6-2
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Pavel_Andrei,Tillstrom_Mikael,Pavel_Andrei,Brisbane_International_presented_by_Suncorp,1999,01,10,6-3_6-3
 Brisbane_International_presented_by_Suncorp,2,1999,01,10,1,Spadea_Vincent,Black_Byron,Black_Byron,Brisbane_International_presented_by_Suncorp,1999,01,10,1-6_7-6(6)_6-2

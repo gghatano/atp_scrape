@@ -1,4 +1,4 @@
-Frankfurt,2,1987,11,15,1,Wilander_Mats,Giammalva_JrSammy,Wilander_Mats,Frankfurt,1987,11,15,6-0_6-4
+Frankfurt,2,1987,11,15,1,Wilander_Mats,Giammalva_Jr_Sammy,Wilander_Mats,Frankfurt,1987,11,15,6-0_6-4
 Frankfurt,2,1987,11,15,1,Kroon_Nicklas,Anger_Matt,Kroon_Nicklas,Frankfurt,1987,11,15,6-4_6-4
 Frankfurt,2,1987,11,15,1,Vajda_Marian,Woodforde_Mark,Woodforde_Mark,Frankfurt,1987,11,15,6-3_6-2
 Frankfurt,2,1987,11,15,1,Rostagno_Derrick,Arias_Jimmy,Rostagno_Derrick,Frankfurt,1987,11,15,6-7_6-4_6-4

@@ -8,7 +8,7 @@ Open_Sud_de_France,2,1987,02,08,1,Jones_Kelly,Vajda_Marian,Jones_Kelly,Open_Sud_
 Open_Sud_de_France,2,1987,02,08,1,Lundgren_Peter,Benhabiles_Tarik,Lundgren_Peter,Open_Sud_de_France,1987,02,08,6-7_6-4_6-3
 Open_Sud_de_France,2,1987,02,08,1,Pate_David,Eriksson_Stefan,Eriksson_Stefan,Open_Sud_de_France,1987,02,08,6-4_1-6_7-6
 Open_Sud_de_France,2,1987,02,08,1,Nelson_Todd,Windahl_Jorgen,Nelson_Todd,Open_Sud_de_France,1987,02,08,6-1_6-4
-Open_Sud_de_France,2,1987,02,08,1,Lemoine_Pierre,Cox_CharlesBud,Cox_CharlesBud,Open_Sud_de_France,1987,02,08,6-2_6-4
+Open_Sud_de_France,2,1987,02,08,1,Lemoine_Pierre,Cox_Charles_Bud,Cox_Charles_Bud,Open_Sud_de_France,1987,02,08,6-2_6-4
 Open_Sud_de_France,2,1987,02,08,1,Bloom_Gilad,Tulasne_Thierry,Tulasne_Thierry,Open_Sud_de_France,1987,02,08,5-7_6-3_7-6
 Open_Sud_de_France,2,1987,02,08,1,Maurer_Andreas,Potier_Jerome,Potier_Jerome,Open_Sud_de_France,1987,02,08,6-4_6-3
 Open_Sud_de_France,2,1987,02,08,1,Hogstedt_Thomas,Shiras_Leif,Shiras_Leif,Open_Sud_de_France,1987,02,08,6-3_6-3
@@ -19,12 +19,12 @@ Open_Sud_de_France,2,1987,02,08,2,Willenborg_Blaine,Pimek_Libor,Willenborg_Blain
 Open_Sud_de_France,2,1987,02,08,2,Forget_Guy,Perkiss_Shahar,Forget_Guy,Open_Sud_de_France,1987,02,08,6-3_4-6_6-4
 Open_Sud_de_France,2,1987,02,08,2,Jones_Kelly,Lundgren_Peter,Jones_Kelly,Open_Sud_de_France,1987,02,08,6-4_6-2
 Open_Sud_de_France,2,1987,02,08,2,Eriksson_Stefan,Nelson_Todd,Nelson_Todd,Open_Sud_de_France,1987,02,08,6-3_7-6
-Open_Sud_de_France,2,1987,02,08,2,Cox_CharlesBud,Tulasne_Thierry,Cox_CharlesBud,Open_Sud_de_France,1987,02,08,7-6_3-6_7-6
+Open_Sud_de_France,2,1987,02,08,2,Cox_Charles_Bud,Tulasne_Thierry,Cox_Charles_Bud,Open_Sud_de_France,1987,02,08,7-6_3-6_7-6
 Open_Sud_de_France,2,1987,02,08,2,Potier_Jerome,Shiras_Leif,Potier_Jerome,Open_Sud_de_France,1987,02,08,7-6_2-6_7-5
 Open_Sud_de_France,2,1987,02,08,2,Agenor_Ronald,Nystrom_Joakim,Nystrom_Joakim,Open_Sud_de_France,1987,02,08,6-1_5-7_6-4
 Open_Sud_de_France,2,1987,02,08,3,Noah_Yannick,Willenborg_Blaine,Noah_Yannick,Open_Sud_de_France,1987,02,08,6-2_6-3
 Open_Sud_de_France,2,1987,02,08,3,Forget_Guy,Jones_Kelly,Jones_Kelly,Open_Sud_de_France,1987,02,08,5-7_6-4_7-6
-Open_Sud_de_France,2,1987,02,08,3,Nelson_Todd,Cox_CharlesBud,Nelson_Todd,Open_Sud_de_France,1987,02,08,7-6_6-2
+Open_Sud_de_France,2,1987,02,08,3,Nelson_Todd,Cox_Charles_Bud,Nelson_Todd,Open_Sud_de_France,1987,02,08,7-6_6-2
 Open_Sud_de_France,2,1987,02,08,3,Potier_Jerome,Nystrom_Joakim,Nystrom_Joakim,Open_Sud_de_France,1987,02,08,6-3_6-4
 Open_Sud_de_France,2,1987,02,08,4,Noah_Yannick,Jones_Kelly,Noah_Yannick,Open_Sud_de_France,1987,02,08,1-6_6-1_6-1
 Open_Sud_de_France,2,1987,02,08,4,Nelson_Todd,Nystrom_Joakim,Nystrom_Joakim,Open_Sud_de_France,1987,02,08,7-6_4-6_7-6

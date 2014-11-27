@@ -8,7 +8,7 @@ U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Koubek_Stefan,Greul_Sim
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Korolev_Evgeny,Ginepri_Robby,Korolev_Evgeny,U.S._National_Indoor_Tennis_Championships,2007,02,25,7-6(4)_4-6_6-3
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Malisse_Xavier,Gabashvili_Teymuraz,Gabashvili_Teymuraz,U.S._National_Indoor_Tennis_Championships,2007,02,25,4-6_2-2
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Kuznetsov_Alex,Kim_Kevin,Kuznetsov_Alex,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-2_2-6_6-4
-U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Del_PotroJuanMartin,Lopez_Feliciano,Del_PotroJuanMartin,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-1_6-2
+U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Del_Potro_Juan_Martin,Lopez_Feliciano,Del_Potro_Juan_Martin,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-1_6-2
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Phau_Bjorn,Fish_Mardy,Fish_Mardy,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-3_6-2
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Benneteau_Julien,Lee_HyungTaik,Benneteau_Julien,U.S._National_Indoor_Tennis_Championships,2007,02,25,7-5_6-3
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,1,Karlovic_Ivo,Querrey_Sam,Querrey_Sam,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-3_6-2
@@ -19,7 +19,7 @@ U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Lu_YenHsun,Melzer_Jurge
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Murray_Andy,Pless_Kristian,Murray_Andy,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-3_7-6(4)
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Koubek_Stefan,Korolev_Evgeny,Koubek_Stefan,U.S._National_Indoor_Tennis_Championships,2007,02,25,7-6(4)_6-2
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Gabashvili_Teymuraz,Kuznetsov_Alex,Gabashvili_Teymuraz,U.S._National_Indoor_Tennis_Championships,2007,02,25,5-7_6-3_6-4
-U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Del_PotroJuanMartin,Fish_Mardy,Fish_Mardy,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-1_7-6(9)
+U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Del_Potro_Juan_Martin,Fish_Mardy,Fish_Mardy,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-1_7-6(9)
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Benneteau_Julien,Querrey_Sam,Querrey_Sam,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-3_6-4
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,2,Delic_Amer,Haas_Tommy,Haas_Tommy,U.S._National_Indoor_Tennis_Championships,2007,02,25,7-6(2)_7-6(5)
 U.S._National_Indoor_Tennis_Championships,2,2007,02,25,3,Roddick_Andy,Lu_YenHsun,Roddick_Andy,U.S._National_Indoor_Tennis_Championships,2007,02,25,6-4_7-6(7)

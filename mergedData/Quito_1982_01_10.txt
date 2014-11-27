@@ -10,10 +10,10 @@ Quito,2,1982,01,10,1,Cano_Ricardo,Ycaza_Ricardo,Ycaza_Ricardo,Quito,1982,01,10,4
 Quito,2,1982,01,10,1,Keretic_Damir,Cancellotti_Francesco,Cancellotti_Francesco,Quito,1982,01,10,7-6_7-6
 Quito,2,1982,01,10,1,Restrepo_Javier,Ganzabal_Alejandro,Restrepo_Javier,Quito,1982,01,10,6-4_6-1
 Quito,2,1982,01,10,1,Carter_David,Higueras_Jose,Carter_David,Quito,1982,01,10,3-6_6-4_6-4
-Quito,2,1982,01,10,1,Gildemeister_Hans,Viver_RaulAntonio,Gildemeister_Hans,Quito,1982,01,10,7-6_7-5
+Quito,2,1982,01,10,1,Gildemeister_Hans,Viver_Raul_Antonio,Gildemeister_Hans,Quito,1982,01,10,7-6_7-5
 Quito,2,1982,01,10,1,Nunez_Juan,Urpi_Gabriel,Urpi_Gabriel,Quito,1982,01,10,6-4_3-6_6-3
 Quito,2,1982,01,10,1,Benavides_Ramiro,Gonzalez_Francisco,Gonzalez_Francisco,Quito,1982,01,10,7-6_7-6
-Quito,2,1982,01,10,1,Hocevar_Marcos,Pecci_SrVictor,Pecci_SrVictor,Quito,1982,01,10,7-6_6-4
+Quito,2,1982,01,10,1,Hocevar_Marcos,Pecci_Sr_Victor,Pecci_Sr_Victor,Quito,1982,01,10,7-6_6-4
 Quito,2,1982,01,10,2,Clerc_JoseLuis,Maurer_Andreas,Clerc_JoseLuis,Quito,1982,01,10,6-2_6-3
 Quito,2,1982,01,10,2,Acuna_Ricardo,Gomez_Andres,Gomez_Andres,Quito,1982,01,10,6-3_6-4
 Quito,2,1982,01,10,2,Dibbs_Eddie,Aubone_Guillermo,Dibbs_Eddie,Quito,1982,01,10,7-5_6-4
@@ -21,11 +21,11 @@ Quito,2,1982,01,10,2,Cortes_Alejandro,Orantes_Manuel,Orantes_Manuel,Quito,1982,0
 Quito,2,1982,01,10,2,Ycaza_Ricardo,Cancellotti_Francesco,Ycaza_Ricardo,Quito,1982,01,10,7-6_6-4
 Quito,2,1982,01,10,2,Restrepo_Javier,Carter_David,Carter_David,Quito,1982,01,10,6-2_6-4
 Quito,2,1982,01,10,2,Gildemeister_Hans,Urpi_Gabriel,Gildemeister_Hans,Quito,1982,01,10,6-1_7-6
-Quito,2,1982,01,10,2,Gonzalez_Francisco,Pecci_SrVictor,Pecci_SrVictor,Quito,1982,01,10,5-7_6-3_12-10
+Quito,2,1982,01,10,2,Gonzalez_Francisco,Pecci_Sr_Victor,Pecci_Sr_Victor,Quito,1982,01,10,5-7_6-3_12-10
 Quito,2,1982,01,10,3,Clerc_JoseLuis,Gomez_Andres,Gomez_Andres,Quito,1982,01,10,6-4_3-6_6-2
 Quito,2,1982,01,10,3,Dibbs_Eddie,Orantes_Manuel,Dibbs_Eddie,Quito,1982,01,10,6-4_6-2
 Quito,2,1982,01,10,3,Ycaza_Ricardo,Carter_David,Carter_David,Quito,1982,01,10,6-4_6-1
-Quito,2,1982,01,10,3,Gildemeister_Hans,Pecci_SrVictor,Gildemeister_Hans,Quito,1982,01,10,6-2_6-4
+Quito,2,1982,01,10,3,Gildemeister_Hans,Pecci_Sr_Victor,Gildemeister_Hans,Quito,1982,01,10,6-2_6-4
 Quito,2,1982,01,10,4,Gomez_Andres,Dibbs_Eddie,Dibbs_Eddie,Quito,1982,01,10,7-6_2-6_6-3
 Quito,2,1982,01,10,4,Carter_David,Gildemeister_Hans,Carter_David,Quito,1982,01,10,2-6_6-3_6-2
 Quito,2,1982,01,10,5,Dibbs_Eddie,Carter_David,Dibbs_Eddie,Quito,1982,01,10,3-6_6-0_7-5

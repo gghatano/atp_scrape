@@ -1,5 +1,5 @@
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Korda_Petr,Larsson_Magnus,Korda_Petr,BMW_Open_by_FWU_AG,1993,05,02,7-5_6-4
-BMW_Open_by_FWU_AG,2,1993,05,02,1,Dier_Dirk,Altur_JoseFrancisco,Altur_JoseFrancisco,BMW_Open_by_FWU_AG,1993,05,02,6-3_7-6(3)
+BMW_Open_by_FWU_AG,2,1993,05,02,1,Dier_Dirk,Altur_Jose_Francisco,Altur_Jose_Francisco,BMW_Open_by_FWU_AG,1993,05,02,6-3_7-6(3)
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Cherkasov_Andrei,Carlsen_Kenneth,Cherkasov_Andrei,BMW_Open_by_FWU_AG,1993,05,02,7-6(4)_7-6(5)
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Renzenbrink_Joern,Boetsch_Arnaud,Boetsch_Arnaud,BMW_Open_by_FWU_AG,1993,05,02,6-2_6-0
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Stich_Michael,Karbacher_Bernd,Stich_Michael,BMW_Open_by_FWU_AG,1993,05,02,6-3_6-3
@@ -14,7 +14,7 @@ BMW_Open_by_FWU_AG,2,1993,05,02,1,Holm_Henrik,Solves_Gerard,Solves_Gerard,BMW_Op
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Goellner_MarcKevin,Eriksson_Stefan,Goellner_MarcKevin,BMW_Open_by_FWU_AG,1993,05,02,7-5_6-1
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Gustafsson_Magnus,Prinosil_David,Gustafsson_Magnus,BMW_Open_by_FWU_AG,1993,05,02,6-1_6-2
 BMW_Open_by_FWU_AG,2,1993,05,02,1,Anzari_Tomas,Lendl_Ivan,Lendl_Ivan,BMW_Open_by_FWU_AG,1993,05,02,6-2_6-3
-BMW_Open_by_FWU_AG,2,1993,05,02,2,Korda_Petr,Altur_JoseFrancisco,Altur_JoseFrancisco,BMW_Open_by_FWU_AG,1993,05,02,5-7_6-3_6-3
+BMW_Open_by_FWU_AG,2,1993,05,02,2,Korda_Petr,Altur_Jose_Francisco,Altur_Jose_Francisco,BMW_Open_by_FWU_AG,1993,05,02,5-7_6-3_6-3
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Cherkasov_Andrei,Boetsch_Arnaud,Boetsch_Arnaud,BMW_Open_by_FWU_AG,1993,05,02,7-5_6-3
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Stich_Michael,Kucera_Karol,Stich_Michael,BMW_Open_by_FWU_AG,1993,05,02,6-0_7-5
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Damm_Martin,Novacek_Karel,Novacek_Karel,BMW_Open_by_FWU_AG,1993,05,02,6-2_6-3
@@ -22,10 +22,10 @@ BMW_Open_by_FWU_AG,2,1993,05,02,2,Muster_Thomas,Kulti_Nicklas,Kulti_Nicklas,BMW_
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Naewie_Markus,Pioline_Cedric,Pioline_Cedric,BMW_Open_by_FWU_AG,1993,05,02,4-6_6-4_7-6(1)
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Solves_Gerard,Goellner_MarcKevin,Solves_Gerard,BMW_Open_by_FWU_AG,1993,05,02,7-6(2)_3-6_6-4
 BMW_Open_by_FWU_AG,2,1993,05,02,2,Gustafsson_Magnus,Lendl_Ivan,Lendl_Ivan,BMW_Open_by_FWU_AG,1993,05,02,6-4_6-4
-BMW_Open_by_FWU_AG,2,1993,05,02,3,Altur_JoseFrancisco,Boetsch_Arnaud,Altur_JoseFrancisco,BMW_Open_by_FWU_AG,1993,05,02,1-6_6-3_6-4
+BMW_Open_by_FWU_AG,2,1993,05,02,3,Altur_Jose_Francisco,Boetsch_Arnaud,Altur_Jose_Francisco,BMW_Open_by_FWU_AG,1993,05,02,1-6_6-3_6-4
 BMW_Open_by_FWU_AG,2,1993,05,02,3,Stich_Michael,Novacek_Karel,Stich_Michael,BMW_Open_by_FWU_AG,1993,05,02,6-4_7-6(4)
 BMW_Open_by_FWU_AG,2,1993,05,02,3,Kulti_Nicklas,Pioline_Cedric,Pioline_Cedric,BMW_Open_by_FWU_AG,1993,05,02,4-6_6-1_6-3
 BMW_Open_by_FWU_AG,2,1993,05,02,3,Solves_Gerard,Lendl_Ivan,Lendl_Ivan,BMW_Open_by_FWU_AG,1993,05,02,6-4_3-6_6-1
-BMW_Open_by_FWU_AG,2,1993,05,02,4,Altur_JoseFrancisco,Stich_Michael,Stich_Michael,BMW_Open_by_FWU_AG,1993,05,02,6-1_6-4
+BMW_Open_by_FWU_AG,2,1993,05,02,4,Altur_Jose_Francisco,Stich_Michael,Stich_Michael,BMW_Open_by_FWU_AG,1993,05,02,6-1_6-4
 BMW_Open_by_FWU_AG,2,1993,05,02,4,Pioline_Cedric,Lendl_Ivan,Lendl_Ivan,BMW_Open_by_FWU_AG,1993,05,02,1-6_7-6(1)_0-1_RET
 BMW_Open_by_FWU_AG,2,1993,05,02,5,Stich_Michael,Lendl_Ivan,Lendl_Ivan,BMW_Open_by_FWU_AG,1993,05,02,7-6(2)_6-3

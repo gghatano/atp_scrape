@@ -4,9 +4,9 @@ US_Open,1,1992,09,13,1,Pioline_Cedric,Strelba_Martin,Pioline_Cedric,US_Open,1992
 US_Open,1,1992,09,13,1,Black_Byron,Witsken_Todd,Witsken_Todd,US_Open,1992,09,13,7-6(2)_6-4_6-4
 US_Open,1,1992,09,13,1,Skoff_Horst,Fromberg_Richard,Fromberg_Richard,US_Open,1992,09,13,6-3_6-3_6-0
 US_Open,1,1992,09,13,1,Mansdorf_Amos,Pozzi_Gianluca,Pozzi_Gianluca,US_Open,1992,09,13,6-7(3)_6-4_6-2_5-7_6-1
-US_Open,1,1992,09,13,1,Gorriz_MarcosAurelio,Nargiso_Diego,Nargiso_Diego,US_Open,1992,09,13,6-4_6-1_6-3
+US_Open,1,1992,09,13,1,Gorriz_Marcos_Aurelio,Nargiso_Diego,Nargiso_Diego,US_Open,1992,09,13,6-4_6-1_6-3
 US_Open,1,1992,09,13,1,Schapers_Michiel,McEnroe_John,McEnroe_John,US_Open,1992,09,13,6-4_6-0_6-4
-US_Open,1,1992,09,13,1,Costa_Carlos,Van_RensburgChristo,Costa_Carlos,US_Open,1992,09,13,6-4_5-7_6-3_6-2
+US_Open,1,1992,09,13,1,Costa_Carlos,Van_Rensburg_Christo,Costa_Carlos,US_Open,1992,09,13,6-4_5-7_6-3_6-2
 US_Open,1,1992,09,13,1,Brown_Jimmy,Mronz_Alexander,Mronz_Alexander,US_Open,1992,09,13,6-4_6-4_6-4
 US_Open,1,1992,09,13,1,Rivera_Felipe,Davis_Scott,Davis_Scott,US_Open,1992,09,13,6-4_6-7(5)_6-2_6-4
 US_Open,1,1992,09,13,1,Raoux_Guillaume,Camporese_Omar,Camporese_Omar,US_Open,1992,09,13,6-4_7-6(5)_6-1

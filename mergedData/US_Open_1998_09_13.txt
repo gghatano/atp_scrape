@@ -15,7 +15,7 @@ US_Open,1,1998,09,13,1,Sekulov_James,Sanguinetti_Davide,Sanguinetti_Davide,US_Op
 US_Open,1,1998,09,13,1,Raoux_Guillaume,Escude_Nicolas,Raoux_Guillaume,US_Open,1998,09,13,6-3_3-6_6-3_1-6_7-6(6)
 US_Open,1,1998,09,13,1,Grosjean_Sebastien,Agassi_Andre,Agassi_Andre,US_Open,1998,09,13,6-4_6-1_6-4
 US_Open,1,1998,09,13,1,Rafter_Patrick,Arazi_Hicham,Rafter_Patrick,US_Open,1998,09,13,4-6_4-6_6-3_6-3_6-1
-US_Open,1,1998,09,13,1,Marin_JuanAntonio,Gumy_Hernan,Gumy_Hernan,US_Open,1998,09,13,6-3_0-6_4-6_6-2_6-1
+US_Open,1,1998,09,13,1,Marin_Juan_Antonio,Gumy_Hernan,Gumy_Hernan,US_Open,1998,09,13,6-3_0-6_4-6_6-2_6-1
 US_Open,1,1998,09,13,1,Merklein_Mark,Nainkin_David,Nainkin_David,US_Open,1998,09,13,6-7(3)_6-0_6-4_6-4
 US_Open,1,1998,09,13,1,Behr_Noam,Kuerten_Gustavo,Kuerten_Gustavo,US_Open,1998,09,13,4-6_6-4_6-3_6-4
 US_Open,1,1998,09,13,1,Blanco_Galo,Canas_Guillermo,Canas_Guillermo,US_Open,1998,09,13,6-3_6-0_6-2
@@ -37,14 +37,14 @@ US_Open,1,1998,09,13,1,Johansson_Thomas,Meligeni_Fernando,Johansson_Thomas,US_Op
 US_Open,1,1998,09,13,1,Clavet_Francisco,Pavel_Andrei,Clavet_Francisco,US_Open,1998,09,13,6-7(10)_6-4_7-5_6-2
 US_Open,1,1998,09,13,1,Kiefer_Nicolas,Roux_Lionel,Kiefer_Nicolas,US_Open,1998,09,13,6-4_6-3_6-1
 US_Open,1,1998,09,13,1,Burillo_Jordi,Haas_Tommy,Haas_Tommy,US_Open,1998,09,13,6-3_7-5_6-4
-US_Open,1,1998,09,13,1,Van_ScheppingenDennis,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,US_Open,1998,09,13,6-1_6-2_6-4
+US_Open,1,1998,09,13,1,Van_Scheppingen_Dennis,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,US_Open,1998,09,13,6-1_6-2_6-4
 US_Open,1,1998,09,13,1,Henman_Tim,Draper_Scott,Henman_Tim,US_Open,1998,09,13,6-3_7-6(4)_7-6(3)
 US_Open,1,1998,09,13,1,Mantilla_Felix,Steven_Brett,Mantilla_Felix,US_Open,1998,09,13,6-3_3-6_6-4_7-5
 US_Open,1,1998,09,13,1,Woodbridge_Todd,Kohlmann_Michael,Kohlmann_Michael,US_Open,1998,09,13,6-7(5)_7-6(0)_4-4_RET
-US_Open,1,1998,09,13,1,Wheaton_David,Di_PasqualeArnaud,Di_PasqualeArnaud,US_Open,1998,09,13,6-4_6-1_6-4
+US_Open,1,1998,09,13,1,Wheaton_David,Di_Pasquale_Arnaud,Di_Pasquale_Arnaud,US_Open,1998,09,13,6-4_6-1_6-4
 US_Open,1,1998,09,13,1,Ruud_Christian,Philippoussis_Mark,Philippoussis_Mark,US_Open,1998,09,13,7-5_6-4_6-3
 US_Open,1,1998,09,13,1,Lareau_Sebastien,Delgado_Ramon,Lareau_Sebastien,US_Open,1998,09,13,7-5_7-6(3)_6-3
-US_Open,1,1998,09,13,1,Carlsen_Kenneth,Arnold_KerLucas,Arnold_KerLucas,US_Open,1998,09,13,7-6(0)_6-4_4-6_6-1
+US_Open,1,1998,09,13,1,Carlsen_Kenneth,Arnold_Ker_Lucas,Arnold_Ker_Lucas,US_Open,1998,09,13,7-6(0)_6-4_4-6_6-1
 US_Open,1,1998,09,13,1,Karbacher_Bernd,Korda_Petr,Karbacher_Bernd,US_Open,1998,09,13,2-6_6-3_6-2_6-1
 US_Open,1,1998,09,13,1,Corretja_Alex,Pozzi_Gianluca,Corretja_Alex,US_Open,1998,09,13,2-6_6-3_7-5_7-5
 US_Open,1,1998,09,13,1,Perlant_JeanBaptiste,Stoltenberg_Jason,Perlant_JeanBaptiste,US_Open,1998,09,13,1-6_7-5_6-3_6-3
@@ -56,7 +56,7 @@ US_Open,1,1998,09,13,1,Erlich_Eyal,Chang_Michael,Chang_Michael,US_Open,1998,09,1
 US_Open,1,1998,09,13,1,Puerta_Mariano,Moya_Carlos,Moya_Carlos,US_Open,1998,09,13,6-1_7-6(4)_6-7(3)_4-4DEF
 US_Open,1,1998,09,13,1,Costa_Albert,Gross_Oliver,Gross_Oliver,US_Open,1998,09,13,2-6_4-6_7-5_6-2_6-4
 US_Open,1,1998,09,13,1,Rodriguez_Martin,Bruguera_Sergi,Bruguera_Sergi,US_Open,1998,09,13,6-1_6-2_6-2
-US_Open,1,1998,09,13,1,Medvedev_Andrei,van_LottumJohn,Medvedev_Andrei,US_Open,1998,09,13,6-4_7-5_6-2
+US_Open,1,1998,09,13,1,Medvedev_Andrei,van_Lottum_John,Medvedev_Andrei,US_Open,1998,09,13,6-4_7-5_6-2
 US_Open,1,1998,09,13,1,Sanchez_Javier,Grant_Geoff,Grant_Geoff,US_Open,1998,09,13,6-2_7-5_4-6_6-3
 US_Open,1,1998,09,13,1,Larsson_Magnus,Washington_MaliVai,Larsson_Magnus,US_Open,1998,09,13,3-6_6-3_1-6_6-4_6-4
 US_Open,1,1998,09,13,1,Squillari_Franco,Filippini_Marcelo,Filippini_Marcelo,US_Open,1998,09,13,7-5(5)_6-0_6-1
@@ -83,9 +83,9 @@ US_Open,1,1998,09,13,2,Dreekmann_Hendrik,Johansson_Thomas,Johansson_Thomas,US_Op
 US_Open,1,1998,09,13,2,Clavet_Francisco,Kiefer_Nicolas,Kiefer_Nicolas,US_Open,1998,09,13,6-4_7-6(3)_6-1
 US_Open,1,1998,09,13,2,Haas_Tommy,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,US_Open,1998,09,13,7-5_6-2_1-6_7-5
 US_Open,1,1998,09,13,2,Henman_Tim,Mantilla_Felix,Henman_Tim,US_Open,1998,09,13,6-3_5-7_7-5_6-4
-US_Open,1,1998,09,13,2,Kohlmann_Michael,Di_PasqualeArnaud,Kohlmann_Michael,US_Open,1998,09,13,7-5_6-4_6-4
+US_Open,1,1998,09,13,2,Kohlmann_Michael,Di_Pasquale_Arnaud,Kohlmann_Michael,US_Open,1998,09,13,7-5_6-4_6-4
 US_Open,1,1998,09,13,2,Philippoussis_Mark,Lareau_Sebastien,Philippoussis_Mark,US_Open,1998,09,13,6-7(3)_6-3_6-3_6-4
-US_Open,1,1998,09,13,2,Arnold_KerLucas,Karbacher_Bernd,Arnold_KerLucas,US_Open,1998,09,13,7-5_3-6_6-2_6-3
+US_Open,1,1998,09,13,2,Arnold_Ker_Lucas,Karbacher_Bernd,Arnold_Ker_Lucas,US_Open,1998,09,13,7-5_3-6_6-2_6-3
 US_Open,1,1998,09,13,2,Corretja_Alex,Perlant_JeanBaptiste,Corretja_Alex,US_Open,1998,09,13,6-4_5-7_6-7(8)_6-1_6-0
 US_Open,1,1998,09,13,2,Black_Byron,Vicente_Fernando,Black_Byron,US_Open,1998,09,13,7-6(4)_6-1_7-5
 US_Open,1,1998,09,13,2,Norman_Magnus,Gambill_JanMichael,Gambill_JanMichael,US_Open,1998,09,13,6-4_6-2_6-7(8)_6-3
@@ -105,7 +105,7 @@ US_Open,1,1998,09,13,3,Siemerink_Jan,Rusedski_Greg,Siemerink_Jan,US_Open,1998,09
 US_Open,1,1998,09,13,3,Krajicek_Richard,Johansson_Thomas,Johansson_Thomas,US_Open,1998,09,13,6-7(5)_5-4_RET
 US_Open,1,1998,09,13,3,Kiefer_Nicolas,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,US_Open,1998,09,13,6-4_6-0_6-2
 US_Open,1,1998,09,13,3,Henman_Tim,Kohlmann_Michael,Henman_Tim,US_Open,1998,09,13,6-3_7-5_1-6_6-4
-US_Open,1,1998,09,13,3,Philippoussis_Mark,Arnold_KerLucas,Philippoussis_Mark,US_Open,1998,09,13,7-6(5)_6-3_6-3
+US_Open,1,1998,09,13,3,Philippoussis_Mark,Arnold_Ker_Lucas,Philippoussis_Mark,US_Open,1998,09,13,7-6(5)_6-3_6-3
 US_Open,1,1998,09,13,3,Corretja_Alex,Black_Byron,Corretja_Alex,US_Open,1998,09,13,6-3_4-6_6-2_7-6(5)
 US_Open,1,1998,09,13,3,Gambill_JanMichael,Moya_Carlos,Moya_Carlos,US_Open,1998,09,13,6-2_3-6_3-6_6-3_7-6(4)
 US_Open,1,1998,09,13,3,Gross_Oliver,Grant_Geoff,Gross_Oliver,US_Open,1998,09,13,7-5_6-7(5)_5-7_6-3_7-5

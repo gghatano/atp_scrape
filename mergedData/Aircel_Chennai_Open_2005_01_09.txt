@@ -4,7 +4,7 @@ Aircel_Chennai_Open,2,2005,01,09,1,Mathieu_PaulHenri,Tipsarevic_Janko,Mathieu_Pa
 Aircel_Chennai_Open,2,2005,01,09,1,Okun_Noam,Carlsen_Kenneth,Carlsen_Kenneth,Aircel_Chennai_Open,2005,01,09,7-6(0)_6-4
 Aircel_Chennai_Open,2,2005,01,09,1,Schuettler_Rainer,Patience_Olivier,Patience_Olivier,Aircel_Chennai_Open,2005,01,09,6-2_6-2
 Aircel_Chennai_Open,2,2005,01,09,1,Vanek_Jiri,Tabara_Michal,Tabara_Michal,Aircel_Chennai_Open,2005,01,09,6-2_4-6_7-6(5)
-Aircel_Chennai_Open,2,2005,01,09,1,GarciaLopez_Guillermo,Van_ScheppingenDennis,GarciaLopez_Guillermo,Aircel_Chennai_Open,2005,01,09,3-6_6-3_6-2
+Aircel_Chennai_Open,2,2005,01,09,1,GarciaLopez_Guillermo,Van_Scheppingen_Dennis,GarciaLopez_Guillermo,Aircel_Chennai_Open,2005,01,09,3-6_6-3_6-2
 Aircel_Chennai_Open,2,2005,01,09,1,Garcia_Adrian,Carraz_Gregory,Garcia_Adrian,Aircel_Chennai_Open,2005,01,09,6-4_6-3
 Aircel_Chennai_Open,2,2005,01,09,1,Kim_Kevin,Mankad_Harsh,Kim_Kevin,Aircel_Chennai_Open,2005,01,09,6-4_4-6_6-4
 Aircel_Chennai_Open,2,2005,01,09,1,Zib_Tomas,Burgsmuller_Lars,Zib_Tomas,Aircel_Chennai_Open,2005,01,09,6-1_6-4

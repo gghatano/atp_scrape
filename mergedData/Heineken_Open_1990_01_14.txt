@@ -13,7 +13,7 @@ Heineken_Open,2,1990,01,14,1,Anderson_Johan,Gustafsson_Magnus,Gustafsson_Magnus,
 Heineken_Open,2,1990,01,14,1,Davis_Scott,Bergstrom_Christian,Davis_Scott,Heineken_Open,1990,01,14,1-6_6-4_6-2
 Heineken_Open,2,1990,01,14,1,Goldie_Dan,Wahlgren_LarsAnders,Goldie_Dan,Heineken_Open,1990,01,14,7-6_6-0
 Heineken_Open,2,1990,01,14,1,Paloheimo_Veli,Steven_Brett,Steven_Brett,Heineken_Open,1990,01,14,6-3_6-0
-Heineken_Open,2,1990,01,14,1,Guy_Steve,Mecir_SrMiloslav,Guy_Steve,Heineken_Open,1990,01,14,6-3_6-3
+Heineken_Open,2,1990,01,14,1,Guy_Steve,Mecir_Sr_Miloslav,Guy_Steve,Heineken_Open,1990,01,14,6-3_6-3
 Heineken_Open,2,1990,01,14,2,Chesnokov_Andrei,Reneberg_Richey,Chesnokov_Andrei,Heineken_Open,1990,01,14,6-4_6-4
 Heineken_Open,2,1990,01,14,2,Stich_Michael,Connell_Grant,Connell_Grant,Heineken_Open,1990,01,14,6-4_6-7_6-2
 Heineken_Open,2,1990,01,14,2,Layendecker_Glenn,Arias_Jimmy,Arias_Jimmy,Heineken_Open,1990,01,14,2-6_6-2_6-2

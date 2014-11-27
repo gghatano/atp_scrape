@@ -1,5 +1,5 @@
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Costa_Carlos,Gomez_Andres,Costa_Carlos,Abierto_Mexicano_Telcel,1993,02,28,6-4_6-7(6)_7-6(3)
-Abierto_Mexicano_Telcel,2,1993,02,28,1,Witsken_Todd,De_LaPenaHoracio,De_LaPenaHoracio,Abierto_Mexicano_Telcel,1993,02,28,7-5_6-2
+Abierto_Mexicano_Telcel,2,1993,02,28,1,Witsken_Todd,De_La_Pena_Horacio,De_La_Pena_Horacio,Abierto_Mexicano_Telcel,1993,02,28,7-5_6-2
 Abierto_Mexicano_Telcel,2,1993,02,28,1,CunhaSilva_Joao,Corretja_Alex,Corretja_Alex,Abierto_Mexicano_Telcel,1993,02,28,2-6_6-3_6-3
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Strelba_Martin,Tarango_Jeff,Tarango_Jeff,Abierto_Mexicano_Telcel,1993,02,28,6-4_6-2
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Oncins_Jaime,Lavalle_Leonardo,Lavalle_Leonardo,Abierto_Mexicano_Telcel,1993,02,28,3-6_6-4_6-2
@@ -14,7 +14,7 @@ Abierto_Mexicano_Telcel,2,1993,02,28,1,Gilbert_Rodolphe,Black_Byron,Black_Byron,
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Schaller_Gilbert,Skoff_Horst,Skoff_Horst,Abierto_Mexicano_Telcel,1993,02,28,6-1_6-2
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Miniussi_Christian,Azar_Roberto,Miniussi_Christian,Abierto_Mexicano_Telcel,1993,02,28,6-2_6-3
 Abierto_Mexicano_Telcel,2,1993,02,28,1,Donar_Johan,Muster_Thomas,Muster_Thomas,Abierto_Mexicano_Telcel,1993,02,28,6-2_6-2
-Abierto_Mexicano_Telcel,2,1993,02,28,2,Costa_Carlos,De_LaPenaHoracio,Costa_Carlos,Abierto_Mexicano_Telcel,1993,02,28,6-4_6-3
+Abierto_Mexicano_Telcel,2,1993,02,28,2,Costa_Carlos,De_La_Pena_Horacio,Costa_Carlos,Abierto_Mexicano_Telcel,1993,02,28,6-4_6-3
 Abierto_Mexicano_Telcel,2,1993,02,28,2,Corretja_Alex,Tarango_Jeff,Tarango_Jeff,Abierto_Mexicano_Telcel,1993,02,28,6-3_6-0
 Abierto_Mexicano_Telcel,2,1993,02,28,2,Lavalle_Leonardo,Shelton_Bryan,Lavalle_Leonardo,Abierto_Mexicano_Telcel,1993,02,28,1-6_6-4_7-5
 Abierto_Mexicano_Telcel,2,1993,02,28,2,Montana_Francisco,Jaite_Martin,Montana_Francisco,Abierto_Mexicano_Telcel,1993,02,28,6-4_6-3

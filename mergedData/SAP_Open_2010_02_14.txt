@@ -3,8 +3,8 @@ SAP_Open,2,2010,02,14,1,Mayer_Leonardo,Gulbis_Ernests,Mayer_Leonardo,SAP_Open,20
 SAP_Open,2,2010,02,14,1,Nieminen_Jarkko,Poerschke_Lars,Nieminen_Jarkko,SAP_Open,2010,02,14,3-6_6-3_6-2
 SAP_Open,2,2010,02,14,1,Odesnik_Wayne,Berdych_Tomas,Berdych_Tomas,SAP_Open,2010,02,14,6-1_6-7(5)_7-5
 SAP_Open,2,2010,02,14,1,Stepanek_Radek,Malisse_Xavier,Malisse_Xavier,SAP_Open,2010,02,14,6-3_6-4
-SAP_Open,2,2010,02,14,1,Russell_Michael,Im_KyuTae,Russell_Michael,SAP_Open,2010,02,14,7-6(6)_6-1
-SAP_Open,2,2010,02,14,1,Bogomolov_JrAlex,Dent_Taylor,Dent_Taylor,SAP_Open,2010,02,14,6-4_7-6(2)
+SAP_Open,2,2010,02,14,1,Russell_Michael,Im_Kyu_Tae,Russell_Michael,SAP_Open,2010,02,14,7-6(6)_6-1
+SAP_Open,2,2010,02,14,1,Bogomolov_Jr_Alex,Dent_Taylor,Dent_Taylor,SAP_Open,2010,02,14,6-4_7-6(2)
 SAP_Open,2,2010,02,14,1,Gabashvili_Teymuraz,Querrey_Sam,Querrey_Sam,SAP_Open,2010,02,14,6-3_6-2
 SAP_Open,2,2010,02,14,1,Kohlschreiber_Philipp,Ram_Rajeev,Kohlschreiber_Philipp,SAP_Open,2010,02,14,6-7(7)_6-1_6-3
 SAP_Open,2,2010,02,14,1,Sela_Dudi,Giraldo_Santiago,Sela_Dudi,SAP_Open,2010,02,14,7-6(2)_7-6(4)

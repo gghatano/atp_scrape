@@ -7,7 +7,7 @@ Zagreb,2,1996,02,04,1,Noszaly_Sandor,Kempers_Tom,Kempers_Tom,Zagreb,1996,02,04,7
 Zagreb,2,1996,02,04,1,Damm_Martin,Fetterlein_Frederik,Damm_Martin,Zagreb,1996,02,04,2-6_7-5_6-3
 Zagreb,2,1996,02,04,1,Steeb_CarlUwe,Karbacher_Bernd,Steeb_CarlUwe,Zagreb,1996,02,04,6-2_6-3
 Zagreb,2,1996,02,04,1,Hlasek_Jakob,Pioline_Cedric,Pioline_Cedric,Zagreb,1996,02,04,6-2_5-7_6-3
-Zagreb,2,1996,02,04,1,Davids_HendrikJan,Van_HerckJohan,Van_HerckJohan,Zagreb,1996,02,04,2-6_6-3_6-2
+Zagreb,2,1996,02,04,1,Davids_Hendrik_Jan,Van_Herck_Johan,Van_Herck_Johan,Zagreb,1996,02,04,2-6_6-3_6-2
 Zagreb,2,1996,02,04,1,Mantilla_Felix,Dewulf_Filip,Dewulf_Filip,Zagreb,1996,02,04,6-3_6-3
 Zagreb,2,1996,02,04,1,Waite_Jack,Gaudenzi_Andrea,Gaudenzi_Andrea,Zagreb,1996,02,04,6-2_6-4
 Zagreb,2,1996,02,04,1,Sanchez_Javier,Marques_Nuno,Sanchez_Javier,Zagreb,1996,02,04,6-3_6-4
@@ -18,7 +18,7 @@ Zagreb,2,1996,02,04,2,Ivanisevic_Goran,Sinner_Martin,Ivanisevic_Goran,Zagreb,199
 Zagreb,2,1996,02,04,2,Hirszon_Sasa,Voinea_Adrian,Voinea_Adrian,Zagreb,1996,02,04,6-3_7-6(8)
 Zagreb,2,1996,02,04,2,Forget_Guy,Kempers_Tom,Forget_Guy,Zagreb,1996,02,04,7-5_6-4
 Zagreb,2,1996,02,04,2,Damm_Martin,Steeb_CarlUwe,Steeb_CarlUwe,Zagreb,1996,02,04,2-6_6-4_7-6(7)
-Zagreb,2,1996,02,04,2,Pioline_Cedric,Van_HerckJohan,Pioline_Cedric,Zagreb,1996,02,04,6-3_6-3
+Zagreb,2,1996,02,04,2,Pioline_Cedric,Van_Herck_Johan,Pioline_Cedric,Zagreb,1996,02,04,6-3_6-3
 Zagreb,2,1996,02,04,2,Dewulf_Filip,Gaudenzi_Andrea,Dewulf_Filip,Zagreb,1996,02,04,6-3_6-3
 Zagreb,2,1996,02,04,2,Sanchez_Javier,Goellner_MarcKevin,Goellner_MarcKevin,Zagreb,1996,02,04,7-6(5)_6-4
 Zagreb,2,1996,02,04,2,Carbonell_Tomas,Raoux_Guillaume,Raoux_Guillaume,Zagreb,1996,02,04,4-6_6-2_6-1

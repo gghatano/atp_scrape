@@ -9,7 +9,7 @@ If_Stockholm_Open,2,2000,11,26,1,Bjorkman_Jonas,Nieminen_Jarkko,Bjorkman_Jonas,I
 If_Stockholm_Open,2,2000,11,26,1,Grosjean_Sebastien,Nestor_Daniel,Grosjean_Sebastien,If_Stockholm_Open,2000,11,26,6-4_6-4
 If_Stockholm_Open,2,2000,11,26,1,Ortegren_Johan,Jonsson_Fredrik,Ortegren_Johan,If_Stockholm_Open,2000,11,26,6-2_2-6_7-5
 If_Stockholm_Open,2,2000,11,26,1,Knippschild_Jens,Schuettler_Rainer,Schuettler_Rainer,If_Stockholm_Open,2000,11,26,6-3_7-6(3)
-If_Stockholm_Open,2,2000,11,26,1,Voinea_Adrian,Ferrero_JuanCarlos,Voinea_Adrian,If_Stockholm_Open,2000,11,26,6-7(5)_6-2_6-3
+If_Stockholm_Open,2,2000,11,26,1,Voinea_Adrian,Ferrero_Juan_Carlos,Voinea_Adrian,If_Stockholm_Open,2000,11,26,6-7(5)_6-2_6-3
 If_Stockholm_Open,2,2000,11,26,1,Federer_Roger,Youzhny_Mikhail,Federer_Roger,If_Stockholm_Open,2000,11,26,5-7_6-4_6-3
 If_Stockholm_Open,2,2000,11,26,1,Vinciguerra_Andreas,Sarstrand_Marcus,Vinciguerra_Andreas,If_Stockholm_Open,2000,11,26,4-6_6-3_6-1
 If_Stockholm_Open,2,2000,11,26,1,Froberg_Jonas,Black_Byron,Froberg_Jonas,If_Stockholm_Open,2000,11,26,3-6_6-3_6-4

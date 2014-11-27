@@ -1,10 +1,10 @@
 Shanghai,2,1998,10,11,1,Ivanisevic_Goran,Steven_Brett,Ivanisevic_Goran,Shanghai,1998,10,11,6-4_7-6(8)
-Shanghai,2,1998,10,11,1,Van_ScheppingenDennis,Gimelstob_Justin,Gimelstob_Justin,Shanghai,1998,10,11,6-3_6-2
+Shanghai,2,1998,10,11,1,Van_Scheppingen_Dennis,Gimelstob_Justin,Gimelstob_Justin,Shanghai,1998,10,11,6-3_6-2
 Shanghai,2,1998,10,11,1,Campbell_Steve,Middleton_TJ,Campbell_Steve,Shanghai,1998,10,11,6-4_6-3
 Shanghai,2,1998,10,11,1,Sinner_Martin,Carlsen_Kenneth,Carlsen_Kenneth,Shanghai,1998,10,11,7-5_6-4
 Shanghai,2,1998,10,11,1,Gambill_JanMichael,Zhang_Yu,Gambill_JanMichael,Shanghai,1998,10,11,6-4_6-3
 Shanghai,2,1998,10,11,1,Schalken_Sjeng,Tebbutt_Michael,Tebbutt_Michael,Shanghai,1998,10,11,6-4_6-7(2)_6-4
-Shanghai,2,1998,10,11,1,van_LottumJohn,Paes_Leander,Paes_Leander,Shanghai,1998,10,11,6-3_7-6(6)
+Shanghai,2,1998,10,11,1,van_Lottum_John,Paes_Leander,Paes_Leander,Shanghai,1998,10,11,6-3_7-6(6)
 Shanghai,2,1998,10,11,1,Nestor_Daniel,Delgado_Ramon,Delgado_Ramon,Shanghai,1998,10,11,6-4_3-6_6-2
 Shanghai,2,1998,10,11,1,Haarhuis_Paul,BurriezaLopez_Oscar,Haarhuis_Paul,Shanghai,1998,10,11,6-3_6-4
 Shanghai,2,1998,10,11,1,Braasch_Karsten,Kohlmann_Michael,Braasch_Karsten,Shanghai,1998,10,11,7-6(6)_6-4

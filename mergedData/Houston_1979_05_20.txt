@@ -6,13 +6,13 @@ Houston,2,1979,05,20,1,Orantes_Manuel,Masters_Geoff,Orantes_Manuel,Houston,1979,
 Houston,2,1979,05,20,1,Pinner_Ulrich,Okker_Tom,Pinner_Ulrich,Houston,1979,05,20,6-1_6-3
 Houston,2,1979,05,20,1,Gildemeister_Hans,Wilkison_Tim,Gildemeister_Hans,Houston,1979,05,20,6-3_6-4
 Houston,2,1979,05,20,1,Taroczy_Balazs,Alexander_John,Alexander_John,Houston,1979,05,20,6-4_7-6
-Houston,2,1979,05,20,1,Higueras_Jose,Lewis_NZLChris,Higueras_Jose,Houston,1979,05,20,6-3_6-2
+Houston,2,1979,05,20,1,Higueras_Jose,Lewis_NZL_Chris,Higueras_Jose,Houston,1979,05,20,6-3_6-2
 Houston,2,1979,05,20,1,Ball_Syd,Bertolucci_Paolo,Bertolucci_Paolo,Houston,1979,05,20,7-6_6-1
 Houston,2,1979,05,20,1,Gehring_Rolf,Teltscher_Eliot,Teltscher_Eliot,Houston,1979,05,20,2-6_6-1_7-5
 Houston,2,1979,05,20,1,Stewart_Sherwood,Dibbs_Eddie,Dibbs_Eddie,Houston,1979,05,20,7-5_6-0
 Houston,2,1979,05,20,1,Barazzutti_Corrado,Warwick_Kim,Barazzutti_Corrado,Houston,1979,05,20,6-7_7-5_6-1
 Houston,2,1979,05,20,1,Franulovic_Zeljko,Stone_Allan,Franulovic_Zeljko,Houston,1979,05,20,6-3_6-4
-Houston,2,1979,05,20,1,Pecci_SrVictor,Panatta_Adriano,Panatta_Adriano,Houston,1979,05,20,6-4_6-2
+Houston,2,1979,05,20,1,Pecci_Sr_Victor,Panatta_Adriano,Panatta_Adriano,Houston,1979,05,20,6-4_6-2
 Houston,2,1979,05,20,1,Amaya_Victor,Tanner_Roscoe,Tanner_Roscoe,Houston,1979,05,20,6-2_6-4
 Houston,2,1979,05,20,2,Mayer_Gene,Gonzalez_Francisco,Mayer_Gene,Houston,1979,05,20,6-0_7-5
 Houston,2,1979,05,20,2,Dupre_Pat,Ycaza_Ricardo,Ycaza_Ricardo,Houston,1979,05,20,7-6_4-6_7-6

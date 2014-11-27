@@ -9,7 +9,7 @@ Atlanta,2,1982,01,10,1,Wilkison_Tim,Mayotte_Tim,Mayotte_Tim,Atlanta,1982,01,10,6
 Atlanta,2,1982,01,10,1,Dent_Phil,Gurfein_Jim,Dent_Phil,Atlanta,1982,01,10,4-6_6-3_6-2
 Atlanta,2,1982,01,10,1,Hooper_Chip,Alexander_John,Hooper_Chip,Atlanta,1982,01,10,6-4_6-4
 Atlanta,2,1982,01,10,1,Moretton_Gilles,Case_Ross,Moretton_Gilles,Atlanta,1982,01,10,2-6_6-3_6-2
-Atlanta,2,1982,01,10,1,Graham_Tony,Giammalva_JrSammy,Graham_Tony,Atlanta,1982,01,10,6-2_2-6_7-6
+Atlanta,2,1982,01,10,1,Graham_Tony,Giammalva_Jr_Sammy,Graham_Tony,Atlanta,1982,01,10,6-2_2-6_7-6
 Atlanta,2,1982,01,10,1,Walts_Butch,Doyle_Matt,Doyle_Matt,Atlanta,1982,01,10,6-4_6-3
 Atlanta,2,1982,01,10,1,Anger_Matt,Giammalva_Tony,Giammalva_Tony,Atlanta,1982,01,10,3-6_6-4_6-4
 Atlanta,2,1982,01,10,1,Pattison_Andrew,Meyer_Rick,Pattison_Andrew,Atlanta,1982,01,10,5-7_6-1_6-2

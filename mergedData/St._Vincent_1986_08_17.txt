@@ -12,7 +12,7 @@ St._Vincent,2,1986,08,17,1,Rocchi_Ferrante,Arguello_Roberto,Rocchi_Ferrante,St._
 St._Vincent,2,1986,08,17,1,Birner_Stanislav,McNamee_Paul,McNamee_Paul,St._Vincent,1986,08,17,6-2_6-3
 St._Vincent,2,1986,08,17,1,Panatta_Claudio,Davin_Franco,Panatta_Claudio,St._Vincent,1986,08,17,6-1_6-2
 St._Vincent,2,1986,08,17,1,Ganzabal_Alejandro,Bahrami_Mansour,Bahrami_Mansour,St._Vincent,1986,08,17,7-6_6-0
-St._Vincent,2,1986,08,17,1,Cox_CharlesBud,Pistolesi_Claudio,Cox_CharlesBud,St._Vincent,1986,08,17,4-6_6-4_7-6
+St._Vincent,2,1986,08,17,1,Cox_Charles_Bud,Pistolesi_Claudio,Cox_Charles_Bud,St._Vincent,1986,08,17,4-6_6-4_7-6
 St._Vincent,2,1986,08,17,1,Camporese_Omar,Pimek_Libor,Pimek_Libor,St._Vincent,1986,08,17,5-7_6-4_7-6
 St._Vincent,2,1986,08,17,2,Tyson_Desmond,Antonitsch_Alex,Antonitsch_Alex,St._Vincent,1986,08,17,7-6_7-6
 St._Vincent,2,1986,08,17,2,Miniussi_Christian,Colombo_Simone,Colombo_Simone,St._Vincent,1986,08,17,6-1_7-6
@@ -21,7 +21,7 @@ St._Vincent,2,1986,08,17,2,PerezRoldan_Guillermo,Bengoechea_Eduardo,PerezRoldan_
 St._Vincent,2,1986,08,17,2,Duncan_Lawson,Luza_Gustavo,Duncan_Lawson,St._Vincent,1986,08,17,7-6_7-5
 St._Vincent,2,1986,08,17,2,Rocchi_Ferrante,McNamee_Paul,McNamee_Paul,St._Vincent,1986,08,17,7-6_6-2
 St._Vincent,2,1986,08,17,2,Panatta_Claudio,Bahrami_Mansour,Bahrami_Mansour,St._Vincent,1986,08,17,2-6_6-4_6-4
-St._Vincent,2,1986,08,17,2,Cox_CharlesBud,Pimek_Libor,Pimek_Libor,St._Vincent,1986,08,17,2-6_6-3_6-4
+St._Vincent,2,1986,08,17,2,Cox_Charles_Bud,Pimek_Libor,Pimek_Libor,St._Vincent,1986,08,17,2-6_6-3_6-4
 St._Vincent,2,1986,08,17,3,Antonitsch_Alex,Colombo_Simone,Colombo_Simone,St._Vincent,1986,08,17,6-3_6-4
 St._Vincent,2,1986,08,17,3,Ingaramo_Marcelo,PerezRoldan_Guillermo,PerezRoldan_Guillermo,St._Vincent,1986,08,17,4-6_7-5_6-1
 St._Vincent,2,1986,08,17,3,Duncan_Lawson,McNamee_Paul,McNamee_Paul,St._Vincent,1986,08,17,6-4_6-4

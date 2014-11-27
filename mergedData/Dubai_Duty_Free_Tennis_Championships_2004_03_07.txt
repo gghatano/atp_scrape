@@ -12,7 +12,7 @@ Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Lopez_Feliciano,Davydenko_Ni
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Kohlschreiber_Philipp,Schuettler_Rainer,Kohlschreiber_Philipp,Dubai_Duty_Free_Tennis_Championships,2004,03,07,3-6_6-4_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Philippoussis_Mark,Rochus_Olivier,Rochus_Olivier,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-2_7-6(8)
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Mirnyi_Max,Nadal_Rafael,Nadal_Rafael,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_7-6(6)
-Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Ghareeb_Mohammad,Van_ScheppingenDennis,Van_ScheppingenDennis,Dubai_Duty_Free_Tennis_Championships,2004,03,07,7-6(5)_3-6_7-6(6)
+Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Ghareeb_Mohammad,Van_Scheppingen_Dennis,Van_Scheppingen_Dennis,Dubai_Duty_Free_Tennis_Championships,2004,03,07,7-6(5)_3-6_7-6(6)
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,1,Youzhny_Mikhail,Coria_Guillermo,Youzhny_Mikhail,Dubai_Duty_Free_Tennis_Championships,2004,03,07,4-6_6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Federer_Roger,Robredo_Tommy,Federer_Roger,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Pavel_Andrei,Zib_Tomas,Pavel_Andrei,Dubai_Duty_Free_Tennis_Championships,2004,03,07,7-5_1-6_6-1
@@ -21,7 +21,7 @@ Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Santoro_Fabrice,Schalken_Sje
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Srichaphan_Paradorn,Ljubicic_Ivan,Ljubicic_Ivan,Dubai_Duty_Free_Tennis_Championships,2004,03,07,7-6(6)_4-6_7-5
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Lopez_Feliciano,Kohlschreiber_Philipp,Lopez_Feliciano,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Rochus_Olivier,Nadal_Rafael,Nadal_Rafael,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_7-5
-Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Van_ScheppingenDennis,Youzhny_Mikhail,Youzhny_Mikhail,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-4_7-5
+Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,2,Van_Scheppingen_Dennis,Youzhny_Mikhail,Youzhny_Mikhail,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-4_7-5
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,3,Federer_Roger,Pavel_Andrei,Federer_Roger,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_6-3
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,3,Nieminen_Jarkko,Schalken_Sjeng,Nieminen_Jarkko,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-3_6-3
 Dubai_Duty_Free_Tennis_Championships,2,2004,03,07,3,Ljubicic_Ivan,Lopez_Feliciano,Lopez_Feliciano,Dubai_Duty_Free_Tennis_Championships,2004,03,07,6-4_7-6(4)

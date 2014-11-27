@@ -8,7 +8,7 @@ SkiStar_Swedish_Open,2,1998,07,12,1,Sanguinetti_Davide,Tillstrom_Mikael,Sanguine
 SkiStar_Swedish_Open,2,1998,07,12,1,Clement_Arnaud,Johansson_Thomas,Johansson_Thomas,SkiStar_Swedish_Open,1998,07,12,7-5_6-1
 SkiStar_Swedish_Open,2,1998,07,12,1,Fromberg_Richard,Sanchez_Javier,Fromberg_Richard,SkiStar_Swedish_Open,1998,07,12,6-1_6-2
 SkiStar_Swedish_Open,2,1998,07,12,1,Medvedev_Andrei,Karbacher_Bernd,Medvedev_Andrei,SkiStar_Swedish_Open,1998,07,12,6-2_6-1
-SkiStar_Swedish_Open,2,1998,07,12,1,Marin_JuanAntonio,Di_PasqualeArnaud,Marin_JuanAntonio,SkiStar_Swedish_Open,1998,07,12,4-6_7-6(3)_6-4
+SkiStar_Swedish_Open,2,1998,07,12,1,Marin_Juan_Antonio,Di_Pasquale_Arnaud,Marin_Juan_Antonio,SkiStar_Swedish_Open,1998,07,12,4-6_7-6(3)_6-4
 SkiStar_Swedish_Open,2,1998,07,12,1,Nargiso_Diego,Gaudenzi_Andrea,Gaudenzi_Andrea,SkiStar_Swedish_Open,1998,07,12,3-6_6-2_6-1
 SkiStar_Swedish_Open,2,1998,07,12,1,Hrbaty_Dominik,Burillo_Jordi,Hrbaty_Dominik,SkiStar_Swedish_Open,1998,07,12,6-3_1-1_RET
 SkiStar_Swedish_Open,2,1998,07,12,1,Palmer_Jared,Safin_Marat,Safin_Marat,SkiStar_Swedish_Open,1998,07,12,6-3_7-5
@@ -19,7 +19,7 @@ SkiStar_Swedish_Open,2,1998,07,12,2,Golmard_Jerome,Costa_Carlos,Golmard_Jerome,S
 SkiStar_Swedish_Open,2,1998,07,12,2,Vicente_Fernando,Alami_Karim,Alami_Karim,SkiStar_Swedish_Open,1998,07,12,1-6_7-6(3)_6-4
 SkiStar_Swedish_Open,2,1998,07,12,2,Sanguinetti_Davide,Johansson_Thomas,Johansson_Thomas,SkiStar_Swedish_Open,1998,07,12,6-7(5)_6-3_7-6(5)
 SkiStar_Swedish_Open,2,1998,07,12,2,Fromberg_Richard,Medvedev_Andrei,Medvedev_Andrei,SkiStar_Swedish_Open,1998,07,12,6-7(5)_7-5_7-6(2)
-SkiStar_Swedish_Open,2,1998,07,12,2,Marin_JuanAntonio,Gaudenzi_Andrea,Gaudenzi_Andrea,SkiStar_Swedish_Open,1998,07,12,6-2_7-5
+SkiStar_Swedish_Open,2,1998,07,12,2,Marin_Juan_Antonio,Gaudenzi_Andrea,Gaudenzi_Andrea,SkiStar_Swedish_Open,1998,07,12,6-2_7-5
 SkiStar_Swedish_Open,2,1998,07,12,2,Hrbaty_Dominik,Safin_Marat,Hrbaty_Dominik,SkiStar_Swedish_Open,1998,07,12,3-6_6-2_6-1
 SkiStar_Swedish_Open,2,1998,07,12,2,Novak_Jiri,Norman_Magnus,Novak_Jiri,SkiStar_Swedish_Open,1998,07,12,4-6_6-2_6-2
 SkiStar_Swedish_Open,2,1998,07,12,3,Gustafsson_Magnus,Golmard_Jerome,Gustafsson_Magnus,SkiStar_Swedish_Open,1998,07,12,6-7(7)_1-0_RET

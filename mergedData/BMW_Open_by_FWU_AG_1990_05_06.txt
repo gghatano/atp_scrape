@@ -1,4 +1,4 @@
-BMW_Open_by_FWU_AG,2,1990,05,06,1,Edberg_Stefan,Van_RensburgChristo,Edberg_Stefan,BMW_Open_by_FWU_AG,1990,05,06,6-1_6-0
+BMW_Open_by_FWU_AG,2,1990,05,06,1,Edberg_Stefan,Van_Rensburg_Christo,Edberg_Stefan,BMW_Open_by_FWU_AG,1990,05,06,6-1_6-0
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Strelba_Martin,Pescosolido_Stefano,Strelba_Martin,BMW_Open_by_FWU_AG,1990,05,06,6-3_6-2
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Witsken_Todd,Gustafsson_Magnus,Gustafsson_Magnus,BMW_Open_by_FWU_AG,1990,05,06,6-3_6-3
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Muster_Thomas,PerezRoldan_Guillermo,Muster_Thomas,BMW_Open_by_FWU_AG,1990,05,06,6-4_6-4
@@ -13,7 +13,7 @@ BMW_Open_by_FWU_AG,2,1990,05,06,1,Cane_Paolo,Courier_Jim,Courier_Jim,BMW_Open_by
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Skoff_Horst,Bergstrom_Christian,Bergstrom_Christian,BMW_Open_by_FWU_AG,1990,05,06,6-2_4-6_6-3
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Lundgren_Peter,Riglewski_Udo,Riglewski_Udo,BMW_Open_by_FWU_AG,1990,05,06,6-4_6-7_6-3
 BMW_Open_by_FWU_AG,2,1990,05,06,1,Schwaier_Hans,Novacek_Karel,Novacek_Karel,BMW_Open_by_FWU_AG,1990,05,06,6-3_6-4
-BMW_Open_by_FWU_AG,2,1990,05,06,1,De_LaPenaHoracio,Krickstein_Aaron,Krickstein_Aaron,BMW_Open_by_FWU_AG,1990,05,06,2-6_7-6_6-3
+BMW_Open_by_FWU_AG,2,1990,05,06,1,De_La_Pena_Horacio,Krickstein_Aaron,Krickstein_Aaron,BMW_Open_by_FWU_AG,1990,05,06,2-6_7-6_6-3
 BMW_Open_by_FWU_AG,2,1990,05,06,2,Edberg_Stefan,Strelba_Martin,Strelba_Martin,BMW_Open_by_FWU_AG,1990,05,06,6-4_6-1
 BMW_Open_by_FWU_AG,2,1990,05,06,2,Gustafsson_Magnus,Muster_Thomas,Muster_Thomas,BMW_Open_by_FWU_AG,1990,05,06,7-5_6-2
 BMW_Open_by_FWU_AG,2,1990,05,06,2,Korda_Petr,Curren_Kevin,Korda_Petr,BMW_Open_by_FWU_AG,1990,05,06,7-5_6-1

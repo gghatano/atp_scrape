@@ -13,7 +13,7 @@ Buenos_Aires,2,1982,09,12,1,Dupasquier_Ivan,Orantes_Manuel,Orantes_Manuel,Buenos
 Buenos_Aires,2,1982,09,12,1,Gimenez_Angel,Torre_Paul,Torre_Paul,Buenos_Aires,1982,09,12,6-4_6-4
 Buenos_Aires,2,1982,09,12,1,Soriano_Lorenzo,Sauer_Freddie,Sauer_Freddie,Buenos_Aires,1982,09,12,6-3_6-7_7-5
 Buenos_Aires,2,1982,09,12,1,Panatta_Claudio,Feigl_Peter,Feigl_Peter,Buenos_Aires,1982,09,12,6-2_7-6
-Buenos_Aires,2,1982,09,12,1,Castellan_Carlos,Pecci_SrVictor,Pecci_SrVictor,Buenos_Aires,1982,09,12,6-2_4-6_6-2
+Buenos_Aires,2,1982,09,12,1,Castellan_Carlos,Pecci_Sr_Victor,Pecci_Sr_Victor,Buenos_Aires,1982,09,12,6-2_4-6_6-2
 Buenos_Aires,2,1982,09,12,2,Vilas_Guillermo,Aubone_Guillermo,Vilas_Guillermo,Buenos_Aires,1982,09,12,6-0_6-4
 Buenos_Aires,2,1982,09,12,2,Zugarelli_Antonio,Kuharszky_Zoltan,Kuharszky_Zoltan,Buenos_Aires,1982,09,12,6-3_6-2
 Buenos_Aires,2,1982,09,12,2,Auroux_Gabriel,Segarceanu_Florin,Segarceanu_Florin,Buenos_Aires,1982,09,12,6-3_6-1
@@ -21,7 +21,7 @@ Buenos_Aires,2,1982,09,12,2,Johansson_Kjell,Perez_Diego,Perez_Diego,Buenos_Aires
 Buenos_Aires,2,1982,09,12,2,Arraya_Pablo,Prajoux_Belus,Prajoux_Belus,Buenos_Aires,1982,09,12,6-3_6-0
 Buenos_Aires,2,1982,09,12,2,Ganzabal_Alejandro,Orantes_Manuel,Ganzabal_Alejandro,Buenos_Aires,1982,09,12,6-4_6-4
 Buenos_Aires,2,1982,09,12,2,Torre_Paul,Sauer_Freddie,Torre_Paul,Buenos_Aires,1982,09,12,7-5_6-2
-Buenos_Aires,2,1982,09,12,2,Feigl_Peter,Pecci_SrVictor,Feigl_Peter,Buenos_Aires,1982,09,12,6-4_7-6
+Buenos_Aires,2,1982,09,12,2,Feigl_Peter,Pecci_Sr_Victor,Feigl_Peter,Buenos_Aires,1982,09,12,6-4_7-6
 Buenos_Aires,2,1982,09,12,3,Vilas_Guillermo,Kuharszky_Zoltan,Vilas_Guillermo,Buenos_Aires,1982,09,12,6-2_6-3
 Buenos_Aires,2,1982,09,12,3,Segarceanu_Florin,Perez_Diego,Perez_Diego,Buenos_Aires,1982,09,12,6-4_6-4
 Buenos_Aires,2,1982,09,12,3,Prajoux_Belus,Ganzabal_Alejandro,Ganzabal_Alejandro,Buenos_Aires,1982,09,12,4-6_7-6_6-2

@@ -4,7 +4,7 @@ Bournemouth,2,1971,05,30,1,Davidson_Owen,Proisy_Patrick,Davidson_Owen,Bournemout
 Bournemouth,2,1971,05,30,1,Battrick_Gerald,Clifton_John,Battrick_Gerald,Bournemouth,1971,05,30,6-3_6-1_6-0
 Bournemouth,2,1971,05,30,1,Barthes_Pierre,Warwick_Kim,Barthes_Pierre,Bournemouth,1971,05,30,6-3_3-6_6-1_6-4
 Bournemouth,2,1971,05,30,1,Masters_Geoff,Parun_Onny,Masters_Geoff,Bournemouth,1971,05,30,6-8_8-6_6-4_5-7_6-4
-Bournemouth,2,1971,05,30,1,Fillol_SrJaime,Bertram_Byron,Fillol_SrJaime,Bournemouth,1971,05,30,6-1_6-4_3-6_6-4
+Bournemouth,2,1971,05,30,1,Fillol_Sr_Jaime,Bertram_Byron,Fillol_Sr_Jaime,Bournemouth,1971,05,30,6-1_6-4_3-6_6-4
 Bournemouth,2,1971,05,30,1,Freer_Bill,Chanfreau_JeanBaptiste,Freer_Bill,Bournemouth,1971,05,30,6-2_6-4_6-2
 Bournemouth,2,1971,05,30,1,McDonald_Allan,PintoBravo_Jaime,McDonald_Allan,Bournemouth,1971,05,30,6-2_6-3_6-4
 Bournemouth,2,1971,05,30,1,Cox_Mark,Jauffret_Francois,Cox_Mark,Bournemouth,1971,05,30,6-2_2-6_8-6_4-6_6-2
@@ -17,15 +17,15 @@ Bournemouth,2,1971,05,30,1,Franulovic_Zeljko,Dibley_Colin,Franulovic_Zeljko,Bour
 Bournemouth,2,1971,05,30,2,Roche_Tony,Sedgman_Frank,Sedgman_Frank,Bournemouth,1971,05,30,
 Bournemouth,2,1971,05,30,2,Davidson_Owen,Battrick_Gerald,Battrick_Gerald,Bournemouth,1971,05,30,6-4_7-5_6-8_6-2
 Bournemouth,2,1971,05,30,2,Barthes_Pierre,Masters_Geoff,Barthes_Pierre,Bournemouth,1971,05,30,7-9_6-4_7-5_3-6_6-3
-Bournemouth,2,1971,05,30,2,Fillol_SrJaime,Freer_Bill,Fillol_SrJaime,Bournemouth,1971,05,30,6-3_6-3_6-2
+Bournemouth,2,1971,05,30,2,Fillol_Sr_Jaime,Freer_Bill,Fillol_Sr_Jaime,Bournemouth,1971,05,30,6-3_6-3_6-2
 Bournemouth,2,1971,05,30,2,McDonald_Allan,Cox_Mark,Cox_Mark,Bournemouth,1971,05,30,6-4_6-2_6-2
 Bournemouth,2,1971,05,30,2,Cornejo_Patricio,Taylor_Roger,Taylor_Roger,Bournemouth,1971,05,30,6-1_5-7_6-3_6-3
 Bournemouth,2,1971,05,30,2,Froehling_Frank,Maud_Robert,Maud_Robert,Bournemouth,1971,05,30,3-6_9-8_4-6_6-3_6-3
 Bournemouth,2,1971,05,30,2,Pattison_Andrew,Franulovic_Zeljko,Franulovic_Zeljko,Bournemouth,1971,05,30,6-1_8-6_3-6_6-3
 Bournemouth,2,1971,05,30,3,Sedgman_Frank,Battrick_Gerald,Battrick_Gerald,Bournemouth,1971,05,30,6-2_6-4_6-4
-Bournemouth,2,1971,05,30,3,Barthes_Pierre,Fillol_SrJaime,Fillol_SrJaime,Bournemouth,1971,05,30,3-6_8-6_6-4_2-6_6-2
+Bournemouth,2,1971,05,30,3,Barthes_Pierre,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Bournemouth,1971,05,30,3-6_8-6_6-4_2-6_6-2
 Bournemouth,2,1971,05,30,3,Cox_Mark,Taylor_Roger,Cox_Mark,Bournemouth,1971,05,30,8-6_6-1_3-6_6-3
 Bournemouth,2,1971,05,30,3,Maud_Robert,Franulovic_Zeljko,Franulovic_Zeljko,Bournemouth,1971,05,30,6-4_6-3_6-1
-Bournemouth,2,1971,05,30,4,Battrick_Gerald,Fillol_SrJaime,Battrick_Gerald,Bournemouth,1971,05,30,7-5_1-6_6-3_1-6_6-3
+Bournemouth,2,1971,05,30,4,Battrick_Gerald,Fillol_Sr_Jaime,Battrick_Gerald,Bournemouth,1971,05,30,7-5_1-6_6-3_1-6_6-3
 Bournemouth,2,1971,05,30,4,Cox_Mark,Franulovic_Zeljko,Franulovic_Zeljko,Bournemouth,1971,05,30,6-0_9-8_6-2
 Bournemouth,2,1971,05,30,5,Battrick_Gerald,Franulovic_Zeljko,Battrick_Gerald,Bournemouth,1971,05,30,6-3_6-2_5-7_6-0

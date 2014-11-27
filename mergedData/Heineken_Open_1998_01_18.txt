@@ -1,6 +1,6 @@
 Heineken_Open,2,1998,01,18,1,Rios_Marcelo,Lapentti_Nicolas,Rios_Marcelo,Heineken_Open,1998,01,18,6-3_6-3
 Heineken_Open,2,1998,01,18,1,Meligeni_Fernando,Nielsen_Mark,Nielsen_Mark,Heineken_Open,1998,01,18,6-4_1-6_7-6(6)
-Heineken_Open,2,1998,01,18,1,Carlsen_Kenneth,VilocaPuig_JuanAlbert,Carlsen_Kenneth,Heineken_Open,1998,01,18,6-2_6-3
+Heineken_Open,2,1998,01,18,1,Carlsen_Kenneth,VilocaPuig_Juan_Albert,Carlsen_Kenneth,Heineken_Open,1998,01,18,6-2_6-3
 Heineken_Open,2,1998,01,18,1,Hunt_Alistair,Vacek_Daniel,Hunt_Alistair,Heineken_Open,1998,01,18,6-4_7-6(0)
 Heineken_Open,2,1998,01,18,1,Filippini_Marcelo,Washington_MaliVai,Washington_MaliVai,Heineken_Open,1998,01,18,6-7(1)_6-3_6-2
 Heineken_Open,2,1998,01,18,1,Black_Byron,Gaudenzi_Andrea,Black_Byron,Heineken_Open,1998,01,18,6-1_6-3
@@ -13,7 +13,7 @@ Heineken_Open,2,1998,01,18,1,Reneberg_Richey,Hrbaty_Dominik,Hrbaty_Dominik,Heine
 Heineken_Open,2,1998,01,18,1,Sanchez_Javier,Stafford_Grant,Sanchez_Javier,Heineken_Open,1998,01,18,6-4_7-5
 Heineken_Open,2,1998,01,18,1,Roux_Lionel,Costa_Carlos,Costa_Carlos,Heineken_Open,1998,01,18,1-6_6-2_6-3
 Heineken_Open,2,1998,01,18,1,Sell_Michael,Tillstrom_Mikael,Sell_Michael,Heineken_Open,1998,01,18,6-3_2-6_7-5
-Heineken_Open,2,1998,01,18,1,Van_HerckJohan,Mantilla_Felix,Mantilla_Felix,Heineken_Open,1998,01,18,7-6(3)_6-3
+Heineken_Open,2,1998,01,18,1,Van_Herck_Johan,Mantilla_Felix,Mantilla_Felix,Heineken_Open,1998,01,18,7-6(3)_6-3
 Heineken_Open,2,1998,01,18,2,Rios_Marcelo,Nielsen_Mark,Rios_Marcelo,Heineken_Open,1998,01,18,7-5_6-1
 Heineken_Open,2,1998,01,18,2,Carlsen_Kenneth,Hunt_Alistair,Carlsen_Kenneth,Heineken_Open,1998,01,18,6-1_6-3
 Heineken_Open,2,1998,01,18,2,Washington_MaliVai,Black_Byron,Black_Byron,Heineken_Open,1998,01,18,6-0_6-4

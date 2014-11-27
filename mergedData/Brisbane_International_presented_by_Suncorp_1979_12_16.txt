@@ -12,7 +12,7 @@ Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Delaney_Jim,James_Joh
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Campbell_Peter,Warwick_Kim,Warwick_Kim,Brisbane_International_presented_by_Suncorp,1979,12,16,6-2_6-4
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Stockton_Dick,Marks_John,Marks_John,Brisbane_International_presented_by_Suncorp,1979,12,16,7-5_6-2
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Mitchell_Matt,Eke_Victor,Mitchell_Matt,Brisbane_International_presented_by_Suncorp,1979,12,16,6-3_6-1
-Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Guan_Brad,McNair_IVFred,Guan_Brad,Brisbane_International_presented_by_Suncorp,1979,12,16,6-1_7-5
+Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Guan_Brad,McNair_IV_Fred,Guan_Brad,Brisbane_International_presented_by_Suncorp,1979,12,16,6-1_7-5
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,1,Kachel_Chris,Alexander_John,Alexander_John,Brisbane_International_presented_by_Suncorp,1979,12,16,7-5_4-6_6-3
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,2,Mayer_Gene,Collings_Dale,Collings_Dale,Brisbane_International_presented_by_Suncorp,1979,12,16,6-7_3-2_RET
 Brisbane_International_presented_by_Suncorp,2,1979,12,16,2,Whitecross_Greg,Mitton_Bernard,Mitton_Bernard,Brisbane_International_presented_by_Suncorp,1979,12,16,6-4_6-2

@@ -5,14 +5,14 @@ Palermo,2,1997,10,05,1,Sanguinetti_Davide,Clavet_Francisco,Clavet_Francisco,Pale
 Palermo,2,1997,10,05,1,Portas_Albert,Craca_Marcello,Portas_Albert,Palermo,1997,10,05,5-7_6-4_6-3
 Palermo,2,1997,10,05,1,Messori_Filippo,Voinea_Adrian,Messori_Filippo,Palermo,1997,10,05,6-4_6-3
 Palermo,2,1997,10,05,1,Dreekmann_Hendrik,Gumy_Hernan,Gumy_Hernan,Palermo,1997,10,05,6-3_7-6(3)
-Palermo,2,1997,10,05,1,Marin_JuanAntonio,Hrbaty_Dominik,Hrbaty_Dominik,Palermo,1997,10,05,6-4_6-3
+Palermo,2,1997,10,05,1,Marin_Juan_Antonio,Hrbaty_Dominik,Hrbaty_Dominik,Palermo,1997,10,05,6-4_6-3
 Palermo,2,1997,10,05,1,Filippini_Marcelo,Blanco_Galo,Filippini_Marcelo,Palermo,1997,10,05,6-1_6-2
-Palermo,2,1997,10,05,1,Benfele_AlvarezEmilio,Ruud_Christian,Ruud_Christian,Palermo,1997,10,05,7-6(7)_7-5
+Palermo,2,1997,10,05,1,Benfele_Alvarez_Emilio,Ruud_Christian,Ruud_Christian,Palermo,1997,10,05,7-6(7)_7-5
 Palermo,2,1997,10,05,1,Schaller_Gilbert,Alonso_Julian,Alonso_Julian,Palermo,1997,10,05,6-4_6-7(6)_7-5
 Palermo,2,1997,10,05,1,Sanchez_Javier,Arazi_Hicham,Sanchez_Javier,Palermo,1997,10,05,7-5_6-3
 Palermo,2,1997,10,05,1,Alami_Karim,Gaudenzi_Andrea,Alami_Karim,Palermo,1997,10,05,6-3_2-0_RET
 Palermo,2,1997,10,05,1,Scala_Davide,Pescariu_Dinu,Pescariu_Dinu,Palermo,1997,10,05,7-5_6-3
-Palermo,2,1997,10,05,1,Costa_Carlos,VilocaPuig_JuanAlbert,Costa_Carlos,Palermo,1997,10,05,6-4_6-4
+Palermo,2,1997,10,05,1,Costa_Carlos,VilocaPuig_Juan_Albert,Costa_Carlos,Palermo,1997,10,05,6-4_6-4
 Palermo,2,1997,10,05,1,Vicente_Fernando,Berasategui_Alberto,Berasategui_Alberto,Palermo,1997,10,05,6-4_5-7_6-4
 Palermo,2,1997,10,05,2,Corretja_Alex,Fromberg_Richard,Corretja_Alex,Palermo,1997,10,05,6-1_6-4
 Palermo,2,1997,10,05,2,Spadea_Vincent,Clavet_Francisco,Clavet_Francisco,Palermo,1997,10,05,6-3_6-3

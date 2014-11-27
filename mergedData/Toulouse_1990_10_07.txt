@@ -6,7 +6,7 @@ Toulouse,2,1990,10,07,1,Courier_Jim,Antonitsch_Alex,Courier_Jim,Toulouse,1990,10
 Toulouse,2,1990,10,07,1,Muller_Gary,Volkov_Alexander,Volkov_Alexander,Toulouse,1990,10,07,6-4_7-5
 Toulouse,2,1990,10,07,1,Soules_Olivier,Raoux_Guillaume,Raoux_Guillaume,Toulouse,1990,10,07,6-3_6-2
 Toulouse,2,1990,10,07,1,Connors_Jimmy,Agenor_Ronald,Agenor_Ronald,Toulouse,1990,10,07,6-4_6-4
-Toulouse,2,1990,10,07,1,Leconte_Henri,Van_RensburgChristo,Leconte_Henri,Toulouse,1990,10,07,4-6_6-3_6-3
+Toulouse,2,1990,10,07,1,Leconte_Henri,Van_Rensburg_Christo,Leconte_Henri,Toulouse,1990,10,07,4-6_6-3_6-3
 Toulouse,2,1990,10,07,1,Gilbert_Rodolphe,Larsson_Magnus,Larsson_Magnus,Toulouse,1990,10,07,7-6_3-6_6-3
 Toulouse,2,1990,10,07,1,Paloheimo_Veli,Benhabiles_Tarik,Paloheimo_Veli,Toulouse,1990,10,07,7-6_6-2
 Toulouse,2,1990,10,07,1,Mattar_Luiz,Svensson_Jonas,Svensson_Jonas,Toulouse,1990,10,07,6-2_3-6_6-4

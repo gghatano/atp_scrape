@@ -1,5 +1,5 @@
 San_Francisco,2,1982,10,31,1,Connors_Jimmy,Gullikson_Tim,Connors_Jimmy,San_Francisco,1982,10,31,7-6_6-2
-San_Francisco,2,1982,10,31,1,Doyle_Matt,Van_PattenVincent,Van_PattenVincent,San_Francisco,1982,10,31,6-4_4-6_6-1
+San_Francisco,2,1982,10,31,1,Doyle_Matt,Van_Patten_Vincent,Van_Patten_Vincent,San_Francisco,1982,10,31,6-4_4-6_6-1
 San_Francisco,2,1982,10,31,1,Davis_Marty,Arias_Jimmy,Arias_Jimmy,San_Francisco,1982,10,31,3-6_6-3_7-6
 San_Francisco,2,1982,10,31,1,Fromm_Eric,Hooper_Chip,Hooper_Chip,San_Francisco,1982,10,31,6-3_4-6_6-4
 San_Francisco,2,1982,10,31,1,Mayer_Sandy,Soares_Joao,Mayer_Sandy,San_Francisco,1982,10,31,6-3_6-1
@@ -13,8 +13,8 @@ San_Francisco,2,1982,10,31,1,Bourne_Lloyd,Teltscher_Eliot,Teltscher_Eliot,San_Fr
 San_Francisco,2,1982,10,31,1,Kriek_Johan,Davis_Scott,Kriek_Johan,San_Francisco,1982,10,31,6-4_6-2
 San_Francisco,2,1982,10,31,1,Buehning_Fritz,Gilbert_Brad,Buehning_Fritz,San_Francisco,1982,10,31,6-3_3-6_6-2
 San_Francisco,2,1982,10,31,1,Dupre_Pat,Lewis_Richard,Lewis_Richard,San_Francisco,1982,10,31,6-3_3-6_6-4
-San_Francisco,2,1982,10,31,1,Strode_MorrisSkip,McEnroe_John,McEnroe_John,San_Francisco,1982,10,31,6-1_6-3
-San_Francisco,2,1982,10,31,2,Connors_Jimmy,Van_PattenVincent,Connors_Jimmy,San_Francisco,1982,10,31,6-2_6-1
+San_Francisco,2,1982,10,31,1,Strode_Morris_Skip,McEnroe_John,McEnroe_John,San_Francisco,1982,10,31,6-1_6-3
+San_Francisco,2,1982,10,31,2,Connors_Jimmy,Van_Patten_Vincent,Connors_Jimmy,San_Francisco,1982,10,31,6-2_6-1
 San_Francisco,2,1982,10,31,2,Arias_Jimmy,Hooper_Chip,Arias_Jimmy,San_Francisco,1982,10,31,6-7_6-3_6-4
 San_Francisco,2,1982,10,31,2,Mayer_Sandy,Borowiak_Jeff,Mayer_Sandy,San_Francisco,1982,10,31,7-5_4-6_7-6
 San_Francisco,2,1982,10,31,2,Tanner_Roscoe,Teacher_Brian,Teacher_Brian,San_Francisco,1982,10,31,6-3_7-5

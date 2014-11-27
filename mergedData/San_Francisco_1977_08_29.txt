@@ -4,12 +4,12 @@ San_Francisco,2,1977,08,29,1,Pfister_Henry,Taygan_Ferdi,Pfister_Henry,San_Franci
 San_Francisco,2,1977,08,29,1,Palm_Douglas,James_John,James_John,San_Francisco,1977,08,29,6-0_6-1
 San_Francisco,2,1977,08,29,1,Dent_Phil,Halder_Greg,Dent_Phil,San_Francisco,1977,08,29,2-6_6-3_6-2
 San_Francisco,2,1977,08,29,1,Riessen_Marty,Meyers_Joe,Riessen_Marty,San_Francisco,1977,08,29,6-4_6-2
-San_Francisco,2,1977,08,29,1,Mayer_Sandy,Alvarez_ElioLito,Mayer_Sandy,San_Francisco,1977,08,29,6-2_6-3
+San_Francisco,2,1977,08,29,1,Mayer_Sandy,Alvarez_Elio_Lito,Mayer_Sandy,San_Francisco,1977,08,29,6-2_6-3
 San_Francisco,2,1977,08,29,1,Edwards_Eddie,Bunis_Henry,Bunis_Henry,San_Francisco,1977,08,29,6-2_7-6
 San_Francisco,2,1977,08,29,1,Stockton_Dick,Carmichael_Bob,Stockton_Dick,San_Francisco,1977,08,29,6-3_6-2
 San_Francisco,2,1977,08,29,1,Winitsky_Van,Teltscher_Eliot,Winitsky_Van,San_Francisco,1977,08,29,7-6_6-3
 San_Francisco,2,1977,08,29,1,Dunk_Chris,Masters_Geoff,Dunk_Chris,San_Francisco,1977,08,29,1-6_7-5_6-4
-San_Francisco,2,1977,08,29,1,Van_DillenErik,Amritraj_Vijay,Amritraj_Vijay,San_Francisco,1977,08,29,6-3_6-4
+San_Francisco,2,1977,08,29,1,Van_Dillen_Erik,Amritraj_Vijay,Amritraj_Vijay,San_Francisco,1977,08,29,6-3_6-4
 San_Francisco,2,1977,08,29,1,Smith_Stan,Saviano_Nick,Smith_Stan,San_Francisco,1977,08,29,6-3_3-6_6-3
 San_Francisco,2,1977,08,29,1,Menon_Sashi,Manson_Bruce,Manson_Bruce,San_Francisco,1977,08,29,6-1_6-4
 San_Francisco,2,1977,08,29,1,Lutz_Robert,Fisher_Rick,Lutz_Robert,San_Francisco,1977,08,29,6-2_6-4
@@ -24,7 +24,7 @@ San_Francisco,2,1977,08,29,1,Pasarell_Charlie,Pattison_Andrew,Pattison_Andrew,Sa
 San_Francisco,2,1977,08,29,1,Austin_John,Ramirez_Raul,Ramirez_Raul,San_Francisco,1977,08,29,5-7_7-6_6-3
 San_Francisco,2,1977,08,29,1,Docherty_Steve,Wilkison_Tim,Docherty_Steve,San_Francisco,1977,08,29,6-4_6-2
 San_Francisco,2,1977,08,29,1,Teacher_Brian,Moore_Raymond,Moore_Raymond,San_Francisco,1977,08,29,6-4_7-5
-San_Francisco,2,1977,08,29,1,Bertram_Byron,McNair_IVFred,McNair_IVFred,San_Francisco,1977,08,29,6-3_6-4
+San_Francisco,2,1977,08,29,1,Bertram_Byron,McNair_IV_Fred,McNair_IV_Fred,San_Francisco,1977,08,29,6-3_6-4
 San_Francisco,2,1977,08,29,1,Walts_Butch,Alexander_John,Walts_Butch,San_Francisco,1977,08,29,7-5_7-6
 San_Francisco,2,1977,08,29,1,Richey_Cliff,Cahill_Mike,Richey_Cliff,San_Francisco,1977,08,29,2-6_6-2_6-4
 San_Francisco,2,1977,08,29,1,Stewart_Sherwood,McEnroe_John,McEnroe_John,San_Francisco,1977,08,29,7-6_6-2
@@ -43,7 +43,7 @@ San_Francisco,2,1977,08,29,2,Fassbender_Jurgen,Solomon_Harold,Solomon_Harold,San
 San_Francisco,2,1977,08,29,2,Fleming_Peter,Gorman_Tom,Fleming_Peter,San_Francisco,1977,08,29,6-7_6-4_6-1
 San_Francisco,2,1977,08,29,2,Pattison_Andrew,Ramirez_Raul,Ramirez_Raul,San_Francisco,1977,08,29,6-4_6-4
 San_Francisco,2,1977,08,29,2,Docherty_Steve,Moore_Raymond,Docherty_Steve,San_Francisco,1977,08,29,4-6_7-6_6-3
-San_Francisco,2,1977,08,29,2,McNair_IVFred,Walts_Butch,Walts_Butch,San_Francisco,1977,08,29,7-5_6-1
+San_Francisco,2,1977,08,29,2,McNair_IV_Fred,Walts_Butch,Walts_Butch,San_Francisco,1977,08,29,7-5_6-1
 San_Francisco,2,1977,08,29,2,Richey_Cliff,McEnroe_John,McEnroe_John,San_Francisco,1977,08,29,6-2_6-7_6-3
 San_Francisco,2,1977,08,29,2,Delaney_Jim,Orantes_Manuel,Orantes_Manuel,San_Francisco,1977,08,29,6-4_4-6_6-3
 San_Francisco,2,1977,08,29,3,Gottfried_Brian,Pfister_Henry,Gottfried_Brian,San_Francisco,1977,08,29,6-2_6-1

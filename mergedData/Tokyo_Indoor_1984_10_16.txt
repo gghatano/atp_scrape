@@ -13,7 +13,7 @@ Tokyo_Indoor,2,1984,10,16,1,Sadri_John,Wilander_Mats,Wilander_Mats,Tokyo_Indoor,
 Tokyo_Indoor,2,1984,10,16,1,Davis_Scott,Davis_Marty,Davis_Marty,Tokyo_Indoor,1984,10,16,5-7_6-3_7-6
 Tokyo_Indoor,2,1984,10,16,1,Amritraj_Vijay,Shiras_Leif,Amritraj_Vijay,Tokyo_Indoor,1984,10,16,6-3_6-0
 Tokyo_Indoor,2,1984,10,16,1,Anger_Matt,Fitzgerald_John,Anger_Matt,Tokyo_Indoor,1984,10,16,6-4_7-6
-Tokyo_Indoor,2,1984,10,16,1,Giammalva_JrSammy,Lendl_Ivan,Lendl_Ivan,Tokyo_Indoor,1984,10,16,6-4_6-1
+Tokyo_Indoor,2,1984,10,16,1,Giammalva_Jr_Sammy,Lendl_Ivan,Lendl_Ivan,Tokyo_Indoor,1984,10,16,6-4_6-1
 Tokyo_Indoor,2,1984,10,16,2,Connors_Jimmy,Green_Bob,Connors_Jimmy,Tokyo_Indoor,1984,10,16,6-4_6-2
 Tokyo_Indoor,2,1984,10,16,2,Dickson_Mark,Michibata_Glenn,Dickson_Mark,Tokyo_Indoor,1984,10,16,2-6_6-3_6-2
 Tokyo_Indoor,2,1984,10,16,2,Gomez_Andres,Gullikson_Tom,Gomez_Andres,Tokyo_Indoor,1984,10,16,6-3_6-7_7-5

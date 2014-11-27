@@ -12,7 +12,7 @@ Cleveland,2,1983,08,14,1,Seguso_Robert,Manson_Bruce,Seguso_Robert,Cleveland,1983
 Cleveland,2,1983,08,14,1,Saviano_Nick,Amaya_Victor,Saviano_Nick,Cleveland,1983,08,14,7-6_6-1
 Cleveland,2,1983,08,14,1,Mitchell_Matt,Hlasek_Jakob,Mitchell_Matt,Cleveland,1983,08,14,6-0_6-1
 Cleveland,2,1983,08,14,1,Foxworth_Bruce,Carter_David,Foxworth_Bruce,Cleveland,1983,08,14,4-6_7-6_6-3
-Cleveland,2,1983,08,14,1,Di_LauraCarlos,Iskersky_Erick,Di_LauraCarlos,Cleveland,1983,08,14,6-3_1-6_6-3
+Cleveland,2,1983,08,14,1,Di_Laura_Carlos,Iskersky_Erick,Di_Laura_Carlos,Cleveland,1983,08,14,6-3_1-6_6-3
 Cleveland,2,1983,08,14,1,Sadri_John,Gonzalez_Francisco,Sadri_John,Cleveland,1983,08,14,6-4_7-5
 Cleveland,2,1983,08,14,2,Walts_Butch,Davis_Marty,Davis_Marty,Cleveland,1983,08,14,6-2_2-6_6-1
 Cleveland,2,1983,08,14,2,Amritraj_Vijay,Palin_Leo,Amritraj_Vijay,Cleveland,1983,08,14,7-6_7-6
@@ -21,7 +21,7 @@ Cleveland,2,1983,08,14,2,Feigl_Peter,Freeman_Marcel,Feigl_Peter,Cleveland,1983,0
 Cleveland,2,1983,08,14,2,Myburg_Mike,Andrews_Andy,Andrews_Andy,Cleveland,1983,08,14,6-3_7-6
 Cleveland,2,1983,08,14,2,Seguso_Robert,Saviano_Nick,Saviano_Nick,Cleveland,1983,08,14,6-4_6-2
 Cleveland,2,1983,08,14,2,Mitchell_Matt,Foxworth_Bruce,Mitchell_Matt,Cleveland,1983,08,14,6-3_4-6_6-3
-Cleveland,2,1983,08,14,2,Di_LauraCarlos,Sadri_John,Sadri_John,Cleveland,1983,08,14,6-4_7-5
+Cleveland,2,1983,08,14,2,Di_Laura_Carlos,Sadri_John,Sadri_John,Cleveland,1983,08,14,6-4_7-5
 Cleveland,2,1983,08,14,3,Davis_Marty,Amritraj_Vijay,Davis_Marty,Cleveland,1983,08,14,6-3_1-6_6-3
 Cleveland,2,1983,08,14,3,Austin_John,Feigl_Peter,Austin_John,Cleveland,1983,08,14,7-6_2-6_6-2
 Cleveland,2,1983,08,14,3,Andrews_Andy,Saviano_Nick,Saviano_Nick,Cleveland,1983,08,14,7-6_7-6

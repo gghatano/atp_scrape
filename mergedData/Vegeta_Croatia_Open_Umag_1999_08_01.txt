@@ -4,9 +4,9 @@ Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Alami_Karim,Canas_Guillermo,Canas_Guille
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Puentes_German,Norman_Magnus,Norman_Magnus,Vegeta_Croatia_Open_Umag,1999,08,01,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Hrbaty_Dominik,Zovko_Lovro,Hrbaty_Dominik,Vegeta_Croatia_Open_Umag,1999,08,01,7-5_7-5
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Bruguera_Sergi,Schuettler_Rainer,Schuettler_Rainer,Vegeta_Croatia_Open_Umag,1999,08,01,7-6(4)_6-0
-Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Di_PasqualeArnaud,Ruud_Christian,Ruud_Christian,Vegeta_Croatia_Open_Umag,1999,08,01,6-2_6-1
+Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Di_Pasquale_Arnaud,Ruud_Christian,Ruud_Christian,Vegeta_Croatia_Open_Umag,1999,08,01,6-2_6-1
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Ljubicic_Ivan,Zabaleta_Mariano,Ljubicic_Ivan,Vegeta_Croatia_Open_Umag,1999,08,01,7-6(4)_7-5
-Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Ulihrach_Bohdan,Marin_JuanAntonio,Marin_JuanAntonio,Vegeta_Croatia_Open_Umag,1999,08,01,3-6_6-4_6-2
+Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Ulihrach_Bohdan,Marin_Juan_Antonio,Marin_Juan_Antonio,Vegeta_Croatia_Open_Umag,1999,08,01,3-6_6-4_6-2
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Zib_Tomas,Tarango_Jeff,Tarango_Jeff,Vegeta_Croatia_Open_Umag,1999,08,01,3-6_6-4_6-0
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Carretero_Roberto,Landsberg_Johan,Carretero_Roberto,Vegeta_Croatia_Open_Umag,1999,08,01,6-2_6-3
 Vegeta_Croatia_Open_Umag,2,1999,08,01,1,Gross_Oliver,Clavet_Francisco,Clavet_Francisco,Vegeta_Croatia_Open_Umag,1999,08,01,7-6(1)_6-2
@@ -18,7 +18,7 @@ Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Moya_Carlos,Liukko_Ville,Moya_Carlos,Veg
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Canas_Guillermo,Norman_Magnus,Norman_Magnus,Vegeta_Croatia_Open_Umag,1999,08,01,6-4_6-3
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Hrbaty_Dominik,Schuettler_Rainer,Hrbaty_Dominik,Vegeta_Croatia_Open_Umag,1999,08,01,6-4_6-3
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Ruud_Christian,Ljubicic_Ivan,Ljubicic_Ivan,Vegeta_Croatia_Open_Umag,1999,08,01,6-3_3-6_7-5
-Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Marin_JuanAntonio,Tarango_Jeff,Tarango_Jeff,Vegeta_Croatia_Open_Umag,1999,08,01,7-6(3)_6-3
+Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Marin_Juan_Antonio,Tarango_Jeff,Tarango_Jeff,Vegeta_Croatia_Open_Umag,1999,08,01,7-6(3)_6-3
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Carretero_Roberto,Clavet_Francisco,Clavet_Francisco,Vegeta_Croatia_Open_Umag,1999,08,01,6-4_7-6(6)
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Calleri_Agustin,Urh_Borut,Calleri_Agustin,Vegeta_Croatia_Open_Umag,1999,08,01,6-0_6-1
 Vegeta_Croatia_Open_Umag,2,1999,08,01,2,Portas_Albert,Mantilla_Felix,Portas_Albert,Vegeta_Croatia_Open_Umag,1999,08,01,6-4_6-4

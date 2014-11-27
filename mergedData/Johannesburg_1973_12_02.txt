@@ -9,7 +9,7 @@ Johannesburg,2,1973,12,02,1,Stewart_Sherwood,Ashe_Arthur,Ashe_Arthur,Johannesbur
 Johannesburg,2,1973,12,02,1,Okker_Tom,Rahim_Haroon,Okker_Tom,Johannesburg,1973,12,02,6-3_6-4_7-5
 Johannesburg,2,1973,12,02,1,Maud_Robert,Battrick_Gerald,Battrick_Gerald,Johannesburg,1973,12,02,0-6_7-6_6-3_6-3
 Johannesburg,2,1973,12,02,1,Pattison_Andrew,Yuill_John,Pattison_Andrew,Johannesburg,1973,12,02,6-4_6-2_6-0
-Johannesburg,2,1973,12,02,1,Freer_Bill,Fillol_SrJaime,Fillol_SrJaime,Johannesburg,1973,12,02,6-4_6-4_6-2
+Johannesburg,2,1973,12,02,1,Freer_Bill,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Johannesburg,1973,12,02,6-4_6-4_6-2
 Johannesburg,2,1973,12,02,1,Cox_Mark,Pohmann_HansJurgen,Cox_Mark,Johannesburg,1973,12,02,6-1_6-3_6-4
 Johannesburg,2,1973,12,02,1,Hoad_Lew,Fassbender_Jurgen,Fassbender_Jurgen,Johannesburg,1973,12,02,6-1_6-1_1-0_RET
 Johannesburg,2,1973,12,02,1,Carmichael_Bob,Fletcher_Ian,Carmichael_Bob,Johannesburg,1973,12,02,6-3_6-1_6-3
@@ -19,12 +19,12 @@ Johannesburg,2,1973,12,02,2,Parun_Onny,Drysdale_Cliff,Drysdale_Cliff,Johannesbur
 Johannesburg,2,1973,12,02,2,Taylor_Roger,Hewitt_Bob,Hewitt_Bob,Johannesburg,1973,12,02,4-6_6-0_6-2_6-2
 Johannesburg,2,1973,12,02,2,PhillipsMoore_Barry,Ashe_Arthur,Ashe_Arthur,Johannesburg,1973,12,02,6-4_6-4_6-1
 Johannesburg,2,1973,12,02,2,Okker_Tom,Battrick_Gerald,Okker_Tom,Johannesburg,1973,12,02,6-3_3-6_6-1_6-3
-Johannesburg,2,1973,12,02,2,Pattison_Andrew,Fillol_SrJaime,Fillol_SrJaime,Johannesburg,1973,12,02,3-6_7-6_6-2_6-2
+Johannesburg,2,1973,12,02,2,Pattison_Andrew,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Johannesburg,1973,12,02,3-6_7-6_6-2_6-2
 Johannesburg,2,1973,12,02,2,Cox_Mark,Fassbender_Jurgen,Cox_Mark,Johannesburg,1973,12,02,7-5_7-6_1-6_6-3
 Johannesburg,2,1973,12,02,2,Carmichael_Bob,Connors_Jimmy,Connors_Jimmy,Johannesburg,1973,12,02,7-5_6-4_6-2
 Johannesburg,2,1973,12,02,3,Bertram_Byron,Drysdale_Cliff,Drysdale_Cliff,Johannesburg,1973,12,02,6-2_6-2_6-3
 Johannesburg,2,1973,12,02,3,Hewitt_Bob,Ashe_Arthur,Ashe_Arthur,Johannesburg,1973,12,02,6-3_7-6_6-3
-Johannesburg,2,1973,12,02,3,Okker_Tom,Fillol_SrJaime,Okker_Tom,Johannesburg,1973,12,02,7-5_6-2_6-7_6-3
+Johannesburg,2,1973,12,02,3,Okker_Tom,Fillol_Sr_Jaime,Okker_Tom,Johannesburg,1973,12,02,7-5_6-2_6-7_6-3
 Johannesburg,2,1973,12,02,3,Cox_Mark,Connors_Jimmy,Connors_Jimmy,Johannesburg,1973,12,02,6-3_6-4_6-4
 Johannesburg,2,1973,12,02,4,Drysdale_Cliff,Ashe_Arthur,Ashe_Arthur,Johannesburg,1973,12,02,6-4_6-3_6-2
 Johannesburg,2,1973,12,02,4,Okker_Tom,Connors_Jimmy,Connors_Jimmy,Johannesburg,1973,12,02,6-3_6-3_4-6_6-4

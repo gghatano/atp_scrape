@@ -12,7 +12,7 @@ Atlanta,2,1992,05,03,1,Tarango_Jeff,Azar_Roberto,Tarango_Jeff,Atlanta,1992,05,03
 Atlanta,2,1992,05,03,1,Vilas_Guillermo,Volkov_Alexander,Volkov_Alexander,Atlanta,1992,05,03,5-7_7-6(6)_6-3
 Atlanta,2,1992,05,03,1,Yzaga_Jaime,Shelton_Bryan,Yzaga_Jaime,Atlanta,1992,05,03,7-6(6)_6-3
 Atlanta,2,1992,05,03,1,Eltingh_Jacco,Davin_Franco,Eltingh_Jacco,Atlanta,1992,05,03,7-6(4)_6-1
-Atlanta,2,1992,05,03,1,De_LaPenaHoracio,Fleurian_JeanPhilippe,De_LaPenaHoracio,Atlanta,1992,05,03,6-3_0-6_7-5
+Atlanta,2,1992,05,03,1,De_La_Pena_Horacio,Fleurian_JeanPhilippe,De_La_Pena_Horacio,Atlanta,1992,05,03,6-3_0-6_7-5
 Atlanta,2,1992,05,03,1,Pernfors_Mikael,Agassi_Andre,Agassi_Andre,Atlanta,1992,05,03,7-5_6-2
 Atlanta,2,1992,05,03,2,Sampras_Pete,Mattar_Luiz,Sampras_Pete,Atlanta,1992,05,03,7-6(5)_6-2
 Atlanta,2,1992,05,03,2,Pistolesi_Claudio,Connors_Jimmy,Connors_Jimmy,Atlanta,1992,05,03,4-6_6-2_6-4
@@ -21,7 +21,7 @@ Atlanta,2,1992,05,03,2,Roig_Francisco,Woodforde_Mark,Roig_Francisco,Atlanta,1992
 Atlanta,2,1992,05,03,2,Washington_MaliVai,Arraya_Pablo,Arraya_Pablo,Atlanta,1992,05,03,7-6(4)_6-2
 Atlanta,2,1992,05,03,2,Tarango_Jeff,Volkov_Alexander,Volkov_Alexander,Atlanta,1992,05,03,4-6_6-4_6-0
 Atlanta,2,1992,05,03,2,Yzaga_Jaime,Eltingh_Jacco,Eltingh_Jacco,Atlanta,1992,05,03,6-3_6-0
-Atlanta,2,1992,05,03,2,De_LaPenaHoracio,Agassi_Andre,Agassi_Andre,Atlanta,1992,05,03,6-3_6-3
+Atlanta,2,1992,05,03,2,De_La_Pena_Horacio,Agassi_Andre,Agassi_Andre,Atlanta,1992,05,03,6-3_6-3
 Atlanta,2,1992,05,03,3,Sampras_Pete,Connors_Jimmy,Sampras_Pete,Atlanta,1992,05,03,7-6(4)_6-2
 Atlanta,2,1992,05,03,3,Witsken_Todd,Roig_Francisco,Witsken_Todd,Atlanta,1992,05,03,7-5_6-3
 Atlanta,2,1992,05,03,3,Arraya_Pablo,Volkov_Alexander,Arraya_Pablo,Atlanta,1992,05,03,6-4_6-7(6)_6-3

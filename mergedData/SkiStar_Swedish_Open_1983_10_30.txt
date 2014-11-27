@@ -9,7 +9,7 @@ SkiStar_Swedish_Open,2,1983,10,30,1,Derlin_Bruce,Boileau_Bernard,Boileau_Bernard
 SkiStar_Swedish_Open,2,1983,10,30,1,Hogstedt_Thomas,Ostoja_Marko,Ostoja_Marko,SkiStar_Swedish_Open,1983,10,30,3-6_7-5_6-2
 SkiStar_Swedish_Open,2,1983,10,30,1,Jarryd_Anders,Hlasek_Jakob,Jarryd_Anders,SkiStar_Swedish_Open,1983,10,30,6-4_6-3
 SkiStar_Swedish_Open,2,1983,10,30,1,Gunnarsson_Jan,LopezMaeso_Jose,Gunnarsson_Jan,SkiStar_Swedish_Open,1983,10,30,6-4_7-5
-SkiStar_Swedish_Open,2,1983,10,30,1,Navratil_Jaroslav,De_PalmerMike,Navratil_Jaroslav,SkiStar_Swedish_Open,1983,10,30,6-3_6-2
+SkiStar_Swedish_Open,2,1983,10,30,1,Navratil_Jaroslav,De_Palmer_Mike,Navratil_Jaroslav,SkiStar_Swedish_Open,1983,10,30,6-3_6-2
 SkiStar_Swedish_Open,2,1983,10,30,1,Simonsson_Hans,Lipton_Scott,Lipton_Scott,SkiStar_Swedish_Open,1983,10,30,6-3_7-5
 SkiStar_Swedish_Open,2,1983,10,30,1,Tideman_Magnus,Vizcaino_Roberto,Vizcaino_Roberto,SkiStar_Swedish_Open,1983,10,30,7-5_7-5
 SkiStar_Swedish_Open,2,1983,10,30,1,Simpson_Jeff,Vanier_Jerome,Vanier_Jerome,SkiStar_Swedish_Open,1983,10,30,6-1_7-6

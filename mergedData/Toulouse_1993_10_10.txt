@@ -1,5 +1,5 @@
 Toulouse,2,1993,10,10,1,Bruguera_Sergi,Olhovskiy_Andrei,Bruguera_Sergi,Toulouse,1993,10,10,6-2_6-2
-Toulouse,2,1993,10,10,1,Enqvist_Thomas,El_AynaouiYounes,El_AynaouiYounes,Toulouse,1993,10,10,7-6(3)_6-2
+Toulouse,2,1993,10,10,1,Enqvist_Thomas,El_Aynaoui_Younes,El_Aynaoui_Younes,Toulouse,1993,10,10,7-6(3)_6-2
 Toulouse,2,1993,10,10,1,Bergstrom_Christian,Carlsen_Kenneth,Bergstrom_Christian,Toulouse,1993,10,10,6-3_1-6_6-4
 Toulouse,2,1993,10,10,1,Paes_Leander,Goellner_MarcKevin,Paes_Leander,Toulouse,1993,10,10,3-6_7-6(3)_6-4
 Toulouse,2,1993,10,10,1,Gustafsson_Magnus,Hogstedt_Thomas,Gustafsson_Magnus,Toulouse,1993,10,10,6-3_3-6_3-1_RET
@@ -10,11 +10,11 @@ Toulouse,2,1993,10,10,1,Chesnokov_Andrei,Santoro_Fabrice,Chesnokov_Andrei,Toulou
 Toulouse,2,1993,10,10,1,Prinosil_David,Antonitsch_Alex,Prinosil_David,Toulouse,1993,10,10,6-3_6-2
 Toulouse,2,1993,10,10,1,Champion_Thierry,Simian_Stephane,Simian_Stephane,Toulouse,1993,10,10,6-2_6-3
 Toulouse,2,1993,10,10,1,Leconte_Henri,Rosset_Marc,Rosset_Marc,Toulouse,1993,10,10,6-1_6-2
-Toulouse,2,1993,10,10,1,Ondruska_Marcos,Davids_HendrikJan,Ondruska_Marcos,Toulouse,1993,10,10,6-1_3-6_6-1
+Toulouse,2,1993,10,10,1,Ondruska_Marcos,Davids_Hendrik_Jan,Ondruska_Marcos,Toulouse,1993,10,10,6-1_3-6_6-1
 Toulouse,2,1993,10,10,1,Gilbert_Rodolphe,Pozzi_Gianluca,Gilbert_Rodolphe,Toulouse,1993,10,10,7-6(2)_7-5
 Toulouse,2,1993,10,10,1,Tarango_Jeff,Kulti_Nicklas,Tarango_Jeff,Toulouse,1993,10,10,3-6_7-5_6-3
 Toulouse,2,1993,10,10,1,Wilander_Mats,Pioline_Cedric,Pioline_Cedric,Toulouse,1993,10,10,7-5_6-3
-Toulouse,2,1993,10,10,2,Bruguera_Sergi,El_AynaouiYounes,El_AynaouiYounes,Toulouse,1993,10,10,6-4_3-6_7-6(2)
+Toulouse,2,1993,10,10,2,Bruguera_Sergi,El_Aynaoui_Younes,El_Aynaoui_Younes,Toulouse,1993,10,10,6-4_3-6_7-6(2)
 Toulouse,2,1993,10,10,2,Bergstrom_Christian,Paes_Leander,Bergstrom_Christian,Toulouse,1993,10,10,1-6_7-6(5)_6-4
 Toulouse,2,1993,10,10,2,Gustafsson_Magnus,Raoux_Guillaume,Gustafsson_Magnus,Toulouse,1993,10,10,6-7(4)_6-3_7-6(4)
 Toulouse,2,1993,10,10,2,Stark_Jonathan,Boetsch_Arnaud,Boetsch_Arnaud,Toulouse,1993,10,10,3-6_6-3_6-0
@@ -22,7 +22,7 @@ Toulouse,2,1993,10,10,2,Chesnokov_Andrei,Prinosil_David,Chesnokov_Andrei,Toulous
 Toulouse,2,1993,10,10,2,Simian_Stephane,Rosset_Marc,Rosset_Marc,Toulouse,1993,10,10,6-4_6-4
 Toulouse,2,1993,10,10,2,Ondruska_Marcos,Gilbert_Rodolphe,Gilbert_Rodolphe,Toulouse,1993,10,10,7-5_3-6_6-4
 Toulouse,2,1993,10,10,2,Tarango_Jeff,Pioline_Cedric,Pioline_Cedric,Toulouse,1993,10,10,6-1_7-6(3)
-Toulouse,2,1993,10,10,3,El_AynaouiYounes,Bergstrom_Christian,Bergstrom_Christian,Toulouse,1993,10,10,6-4_6-3
+Toulouse,2,1993,10,10,3,El_Aynaoui_Younes,Bergstrom_Christian,Bergstrom_Christian,Toulouse,1993,10,10,6-4_6-3
 Toulouse,2,1993,10,10,3,Gustafsson_Magnus,Boetsch_Arnaud,Boetsch_Arnaud,Toulouse,1993,10,10,6-2_6-3
 Toulouse,2,1993,10,10,3,Chesnokov_Andrei,Rosset_Marc,Chesnokov_Andrei,Toulouse,1993,10,10,6-4_7-6(2)
 Toulouse,2,1993,10,10,3,Gilbert_Rodolphe,Pioline_Cedric,Pioline_Cedric,Toulouse,1993,10,10,5-7_7-5_6-2

@@ -12,7 +12,7 @@ Hilversum,2,1988,07,31,1,Lodder_JanWillem,Keretic_Damir,Lodder_JanWillem,Hilvers
 Hilversum,2,1988,07,31,1,Bloom_Gilad,Mezzadri_Claudio,Mezzadri_Claudio,Hilversum,1988,07,31,6-4_6-1
 Hilversum,2,1988,07,31,1,Bengoechea_Eduardo,Oosting_Menno,Bengoechea_Eduardo,Hilversum,1988,07,31,6-1_6-3
 Hilversum,2,1988,07,31,1,Riglewski_Udo,Nijssen_Tom,Nijssen_Tom,Hilversum,1988,07,31,6-2_5-7_6-3
-Hilversum,2,1988,07,31,1,Dogger_Paul,Van_BoeckelHuub,Dogger_Paul,Hilversum,1988,07,31,6-7_6-3_6-2
+Hilversum,2,1988,07,31,1,Dogger_Paul,Van_Boeckel_Huub,Dogger_Paul,Hilversum,1988,07,31,6-7_6-3_6-2
 Hilversum,2,1988,07,31,1,Matsuoka_Shuzo,Sanchez_Emilio,Sanchez_Emilio,Hilversum,1988,07,31,6-3_6-2
 Hilversum,2,1988,07,31,2,PerezRoldan_Guillermo,Vojtischek_Paul,PerezRoldan_Guillermo,Hilversum,1988,07,31,6-3_6-4
 Hilversum,2,1988,07,31,2,Rebolledo_Pedro,Kroon_Nicklas,Rebolledo_Pedro,Hilversum,1988,07,31,6-0_6-4

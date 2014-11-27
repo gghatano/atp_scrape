@@ -10,13 +10,13 @@ Stratton_Mountain,2,1988,07,31,1,Gilbert_Brad,Lavalle_Leonardo,Lavalle_Leonardo,
 Stratton_Mountain,2,1988,07,31,1,Rostagno_Derrick,Connell_Grant,Connell_Grant,Stratton_Mountain,1988,07,31,6-4_6-4
 Stratton_Mountain,2,1988,07,31,1,Chang_Michael,Dickson_Mark,Chang_Michael,Stratton_Mountain,1988,07,31,4-6_6-1_6-2
 Stratton_Mountain,2,1988,07,31,1,Chamberlin_Paul,Annacone_Paul,Annacone_Paul,Stratton_Mountain,1988,07,31,7-5_7-5
-Stratton_Mountain,2,1988,07,31,1,Van_RensburgChristo,Washington_MaliVai,Washington_MaliVai,Stratton_Mountain,1988,07,31,6-2_7-5
+Stratton_Mountain,2,1988,07,31,1,Van_Rensburg_Christo,Washington_MaliVai,Washington_MaliVai,Stratton_Mountain,1988,07,31,6-2_7-5
 Stratton_Mountain,2,1988,07,31,1,Hogstedt_Thomas,Davis_Marty,Davis_Marty,Stratton_Mountain,1988,07,31,6-3_6-2
 Stratton_Mountain,2,1988,07,31,1,Visser_Danie,Rive_Joey,Rive_Joey,Stratton_Mountain,1988,07,31,7-6_6-4
 Stratton_Mountain,2,1988,07,31,1,Flur_Marc,Krickstein_Aaron,Krickstein_Aaron,Stratton_Mountain,1988,07,31,3-6_6-4_6-1
 Stratton_Mountain,2,1988,07,31,1,Pate_David,Roper_Geoff,Pate_David,Stratton_Mountain,1988,07,31,6-1_7-6
 Stratton_Mountain,2,1988,07,31,1,Geyer_Christian,Nelson_Todd,Nelson_Todd,Stratton_Mountain,1988,07,31,7-5_5-7_6-3
-Stratton_Mountain,2,1988,07,31,1,Johnson_Philip,Giammalva_JrSammy,Johnson_Philip,Stratton_Mountain,1988,07,31,2-6_6-4_6-2
+Stratton_Mountain,2,1988,07,31,1,Johnson_Philip,Giammalva_Jr_Sammy,Johnson_Philip,Stratton_Mountain,1988,07,31,2-6_6-4_6-2
 Stratton_Mountain,2,1988,07,31,1,Muller_Gary,Goldie_Dan,Goldie_Dan,Stratton_Mountain,1988,07,31,7-6_6-3
 Stratton_Mountain,2,1988,07,31,1,Frawley_John,Leach_Rick,Frawley_John,Stratton_Mountain,1988,07,31,6-4_6-2
 Stratton_Mountain,2,1988,07,31,1,Kriek_Johan,Courier_Jim,Courier_Jim,Stratton_Mountain,1988,07,31,7-6_2-6_7-6

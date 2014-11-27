@@ -3,7 +3,7 @@ Ostrava,2,1996,10,20,1,Lapentti_Nicolas,Korda_Petr,Korda_Petr,Ostrava,1996,10,20
 Ostrava,2,1996,10,20,1,Volkov_Alexander,Novak_Jiri,Novak_Jiri,Ostrava,1996,10,20,6-2_6-3
 Ostrava,2,1996,10,20,1,Vacek_Daniel,Ulihrach_Bohdan,Ulihrach_Bohdan,Ostrava,1996,10,20,6-2_3-6_7-5
 Ostrava,2,1996,10,20,1,Becker_Boris,Fetterlein_Frederik,Becker_Boris,Ostrava,1996,10,20,6-3_6-4
-Ostrava,2,1996,10,20,1,Van_ScheppingenDennis,Damm_Martin,Damm_Martin,Ostrava,1996,10,20,6-3_6-4
+Ostrava,2,1996,10,20,1,Van_Scheppingen_Dennis,Damm_Martin,Damm_Martin,Ostrava,1996,10,20,6-3_6-4
 Ostrava,2,1996,10,20,1,Radulescu_Alex,Luxa_Petr,Radulescu_Alex,Ostrava,1996,10,20,7-6(5)_7-5
 Ostrava,2,1996,10,20,1,Stolle_Sandon,Stich_Michael,Stich_Michael,Ostrava,1996,10,20,7-6(6)_6-2
 Ostrava,2,1996,10,20,1,Martin_Todd,Kroslak_Jan,Martin_Todd,Ostrava,1996,10,20,6-3_6-4

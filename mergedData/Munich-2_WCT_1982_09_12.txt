@@ -4,7 +4,7 @@ Munich-2_WCT,2,1982,09,12,1,Denton_Steve,Gullikson_Tom,Gullikson_Tom,Munich-2_WC
 Munich-2_WCT,2,1982,09,12,1,Moor_Terry,Dibbs_Eddie,Moor_Terry,Munich-2_WCT,1982,09,12,6-2_6-3
 Munich-2_WCT,2,1982,09,12,1,Kriek_Johan,Sadri_John,Kriek_Johan,Munich-2_WCT,1982,09,12,6-3_6-1
 Munich-2_WCT,2,1982,09,12,1,Pattison_Andrew,Winitsky_Van,Winitsky_Van,Munich-2_WCT,1982,09,12,6-7_6-2_6-4
-Munich-2_WCT,2,1982,09,12,1,Rennert_Peter,Vant_HofRobert,Rennert_Peter,Munich-2_WCT,1982,09,12,7-5_6-1
+Munich-2_WCT,2,1982,09,12,1,Rennert_Peter,Vant_Hof_Robert,Rennert_Peter,Munich-2_WCT,1982,09,12,7-5_6-1
 Munich-2_WCT,2,1982,09,12,1,Gehring_Rolf,Amritraj_Vijay,Amritraj_Vijay,Munich-2_WCT,1982,09,12,7-6_6-2
 Munich-2_WCT,2,1982,09,12,1,Smid_Tomas,Maurer_Andreas,Smid_Tomas,Munich-2_WCT,1982,09,12,6-4_6-2
 Munich-2_WCT,2,1982,09,12,1,Austin_John,Elter_Peter,Elter_Peter,Munich-2_WCT,1982,09,12,6-2_6-1
@@ -12,7 +12,7 @@ Munich-2_WCT,2,1982,09,12,1,Waltke_Trey,Scanlon_Bill,Waltke_Trey,Munich-2_WCT,19
 Munich-2_WCT,2,1982,09,12,1,Barazzutti_Corrado,Mayer_Sandy,Barazzutti_Corrado,Munich-2_WCT,1982,09,12,2-6_7-5_6-4
 Munich-2_WCT,2,1982,09,12,1,Edmondson_Mark,Gunthardt_Heinz,Gunthardt_Heinz,Munich-2_WCT,1982,09,12,6-3_7-6
 Munich-2_WCT,2,1982,09,12,1,Mayotte_Chris,Fitzgerald_John,Fitzgerald_John,Munich-2_WCT,1982,09,12,3-6_6-3_6-4
-Munich-2_WCT,2,1982,09,12,1,Fibak_Wojtek,Damiani_JoseLuis,Fibak_Wojtek,Munich-2_WCT,1982,09,12,6-2_6-4
+Munich-2_WCT,2,1982,09,12,1,Fibak_Wojtek,Damiani_Jose_Luis,Fibak_Wojtek,Munich-2_WCT,1982,09,12,6-2_6-4
 Munich-2_WCT,2,1982,09,12,1,Giammalva_Tony,Vilas_Guillermo,Giammalva_Tony,Munich-2_WCT,1982,09,12,1-6_6-1_6-2
 Munich-2_WCT,2,1982,09,12,2,Lendl_Ivan,Portes_Pascal,Lendl_Ivan,Munich-2_WCT,1982,09,12,6-2_6-3
 Munich-2_WCT,2,1982,09,12,2,Gullikson_Tom,Moor_Terry,Moor_Terry,Munich-2_WCT,1982,09,12,7-6_7-6

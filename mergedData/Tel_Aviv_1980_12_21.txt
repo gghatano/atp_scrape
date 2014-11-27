@@ -4,7 +4,7 @@ Tel_Aviv,2,1980,12,21,1,Cortes_Alejandro,Puni_Shai,Cortes_Alejandro,Tel_Aviv,198
 Tel_Aviv,2,1980,12,21,1,Carter_David,Eberhard_Klaus,Carter_David,Tel_Aviv,1980,12,21,7-5_4-6_7-6
 Tel_Aviv,2,1980,12,21,1,Simonsson_Stefan,Okker_Tom,Okker_Tom,Tel_Aviv,1980,12,21,6-1_6-1
 Tel_Aviv,2,1980,12,21,1,Doyle_Matt,Reininger_Robert,Doyle_Matt,Tel_Aviv,1980,12,21,6-2_6-4
-Tel_Aviv,2,1980,12,21,1,Giammalva_JrSammy,Drysdale_Robin,Giammalva_JrSammy,Tel_Aviv,1980,12,21,6-0_6-4
+Tel_Aviv,2,1980,12,21,1,Giammalva_Jr_Sammy,Drysdale_Robin,Giammalva_Jr_Sammy,Tel_Aviv,1980,12,21,6-0_6-4
 Tel_Aviv,2,1980,12,21,1,Gunthardt_Markus,Krulevitz_Steve,Krulevitz_Steve,Tel_Aviv,1980,12,21,6-1_6-4
 Tel_Aviv,2,1980,12,21,1,Parun_Onny,Palin_Leo,Parun_Onny,Tel_Aviv,1980,12,21,3-6_7-6_6-1
 Tel_Aviv,2,1980,12,21,1,Perkiss_Shahar,Stiegler_Helmar,Perkiss_Shahar,Tel_Aviv,1980,12,21,6-4_1-6_6-3
@@ -17,15 +17,15 @@ Tel_Aviv,2,1980,12,21,1,Lewis_Richard,Glickstein_Shlomo,Glickstein_Shlomo,Tel_Av
 Tel_Aviv,2,1980,12,21,2,Solomon_Harold,Mayotte_Chris,Solomon_Harold,Tel_Aviv,1980,12,21,6-4_6-4
 Tel_Aviv,2,1980,12,21,2,Cortes_Alejandro,Carter_David,Carter_David,Tel_Aviv,1980,12,21,6-4_2-6_6-4
 Tel_Aviv,2,1980,12,21,2,Okker_Tom,Doyle_Matt,Okker_Tom,Tel_Aviv,1980,12,21,6-3_6-1
-Tel_Aviv,2,1980,12,21,2,Giammalva_JrSammy,Krulevitz_Steve,Giammalva_JrSammy,Tel_Aviv,1980,12,21,6-3_5-7_7-6
+Tel_Aviv,2,1980,12,21,2,Giammalva_Jr_Sammy,Krulevitz_Steve,Giammalva_Jr_Sammy,Tel_Aviv,1980,12,21,6-3_5-7_7-6
 Tel_Aviv,2,1980,12,21,2,Parun_Onny,Perkiss_Shahar,Parun_Onny,Tel_Aviv,1980,12,21,6-3_6-3
 Tel_Aviv,2,1980,12,21,2,Zirngibl_Werner,Nastase_Ilie,Nastase_Ilie,Tel_Aviv,1980,12,21,4-6_7-5_6-3
 Tel_Aviv,2,1980,12,21,2,Hjertquist_Per,Grant_Michael,Hjertquist_Per,Tel_Aviv,1980,12,21,6-2_4-6_6-2
 Tel_Aviv,2,1980,12,21,2,Fromm_Eric,Glickstein_Shlomo,Glickstein_Shlomo,Tel_Aviv,1980,12,21,7-5_7-6
 Tel_Aviv,2,1980,12,21,3,Solomon_Harold,Carter_David,Solomon_Harold,Tel_Aviv,1980,12,21,6-2_6-3
-Tel_Aviv,2,1980,12,21,3,Okker_Tom,Giammalva_JrSammy,Giammalva_JrSammy,Tel_Aviv,1980,12,21,4-6_6-4_6-4
+Tel_Aviv,2,1980,12,21,3,Okker_Tom,Giammalva_Jr_Sammy,Giammalva_Jr_Sammy,Tel_Aviv,1980,12,21,4-6_6-4_6-4
 Tel_Aviv,2,1980,12,21,3,Parun_Onny,Nastase_Ilie,Nastase_Ilie,Tel_Aviv,1980,12,21,6-2_3-6_7-5
 Tel_Aviv,2,1980,12,21,3,Hjertquist_Per,Glickstein_Shlomo,Glickstein_Shlomo,Tel_Aviv,1980,12,21,6-1_7-6
-Tel_Aviv,2,1980,12,21,4,Solomon_Harold,Giammalva_JrSammy,Solomon_Harold,Tel_Aviv,1980,12,21,7-5_6-3
+Tel_Aviv,2,1980,12,21,4,Solomon_Harold,Giammalva_Jr_Sammy,Solomon_Harold,Tel_Aviv,1980,12,21,7-5_6-3
 Tel_Aviv,2,1980,12,21,4,Nastase_Ilie,Glickstein_Shlomo,Glickstein_Shlomo,Tel_Aviv,1980,12,21,6-4_6-2
 Tel_Aviv,2,1980,12,21,5,Solomon_Harold,Glickstein_Shlomo,Solomon_Harold,Tel_Aviv,1980,12,21,6-2_6-3

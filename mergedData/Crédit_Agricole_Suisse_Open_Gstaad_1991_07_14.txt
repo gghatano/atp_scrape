@@ -4,7 +4,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Steeb_CarlUwe,Gomez_Andres,Go
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Santoro_Fabrice,Prpic_Goran,Prpic_Goran,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,7-6(1)_1-6_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Ivanisevic_Goran,Sanchez_Javier,Ivanisevic_Goran,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,5-7_7-5_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Wheaton_David,Rosset_Marc,Wheaton_David,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,4-6_7-6(6)_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Clavet_Francisco,De_LaPenaHoracio,De_LaPenaHoracio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-3_6-1
+Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Clavet_Francisco,De_La_Pena_Horacio,De_La_Pena_Horacio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-3_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Skoff_Horst,Hlasek_Jakob,Skoff_Horst,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_7-6(4)
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Sanchez_Emilio,Hirszon_Sasa,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Arrese_Jordi,Krickstein_Aaron,Krickstein_Aaron,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,7-6(6)_6-3
@@ -17,13 +17,13 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,1,Suk_Cyril,Stich_Michael,Stich
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Bruguera_Sergi,Agenor_Ronald,Bruguera_Sergi,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_6-0
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Gomez_Andres,Prpic_Goran,Gomez_Andres,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,4-6_7-6(6)_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Ivanisevic_Goran,Wheaton_David,Ivanisevic_Goran,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_6-4
-Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,De_LaPenaHoracio,Skoff_Horst,De_LaPenaHoracio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-1_6-1
+Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,De_La_Pena_Horacio,Skoff_Horst,De_La_Pena_Horacio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-1_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Sanchez_Emilio,Krickstein_Aaron,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-3_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Jaite_Martin,Forget_Guy,Jaite_Martin,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,7-6(5)_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Novacek_Karel,Mezzadri_Claudio,Novacek_Karel,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-3_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,2,Vacek_Daniel,Stich_Michael,Stich_Michael,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_6-0
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,3,Bruguera_Sergi,Gomez_Andres,Bruguera_Sergi,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,7-6(0)_7-6(3)
-Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,3,Ivanisevic_Goran,De_LaPenaHoracio,Ivanisevic_Goran,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_6-2
+Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,3,Ivanisevic_Goran,De_La_Pena_Horacio,Ivanisevic_Goran,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,3,Sanchez_Emilio,Jaite_Martin,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-4_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,3,Novacek_Karel,Stich_Michael,Novacek_Karel,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1991,07,14,4,Bruguera_Sergi,Ivanisevic_Goran,Bruguera_Sergi,Crédit_Agricole_Suisse_Open_Gstaad,1991,07,14,6-1_7-5

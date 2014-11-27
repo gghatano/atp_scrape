@@ -1,4 +1,4 @@
-US_Open,1,1993,09,12,1,Courier_Jim,Gorriz_MarcosAurelio,Courier_Jim,US_Open,1993,09,12,6-1_6-3_6-3
+US_Open,1,1993,09,12,1,Courier_Jim,Gorriz_Marcos_Aurelio,Courier_Jim,US_Open,1993,09,12,6-1_6-3_6-3
 US_Open,1,1993,09,12,1,Nainkin_David,Joyce_Michael,Joyce_Michael,US_Open,1993,09,12,4-6_6-1_6-4_6-3
 US_Open,1,1993,09,12,1,Rafter_Patrick,Flach_Doug,Flach_Doug,US_Open,1993,09,12,3-6_6-3_6-2_6-1
 US_Open,1,1993,09,12,1,Washington_MaliVai,Mancini_Alberto,Washington_MaliVai,US_Open,1993,09,12,4-6_6-3_3-6_6-1_7-5
@@ -28,7 +28,7 @@ US_Open,1,1993,09,12,1,Morgan_Jamie,Clavet_Francisco,Morgan_Jamie,US_Open,1993,0
 US_Open,1,1993,09,12,1,Tarango_Jeff,CunhaSilva_Joao,CunhaSilva_Joao,US_Open,1993,09,12,6-3_6-1_RET
 US_Open,1,1993,09,12,1,Shelton_Bryan,Kuhnen_Patrik,Kuhnen_Patrik,US_Open,1993,09,12,6-4_7-6(4)_4-6_6-1
 US_Open,1,1993,09,12,1,Carbonell_Tomas,Masur_Wally,Masur_Wally,US_Open,1993,09,12,6-3_6-3_1-6_6-3
-US_Open,1,1993,09,12,1,Altur_JoseFrancisco,Mattar_Luiz,Mattar_Luiz,US_Open,1993,09,12,6-3_3-6_6-3_7-6(3)
+US_Open,1,1993,09,12,1,Altur_Jose_Francisco,Mattar_Luiz,Mattar_Luiz,US_Open,1993,09,12,6-3_3-6_6-3_7-6(3)
 US_Open,1,1993,09,12,1,Sanchez_Javier,Bruguera_Sergi,Sanchez_Javier,US_Open,1993,09,12,7-6(5)_6-3_6-4
 US_Open,1,1993,09,12,1,Stich_Michael,Holm_Henrik,Holm_Henrik,US_Open,1993,09,12,6-3_7-6(8)_3-6_6-3
 US_Open,1,1993,09,12,1,Weiss_Robbie,Siemerink_Jan,Siemerink_Jan,US_Open,1993,09,12,6-7(10)_6-4_4-6_6-3_7-6(1)

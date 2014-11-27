@@ -1,7 +1,7 @@
-Los_Angeles,2,1975,09,21,1,Ashe_Arthur,McNair_IVFred,Ashe_Arthur,Los_Angeles,1975,09,21,6-3_7-5
-Los_Angeles,2,1975,09,21,1,Masters_Geoff,Reid_GroverRaz,Masters_Geoff,Los_Angeles,1975,09,21,6-1_5-7_6-4
+Los_Angeles,2,1975,09,21,1,Ashe_Arthur,McNair_IV_Fred,Ashe_Arthur,Los_Angeles,1975,09,21,6-3_7-5
+Los_Angeles,2,1975,09,21,1,Masters_Geoff,Reid_Grover_Raz,Masters_Geoff,Los_Angeles,1975,09,21,6-1_5-7_6-4
 Los_Angeles,2,1975,09,21,1,Warwick_Kim,Thung_Rolf,Warwick_Kim,Los_Angeles,1975,09,21,6-4_6-4
-Los_Angeles,2,1975,09,21,1,Moore_Raymond,Bohrnstedt_DickR,Moore_Raymond,Los_Angeles,1975,09,21,6-3_6-4
+Los_Angeles,2,1975,09,21,1,Moore_Raymond,Bohrnstedt_Dick_R,Moore_Raymond,Los_Angeles,1975,09,21,6-3_6-4
 Los_Angeles,2,1975,09,21,1,Richey_Cliff,Nagler_Larry,Richey_Cliff,Los_Angeles,1975,09,21,6-0_6-3
 Los_Angeles,2,1975,09,21,1,Gorman_Tom,Kreiss_Robert,Gorman_Tom,Los_Angeles,1975,09,21,6-4_2-6_6-4
 Los_Angeles,2,1975,09,21,1,Lutz_Robert,Hardie_George,Lutz_Robert,Los_Angeles,1975,09,21,6-1_6-2
@@ -11,9 +11,9 @@ Los_Angeles,2,1975,09,21,1,Teacher_Brian,Estep_Mike,Estep_Mike,Los_Angeles,1975,
 Los_Angeles,2,1975,09,21,1,Case_Ross,Blocher_Woody,Case_Ross,Los_Angeles,1975,09,21,3-6_6-4_7-5
 Los_Angeles,2,1975,09,21,1,Stewart_Sherwood,PhillipsMoore_Barry,PhillipsMoore_Barry,Los_Angeles,1975,09,21,6-4_6-0
 Los_Angeles,2,1975,09,21,1,Riessen_Marty,Dibley_Colin,Riessen_Marty,Los_Angeles,1975,09,21,6-2_6-2
-Los_Angeles,2,1975,09,21,1,Van_DillenErik,Soares_Joao,Van_DillenErik,Los_Angeles,1975,09,21,6-4_6-1
+Los_Angeles,2,1975,09,21,1,Van_Dillen_Erik,Soares_Joao,Van_Dillen_Erik,Los_Angeles,1975,09,21,6-4_6-1
 Los_Angeles,2,1975,09,21,1,Amritraj_Vijay,Austin_Jeff,Amritraj_Vijay,Los_Angeles,1975,09,21,6-2_6-4
-Los_Angeles,2,1975,09,21,1,Borowiak_Jeff,Alvarez_ElioLito,Borowiak_Jeff,Los_Angeles,1975,09,21,7-6_4-6_6-2
+Los_Angeles,2,1975,09,21,1,Borowiak_Jeff,Alvarez_Elio_Lito,Borowiak_Jeff,Los_Angeles,1975,09,21,7-6_4-6_6-2
 Los_Angeles,2,1975,09,21,1,Stockton_Dick,Manson_Bruce,Stockton_Dick,Los_Angeles,1975,09,21,6-3_3-6_6-2
 Los_Angeles,2,1975,09,21,1,Crealy_Dick,Krulevitz_Steve,Krulevitz_Steve,Los_Angeles,1975,09,21,6-3_6-2
 Los_Angeles,2,1975,09,21,1,Pasarell_Charlie,Menon_Sashi,Menon_Sashi,Los_Angeles,1975,09,21,7-6_7-6
@@ -36,7 +36,7 @@ Los_Angeles,2,1975,09,21,2,Richey_Cliff,Gorman_Tom,Richey_Cliff,Los_Angeles,1975
 Los_Angeles,2,1975,09,21,2,Lutz_Robert,Carmichael_Bob,Lutz_Robert,Los_Angeles,1975,09,21,7-5_6-3
 Los_Angeles,2,1975,09,21,2,Ramirez_Raul,Estep_Mike,Ramirez_Raul,Los_Angeles,1975,09,21,6-3_6-0
 Los_Angeles,2,1975,09,21,2,Case_Ross,PhillipsMoore_Barry,Case_Ross,Los_Angeles,1975,09,21,6-1_6-2
-Los_Angeles,2,1975,09,21,2,Riessen_Marty,Van_DillenErik,Riessen_Marty,Los_Angeles,1975,09,21,6-3_7-6
+Los_Angeles,2,1975,09,21,2,Riessen_Marty,Van_Dillen_Erik,Riessen_Marty,Los_Angeles,1975,09,21,6-3_7-6
 Los_Angeles,2,1975,09,21,2,Amritraj_Vijay,Borowiak_Jeff,Borowiak_Jeff,Los_Angeles,1975,09,21,7-5_5-7_6-4
 Los_Angeles,2,1975,09,21,2,Stockton_Dick,Krulevitz_Steve,Stockton_Dick,Los_Angeles,1975,09,21,7-6_6-3
 Los_Angeles,2,1975,09,21,2,Menon_Sashi,Drysdale_Cliff,Drysdale_Cliff,Los_Angeles,1975,09,21,6-2_6-4

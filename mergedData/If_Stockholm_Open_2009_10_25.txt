@@ -2,7 +2,7 @@ If_Stockholm_Open,2,2009,10,25,1,Soderling_Robin,Lapentti_Giovanni,Soderling_Rob
 If_Stockholm_Open,2,2009,10,25,1,Crivoi_Victor,Seppi_Andreas,Seppi_Andreas,If_Stockholm_Open,2009,10,25,6-4_6-1
 If_Stockholm_Open,2,2009,10,25,1,GarciaLopez_Guillermo,Martin_Alberto,GarciaLopez_Guillermo,If_Stockholm_Open,2009,10,25,6-3_6-2
 If_Stockholm_Open,2,2009,10,25,1,Greul_Simon,Becker_Benjamin,Greul_Simon,If_Stockholm_Open,2009,10,25,2-6_6-3_7-5
-If_Stockholm_Open,2,2009,10,25,1,Ferrero_JuanCarlos,Baghdatis_Marcos,Baghdatis_Marcos,If_Stockholm_Open,2009,10,25,6-4_6-2
+If_Stockholm_Open,2,2009,10,25,1,Ferrero_Juan_Carlos,Baghdatis_Marcos,Baghdatis_Marcos,If_Stockholm_Open,2009,10,25,6-4_6-2
 If_Stockholm_Open,2,2009,10,25,1,Kendrick_Robert,Hernandez_Oscar,Kendrick_Robert,If_Stockholm_Open,2009,10,25,6-3_6-4
 If_Stockholm_Open,2,2009,10,25,1,Berrer_Michael,Kontinen_Henri,Berrer_Michael,If_Stockholm_Open,2009,10,25,7-5_7-6(7)
 If_Stockholm_Open,2,2009,10,25,1,Clement_Arnaud,Beck_Andreas,Clement_Arnaud,If_Stockholm_Open,2009,10,25,6-4_6-2

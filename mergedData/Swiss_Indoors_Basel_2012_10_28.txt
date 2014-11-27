@@ -13,7 +13,7 @@ Swiss_Indoors_Basel,2,2012,10,28,1,Haase_Robin,Gasquet_Richard,Gasquet_Richard,S
 Swiss_Indoors_Basel,2,2012,10,28,1,Mayer_Florian,Matosevic_Marinko,Matosevic_Marinko,Swiss_Indoors_Basel,2012,10,28,6-2_6-3
 Swiss_Indoors_Basel,2,2012,10,28,1,Nieminen_Jarkko,Anderson_Kevin,Anderson_Kevin,Swiss_Indoors_Basel,2012,10,28,7-6(4)_6-3
 Swiss_Indoors_Basel,2,2012,10,28,1,Stepanek_Radek,Baker_Brian,Baker_Brian,Swiss_Indoors_Basel,2012,10,28,2-6_7-6(5)_6-3
-Swiss_Indoors_Basel,2,2012,10,28,1,Falla_Alejandro,Del_PotroJuanMartin,Del_PotroJuanMartin,Swiss_Indoors_Basel,2012,10,28,6-4_6-1
+Swiss_Indoors_Basel,2,2012,10,28,1,Falla_Alejandro,Del_Potro_Juan_Martin,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2012,10,28,6-4_6-1
 Swiss_Indoors_Basel,2,2012,10,28,2,Federer_Roger,Bellucci_Thomaz,Federer_Roger,Swiss_Indoors_Basel,2012,10,28,6-3_6-7(6)_7-5
 Swiss_Indoors_Basel,2,2012,10,28,2,Kubot_Lukasz,Paire_Benoit,Paire_Benoit,Swiss_Indoors_Basel,2012,10,28,6-4_6-4
 Swiss_Indoors_Basel,2,2012,10,28,2,Davydenko_Nikolay,Mathieu_PaulHenri,Mathieu_PaulHenri,Swiss_Indoors_Basel,2012,10,28,6-3_6-7(2)_6-4
@@ -21,11 +21,11 @@ Swiss_Indoors_Basel,2,2012,10,28,2,Benneteau_Julien,Dimitrov_Grigor,Dimitrov_Gri
 Swiss_Indoors_Basel,2,2012,10,28,2,Youzhny_Mikhail,Ebden_Matthew,Youzhny_Mikhail,Swiss_Indoors_Basel,2012,10,28,6-3_6-1
 Swiss_Indoors_Basel,2,2012,10,28,2,Chiudinelli_Marco,Gasquet_Richard,Gasquet_Richard,Swiss_Indoors_Basel,2012,10,28,6-1_6-4
 Swiss_Indoors_Basel,2,2012,10,28,2,Matosevic_Marinko,Anderson_Kevin,Anderson_Kevin,Swiss_Indoors_Basel,2012,10,28,6-3_6-7(5)_6-3
-Swiss_Indoors_Basel,2,2012,10,28,2,Baker_Brian,Del_PotroJuanMartin,Del_PotroJuanMartin,Swiss_Indoors_Basel,2012,10,28,7-5_6-1
+Swiss_Indoors_Basel,2,2012,10,28,2,Baker_Brian,Del_Potro_Juan_Martin,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2012,10,28,7-5_6-1
 Swiss_Indoors_Basel,2,2012,10,28,3,Federer_Roger,Paire_Benoit,Federer_Roger,Swiss_Indoors_Basel,2012,10,28,6-2_6-2
 Swiss_Indoors_Basel,2,2012,10,28,3,Mathieu_PaulHenri,Dimitrov_Grigor,Mathieu_PaulHenri,Swiss_Indoors_Basel,2012,10,28,7-6(2)_7-6(4)
 Swiss_Indoors_Basel,2,2012,10,28,3,Youzhny_Mikhail,Gasquet_Richard,Gasquet_Richard,Swiss_Indoors_Basel,2012,10,28,6-2_7-6(5)
-Swiss_Indoors_Basel,2,2012,10,28,3,Anderson_Kevin,Del_PotroJuanMartin,Del_PotroJuanMartin,Swiss_Indoors_Basel,2012,10,28,3-6_7-6(3)_6-2
+Swiss_Indoors_Basel,2,2012,10,28,3,Anderson_Kevin,Del_Potro_Juan_Martin,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2012,10,28,3-6_7-6(3)_6-2
 Swiss_Indoors_Basel,2,2012,10,28,4,Federer_Roger,Mathieu_PaulHenri,Federer_Roger,Swiss_Indoors_Basel,2012,10,28,7-5_6-4
-Swiss_Indoors_Basel,2,2012,10,28,4,Gasquet_Richard,Del_PotroJuanMartin,Del_PotroJuanMartin,Swiss_Indoors_Basel,2012,10,28,6-2_6-2
-Swiss_Indoors_Basel,2,2012,10,28,5,Federer_Roger,Del_PotroJuanMartin,Del_PotroJuanMartin,Swiss_Indoors_Basel,2012,10,28,6-4_6-7(5)_7-6(3)
+Swiss_Indoors_Basel,2,2012,10,28,4,Gasquet_Richard,Del_Potro_Juan_Martin,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2012,10,28,6-2_6-2
+Swiss_Indoors_Basel,2,2012,10,28,5,Federer_Roger,Del_Potro_Juan_Martin,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2012,10,28,6-4_6-7(5)_7-6(3)

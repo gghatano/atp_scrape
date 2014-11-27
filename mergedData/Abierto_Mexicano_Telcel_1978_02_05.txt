@@ -7,7 +7,7 @@ Abierto_Mexicano_Telcel,2,1978,02,05,1,Mayer_Gene,Waltke_Trey,Mayer_Gene,Abierto
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Pearson_Peter,Unknown_NA,Pearson_Peter,Abierto_Mexicano_Telcel,1978,02,05,6-3_6-3
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Montano_Emilio,McNamee_Paul,McNamee_Paul,Abierto_Mexicano_Telcel,1978,02,05,6-3_6-4
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Dupre_Pat,Bunis_Henry,Dupre_Pat,Abierto_Mexicano_Telcel,1978,02,05,4-6_6-2_7-6
-Abierto_Mexicano_Telcel,2,1978,02,05,1,Llamas_Jose,Van_DillenErik,Van_DillenErik,Abierto_Mexicano_Telcel,1978,02,05,6-1_6-2
+Abierto_Mexicano_Telcel,2,1978,02,05,1,Llamas_Jose,Van_Dillen_Erik,Van_Dillen_Erik,Abierto_Mexicano_Telcel,1978,02,05,6-1_6-2
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Chavez_Roberto,Krulevitz_Steve,Krulevitz_Steve,Abierto_Mexicano_Telcel,1978,02,05,6-3_6-7_7-6
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Kirmayr_Carlos,Case_Ross,Case_Ross,Abierto_Mexicano_Telcel,1978,02,05,6-3_6-2
 Abierto_Mexicano_Telcel,2,1978,02,05,1,Hardie_George,Taylor_Roger,Taylor_Roger,Abierto_Mexicano_Telcel,1978,02,05,3-6_6-1_7-5
@@ -18,7 +18,7 @@ Abierto_Mexicano_Telcel,2,1978,02,05,2,Ramirez_Raul,Fisher_Rick,Ramirez_Raul,Abi
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Meyers_Joe,Docherty_Steve,Docherty_Steve,Abierto_Mexicano_Telcel,1978,02,05,6-4_6-0
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Lara_Marcelo,Mayer_Gene,Mayer_Gene,Abierto_Mexicano_Telcel,1978,02,05,4-6_6-1_6-1
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Pearson_Peter,McNamee_Paul,Pearson_Peter,Abierto_Mexicano_Telcel,1978,02,05,7-5_1-6_6-3
-Abierto_Mexicano_Telcel,2,1978,02,05,2,Dupre_Pat,Van_DillenErik,Dupre_Pat,Abierto_Mexicano_Telcel,1978,02,05,4-6_7-6_6-4
+Abierto_Mexicano_Telcel,2,1978,02,05,2,Dupre_Pat,Van_Dillen_Erik,Dupre_Pat,Abierto_Mexicano_Telcel,1978,02,05,4-6_7-6_6-4
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Krulevitz_Steve,Case_Ross,Case_Ross,Abierto_Mexicano_Telcel,1978,02,05,6-3_4-6_6-3
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Taylor_Roger,Blocher_Woody,Taylor_Roger,Abierto_Mexicano_Telcel,1978,02,05,DEF
 Abierto_Mexicano_Telcel,2,1978,02,05,2,Amritraj_Anand,Dowdeswell_Colin,Amritraj_Anand,Abierto_Mexicano_Telcel,1978,02,05,6-0_5-7_7-6

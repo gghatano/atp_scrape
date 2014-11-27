@@ -10,7 +10,7 @@ Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Nieminen_Jarkko,Mathi
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Mayer_Florian,Monaco_Juan,Mayer_Florian,Brisbane_International_presented_by_Suncorp,2006,01,08,6-2_6-4
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Serra_Florent,Llodra_Michael,Serra_Florent,Brisbane_International_presented_by_Suncorp,2006,01,08,3-6_3-1_RET
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Melzer_Jurgen,Robredo_Tommy,Robredo_Tommy,Brisbane_International_presented_by_Suncorp,2006,01,08,7-5_6-4
-Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Chela_JuanIgnacio,Karlovic_Ivo,Karlovic_Ivo,Brisbane_International_presented_by_Suncorp,2006,01,08,6-3_3-6_6-1
+Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Chela_Juan_Ignacio,Karlovic_Ivo,Karlovic_Ivo,Brisbane_International_presented_by_Suncorp,2006,01,08,6-3_3-6_6-1
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Carraz_Gregory,Carlsen_Kenneth,Carlsen_Kenneth,Brisbane_International_presented_by_Suncorp,2006,01,08,5-7_7-5_6-3
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Philippoussis_Mark,Spadea_Vincent,Philippoussis_Mark,Brisbane_International_presented_by_Suncorp,2006,01,08,6-4_3-6_6-4
 Brisbane_International_presented_by_Suncorp,2,2006,01,08,1,Junaid_Rameez,Hrbaty_Dominik,Hrbaty_Dominik,Brisbane_International_presented_by_Suncorp,2006,01,08,6-3_7-5

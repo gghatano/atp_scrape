@@ -1,6 +1,6 @@
 Palermo,2,2004,10,03,1,Massu_Nicolas,Sanchez_David,Massu_Nicolas,Palermo,2004,10,03,6-3_6-2
 Palermo,2,2004,10,03,1,Starace_Potito,Gasquet_Richard,Starace_Potito,Palermo,2004,10,03,7-6(6)_4-6_6-1
-Palermo,2,2004,10,03,1,Blanco_Galo,Di_MauroAlessio,Blanco_Galo,Palermo,2004,10,03,2-6_6-2_6-2
+Palermo,2,2004,10,03,1,Blanco_Galo,Di_Mauro_Alessio,Blanco_Galo,Palermo,2004,10,03,2-6_6-2_6-2
 Palermo,2,2004,10,03,1,Montanes_Albert,Volandri_Filippo,Volandri_Filippo,Palermo,2004,10,03,6-2_6-3
 Palermo,2,2004,10,03,1,Verdasco_Fernando,Aldi_Francesco,Verdasco_Fernando,Palermo,2004,10,03,6-2_4-6_6-2
 Palermo,2,2004,10,03,1,Monaco_Juan,Kohlschreiber_Philipp,Monaco_Juan,Palermo,2004,10,03,3-6_6-4_RET
@@ -12,7 +12,7 @@ Palermo,2,2004,10,03,1,Lopez_Marc,GimenoTraver_Daniel,Lopez_Marc,Palermo,2004,10
 Palermo,2,2004,10,03,1,Hanescu_Victor,Davydenko_Nikolay,Davydenko_Nikolay,Palermo,2004,10,03,6-2_7-5
 Palermo,2,2004,10,03,1,Berdych_Tomas,Hernandez_Oscar,Berdych_Tomas,Palermo,2004,10,03,6-7(5)_6-3_6-3
 Palermo,2,2004,10,03,1,Acasuso_Jose,Falla_Alejandro,Acasuso_Jose,Palermo,2004,10,03,6-3_6-1
-Palermo,2,2004,10,03,1,Seppi_Andreas,Di_PasqualeArnaud,Seppi_Andreas,Palermo,2004,10,03,6-7(2)_6-2_6-4
+Palermo,2,2004,10,03,1,Seppi_Andreas,Di_Pasquale_Arnaud,Seppi_Andreas,Palermo,2004,10,03,6-7(2)_6-2_6-4
 Palermo,2,2004,10,03,1,Vliegen_Kristof,Puerta_Mariano,Vliegen_Kristof,Palermo,2004,10,03,6-1_6-2
 Palermo,2,2004,10,03,2,Massu_Nicolas,Starace_Potito,Massu_Nicolas,Palermo,2004,10,03,4-1_RET
 Palermo,2,2004,10,03,2,Blanco_Galo,Volandri_Filippo,Volandri_Filippo,Palermo,2004,10,03,6-2_6-1

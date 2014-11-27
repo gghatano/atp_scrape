@@ -8,12 +8,12 @@ Aix-En-Provence,2,1984,06,10,1,Cancellotti_Francesco,Panatta_Claudio,Panatta_Cla
 Aix-En-Provence,2,1984,06,10,1,Beutel_HansDieter,Cash_Pat,Cash_Pat,Aix-En-Provence,1984,06,10,7-6_5-7_6-2
 Aix-En-Provence,2,1984,06,10,1,Luna_Fernando,Casal_Sergio,Luna_Fernando,Aix-En-Provence,1984,06,10,7-5_6-3
 Aix-En-Provence,2,1984,06,10,1,Stadler_Roland,Nastase_Ilie,Stadler_Roland,Aix-En-Provence,1984,06,10,6-4_6-2
-Aix-En-Provence,2,1984,06,10,1,Viver_RaulAntonio,Ostoja_Marko,Ostoja_Marko,Aix-En-Provence,1984,06,10,6-4_6-1
+Aix-En-Provence,2,1984,06,10,1,Viver_Raul_Antonio,Ostoja_Marko,Ostoja_Marko,Aix-En-Provence,1984,06,10,6-4_6-1
 Aix-En-Provence,2,1984,06,10,1,Tulasne_Thierry,Nystrom_Joakim,Nystrom_Joakim,Aix-En-Provence,1984,06,10,3-6_7-5_7-5
 Aix-En-Provence,2,1984,06,10,1,Gottfried_Brian,Allan_Trevor,Allan_Trevor,Aix-En-Provence,1984,06,10,6-0_6-0
 Aix-En-Provence,2,1984,06,10,1,RogerVasselin_Christophe,Krickstein_Aaron,Krickstein_Aaron,Aix-En-Provence,1984,06,10,6-3_7-5
 Aix-En-Provence,2,1984,06,10,1,Perez_Diego,Moor_Terry,Perez_Diego,Aix-En-Provence,1984,06,10,6-2_6-1
-Aix-En-Provence,2,1984,06,10,1,Gehring_Rolf,Lewis_NZLChris,Lewis_NZLChris,Aix-En-Provence,1984,06,10,6-3_6-2
+Aix-En-Provence,2,1984,06,10,1,Gehring_Rolf,Lewis_NZL_Chris,Lewis_NZL_Chris,Aix-En-Provence,1984,06,10,6-3_6-2
 Aix-En-Provence,2,1984,06,10,2,Clerc_JoseLuis,Simonsson_Stefan,Clerc_JoseLuis,Aix-En-Provence,1984,06,10,6-3_6-2
 Aix-En-Provence,2,1984,06,10,2,Forget_Guy,Aguilera_Juan,Aguilera_Juan,Aix-En-Provence,1984,06,10,7-6_6-0
 Aix-En-Provence,2,1984,06,10,2,McNamee_Paul,Masur_Wally,McNamee_Paul,Aix-En-Provence,1984,06,10,6-3_6-2
@@ -21,7 +21,7 @@ Aix-En-Provence,2,1984,06,10,2,Panatta_Claudio,Cash_Pat,Cash_Pat,Aix-En-Provence
 Aix-En-Provence,2,1984,06,10,2,Luna_Fernando,Stadler_Roland,Luna_Fernando,Aix-En-Provence,1984,06,10,6-1_6-1
 Aix-En-Provence,2,1984,06,10,2,Ostoja_Marko,Nystrom_Joakim,Nystrom_Joakim,Aix-En-Provence,1984,06,10,6-4_6-2
 Aix-En-Provence,2,1984,06,10,2,Allan_Trevor,Krickstein_Aaron,Allan_Trevor,Aix-En-Provence,1984,06,10,7-5_6-3
-Aix-En-Provence,2,1984,06,10,2,Perez_Diego,Lewis_NZLChris,Perez_Diego,Aix-En-Provence,1984,06,10,7-5_6-4
+Aix-En-Provence,2,1984,06,10,2,Perez_Diego,Lewis_NZL_Chris,Perez_Diego,Aix-En-Provence,1984,06,10,7-5_6-4
 Aix-En-Provence,2,1984,06,10,3,Clerc_JoseLuis,Aguilera_Juan,Aguilera_Juan,Aix-En-Provence,1984,06,10,7-6_7-5
 Aix-En-Provence,2,1984,06,10,3,McNamee_Paul,Cash_Pat,McNamee_Paul,Aix-En-Provence,1984,06,10,7-6_6-0
 Aix-En-Provence,2,1984,06,10,3,Luna_Fernando,Nystrom_Joakim,Luna_Fernando,Aix-En-Provence,1984,06,10,6-1_6-4

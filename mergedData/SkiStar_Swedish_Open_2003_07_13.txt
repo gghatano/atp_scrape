@@ -9,7 +9,7 @@ SkiStar_Swedish_Open,2,2003,07,13,1,Massu_Nicolas,Zabaleta_Mariano,Zabaleta_Mari
 SkiStar_Swedish_Open,2,2003,07,13,1,Lapentti_Nicolas,Horna_Luis,Lapentti_Nicolas,SkiStar_Swedish_Open,2003,07,13,6-4_7-5
 SkiStar_Swedish_Open,2,2003,07,13,1,Prpic_Filip,Voinea_Adrian,Voinea_Adrian,SkiStar_Swedish_Open,2003,07,13,7-6(2)_6-2
 SkiStar_Swedish_Open,2,2003,07,13,1,Wassen_Rogier,Portas_Albert,Portas_Albert,SkiStar_Swedish_Open,2003,07,13,6-4_6-4
-SkiStar_Swedish_Open,2,2003,07,13,1,Nadal_Rafael,El_AynaouiYounes,Nadal_Rafael,SkiStar_Swedish_Open,2003,07,13,6-3_4-6_6-3
+SkiStar_Swedish_Open,2,2003,07,13,1,Nadal_Rafael,El_Aynaoui_Younes,Nadal_Rafael,SkiStar_Swedish_Open,2003,07,13,6-3_4-6_6-3
 SkiStar_Swedish_Open,2,2003,07,13,1,Martin_Alberto,Mutis_Olivier,Mutis_Olivier,SkiStar_Swedish_Open,2003,07,13,7-6(3)_6-3
 SkiStar_Swedish_Open,2,2003,07,13,1,Volandri_Filippo,Browne_Federico,Volandri_Filippo,SkiStar_Swedish_Open,2003,07,13,6-1_6-1
 SkiStar_Swedish_Open,2,2003,07,13,1,Arazi_Hicham,Norman_Magnus,Arazi_Hicham,SkiStar_Swedish_Open,2003,07,13,7-5_6-4

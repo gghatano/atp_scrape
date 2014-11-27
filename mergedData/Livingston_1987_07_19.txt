@@ -5,7 +5,7 @@ Livingston,2,1987,07,19,1,Layendecker_Glenn,Winogradsky_Eric,Layendecker_Glenn,L
 Livingston,2,1987,07,19,1,Annacone_Paul,Lapidus_Jay,Annacone_Paul,Livingston,1987,07,19,6-2_6-4
 Livingston,2,1987,07,19,1,Antonitsch_Alex,Goldie_Dan,Antonitsch_Alex,Livingston,1987,07,19,6-4_7-5
 Livingston,2,1987,07,19,1,Freeman_Marcel,Naor_Amit,Freeman_Marcel,Livingston,1987,07,19,6-4_6-4
-Livingston,2,1987,07,19,1,Giammalva_JrSammy,Testerman_Ben,Giammalva_JrSammy,Livingston,1987,07,19,6-4_3-6_7-5
+Livingston,2,1987,07,19,1,Giammalva_Jr_Sammy,Testerman_Ben,Giammalva_Jr_Sammy,Livingston,1987,07,19,6-4_3-6_7-5
 Livingston,2,1987,07,19,1,Odizor_Nduka,Flach_Ken,Flach_Ken,Livingston,1987,07,19,6-4_6-4
 Livingston,2,1987,07,19,1,Donnelly_Gary,Holmes_Greg,Holmes_Greg,Livingston,1987,07,19,6-3_7-6
 Livingston,2,1987,07,19,1,Leach_Mike,Hooper_Chip,Hooper_Chip,Livingston,1987,07,19,6-4_6-3
@@ -17,7 +17,7 @@ Livingston,2,1987,07,19,1,Tarango_Jeff,Masur_Wally,Masur_Wally,Livingston,1987,0
 Livingston,2,1987,07,19,2,Kriek_Johan,Matuszewski_Richard,Kriek_Johan,Livingston,1987,07,19,6-2_6-2
 Livingston,2,1987,07,19,2,Bonneau_Stephane,Layendecker_Glenn,Bonneau_Stephane,Livingston,1987,07,19,6-3_7-6
 Livingston,2,1987,07,19,2,Annacone_Paul,Antonitsch_Alex,Antonitsch_Alex,Livingston,1987,07,19,7-6_2-6_7-6
-Livingston,2,1987,07,19,2,Freeman_Marcel,Giammalva_JrSammy,Freeman_Marcel,Livingston,1987,07,19,3-6_6-2_6-3
+Livingston,2,1987,07,19,2,Freeman_Marcel,Giammalva_Jr_Sammy,Freeman_Marcel,Livingston,1987,07,19,3-6_6-2_6-3
 Livingston,2,1987,07,19,2,Flach_Ken,Holmes_Greg,Flach_Ken,Livingston,1987,07,19,7-6_7-6
 Livingston,2,1987,07,19,2,Hooper_Chip,Saceanu_Christian,Saceanu_Christian,Livingston,1987,07,19,7-6_6-4
 Livingston,2,1987,07,19,2,Steyn_Christo,Flur_Marc,Flur_Marc,Livingston,1987,07,19,6-4_6-1

@@ -1,4 +1,4 @@
-Maui,2,1978,12,30,1,Ramirez_Raul,Van_PattenVincent,Ramirez_Raul,Maui,1978,12,30,7-5_2-6_6-4
+Maui,2,1978,12,30,1,Ramirez_Raul,Van_Patten_Vincent,Ramirez_Raul,Maui,1978,12,30,7-5_2-6_6-4
 Maui,2,1978,12,30,1,Teltscher_Eliot,Dell_Dick,Teltscher_Eliot,Maui,1978,12,30,7-5_6-1
 Maui,2,1978,12,30,1,Cahill_Mike,Dupre_Pat,Dupre_Pat,Maui,1978,12,30,6-4_6-4
 Maui,2,1978,12,30,1,Amritraj_Vijay,Gullikson_Tim,Gullikson_Tim,Maui,1978,12,30,6-4_7-6

@@ -12,7 +12,7 @@ Bombay,2,1979,11,25,1,Turpin_Mark,Graham_Tony,Graham_Tony,Bombay,1979,11,25,6-4_
 Bombay,2,1979,11,25,1,Denton_Steve,Case_Ross,Case_Ross,Bombay,1979,11,25,7-5_6-1
 Bombay,2,1979,11,25,1,Amritraj_Anand,Elter_Peter,Elter_Peter,Bombay,1979,11,25,4-6_6-4_6-1
 Bombay,2,1979,11,25,1,Stevaux_Thierry,Delaney_Christofer,Delaney_Christofer,Bombay,1979,11,25,4-6_7-6_RET
-Bombay,2,1979,11,25,1,Nunna_Bhanu,Lewis_JohnChris,Lewis_JohnChris,Bombay,1979,11,25,6-1_2-6_6-3
+Bombay,2,1979,11,25,1,Nunna_Bhanu,Lewis_John_Chris,Lewis_John_Chris,Bombay,1979,11,25,6-1_2-6_6-3
 Bombay,2,1979,11,25,1,Ismail_Haroon,Warwick_Kim,Warwick_Kim,Bombay,1979,11,25,3-3_RET
 Bombay,2,1979,11,25,2,Amritraj_Vijay,Amritraj_Ashok,Amritraj_Vijay,Bombay,1979,11,25,7-6_6-3
 Bombay,2,1979,11,25,2,Fassbender_Jurgen,Ewert_Ernie,Ewert_Ernie,Bombay,1979,11,25,6-3_4-6_6-4
@@ -21,7 +21,7 @@ Bombay,2,1979,11,25,2,Goswami_Bidynt,Haillet_JeanLouis,Haillet_JeanLouis,Bombay,
 Bombay,2,1979,11,25,2,Sanders_Louk,Eberhard_Klaus,Sanders_Louk,Bombay,1979,11,25,6-4_6-1
 Bombay,2,1979,11,25,2,Graham_Tony,Case_Ross,Graham_Tony,Bombay,1979,11,25,7-5_6-4
 Bombay,2,1979,11,25,2,Elter_Peter,Delaney_Christofer,Elter_Peter,Bombay,1979,11,25,6-3_7-6
-Bombay,2,1979,11,25,2,Lewis_JohnChris,Warwick_Kim,Warwick_Kim,Bombay,1979,11,25,6-4_6-1
+Bombay,2,1979,11,25,2,Lewis_John_Chris,Warwick_Kim,Warwick_Kim,Bombay,1979,11,25,6-4_6-1
 Bombay,2,1979,11,25,3,Amritraj_Vijay,Ewert_Ernie,Amritraj_Vijay,Bombay,1979,11,25,6-1_6-4
 Bombay,2,1979,11,25,3,Popp_Wolfgang,Haillet_JeanLouis,Popp_Wolfgang,Bombay,1979,11,25,6-4_6-3
 Bombay,2,1979,11,25,3,Sanders_Louk,Graham_Tony,Sanders_Louk,Bombay,1979,11,25,6-3_7-6

@@ -1,6 +1,6 @@
 Cologne,2,1982,10,31,1,Mayer_Sandy,Navratil_Jaroslav,Mayer_Sandy,Cologne,1982,10,31,6-3_6-4
 Cologne,2,1982,10,31,1,Gunnarsson_Jan,Edberg_Stefan,Gunnarsson_Jan,Cologne,1982,10,31,6-3_6-2
-Cologne,2,1982,10,31,1,Damiani_JoseLuis,Sauer_Freddie,Sauer_Freddie,Cologne,1982,10,31,6-2_6-2
+Cologne,2,1982,10,31,1,Damiani_Jose_Luis,Sauer_Freddie,Sauer_Freddie,Cologne,1982,10,31,6-2_6-2
 Cologne,2,1982,10,31,1,Theissen_Harald,Slozil_Pavel,Slozil_Pavel,Cologne,1982,10,31,6-2_6-2
 Cologne,2,1982,10,31,1,Glickstein_Shlomo,Kohlberg_Andy,Glickstein_Shlomo,Cologne,1982,10,31,6-7_6-3_6-4
 Cologne,2,1982,10,31,1,Smith_Jonathan,Odizor_Nduka,Smith_Jonathan,Cologne,1982,10,31,7-6_6-4

@@ -6,8 +6,8 @@ Vancouver_WCT,2,1973,04,08,1,Crealy_Dick,Lall_Premjit,Crealy_Dick,Vancouver_WCT,
 Vancouver_WCT,2,1973,04,08,1,Rahim_Haroon,Tanner_Roscoe,Tanner_Roscoe,Vancouver_WCT,1973,04,08,DEF
 Vancouver_WCT,2,1973,04,08,1,Pala_Frantisek,Barthes_Pierre,Barthes_Pierre,Vancouver_WCT,1973,04,08,1-6_7-5_7-6
 Vancouver_WCT,2,1973,04,08,1,Leonard_Tom,Cox_Mark,Cox_Mark,Vancouver_WCT,1973,04,08,6-4_6-2
-Vancouver_WCT,2,1973,04,08,1,Taylor_Roger,El_ShafeiIsmail,Taylor_Roger,Vancouver_WCT,1973,04,08,3-6_6-4_6-3
-Vancouver_WCT,2,1973,04,08,1,Ulrich_Torben,Van_DillenErik,Van_DillenErik,Vancouver_WCT,1973,04,08,6-7_6-1_6-4
+Vancouver_WCT,2,1973,04,08,1,Taylor_Roger,El_Shafei_Ismail,Taylor_Roger,Vancouver_WCT,1973,04,08,3-6_6-4_6-3
+Vancouver_WCT,2,1973,04,08,1,Ulrich_Torben,Van_Dillen_Erik,Van_Dillen_Erik,Vancouver_WCT,1973,04,08,6-7_6-1_6-4
 Vancouver_WCT,2,1973,04,08,1,Metreveli_Alex,Case_Ross,Metreveli_Alex,Vancouver_WCT,1973,04,08,3-6_6-0_6-1
 Vancouver_WCT,2,1973,04,08,1,Jovanovic_Boro,Kodes_Jan,Kodes_Jan,Vancouver_WCT,1973,04,08,6-2_6-3
 Vancouver_WCT,2,1973,04,08,1,Rosewall_Ken,Stilwell_Graham,Rosewall_Ken,Vancouver_WCT,1973,04,08,6-2_6-2
@@ -18,13 +18,13 @@ Vancouver_WCT,2,1973,04,08,2,Riessen_Marty,Stolle_Fred,Stolle_Fred,Vancouver_WCT
 Vancouver_WCT,2,1973,04,08,2,Gorman_Tom,Ashe_Arthur,Gorman_Tom,Vancouver_WCT,1973,04,08,6-1_4-6_6-4
 Vancouver_WCT,2,1973,04,08,2,Crealy_Dick,Tanner_Roscoe,Tanner_Roscoe,Vancouver_WCT,1973,04,08,6-4_3-6_6-3
 Vancouver_WCT,2,1973,04,08,2,Barthes_Pierre,Cox_Mark,Barthes_Pierre,Vancouver_WCT,1973,04,08,5-7_7-5_6-1
-Vancouver_WCT,2,1973,04,08,2,Taylor_Roger,Van_DillenErik,Van_DillenErik,Vancouver_WCT,1973,04,08,6-3_2-6_6-4
+Vancouver_WCT,2,1973,04,08,2,Taylor_Roger,Van_Dillen_Erik,Van_Dillen_Erik,Vancouver_WCT,1973,04,08,6-3_2-6_6-4
 Vancouver_WCT,2,1973,04,08,2,Metreveli_Alex,Kodes_Jan,Kodes_Jan,Vancouver_WCT,1973,04,08,6-4_6-2
 Vancouver_WCT,2,1973,04,08,2,Rosewall_Ken,Okker_Tom,Rosewall_Ken,Vancouver_WCT,1973,04,08,6-3_6-0
 Vancouver_WCT,2,1973,04,08,2,Moore_Raymond,Fairlie_Brian,Moore_Raymond,Vancouver_WCT,1973,04,08,7-6_4-6_7-6
 Vancouver_WCT,2,1973,04,08,3,Stolle_Fred,Gorman_Tom,Gorman_Tom,Vancouver_WCT,1973,04,08,6-1_4-6_6-4
 Vancouver_WCT,2,1973,04,08,3,Tanner_Roscoe,Barthes_Pierre,Tanner_Roscoe,Vancouver_WCT,1973,04,08,6-2_6-4
-Vancouver_WCT,2,1973,04,08,3,Van_DillenErik,Kodes_Jan,Kodes_Jan,Vancouver_WCT,1973,04,08,6-1_2-6_6-0
+Vancouver_WCT,2,1973,04,08,3,Van_Dillen_Erik,Kodes_Jan,Kodes_Jan,Vancouver_WCT,1973,04,08,6-1_2-6_6-0
 Vancouver_WCT,2,1973,04,08,3,Rosewall_Ken,Moore_Raymond,Rosewall_Ken,Vancouver_WCT,1973,04,08,6-3_6-3
 Vancouver_WCT,2,1973,04,08,4,Gorman_Tom,Tanner_Roscoe,Gorman_Tom,Vancouver_WCT,1973,04,08,6-4_6-4
 Vancouver_WCT,2,1973,04,08,4,Kodes_Jan,Rosewall_Ken,Kodes_Jan,Vancouver_WCT,1973,04,08,7-6(1)_2-6_6-3

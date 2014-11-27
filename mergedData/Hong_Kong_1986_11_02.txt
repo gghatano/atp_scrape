@@ -7,7 +7,7 @@ Hong_Kong,2,1986,11,02,1,Arias_Jimmy,Cash_Pat,Cash_Pat,Hong_Kong,1986,11,02,6-4_
 Hong_Kong,2,1986,11,02,1,Edwards_Eddie,Yzaga_Jaime,Yzaga_Jaime,Hong_Kong,1986,11,02,6-2_7-6
 Hong_Kong,2,1986,11,02,1,Masur_Wally,Canter_Jonathan,Canter_Jonathan,Hong_Kong,1986,11,02,6-3_6-4
 Hong_Kong,2,1986,11,02,1,Chesnokov_Andrei,Holmes_Greg,Chesnokov_Andrei,Hong_Kong,1986,11,02,6-4_6-2
-Hong_Kong,2,1986,11,02,1,Davis_Marty,Van_RensburgChristo,Davis_Marty,Hong_Kong,1986,11,02,6-4_6-1
+Hong_Kong,2,1986,11,02,1,Davis_Marty,Van_Rensburg_Christo,Davis_Marty,Hong_Kong,1986,11,02,6-4_6-1
 Hong_Kong,2,1986,11,02,1,Freeman_Marcel,Leach_Mike,Freeman_Marcel,Hong_Kong,1986,11,02,6-4_2-6_7-6
 Hong_Kong,2,1986,11,02,1,Dyke_Broderick,Krickstein_Aaron,Krickstein_Aaron,Hong_Kong,1986,11,02,6-2_6-0
 Hong_Kong,2,1986,11,02,1,Annacone_Paul,Fitzgerald_John,Annacone_Paul,Hong_Kong,1986,11,02,6-2_6-3

@@ -1,5 +1,5 @@
 Aegon_International,2,1996,06,23,1,Pioline_Cedric,Volkov_Alexander,Volkov_Alexander,Aegon_International,1996,06,23,6-2_6-7(4)_6-3
-Aegon_International,2,1996,06,23,1,Stolle_Sandon,Van_HerckJohan,Stolle_Sandon,Aegon_International,1996,06,23,6-1_6-2
+Aegon_International,2,1996,06,23,1,Stolle_Sandon,Van_Herck_Johan,Stolle_Sandon,Aegon_International,1996,06,23,6-1_6-2
 Aegon_International,2,1996,06,23,1,Pereira_Nicolas,Petchey_Mark,Petchey_Mark,Aegon_International,1996,06,23,6-2_6-1
 Aegon_International,2,1996,06,23,1,Rafter_Patrick,Stoltenberg_Jason,Rafter_Patrick,Aegon_International,1996,06,23,6-2_6-1
 Aegon_International,2,1996,06,23,1,Woodforde_Mark,Spadea_Vincent,Spadea_Vincent,Aegon_International,1996,06,23,6-2_7-6(4)

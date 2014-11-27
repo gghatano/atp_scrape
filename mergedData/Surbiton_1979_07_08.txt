@@ -1,5 +1,5 @@
 Surbiton,2,1979,07,08,1,Gottfried_Brian,Giltinan_Bob,Gottfried_Brian,Surbiton,1979,07,08,6-2_6-3
-Surbiton,2,1979,07,08,1,Moor_Terry,Fillol_SrJaime,Moor_Terry,Surbiton,1979,07,08,6-4_6-4
+Surbiton,2,1979,07,08,1,Moor_Terry,Fillol_Sr_Jaime,Moor_Terry,Surbiton,1979,07,08,6-4_6-4
 Surbiton,2,1979,07,08,1,Fillol_Alvaro,Riessen_Marty,Fillol_Alvaro,Surbiton,1979,07,08,4-6_7-6_14-12
 Surbiton,2,1979,07,08,1,Wilkison_Tim,Noah_Yannick,Wilkison_Tim,Surbiton,1979,07,08,7-6_6-1
 Surbiton,2,1979,07,08,1,Panatta_Adriano,Pfister_Henry,Pfister_Henry,Surbiton,1979,07,08,6-3_6-1
@@ -10,7 +10,7 @@ Surbiton,2,1979,07,08,1,Dupre_Pat,Marks_John,Dupre_Pat,Surbiton,1979,07,08,6-2_6
 Surbiton,2,1979,07,08,1,Pattison_Andrew,Scanlon_Bill,Scanlon_Bill,Surbiton,1979,07,08,6-1_7-5
 Surbiton,2,1979,07,08,1,Edmondson_Mark,Lloyd_David,Edmondson_Mark,Surbiton,1979,07,08,4-6_6-4_6-4
 Surbiton,2,1979,07,08,1,Dent_Phil,Amritraj_Vijay,Amritraj_Vijay,Surbiton,1979,07,08,6-2_6-4
-Surbiton,2,1979,07,08,1,Bengtson_OveNils,Saviano_Nick,Bengtson_OveNils,Surbiton,1979,07,08,7-6_6-7_6-3
+Surbiton,2,1979,07,08,1,Bengtson_Ove_Nils,Saviano_Nick,Bengtson_Ove_Nils,Surbiton,1979,07,08,7-6_6-7_6-3
 Surbiton,2,1979,07,08,1,Dibley_Colin,Gullikson_Tom,Dibley_Colin,Surbiton,1979,07,08,7-6_7-6
 Surbiton,2,1979,07,08,1,Cox_Mark,Taygan_Ferdi,Cox_Mark,Surbiton,1979,07,08,6-7_6-2_10-8
 Surbiton,2,1979,07,08,1,Mitton_Bernard,Alexander_John,Mitton_Bernard,Surbiton,1979,07,08,6-4_7-6
@@ -20,7 +20,7 @@ Surbiton,2,1979,07,08,2,Pfister_Henry,Warwick_Kim,Pfister_Henry,Surbiton,1979,07
 Surbiton,2,1979,07,08,2,Drysdale_Robin,Amaya_Victor,Amaya_Victor,Surbiton,1979,07,08,7-6_6-3
 Surbiton,2,1979,07,08,2,Dupre_Pat,Scanlon_Bill,Dupre_Pat,Surbiton,1979,07,08,7-5_7-6
 Surbiton,2,1979,07,08,2,Edmondson_Mark,Amritraj_Vijay,Edmondson_Mark,Surbiton,1979,07,08,7-5_6-3
-Surbiton,2,1979,07,08,2,Bengtson_OveNils,Dibley_Colin,Dibley_Colin,Surbiton,1979,07,08,7-6_7-5
+Surbiton,2,1979,07,08,2,Bengtson_Ove_Nils,Dibley_Colin,Dibley_Colin,Surbiton,1979,07,08,7-6_7-5
 Surbiton,2,1979,07,08,2,Cox_Mark,Mitton_Bernard,Mitton_Bernard,Surbiton,1979,07,08,6-7_6-3_6-4
 Surbiton,2,1979,07,08,3,Gottfried_Brian,Wilkison_Tim,Gottfried_Brian,Surbiton,1979,07,08,6-3_6-2
 Surbiton,2,1979,07,08,3,Pfister_Henry,Amaya_Victor,Amaya_Victor,Surbiton,1979,07,08,6-3_7-6

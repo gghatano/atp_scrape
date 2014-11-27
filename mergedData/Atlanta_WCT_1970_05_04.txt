@@ -1,12 +1,12 @@
 Atlanta_WCT,2,1970,05,04,1,Okker_Tom,Segura_Pancho,Okker_Tom,Atlanta_WCT,1970,05,04,6-2_6-1
-Atlanta_WCT,2,1970,05,04,1,Gonzales_RichardPancho,Ulrich_Torben,Gonzales_RichardPancho,Atlanta_WCT,1970,05,04,6-0_12-10
+Atlanta_WCT,2,1970,05,04,1,Gonzales_Richard_Pancho,Ulrich_Torben,Gonzales_Richard_Pancho,Atlanta_WCT,1970,05,04,6-0_12-10
 Atlanta_WCT,2,1970,05,04,1,Newcombe_John,Holmberg_Ron,Newcombe_John,Atlanta_WCT,1970,05,04,6-1_6-2
 Atlanta_WCT,2,1970,05,04,1,Emerson_Roy,Moore_Raymond,Emerson_Roy,Atlanta_WCT,1970,05,04,6-3_6-4
 Atlanta_WCT,2,1970,05,04,1,Drysdale_Cliff,Roche_Tony,Drysdale_Cliff,Atlanta_WCT,1970,05,04,8-6_1-6_10-8
 Atlanta_WCT,2,1970,05,04,1,Ralston_Dennis,Stolle_Fred,Ralston_Dennis,Atlanta_WCT,1970,05,04,6-3_4-6_6-3
 Atlanta_WCT,2,1970,05,04,1,Riessen_Marty,Taylor_Roger,Riessen_Marty,Atlanta_WCT,1970,05,04,14-12_3-6_6-3
-Atlanta_WCT,2,1970,05,04,1,Rosewall_Ken,El_ShafeiIsmail,Rosewall_Ken,Atlanta_WCT,1970,05,04,6-2_6-3
-Atlanta_WCT,2,1970,05,04,2,Okker_Tom,Gonzales_RichardPancho,Okker_Tom,Atlanta_WCT,1970,05,04,6-1_2-6_6-3
+Atlanta_WCT,2,1970,05,04,1,Rosewall_Ken,El_Shafei_Ismail,Rosewall_Ken,Atlanta_WCT,1970,05,04,6-2_6-3
+Atlanta_WCT,2,1970,05,04,2,Okker_Tom,Gonzales_Richard_Pancho,Okker_Tom,Atlanta_WCT,1970,05,04,6-1_2-6_6-3
 Atlanta_WCT,2,1970,05,04,2,Newcombe_John,Emerson_Roy,Newcombe_John,Atlanta_WCT,1970,05,04,12-10_6-3
 Atlanta_WCT,2,1970,05,04,2,Drysdale_Cliff,Ralston_Dennis,Ralston_Dennis,Atlanta_WCT,1970,05,04,6-4_6-8_6-4
 Atlanta_WCT,2,1970,05,04,2,Riessen_Marty,Rosewall_Ken,Rosewall_Ken,Atlanta_WCT,1970,05,04,6-1_6-3

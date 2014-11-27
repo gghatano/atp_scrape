@@ -1,7 +1,7 @@
 Nice,2,1987,04,19,1,Carlsson_Kent,Pugh_Jim,Carlsson_Kent,Nice,1987,04,19,2-6_6-1_9-7
 Nice,2,1987,04,19,1,Arraya_Pablo,Champion_Thierry,Arraya_Pablo,Nice,1987,04,19,7-5_6-2
 Nice,2,1987,04,19,1,Riglewski_Udo,Agenor_Ronald,Agenor_Ronald,Nice,1987,04,19,6-3_7-6
-Nice,2,1987,04,19,1,Yunis_Francisco,De_LaPenaHoracio,De_LaPenaHoracio,Nice,1987,04,19,6-7_6-1_6-3
+Nice,2,1987,04,19,1,Yunis_Francisco,De_La_Pena_Horacio,De_La_Pena_Horacio,Nice,1987,04,19,6-7_6-1_6-3
 Nice,2,1987,04,19,1,Jaite_Martin,Cane_Paolo,Jaite_Martin,Nice,1987,04,19,6-2_6-7_6-1
 Nice,2,1987,04,19,1,Teltscher_Eliot,Delaitre_Olivier,Teltscher_Eliot,Nice,1987,04,19,6-0_7-6
 Nice,2,1987,04,19,1,Chesnokov_Andrei,Meinecke_Tore,Chesnokov_Andrei,Nice,1987,04,19,7-6_6-3
@@ -15,7 +15,7 @@ Nice,2,1987,04,19,1,Vajda_Marian,McNamee_Paul,Vajda_Marian,Nice,1987,04,19,3-6_6
 Nice,2,1987,04,19,1,Chaput_Paul,Purcell_Mel,Purcell_Mel,Nice,1987,04,19,6-4_6-1
 Nice,2,1987,04,19,1,Casal_Sergio,Sanchez_Emilio,Sanchez_Emilio,Nice,1987,04,19,6-2_6-0
 Nice,2,1987,04,19,2,Carlsson_Kent,Arraya_Pablo,Carlsson_Kent,Nice,1987,04,19,6-1_6-1
-Nice,2,1987,04,19,2,Agenor_Ronald,De_LaPenaHoracio,Agenor_Ronald,Nice,1987,04,19,6-2_6-1
+Nice,2,1987,04,19,2,Agenor_Ronald,De_La_Pena_Horacio,Agenor_Ronald,Nice,1987,04,19,6-2_6-1
 Nice,2,1987,04,19,2,Jaite_Martin,Teltscher_Eliot,Jaite_Martin,Nice,1987,04,19,6-4_6-2
 Nice,2,1987,04,19,2,Chesnokov_Andrei,Benhabiles_Tarik,Chesnokov_Andrei,Nice,1987,04,19,6-4_1-6_6-2
 Nice,2,1987,04,19,2,Krickstein_Aaron,Arias_Jimmy,Krickstein_Aaron,Nice,1987,04,19,3-6_6-3_6-4

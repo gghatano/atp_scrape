@@ -6,7 +6,7 @@ Livingston,2,1988,08,21,1,Rostagno_Derrick,Ho_Tommy,Rostagno_Derrick,Livingston,
 Livingston,2,1988,08,21,1,Matsuoka_Shuzo,Flur_Marc,Flur_Marc,Livingston,1988,08,21,2-6_6-0_6-3
 Livingston,2,1988,08,21,1,Scanlon_Bill,Brown_Jimmy,Scanlon_Bill,Livingston,1988,08,21,2-6_6-4_6-3
 Livingston,2,1988,08,21,1,Lindgren_Peter,Doumbia_Yahiya,Doumbia_Yahiya,Livingston,1988,08,21,6-0_6-0
-Livingston,2,1988,08,21,1,Giammalva_JrSammy,Hogstedt_Thomas,Giammalva_JrSammy,Livingston,1988,08,21,4-6_6-4_7-6
+Livingston,2,1988,08,21,1,Giammalva_Jr_Sammy,Hogstedt_Thomas,Giammalva_Jr_Sammy,Livingston,1988,08,21,4-6_6-4_7-6
 Livingston,2,1988,08,21,1,Svantesson_Tobias,Connell_Grant,Svantesson_Tobias,Livingston,1988,08,21,6-3_4-6_7-6
 Livingston,2,1988,08,21,1,Lewis_David,Nunez_Hugo,Nunez_Hugo,Livingston,1988,08,21,6-2_6-2
 Livingston,2,1988,08,21,1,Youl_Simon,Annacone_Paul,Youl_Simon,Livingston,1988,08,21,6-3_6-3
@@ -18,13 +18,13 @@ Livingston,2,1988,08,21,2,Agassi_Andre,Pimek_Libor,Agassi_Andre,Livingston,1988,
 Livingston,2,1988,08,21,2,Melville_Scott,Anger_Matt,Anger_Matt,Livingston,1988,08,21,6-4_4-6_6-1
 Livingston,2,1988,08,21,2,Rostagno_Derrick,Flur_Marc,Flur_Marc,Livingston,1988,08,21,7-6_6-1
 Livingston,2,1988,08,21,2,Scanlon_Bill,Doumbia_Yahiya,Doumbia_Yahiya,Livingston,1988,08,21,6-1_6-2
-Livingston,2,1988,08,21,2,Giammalva_JrSammy,Svantesson_Tobias,Giammalva_JrSammy,Livingston,1988,08,21,2-6_6-4_6-2
+Livingston,2,1988,08,21,2,Giammalva_Jr_Sammy,Svantesson_Tobias,Giammalva_Jr_Sammy,Livingston,1988,08,21,2-6_6-4_6-2
 Livingston,2,1988,08,21,2,Nunez_Hugo,Youl_Simon,Youl_Simon,Livingston,1988,08,21,2-6_6-4_6-2
 Livingston,2,1988,08,21,2,Ross_John,Tarango_Jeff,Tarango_Jeff,Livingston,1988,08,21,6-3_6-4
 Livingston,2,1988,08,21,2,Shiras_Leif,Zivojinovic_Slobodan,Zivojinovic_Slobodan,Livingston,1988,08,21,6-4_6-4
 Livingston,2,1988,08,21,3,Agassi_Andre,Anger_Matt,Agassi_Andre,Livingston,1988,08,21,6-4_6-1
 Livingston,2,1988,08,21,3,Flur_Marc,Doumbia_Yahiya,Doumbia_Yahiya,Livingston,1988,08,21,6-4_6-2
-Livingston,2,1988,08,21,3,Giammalva_JrSammy,Youl_Simon,Youl_Simon,Livingston,1988,08,21,6-4_6-4
+Livingston,2,1988,08,21,3,Giammalva_Jr_Sammy,Youl_Simon,Youl_Simon,Livingston,1988,08,21,6-4_6-4
 Livingston,2,1988,08,21,3,Tarango_Jeff,Zivojinovic_Slobodan,Tarango_Jeff,Livingston,1988,08,21,4-6_7-6_6-1
 Livingston,2,1988,08,21,4,Agassi_Andre,Doumbia_Yahiya,Agassi_Andre,Livingston,1988,08,21,6-4_6-4
 Livingston,2,1988,08,21,4,Youl_Simon,Tarango_Jeff,Tarango_Jeff,Livingston,1988,08,21,7-6_0-6_7-6

@@ -12,7 +12,7 @@ Madrid,2,1994,05,01,1,Schaller_Gilbert,Furlan_Renzo,Schaller_Gilbert,Madrid,1994
 Madrid,2,1994,05,01,1,Lopez_German,Bruguera_Sergi,Bruguera_Sergi,Madrid,1994,05,01,6-0_6-1
 Madrid,2,1994,05,01,1,Berasategui_Alberto,Corretja_Alex,Corretja_Alex,Madrid,1994,05,01,6-3_6-7(2)_6-3
 Madrid,2,1994,05,01,1,Carbonell_Tomas,Pescosolido_Stefano,Carbonell_Tomas,Madrid,1994,05,01,6-4_6-4
-Madrid,2,1994,05,01,1,Arrese_Jordi,De_LaPenaHoracio,Arrese_Jordi,Madrid,1994,05,01,6-2_3-6_6-3
+Madrid,2,1994,05,01,1,Arrese_Jordi,De_La_Pena_Horacio,Arrese_Jordi,Madrid,1994,05,01,6-2_3-6_6-3
 Madrid,2,1994,05,01,1,Hlasek_Jakob,Ivanisevic_Goran,Hlasek_Jakob,Madrid,1994,05,01,7-6(6)_7-6(6)
 Madrid,2,1994,05,01,2,Edberg_Stefan,Gaudenzi_Andrea,Edberg_Stefan,Madrid,1994,05,01,6-3_6-0
 Madrid,2,1994,05,01,2,Sanchez_Javier,Yzaga_Jaime,Yzaga_Jaime,Madrid,1994,05,01,6-4_6-4

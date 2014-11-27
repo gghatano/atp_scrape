@@ -16,7 +16,7 @@ Roland_Garros,1,1992,06,07,1,Limberger_Carl,Champion_Thierry,Limberger_Carl,Rola
 Roland_Garros,1,1992,06,07,1,Youl_Simon,Ivanisevic_Goran,Ivanisevic_Goran,Roland_Garros,1992,06,07,6-7(6)_6-3_6-2_6-1
 Roland_Garros,1,1992,06,07,1,Sampras_Pete,Rosset_Marc,Sampras_Pete,Roland_Garros,1992,06,07,7-6(5)_4-6_6-4_3-6_6-3
 Roland_Garros,1,1992,06,07,1,Black_Byron,Prades_Laurent,Prades_Laurent,Roland_Garros,1992,06,07,6-3_6-3_6-3
-Roland_Garros,1,1992,06,07,1,De_LaPenaHoracio,Guardiola_Thierry,Guardiola_Thierry,Roland_Garros,1992,06,07,6-1_1-6_6-4_7-5
+Roland_Garros,1,1992,06,07,1,De_La_Pena_Horacio,Guardiola_Thierry,Guardiola_Thierry,Roland_Garros,1992,06,07,6-1_1-6_6-4_7-5
 Roland_Garros,1,1992,06,07,1,Gilbert_Rodolphe,Raoux_Guillaume,Gilbert_Rodolphe,Roland_Garros,1992,06,07,7-5_4-6_6-3_7-6(3)
 Roland_Garros,1,1992,06,07,1,Shelton_Bryan,McEnroe_Patrick,McEnroe_Patrick,Roland_Garros,1992,06,07,4-6_6-3_6-4_7-6(5)
 Roland_Garros,1,1992,06,07,1,Connell_Grant,Steeb_CarlUwe,Steeb_CarlUwe,Roland_Garros,1992,06,07,6-4_6-2_6-2
@@ -31,7 +31,7 @@ Roland_Garros,1,1992,06,07,1,Eltingh_Jacco,Masur_Wally,Masur_Wally,Roland_Garros
 Roland_Garros,1,1992,06,07,1,Wuyts_Bart,Jarryd_Anders,Wuyts_Bart,Roland_Garros,1992,06,07,7-5_6-2_6-2
 Roland_Garros,1,1992,06,07,1,Mattar_Luiz,Forget_Guy,Forget_Guy,Roland_Garros,1992,06,07,5-7_6-3_3-6_7-6(5)_6-4
 Roland_Garros,1,1992,06,07,1,Chang_Michael,Haarhuis_Paul,Chang_Michael,Roland_Garros,1992,06,07,6-4_6-3_6-3
-Roland_Garros,1,1992,06,07,1,Camporese_Omar,Gorriz_MarcosAurelio,Gorriz_MarcosAurelio,Roland_Garros,1992,06,07,3-6_6-4_6-4_6-4
+Roland_Garros,1,1992,06,07,1,Camporese_Omar,Gorriz_Marcos_Aurelio,Gorriz_Marcos_Aurelio,Roland_Garros,1992,06,07,3-6_6-4_6-4_6-4
 Roland_Garros,1,1992,06,07,1,Zillner_Markus,Mansdorf_Amos,Zillner_Markus,Roland_Garros,1992,06,07,1-6_5-7_7-6(8)_6-0_6-3
 Roland_Garros,1,1992,06,07,1,McEnroe_John,Kulti_Nicklas,Kulti_Nicklas,Roland_Garros,1992,06,07,6-2_7-5_6-7(5)_7-5
 Roland_Garros,1,1992,06,07,1,Perez_Diego,Pescosolido_Stefano,Perez_Diego,Roland_Garros,1992,06,07,3-6_6-4_6-3_7-5
@@ -78,7 +78,7 @@ Roland_Garros,1,1992,06,07,2,Agassi_Andre,Pozzi_Gianluca,Agassi_Andre,Roland_Gar
 Roland_Garros,1,1992,06,07,2,Prpic_Goran,Pistolesi_Claudio,Prpic_Goran,Roland_Garros,1992,06,07,6-2_6-4_6-3
 Roland_Garros,1,1992,06,07,2,Sanchez_Emilio,Masur_Wally,Sanchez_Emilio,Roland_Garros,1992,06,07,3-6_5-7_6-3_6-4_13-11
 Roland_Garros,1,1992,06,07,2,Wuyts_Bart,Forget_Guy,Wuyts_Bart,Roland_Garros,1992,06,07,6-3_6-3_6-3
-Roland_Garros,1,1992,06,07,2,Chang_Michael,Gorriz_MarcosAurelio,Chang_Michael,Roland_Garros,1992,06,07,6-3_2-6_6-3_6-0
+Roland_Garros,1,1992,06,07,2,Chang_Michael,Gorriz_Marcos_Aurelio,Chang_Michael,Roland_Garros,1992,06,07,6-3_2-6_6-3_6-0
 Roland_Garros,1,1992,06,07,2,Zillner_Markus,Kulti_Nicklas,Kulti_Nicklas,Roland_Garros,1992,06,07,4-6_6-1_2-6_7-6(0)_6-2
 Roland_Garros,1,1992,06,07,2,Perez_Diego,Nargiso_Diego,Perez_Diego,Roland_Garros,1992,06,07,4-6_6-3_6-7(4)_7-5_8-6
 Roland_Garros,1,1992,06,07,2,Gustafsson_Magnus,Krajicek_Richard,Krajicek_Richard,Roland_Garros,1992,06,07,6-3_6-4_4-6_6-1

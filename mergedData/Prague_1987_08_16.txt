@@ -1,4 +1,4 @@
-Prague,2,1987,08,16,1,Mecir_SrMiloslav,Navratil_Jaroslav,Navratil_Jaroslav,Prague,1987,08,16,6-3_5-7_7-6
+Prague,2,1987,08,16,1,Mecir_Sr_Miloslav,Navratil_Jaroslav,Navratil_Jaroslav,Prague,1987,08,16,6-3_5-7_7-6
 Prague,2,1987,08,16,1,Ostoja_Marko,Roubicek_Vaclav,Roubicek_Vaclav,Prague,1987,08,16,6-4_6-3
 Prague,2,1987,08,16,1,Duncan_Lawson,Suk_Cyril,Duncan_Lawson,Prague,1987,08,16,6-4_2-6_6-3
 Prague,2,1987,08,16,1,Popp_Wolfgang,Pimek_Libor,Popp_Wolfgang,Prague,1987,08,16,6-3_6-3

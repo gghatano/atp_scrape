@@ -1,7 +1,7 @@
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Corretja_Alex,Ilie_Andrew,Ilie_Andrew,Dubai_Duty_Free_Tennis_Championships,1999,02,14,4-6_6-4_7-6(10)
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Martin_Alberto,Korda_Petr,Korda_Petr,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-3_6-4
-Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Van_HerckJohan,Paes_Leander,Van_HerckJohan,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-3
-Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Marin_JuanAntonio,Kuerten_Gustavo,Kuerten_Gustavo,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-4
+Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Van_Herck_Johan,Paes_Leander,Van_Herck_Johan,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-3
+Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Marin_Juan_Antonio,Kuerten_Gustavo,Kuerten_Gustavo,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Rusedski_Greg,Schalken_Sjeng,Rusedski_Greg,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Clavet_Francisco,Ferreira_Wayne,Clavet_Francisco,Dubai_Duty_Free_Tennis_Championships,1999,02,14,3-6_6-2_7-6(11)
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Escude_Nicolas,Kiefer_Nicolas,Kiefer_Nicolas,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-3_6-2
@@ -15,7 +15,7 @@ Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Black_Byron,Ulihrach_Bohdan,
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Huet_Stephane,Muster_Thomas,Muster_Thomas,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,1,Norman_Magnus,Moya_Carlos,Moya_Carlos,Dubai_Duty_Free_Tennis_Championships,1999,02,14,1-6_6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Ilie_Andrew,Korda_Petr,Ilie_Andrew,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-1_6-3
-Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Van_HerckJohan,Kuerten_Gustavo,Kuerten_Gustavo,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-3_6-2
+Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Van_Herck_Johan,Kuerten_Gustavo,Kuerten_Gustavo,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-3_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Rusedski_Greg,Clavet_Francisco,Clavet_Francisco,Dubai_Duty_Free_Tennis_Championships,1999,02,14,3-6_7-5_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Kiefer_Nicolas,Costa_Albert,Kiefer_Nicolas,Dubai_Duty_Free_Tennis_Championships,1999,02,14,6-3_7-6(3)
 Dubai_Duty_Free_Tennis_Championships,2,1999,02,14,2,Kucera_Karol,Golmard_Jerome,Golmard_Jerome,Dubai_Duty_Free_Tennis_Championships,1999,02,14,7-6(6)_6-1

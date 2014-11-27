@@ -1,7 +1,7 @@
 Palermo,2,1993,10,03,1,Bruguera_Sergi,Arrese_Jordi,Bruguera_Sergi,Palermo,1993,10,03,6-7(3)_6-2_6-2
 Palermo,2,1993,10,03,1,Koevermans_Mark,Agenor_Ronald,Agenor_Ronald,Palermo,1993,10,03,6-2_4-6_6-4
 Palermo,2,1993,10,03,1,Fontang_Frederic,Davin_Franco,Fontang_Frederic,Palermo,1993,10,03,6-7(2)_7-6(4)_7-5
-Palermo,2,1993,10,03,1,Gisbert_JrJuan,Berasategui_Alberto,Gisbert_JrJuan,Palermo,1993,10,03,4-6_6-2_7-6(2)
+Palermo,2,1993,10,03,1,Gisbert_Jr_Juan,Berasategui_Alberto,Gisbert_Jr_Juan,Palermo,1993,10,03,4-6_6-2_7-6(2)
 Palermo,2,1993,10,03,1,Costa_Carlos,Carbonell_Tomas,Costa_Carlos,Palermo,1993,10,03,6-2_6-4
 Palermo,2,1993,10,03,1,Cane_Paolo,Schaller_Gilbert,Cane_Paolo,Palermo,1993,10,03,6-3_6-2
 Palermo,2,1993,10,03,1,Karbacher_Bernd,Vacek_Daniel,Vacek_Daniel,Palermo,1993,10,03,7-6(2)_6-2
@@ -10,12 +10,12 @@ Palermo,2,1993,10,03,1,Sanchez_Javier,Filippini_Marcelo,Sanchez_Javier,Palermo,1
 Palermo,2,1993,10,03,1,Pennisi_Pietro,Corretja_Alex,Corretja_Alex,Palermo,1993,10,03,6-1_6-1
 Palermo,2,1993,10,03,1,Clavet_Francisco,Gaudenzi_Andrea,Gaudenzi_Andrea,Palermo,1993,10,03,6-1_6-3
 Palermo,2,1993,10,03,1,Pescosolido_Stefano,Novacek_Karel,Pescosolido_Stefano,Palermo,1993,10,03,1-6_6-3_6-4
-Palermo,2,1993,10,03,1,Mattar_Luiz,De_LaPenaHoracio,Mattar_Luiz,Palermo,1993,10,03,6-2_2-6_6-4
+Palermo,2,1993,10,03,1,Mattar_Luiz,De_La_Pena_Horacio,Mattar_Luiz,Palermo,1993,10,03,6-2_2-6_6-4
 Palermo,2,1993,10,03,1,Burillo_Jordi,Nargiso_Diego,Burillo_Jordi,Palermo,1993,10,03,6-3_6-4
 Palermo,2,1993,10,03,1,Furlan_Renzo,Oncins_Jaime,Furlan_Renzo,Palermo,1993,10,03,6-4_7-5
 Palermo,2,1993,10,03,1,Azar_Roberto,Muster_Thomas,Muster_Thomas,Palermo,1993,10,03,6-1_6-3
 Palermo,2,1993,10,03,2,Bruguera_Sergi,Agenor_Ronald,Bruguera_Sergi,Palermo,1993,10,03,6-1_6-4
-Palermo,2,1993,10,03,2,Fontang_Frederic,Gisbert_JrJuan,Fontang_Frederic,Palermo,1993,10,03,6-4_7-6(6)
+Palermo,2,1993,10,03,2,Fontang_Frederic,Gisbert_Jr_Juan,Fontang_Frederic,Palermo,1993,10,03,6-4_7-6(6)
 Palermo,2,1993,10,03,2,Costa_Carlos,Cane_Paolo,Costa_Carlos,Palermo,1993,10,03,2-6_6-4_6-4
 Palermo,2,1993,10,03,2,Vacek_Daniel,Sanchez_Federico,Sanchez_Federico,Palermo,1993,10,03,3-6_7-5_6-1
 Palermo,2,1993,10,03,2,Sanchez_Javier,Corretja_Alex,Corretja_Alex,Palermo,1993,10,03,6-1_6-2

@@ -11,9 +11,9 @@ PBZ_Zagreb_Indoors,2,2012,02,05,1,Kubot_Lukasz,Viola_Matteo,Kubot_Lukasz,PBZ_Zag
 PBZ_Zagreb_Indoors,2,2012,02,05,1,Evans_Daniel,GarciaLopez_Guillermo,GarciaLopez_Guillermo,PBZ_Zagreb_Indoors,2012,02,05,6-4_1-6_6-1
 PBZ_Zagreb_Indoors,2,2012,02,05,1,Ilhan_Marsel,Dodig_Ivan,Dodig_Ivan,PBZ_Zagreb_Indoors,2012,02,05,7-6(5)_7-5
 PBZ_Zagreb_Indoors,2,2012,02,05,1,Haase_Robin,Mesaros_Kristijan,Haase_Robin,PBZ_Zagreb_Indoors,2012,02,05,6-2_6-3
-PBZ_Zagreb_Indoors,2,2012,02,05,1,Bachinger_Matthias,Van_derMerweIzak,Bachinger_Matthias,PBZ_Zagreb_Indoors,2012,02,05,6-3_6-3
+PBZ_Zagreb_Indoors,2,2012,02,05,1,Bachinger_Matthias,Van_der_Merwe_Izak,Bachinger_Matthias,PBZ_Zagreb_Indoors,2012,02,05,6-3_6-3
 PBZ_Zagreb_Indoors,2,2012,02,05,1,Starace_Potito,Lacko_Lukas,Lacko_Lukas,PBZ_Zagreb_Indoors,2012,02,05,7-6(2)_6-7(4)_6-3
-PBZ_Zagreb_Indoors,2,2012,02,05,1,Marcan_Dino,Bogomolov_JrAlex,Bogomolov_JrAlex,PBZ_Zagreb_Indoors,2012,02,05,6-3_6-1
+PBZ_Zagreb_Indoors,2,2012,02,05,1,Marcan_Dino,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,PBZ_Zagreb_Indoors,2012,02,05,6-3_6-1
 PBZ_Zagreb_Indoors,2,2012,02,05,2,Ljubicic_Ivan,Berrer_Michael,Berrer_Michael,PBZ_Zagreb_Indoors,2012,02,05,6-4_6-4
 PBZ_Zagreb_Indoors,2,2012,02,05,2,Melzer_Jurgen,Seppi_Andreas,Melzer_Jurgen,PBZ_Zagreb_Indoors,2012,02,05,6-2_6-3
 PBZ_Zagreb_Indoors,2,2012,02,05,2,Youzhny_Mikhail,Zemlja_Grega,Youzhny_Mikhail,PBZ_Zagreb_Indoors,2012,02,05,6-1_6-3
@@ -21,7 +21,7 @@ PBZ_Zagreb_Indoors,2,2012,02,05,2,Sela_Dudi,Karlovic_Ivo,Karlovic_Ivo,PBZ_Zagreb
 PBZ_Zagreb_Indoors,2,2012,02,05,2,Baghdatis_Marcos,Kubot_Lukasz,Baghdatis_Marcos,PBZ_Zagreb_Indoors,2012,02,05,6-4_6-2
 PBZ_Zagreb_Indoors,2,2012,02,05,2,GarciaLopez_Guillermo,Dodig_Ivan,Dodig_Ivan,PBZ_Zagreb_Indoors,2012,02,05,4-6_6-4_6-4
 PBZ_Zagreb_Indoors,2,2012,02,05,2,Haase_Robin,Bachinger_Matthias,Haase_Robin,PBZ_Zagreb_Indoors,2012,02,05,7-6(4)_3-6_6-3
-PBZ_Zagreb_Indoors,2,2012,02,05,2,Lacko_Lukas,Bogomolov_JrAlex,Lacko_Lukas,PBZ_Zagreb_Indoors,2012,02,05,6-0_6-7(1)_6-1
+PBZ_Zagreb_Indoors,2,2012,02,05,2,Lacko_Lukas,Bogomolov_Jr_Alex,Lacko_Lukas,PBZ_Zagreb_Indoors,2012,02,05,6-0_6-7(1)_6-1
 PBZ_Zagreb_Indoors,2,2012,02,05,3,Berrer_Michael,Melzer_Jurgen,Berrer_Michael,PBZ_Zagreb_Indoors,2012,02,05,5-7_6-4_6-4
 PBZ_Zagreb_Indoors,2,2012,02,05,3,Youzhny_Mikhail,Karlovic_Ivo,Youzhny_Mikhail,PBZ_Zagreb_Indoors,2012,02,05,7-6(10)_3-6_7-6(6)
 PBZ_Zagreb_Indoors,2,2012,02,05,3,Baghdatis_Marcos,Dodig_Ivan,Baghdatis_Marcos,PBZ_Zagreb_Indoors,2012,02,05,6-4_7-5

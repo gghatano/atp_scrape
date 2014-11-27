@@ -5,7 +5,7 @@ Royal_Guard_Open_Chile_,2,1994,10,30,1,Wilander_Mats,Carbonell_Tomas,Carbonell_T
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Dosedel_Slava,Martinez_Oscar,Dosedel_Slava,Royal_Guard_Open_Chile_,1994,10,30,6-2_6-4
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Rodriguez_Martin,Miniussi_Christian,Miniussi_Christian,Royal_Guard_Open_Chile_,1994,10,30,6-4_7-6(2)
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Mancisidor_Alejo,Arrese_Jordi,Arrese_Jordi,Royal_Guard_Open_Chile_,1994,10,30,6-2_6-4
-Royal_Guard_Open_Chile_,2,1994,10,30,1,El_AynaouiYounes,Schaller_Gilbert,Schaller_Gilbert,Royal_Guard_Open_Chile_,1994,10,30,6-3_6-2
+Royal_Guard_Open_Chile_,2,1994,10,30,1,El_Aynaoui_Younes,Schaller_Gilbert,Schaller_Gilbert,Royal_Guard_Open_Chile_,1994,10,30,6-3_6-2
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Costa_Albert,Markus_Gabriel,Markus_Gabriel,Royal_Guard_Open_Chile_,1994,10,30,6-2_6-4
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Clavet_Francisco,Alami_Karim,Clavet_Francisco,Royal_Guard_Open_Chile_,1994,10,30,7-5_6-4
 Royal_Guard_Open_Chile_,2,1994,10,30,1,Silberstein_Gabriel,Meligeni_Fernando,Meligeni_Fernando,Royal_Guard_Open_Chile_,1994,10,30,6-4_6-2

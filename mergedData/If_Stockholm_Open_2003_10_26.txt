@@ -1,9 +1,9 @@
-If_Stockholm_Open,2,2003,10,26,1,Srichaphan_Paradorn,van_LottumJohn,van_LottumJohn,If_Stockholm_Open,2003,10,26,7-5_6-1
+If_Stockholm_Open,2,2003,10,26,1,Srichaphan_Paradorn,van_Lottum_John,van_Lottum_John,If_Stockholm_Open,2003,10,26,7-5_6-1
 If_Stockholm_Open,2,2003,10,26,1,Vinciguerra_Andreas,Bjorkman_Jonas,Bjorkman_Jonas,If_Stockholm_Open,2003,10,26,4-6_6-2_6-1
 If_Stockholm_Open,2,2003,10,26,1,Moodie_Wesley,Soderling_Robin,Soderling_Robin,If_Stockholm_Open,2003,10,26,4-6_6-3_6-3
-If_Stockholm_Open,2,2003,10,26,1,Chela_JuanIgnacio,Ferreira_Wayne,Chela_JuanIgnacio,If_Stockholm_Open,2003,10,26,6-4_6-2
+If_Stockholm_Open,2,2003,10,26,1,Chela_Juan_Ignacio,Ferreira_Wayne,Chela_Juan_Ignacio,If_Stockholm_Open,2003,10,26,6-4_6-2
 If_Stockholm_Open,2,2003,10,26,1,Gonzalez_Fernando,Beck_Karol,Gonzalez_Fernando,If_Stockholm_Open,2003,10,26,3-6_6-1_6-1
-If_Stockholm_Open,2,2003,10,26,1,Johansson_Joachim,Andersen_JanFrode,Johansson_Joachim,If_Stockholm_Open,2003,10,26,7-5_6-3
+If_Stockholm_Open,2,2003,10,26,1,Johansson_Joachim,Andersen_Jan_Frode,Johansson_Joachim,If_Stockholm_Open,2003,10,26,7-5_6-3
 If_Stockholm_Open,2,2003,10,26,1,Sanguinetti_Davide,Gambill_JanMichael,Sanguinetti_Davide,If_Stockholm_Open,2003,10,26,5-4_RET
 If_Stockholm_Open,2,2003,10,26,1,Carraz_Gregory,Nieminen_Jarkko,Carraz_Gregory,If_Stockholm_Open,2003,10,26,7-6(5)_5-7_6-2
 If_Stockholm_Open,2,2003,10,26,1,Fish_Mardy,Baccanello_Paul,Fish_Mardy,If_Stockholm_Open,2003,10,26,6-4_7-6(4)
@@ -14,8 +14,8 @@ If_Stockholm_Open,2,2003,10,26,1,Zabaleta_Mariano,Carlsen_Kenneth,Carlsen_Kennet
 If_Stockholm_Open,2,2003,10,26,1,Arazi_Hicham,Enqvist_Thomas,Enqvist_Thomas,If_Stockholm_Open,2003,10,26,7-5_6-3
 If_Stockholm_Open,2,2003,10,26,1,Vliegen_Kristof,Ginepri_Robby,Ginepri_Robby,If_Stockholm_Open,2003,10,26,6-1_6-3
 If_Stockholm_Open,2,2003,10,26,1,Dent_Taylor,Schalken_Sjeng,Dent_Taylor,If_Stockholm_Open,2003,10,26,6-3_7-5
-If_Stockholm_Open,2,2003,10,26,2,van_LottumJohn,Bjorkman_Jonas,Bjorkman_Jonas,If_Stockholm_Open,2003,10,26,6-1_6-4
-If_Stockholm_Open,2,2003,10,26,2,Soderling_Robin,Chela_JuanIgnacio,Soderling_Robin,If_Stockholm_Open,2003,10,26,6-4_6-3
+If_Stockholm_Open,2,2003,10,26,2,van_Lottum_John,Bjorkman_Jonas,Bjorkman_Jonas,If_Stockholm_Open,2003,10,26,6-1_6-4
+If_Stockholm_Open,2,2003,10,26,2,Soderling_Robin,Chela_Juan_Ignacio,Soderling_Robin,If_Stockholm_Open,2003,10,26,6-4_6-3
 If_Stockholm_Open,2,2003,10,26,2,Gonzalez_Fernando,Johansson_Joachim,Johansson_Joachim,If_Stockholm_Open,2003,10,26,4-6_6-4_7-5
 If_Stockholm_Open,2,2003,10,26,2,Sanguinetti_Davide,Carraz_Gregory,Sanguinetti_Davide,If_Stockholm_Open,2003,10,26,6-3_2-6_7-5
 If_Stockholm_Open,2,2003,10,26,2,Fish_Mardy,Benneteau_Julien,Fish_Mardy,If_Stockholm_Open,2003,10,26,6-4_6-4

@@ -9,9 +9,9 @@ Stowe,2,1982,01,10,1,Lapidus_Jay,Arias_Jimmy,Arias_Jimmy,Stowe,1982,01,10,7-5_6-
 Stowe,2,1982,01,10,1,Mayotte_Tim,Maharaj_Gewan,Mayotte_Tim,Stowe,1982,01,10,6-3_6-1
 Stowe,2,1982,01,10,1,Delatte_Tracy,Ostoja_Marko,Ostoja_Marko,Stowe,1982,01,10,2-6_6-2_6-1
 Stowe,2,1982,01,10,1,Stefanki_Larry,Smith_Jonathan,Stefanki_Larry,Stowe,1982,01,10,6-3_6-3
-Stowe,2,1982,01,10,1,Strode_CharlesBuzz,Lutz_Robert,Strode_CharlesBuzz,Stowe,1982,01,10,6-7_6-2_6-1
+Stowe,2,1982,01,10,1,Strode_Charles_Buzz,Lutz_Robert,Strode_Charles_Buzz,Stowe,1982,01,10,6-7_6-2_6-1
 Stowe,2,1982,01,10,1,Hightower_Ron,Moretton_Gilles,Moretton_Gilles,Stowe,1982,01,10,6-3_2-6_7-6
-Stowe,2,1982,01,10,1,Strode_MorrisSkip,Bourne_Lloyd,Bourne_Lloyd,Stowe,1982,01,10,6-4_7-5
+Stowe,2,1982,01,10,1,Strode_Morris_Skip,Bourne_Lloyd,Bourne_Lloyd,Stowe,1982,01,10,6-4_7-5
 Stowe,2,1982,01,10,1,Leach_Mike,Doyle_Matt,Leach_Mike,Stowe,1982,01,10,6-3_6-4
 Stowe,2,1982,01,10,1,Fletcher_Ian,Gottfried_Brian,Gottfried_Brian,Stowe,1982,01,10,6-2_6-3
 Stowe,2,1982,01,10,2,Kriek_Johan,Stockton_Dick,Kriek_Johan,Stowe,1982,01,10,0-6_6-4_7-6
@@ -19,7 +19,7 @@ Stowe,2,1982,01,10,2,Graham_Tony,Mayotte_Chris,Graham_Tony,Stowe,1982,01,10,7-6_
 Stowe,2,1982,01,10,2,Buehning_Fritz,Davis_John,Buehning_Fritz,Stowe,1982,01,10,6-1_6-0
 Stowe,2,1982,01,10,2,Mitchell_Matt,Arias_Jimmy,Arias_Jimmy,Stowe,1982,01,10,6-3_5-7_7-5
 Stowe,2,1982,01,10,2,Mayotte_Tim,Ostoja_Marko,Ostoja_Marko,Stowe,1982,01,10,7-6_4-6_6-2
-Stowe,2,1982,01,10,2,Stefanki_Larry,Strode_CharlesBuzz,Stefanki_Larry,Stowe,1982,01,10,6-3_6-1
+Stowe,2,1982,01,10,2,Stefanki_Larry,Strode_Charles_Buzz,Stefanki_Larry,Stowe,1982,01,10,6-3_6-1
 Stowe,2,1982,01,10,2,Moretton_Gilles,Bourne_Lloyd,Moretton_Gilles,Stowe,1982,01,10,7-6_6-7_7-6
 Stowe,2,1982,01,10,2,Leach_Mike,Gottfried_Brian,Gottfried_Brian,Stowe,1982,01,10,4-6_6-3_6-2
 Stowe,2,1982,01,10,3,Kriek_Johan,Graham_Tony,Graham_Tony,Stowe,1982,01,10,6-3_6-2

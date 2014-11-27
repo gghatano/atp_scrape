@@ -8,7 +8,7 @@ Austrian_Open,2,1975,07,20,1,Bertolucci_Paolo,Feaver_John,Bertolucci_Paolo,Austr
 Austrian_Open,2,1975,07,20,1,Benyik_Janos,Kronk_Paul,Benyik_Janos,Austrian_Open,1975,07,20,7-5_6-4
 Austrian_Open,2,1975,07,20,1,Elschenbroich_Harald,Holecek_Milan,Elschenbroich_Harald,Austrian_Open,1975,07,20,4-6_7-5_6-1
 Austrian_Open,2,1975,07,20,1,Panatta_Adriano,Baranyi_Szabolcz,Panatta_Adriano,Austrian_Open,1975,07,20,6-1_6-1
-Austrian_Open,2,1975,07,20,1,Dominguez_Patrice,Mandarino_JoseEdison,Dominguez_Patrice,Austrian_Open,1975,07,20,6-4_2-6_6-0
+Austrian_Open,2,1975,07,20,1,Dominguez_Patrice,Mandarino_Jose_Edison,Dominguez_Patrice,Austrian_Open,1975,07,20,6-4_2-6_6-0
 Austrian_Open,2,1975,07,20,1,Taroczy_Balazs,Holmes_Norman,Taroczy_Balazs,Austrian_Open,1975,07,20,6-3_6-3
 Austrian_Open,2,1975,07,20,1,Pokorny_Peter,Korpas_Attila,Pokorny_Peter,Austrian_Open,1975,07,20,6-4_2-6_6-4
 Austrian_Open,2,1975,07,20,1,Hrebec_Jiri,Letcher_Cliff,Hrebec_Jiri,Austrian_Open,1975,07,20,3-6_6-2_11-9

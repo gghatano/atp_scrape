@@ -3,7 +3,7 @@ Brisbane,2,1989,10,08,1,Woodbridge_Todd,Ali_Zeeshan,Woodbridge_Todd,Brisbane,198
 Brisbane,2,1989,10,08,1,Warner_Scott,Anderson_Johan,Anderson_Johan,Brisbane,1989,10,08,7-6_6-3
 Brisbane,2,1989,10,08,1,Doohan_Peter,Cahill_Darren,Cahill_Darren,Brisbane,1989,10,08,6-3_6-3
 Brisbane,2,1989,10,08,1,Jelen_Eric,Mronz_Alexander,Jelen_Eric,Brisbane,1989,10,08,6-2_6-1
-Brisbane,2,1989,10,08,1,Vant_HofRobert,Youl_Simon,Youl_Simon,Brisbane,1989,10,08,6-4_1-6_6-2
+Brisbane,2,1989,10,08,1,Vant_Hof_Robert,Youl_Simon,Youl_Simon,Brisbane,1989,10,08,6-4_1-6_6-2
 Brisbane,2,1989,10,08,1,Fromberg_Richard,Lewis_David,Fromberg_Richard,Brisbane,1989,10,08,6-3_6-2
 Brisbane,2,1989,10,08,1,Woodforde_Mark,Menezes_Mauro,Woodforde_Mark,Brisbane,1989,10,08,6-4_6-0
 Brisbane,2,1989,10,08,1,Shiras_Leif,Eagle_Charlton,Shiras_Leif,Brisbane,1989,10,08,6-2_3-6_6-3

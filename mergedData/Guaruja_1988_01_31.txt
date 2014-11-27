@@ -1,6 +1,6 @@
 Guaruja,2,1988,01,31,1,Teltscher_Eliot,Kley_Ivan,Teltscher_Eliot,Guaruja,1988,01,31,7-5_6-2
 Guaruja,2,1988,01,31,1,Campos_Dacio,Baur_Patrick,Baur_Patrick,Guaruja,1988,01,31,7-5_6-4
-Guaruja,2,1988,01,31,1,Kist_Cesar,Cox_CharlesBud,Cox_CharlesBud,Guaruja,1988,01,31,6-2_6-4
+Guaruja,2,1988,01,31,1,Kist_Cesar,Cox_Charles_Bud,Cox_Charles_Bud,Guaruja,1988,01,31,6-2_6-4
 Guaruja,2,1988,01,31,1,Acuna_Ricardo,Arraya_Pablo,Arraya_Pablo,Guaruja,1988,01,31,6-4_6-4
 Guaruja,2,1988,01,31,1,Frana_Javier,Daher_Jose,Frana_Javier,Guaruja,1988,01,31,7-6_7-6
 Guaruja,2,1988,01,31,1,Marcelino_Danilo,Garetto_Gustavo,Marcelino_Danilo,Guaruja,1988,01,31,6-4_6-3
@@ -11,11 +11,11 @@ Guaruja,2,1988,01,31,1,Aerts_Nelson,Wostenholme_Martin,Wostenholme_Martin,Guaruj
 Guaruja,2,1988,01,31,1,Arguello_Roberto,Willenborg_Blaine,Arguello_Roberto,Guaruja,1988,01,31,7-5_3-6_6-3
 Guaruja,2,1988,01,31,1,Hocevar_Alexandre,Duncan_Lawson,Duncan_Lawson,Guaruja,1988,01,31,6-3_6-1
 Guaruja,2,1988,01,31,1,Motta_Cassio,Rackl_Markus,Motta_Cassio,Guaruja,1988,01,31,6-1_6-2
-Guaruja,2,1988,01,31,1,Montes_DeOcaDaniel,Acioly_Ricardo,Acioly_Ricardo,Guaruja,1988,01,31,6-3_6-2
+Guaruja,2,1988,01,31,1,Montes_De_Oca_Daniel,Acioly_Ricardo,Acioly_Ricardo,Guaruja,1988,01,31,6-3_6-2
 Guaruja,2,1988,01,31,1,Bathman_Ronnie,Della_Otavio,Della_Otavio,Guaruja,1988,01,31,6-4_3-6_6-2
 Guaruja,2,1988,01,31,1,Kass_David,Mattar_Luiz,Mattar_Luiz,Guaruja,1988,01,31,6-3_6-3
 Guaruja,2,1988,01,31,2,Teltscher_Eliot,Baur_Patrick,Teltscher_Eliot,Guaruja,1988,01,31,6-3_6-3
-Guaruja,2,1988,01,31,2,Cox_CharlesBud,Arraya_Pablo,Arraya_Pablo,Guaruja,1988,01,31,6-3_6-3
+Guaruja,2,1988,01,31,2,Cox_Charles_Bud,Arraya_Pablo,Arraya_Pablo,Guaruja,1988,01,31,6-3_6-3
 Guaruja,2,1988,01,31,2,Frana_Javier,Marcelino_Danilo,Marcelino_Danilo,Guaruja,1988,01,31,7-5_6-2
 Guaruja,2,1988,01,31,2,Barbosa_Givaldo,Perez_Diego,Perez_Diego,Guaruja,1988,01,31,6-3_6-3
 Guaruja,2,1988,01,31,2,Filippini_Marcelo,Wostenholme_Martin,Wostenholme_Martin,Guaruja,1988,01,31,2-6_7-6_RET

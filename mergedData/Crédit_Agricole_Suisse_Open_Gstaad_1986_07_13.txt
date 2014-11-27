@@ -9,7 +9,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Maurer_Andreas,Forget_Guy,Mau
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Hlasek_Jakob,Schwaier_Hans,Hlasek_Jakob,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,6-1_7-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Fibak_Wojtek,Oresar_Bruno,Oresar_Bruno,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,3-6_6-1_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Casal_Sergio,Slozil_Pavel,Slozil_Pavel,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,6-1_6-3
-Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Cox_CharlesBud,Sanchez_Emilio,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,6-4_7-6
+Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Cox_Charles_Bud,Sanchez_Emilio,Sanchez_Emilio,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,6-4_7-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Smid_Tomas,Wostenholme_Martin,Smid_Tomas,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,4-6_6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Hogstedt_Thomas,Osterthun_Ricki,Osterthun_Ricki,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,6-2_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1986,07,13,1,Stadler_Roland,Panatta_Claudio,Stadler_Roland,Crédit_Agricole_Suisse_Open_Gstaad,1986,07,13,4-6_6-3_6-2

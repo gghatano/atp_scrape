@@ -12,7 +12,7 @@ Portugal_Open,2,2008,04,20,1,Naso_Gianluca,Serra_Florent,Serra_Florent,Portugal_
 Portugal_Open,2,2008,04,20,1,Machado_Rui,Karlovic_Ivo,Machado_Rui,Portugal_Open,2008,04,20,6-4_1-0_RET
 Portugal_Open,2,2008,04,20,1,Gicquel_Marc,Pashanski_Boris,Gicquel_Marc,Portugal_Open,2008,04,20,6-4_6-3
 Portugal_Open,2,2008,04,20,1,Ascione_Thierry,Kudryavtsev_Alexander,Ascione_Thierry,Portugal_Open,2008,04,20,6-1_6-4
-Portugal_Open,2,2008,04,20,1,Minar_Ivo,Vassallo_ArguelloMartin,Minar_Ivo,Portugal_Open,2008,04,20,7-5_6-1
+Portugal_Open,2,2008,04,20,1,Minar_Ivo,Vassallo_Arguello_Martin,Minar_Ivo,Portugal_Open,2008,04,20,7-5_6-1
 Portugal_Open,2,2008,04,20,1,Melzer_Jurgen,Davydenko_Nikolay,Davydenko_Nikolay,Portugal_Open,2008,04,20,6-3_6-1
 Portugal_Open,2,2008,04,20,2,Federer_Roger,Hanescu_Victor,Federer_Roger,Portugal_Open,2008,04,20,6-3_6-2
 Portugal_Open,2,2008,04,20,2,Sousa_Joao,Gil_Frederico,Gil_Frederico,Portugal_Open,2008,04,20,7-6(5)_6-2

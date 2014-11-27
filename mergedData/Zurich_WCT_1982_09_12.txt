@@ -4,7 +4,7 @@ Zurich_WCT,2,1982,09,12,1,Scanlon_Bill,Birner_Stanislav,Scanlon_Bill,Zurich_WCT,
 Zurich_WCT,2,1982,09,12,1,Iskersky_Erick,Fibak_Wojtek,Fibak_Wojtek,Zurich_WCT,1982,09,12,6-2_6-1
 Zurich_WCT,2,1982,09,12,1,Graham_Tony,Portes_Pascal,Portes_Pascal,Zurich_WCT,1982,09,12,7-6_7-6
 Zurich_WCT,2,1982,09,12,1,Rennert_Peter,Gonzalez_Francisco,Rennert_Peter,Zurich_WCT,1982,09,12,6-3_7-6
-Zurich_WCT,2,1982,09,12,1,Giammalva_JrSammy,Dunk_Chris,Dunk_Chris,Zurich_WCT,1982,09,12,6-3_7-6
+Zurich_WCT,2,1982,09,12,1,Giammalva_Jr_Sammy,Dunk_Chris,Dunk_Chris,Zurich_WCT,1982,09,12,6-3_7-6
 Zurich_WCT,2,1982,09,12,1,Austin_John,Glickstein_Shlomo,Glickstein_Shlomo,Zurich_WCT,1982,09,12,6-2_6-3
 Zurich_WCT,2,1982,09,12,1,Curren_Kevin,Gunthardt_Heinz,Curren_Kevin,Zurich_WCT,1982,09,12,6-3_6-3
 Zurich_WCT,2,1982,09,12,1,Stadler_Roland,Ycaza_Ricardo,Stadler_Roland,Zurich_WCT,1982,09,12,6-1_6-3

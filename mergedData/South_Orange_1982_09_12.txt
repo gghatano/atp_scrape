@@ -6,12 +6,12 @@ South_Orange,2,1982,09,12,1,Glickstein_Shlomo,Siegler_Dave,Glickstein_Shlomo,Sou
 South_Orange,2,1982,09,12,1,Meister_Steve,Amritraj_Anand,Amritraj_Anand,South_Orange,1982,09,12,7-5_7-6
 South_Orange,2,1982,09,12,1,Martinez_Mario,Drewett_Brad,Martinez_Mario,South_Orange,1982,09,12,6-3_6-7_7-6
 South_Orange,2,1982,09,12,1,Iskersky_Erick,Wilkison_Tim,Iskersky_Erick,South_Orange,1982,09,12,6-1_7-5
-South_Orange,2,1982,09,12,1,Ganzabal_Alejandro,Giammalva_JrSammy,Ganzabal_Alejandro,South_Orange,1982,09,12,4-6_6-1_6-4
+South_Orange,2,1982,09,12,1,Ganzabal_Alejandro,Giammalva_Jr_Sammy,Ganzabal_Alejandro,South_Orange,1982,09,12,4-6_6-1_6-4
 South_Orange,2,1982,09,12,1,Carter_David,Cahill_Mike,Cahill_Mike,South_Orange,1982,09,12,6-4_RET
 South_Orange,2,1982,09,12,1,Stockton_Dick,Freeman_Marcel,Stockton_Dick,South_Orange,1982,09,12,7-6_6-0
-South_Orange,2,1982,09,12,1,Van_DerMerweSchalk,Winitsky_Van,Winitsky_Van,South_Orange,1982,09,12,5-7_7-6_6-2
+South_Orange,2,1982,09,12,1,Van_Der_Merwe_Schalk,Winitsky_Van,Winitsky_Van,South_Orange,1982,09,12,5-7_7-6_6-2
 South_Orange,2,1982,09,12,1,Krishnan_Ramesh,Hayes_John,Krishnan_Ramesh,South_Orange,1982,09,12,6-4_6-1
-South_Orange,2,1982,09,12,1,Lapidus_Jay,De_PalmerMike,Lapidus_Jay,South_Orange,1982,09,12,6-4_6-2
+South_Orange,2,1982,09,12,1,Lapidus_Jay,De_Palmer_Mike,Lapidus_Jay,South_Orange,1982,09,12,6-4_6-2
 South_Orange,2,1982,09,12,1,Bauer_Mike,Anger_Matt,Anger_Matt,South_Orange,1982,09,12,6-2_3-6_6-3
 South_Orange,2,1982,09,12,1,Witsken_Todd,Ramirez_Raul,Ramirez_Raul,South_Orange,1982,09,12,4-6_6-3_6-4
 South_Orange,2,1982,09,12,2,Noah_Yannick,James_John,Noah_Yannick,South_Orange,1982,09,12,6-2_6-2

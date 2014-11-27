@@ -8,8 +8,8 @@ Aegon_Championships,2,1970,06,21,1,Crealy_Dick,Alvarez_William,Crealy_Dick,Aegon
 Aegon_Championships,2,1970,06,21,1,Kendal_Allan,Graebner_Clark,Graebner_Clark,Aegon_Championships,1970,06,21,6-3_6-4
 Aegon_Championships,2,1970,06,21,1,Okker_Tom,Dent_Phil,Okker_Tom,Aegon_Championships,1970,06,21,6-3_6-3
 Aegon_Championships,2,1970,06,21,1,Barth_Roy,Mukerjea_Jaidip,Mukerjea_Jaidip,Aegon_Championships,1970,06,21,6-3_11-9
-Aegon_Championships,2,1970,06,21,1,Mottram_BusterC,Richey_Cliff,Richey_Cliff,Aegon_Championships,1970,06,21,6-2_6-1
-Aegon_Championships,2,1970,06,21,1,Guzman_PanchoJF,Emerson_Roy,Guzman_PanchoJF,Aegon_Championships,1970,06,21,W/O
+Aegon_Championships,2,1970,06,21,1,Mottram_Buster_C,Richey_Cliff,Richey_Cliff,Aegon_Championships,1970,06,21,6-2_6-1
+Aegon_Championships,2,1970,06,21,1,Guzman_Pancho_JF,Emerson_Roy,Guzman_Pancho_JF,Aegon_Championships,1970,06,21,W/O
 Aegon_Championships,2,1970,06,21,1,Fassbender_Jurgen,Goven_Georges,Goven_Georges,Aegon_Championships,1970,06,21,W/O
 Aegon_Championships,2,1970,06,21,1,Bowrey_Bill,Ryan_Terry,Ryan_Terry,Aegon_Championships,1970,06,21,4-6_6-3_6-4
 Aegon_Championships,2,1970,06,21,1,LoyoMayo_Joaquin,McDonald_John,LoyoMayo_Joaquin,Aegon_Championships,1970,06,21,4-6_6-2_6-2
@@ -26,8 +26,8 @@ Aegon_Championships,2,1970,06,21,1,Orantes_Manuel,Pokorny_Peter,Orantes_Manuel,A
 Aegon_Championships,2,1970,06,21,1,Likhachev_Sergei,Davidson_Owen,Davidson_Owen,Aegon_Championships,1970,06,21,6-4_6-4
 Aegon_Championships,2,1970,06,21,1,Pattison_Andrew,Alexander_John,Pattison_Andrew,Aegon_Championships,1970,06,21,7-5_6-4
 Aegon_Championships,2,1970,06,21,1,Chanfreau_JeanBaptiste,Pasarell_Charlie,Pasarell_Charlie,Aegon_Championships,1970,06,21,6-3_9-7
-Aegon_Championships,2,1970,06,21,1,Hoad_Lew,Russell_DRichard,Russell_DRichard,Aegon_Championships,1970,06,21,W/O
-Aegon_Championships,2,1970,06,21,1,El_ShafeiIsmail,Gorman_Tom,Gorman_Tom,Aegon_Championships,1970,06,21,6-2_6-3
+Aegon_Championships,2,1970,06,21,1,Hoad_Lew,Russell_D_Richard,Russell_D_Richard,Aegon_Championships,1970,06,21,W/O
+Aegon_Championships,2,1970,06,21,1,El_Shafei_Ismail,Gorman_Tom,Gorman_Tom,Aegon_Championships,1970,06,21,6-2_6-3
 Aegon_Championships,2,1970,06,21,1,Contet_Daniel,Buding_Ingo,Contet_Daniel,Aegon_Championships,1970,06,21,6-8_6-3_6-3
 Aegon_Championships,2,1970,06,21,1,Volkov_Anatoli,Newcombe_John,Newcombe_John,Aegon_Championships,1970,06,21,6-4_7-9_6-2
 Aegon_Championships,2,1970,06,21,2,Laver_Rod,Lall_Premjit,Laver_Rod,Aegon_Championships,1970,06,21,6-3_6-4
@@ -35,7 +35,7 @@ Aegon_Championships,2,1970,06,21,2,Lutz_Robert,Koudelka_Stepan,Lutz_Robert,Aegon
 Aegon_Championships,2,1970,06,21,2,Rouyer_JeanLoup,Drysdale_Cliff,Drysdale_Cliff,Aegon_Championships,1970,06,21,6-4_6-0
 Aegon_Championships,2,1970,06,21,2,Crealy_Dick,Graebner_Clark,Crealy_Dick,Aegon_Championships,1970,06,21,6-2_1-6_6-0
 Aegon_Championships,2,1970,06,21,2,Okker_Tom,Mukerjea_Jaidip,Mukerjea_Jaidip,Aegon_Championships,1970,06,21,6-2_2-6_9-7
-Aegon_Championships,2,1970,06,21,2,Richey_Cliff,Guzman_PanchoJF,Richey_Cliff,Aegon_Championships,1970,06,21,W/O
+Aegon_Championships,2,1970,06,21,2,Richey_Cliff,Guzman_Pancho_JF,Richey_Cliff,Aegon_Championships,1970,06,21,W/O
 Aegon_Championships,2,1970,06,21,2,Goven_Georges,Ryan_Terry,Goven_Georges,Aegon_Championships,1970,06,21,7-5_4-6_6-3
 Aegon_Championships,2,1970,06,21,2,LoyoMayo_Joaquin,Ralston_Dennis,Ralston_Dennis,Aegon_Championships,1970,06,21,8-6_6-2
 Aegon_Championships,2,1970,06,21,2,Riessen_Marty,Korotkov_Vladimir,Riessen_Marty,Aegon_Championships,1970,06,21,6-2_6-2
@@ -44,7 +44,7 @@ Aegon_Championships,2,1970,06,21,2,McMillan_Frew,Ploetz_HansJoachim,McMillan_Fre
 Aegon_Championships,2,1970,06,21,2,Metreveli_Alex,Taylor_Roger,Metreveli_Alex,Aegon_Championships,1970,06,21,4-6_6-3_8-6
 Aegon_Championships,2,1970,06,21,2,Orantes_Manuel,Davidson_Owen,Davidson_Owen,Aegon_Championships,1970,06,21,6-4_1-6_6-3
 Aegon_Championships,2,1970,06,21,2,Pattison_Andrew,Pasarell_Charlie,Pasarell_Charlie,Aegon_Championships,1970,06,21,6-3_9-7
-Aegon_Championships,2,1970,06,21,2,Russell_DRichard,Gorman_Tom,Gorman_Tom,Aegon_Championships,1970,06,21,7-5_6-4
+Aegon_Championships,2,1970,06,21,2,Russell_D_Richard,Gorman_Tom,Gorman_Tom,Aegon_Championships,1970,06,21,7-5_6-4
 Aegon_Championships,2,1970,06,21,2,Contet_Daniel,Newcombe_John,Newcombe_John,Aegon_Championships,1970,06,21,6-3_1-6_6-3
 Aegon_Championships,2,1970,06,21,3,Laver_Rod,Lutz_Robert,Laver_Rod,Aegon_Championships,1970,06,21,6-1_8-6
 Aegon_Championships,2,1970,06,21,3,Drysdale_Cliff,Crealy_Dick,Crealy_Dick,Aegon_Championships,1970,06,21,6-4_6-1

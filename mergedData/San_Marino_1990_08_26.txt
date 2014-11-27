@@ -1,9 +1,9 @@
 San_Marino,2,1990,08,26,1,PerezRoldan_Guillermo,Cierro_Massimo,PerezRoldan_Guillermo,San_Marino,1990,08,26,4-6_6-3_6-4
 San_Marino,2,1990,08,26,1,Pambianco_Paolo,Brown_Jimmy,Pambianco_Paolo,San_Marino,1990,08,26,6-4_6-3
-San_Marino,2,1990,08,26,1,Gorriz_MarcosAurelio,Clavet_Francisco,Clavet_Francisco,San_Marino,1990,08,26,6-2_7-6
+San_Marino,2,1990,08,26,1,Gorriz_Marcos_Aurelio,Clavet_Francisco,Clavet_Francisco,San_Marino,1990,08,26,6-2_7-6
 San_Marino,2,1990,08,26,1,Furlan_Renzo,Azar_Roberto,Furlan_Renzo,San_Marino,1990,08,26,6-4_6-2
 San_Marino,2,1990,08,26,1,Filippini_Marcelo,CunhaSilva_Joao,Filippini_Marcelo,San_Marino,1990,08,26,6-7_6-3_6-0
-San_Marino,2,1990,08,26,1,Boscatto_Massimo,Altur_JoseFrancisco,Altur_JoseFrancisco,San_Marino,1990,08,26,7-6_2-6_7-6
+San_Marino,2,1990,08,26,1,Boscatto_Massimo,Altur_Jose_Francisco,Altur_Jose_Francisco,San_Marino,1990,08,26,7-6_2-6_7-6
 San_Marino,2,1990,08,26,1,Arraya_Pablo,Pistolesi_Claudio,Arraya_Pablo,San_Marino,1990,08,26,6-4_6-1
 San_Marino,2,1990,08,26,1,Mezzadri_Claudio,Prpic_Goran,Prpic_Goran,San_Marino,1990,08,26,6-3_4-2_RET
 San_Marino,2,1990,08,26,1,Camporese_Omar,Bruno_Nicola,Camporese_Omar,San_Marino,1990,08,26,6-3_7-5
@@ -16,7 +16,7 @@ San_Marino,2,1990,08,26,1,Pescosolido_Stefano,Kulti_Nicklas,Kulti_Nicklas,San_Ma
 San_Marino,2,1990,08,26,1,Mordegan_Federico,Skoff_Horst,Skoff_Horst,San_Marino,1990,08,26,6-3_6-0
 San_Marino,2,1990,08,26,2,PerezRoldan_Guillermo,Pambianco_Paolo,PerezRoldan_Guillermo,San_Marino,1990,08,26,7-6_6-1
 San_Marino,2,1990,08,26,2,Clavet_Francisco,Furlan_Renzo,Furlan_Renzo,San_Marino,1990,08,26,3-6_6-4_6-0
-San_Marino,2,1990,08,26,2,Filippini_Marcelo,Altur_JoseFrancisco,Filippini_Marcelo,San_Marino,1990,08,26,6-2_7-5
+San_Marino,2,1990,08,26,2,Filippini_Marcelo,Altur_Jose_Francisco,Filippini_Marcelo,San_Marino,1990,08,26,6-2_7-5
 San_Marino,2,1990,08,26,2,Arraya_Pablo,Prpic_Goran,Arraya_Pablo,San_Marino,1990,08,26,7-5_6-4
 San_Marino,2,1990,08,26,2,Camporese_Omar,Pioline_Cedric,Camporese_Omar,San_Marino,1990,08,26,6-4_3-6_6-3
 San_Marino,2,1990,08,26,2,Tulasne_Thierry,Davin_Franco,Davin_Franco,San_Marino,1990,08,26,3-6_6-3_7-5

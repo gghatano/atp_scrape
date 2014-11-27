@@ -12,8 +12,8 @@ BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Sabau_Razvan,Kohlschreiber_Philipp,Kohl
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Vliegen_Kristof,Andreev_Igor,Andreev_Igor,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-2_6-3
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Ferrer_David,Wawrinka_Stan,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-4_7-6(4)
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Clement_Arnaud,Djokovic_Novak,Djokovic_Novak,BRD_Nastase_Tiriac_Trophy,2004,09,19,2-6_6-4_6-4
-BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Di_PasqualeArnaud,Elsner_Daniel,Di_PasqualeArnaud,BRD_Nastase_Tiriac_Trophy,2004,09,19,4-0_RET
-BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Van_ScheppingenDennis,Mayer_Florian,Mayer_Florian,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-1_6-1
+BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Di_Pasquale_Arnaud,Elsner_Daniel,Di_Pasquale_Arnaud,BRD_Nastase_Tiriac_Trophy,2004,09,19,4-0_RET
+BRD_Nastase_Tiriac_Trophy,2,2004,09,19,1,Van_Scheppingen_Dennis,Mayer_Florian,Mayer_Florian,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-1_6-1
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Hanescu_Victor,Koubek_Stefan,Hanescu_Victor,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-2_6-3
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Gasquet_Richard,Volandri_Filippo,Volandri_Filippo,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-2_1-6_6-3
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Mathieu_PaulHenri,Corretja_Alex,Mathieu_PaulHenri,BRD_Nastase_Tiriac_Trophy,2004,09,19,3-6_6-3_6-1
@@ -21,7 +21,7 @@ BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Acasuso_Jose,Sanchez_David,Acasuso_Jose
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Mantilla_Felix,Calatrava_Alex,Mantilla_Felix,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-3_6-1
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Kohlschreiber_Philipp,Andreev_Igor,Andreev_Igor,BRD_Nastase_Tiriac_Trophy,2004,09,19,7-6(6)_6-2
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Ferrer_David,Djokovic_Novak,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2004,09,19,4-6_6-4_6-4
-BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Di_PasqualeArnaud,Mayer_Florian,Mayer_Florian,BRD_Nastase_Tiriac_Trophy,2004,09,19,7-6(6)_4-6_6-3
+BRD_Nastase_Tiriac_Trophy,2,2004,09,19,2,Di_Pasquale_Arnaud,Mayer_Florian,Mayer_Florian,BRD_Nastase_Tiriac_Trophy,2004,09,19,7-6(6)_4-6_6-3
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,3,Hanescu_Victor,Volandri_Filippo,Volandri_Filippo,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-3_6-1
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,3,Mathieu_PaulHenri,Acasuso_Jose,Acasuso_Jose,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-2_7-6(2)
 BRD_Nastase_Tiriac_Trophy,2,2004,09,19,3,Mantilla_Felix,Andreev_Igor,Andreev_Igor,BRD_Nastase_Tiriac_Trophy,2004,09,19,6-4_6-2

@@ -2,7 +2,7 @@ Lacosta_WCT,2,1974,03,10,1,Metreveli_Alex,Lutz_Robert,Metreveli_Alex,Lacosta_WCT
 Lacosta_WCT,2,1974,03,10,1,Franulovic_Zeljko,Davidson_Owen,Davidson_Owen,Lacosta_WCT,1974,03,10,6-3_6-4
 Lacosta_WCT,2,1974,03,10,1,Fairlie_Brian,Ralston_Dennis,Fairlie_Brian,Lacosta_WCT,1974,03,10,6-2_6-4
 Lacosta_WCT,2,1974,03,10,1,Smith_Stan,Masters_Geoff,Smith_Stan,Lacosta_WCT,1974,03,10,7-6_7-6
-Lacosta_WCT,2,1974,03,10,1,Ramirez_Raul,Fillol_SrJaime,Ramirez_Raul,Lacosta_WCT,1974,03,10,6-3_7-6
+Lacosta_WCT,2,1974,03,10,1,Ramirez_Raul,Fillol_Sr_Jaime,Ramirez_Raul,Lacosta_WCT,1974,03,10,6-3_7-6
 Lacosta_WCT,2,1974,03,10,1,Ulrich_Torben,Segura_Pancho,Ulrich_Torben,Lacosta_WCT,1974,03,10,6-3_6-2
 Lacosta_WCT,2,1974,03,10,1,Holecek_Milan,Borowiak_Jeff,Holecek_Milan,Lacosta_WCT,1974,03,10,6-3_6-4
 Lacosta_WCT,2,1974,03,10,1,Stockton_Dick,Jovanovic_Boro,Stockton_Dick,Lacosta_WCT,1974,03,10,6-3_6-1
@@ -11,7 +11,7 @@ Lacosta_WCT,2,1974,03,10,1,Cornejo_Patricio,Barth_Roy,Cornejo_Patricio,Lacosta_W
 Lacosta_WCT,2,1974,03,10,1,Crealy_Dick,Froehling_Frank,Crealy_Dick,Lacosta_WCT,1974,03,10,7-5_6-2
 Lacosta_WCT,2,1974,03,10,1,Kreiss_Robert,Case_Ross,Case_Ross,Lacosta_WCT,1974,03,10,6-2_1-6_6-3
 Lacosta_WCT,2,1974,03,10,1,Gottfried_Brian,PhillipsMoore_Barry,Gottfried_Brian,Lacosta_WCT,1974,03,10,6-4_3-6_6-2
-Lacosta_WCT,2,1974,03,10,1,Graebner_Clark,El_ShafeiIsmail,Graebner_Clark,Lacosta_WCT,1974,03,10,7-5_7-5
+Lacosta_WCT,2,1974,03,10,1,Graebner_Clark,El_Shafei_Ismail,Graebner_Clark,Lacosta_WCT,1974,03,10,7-5_7-5
 Lacosta_WCT,2,1974,03,10,1,Richey_Cliff,Emerson_Roy,Emerson_Roy,Lacosta_WCT,1974,03,10,6-3_6-7_6-3
 Lacosta_WCT,2,1974,03,10,1,Newcombe_John,Machette_Mike,Newcombe_John,Lacosta_WCT,1974,03,10,6-3_6-4
 Lacosta_WCT,2,1974,03,10,2,Metreveli_Alex,Davidson_Owen,Metreveli_Alex,Lacosta_WCT,1974,03,10,6-2_7-6

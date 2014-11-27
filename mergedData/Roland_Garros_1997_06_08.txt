@@ -18,12 +18,12 @@ Roland_Garros,1,1997,06,08,1,Kafelnikov_Yevgeny,Damm_Martin,Kafelnikov_Yevgeny,R
 Roland_Garros,1,1997,06,08,1,Raoux_Guillaume,Spadea_Vincent,Raoux_Guillaume,Roland_Garros,1997,06,08,6-2_6-0_6-1
 Roland_Garros,1,1997,06,08,1,Schranz_Wolfgang,Etlis_Gaston,Etlis_Gaston,Roland_Garros,1997,06,08,6-4_6-2_6-3
 Roland_Garros,1,1997,06,08,1,Gross_Oliver,Pioline_Cedric,Pioline_Cedric,Roland_Garros,1997,06,08,6-4_6-4_3-6_7-5
-Roland_Garros,1,1997,06,08,1,Navarro_Salvador,Gorriz_MarcosAurelio,Navarro_Salvador,Roland_Garros,1997,06,08,1-6_6-4_6-2_6-7(2)_6-1
+Roland_Garros,1,1997,06,08,1,Navarro_Salvador,Gorriz_Marcos_Aurelio,Navarro_Salvador,Roland_Garros,1997,06,08,1-6_6-4_6-2_6-7(2)_6-1
 Roland_Garros,1,1997,06,08,1,Grosjean_Sebastien,Siemerink_Jan,Siemerink_Jan,Roland_Garros,1997,06,08,6-3_4-6_6-4_6-4
 Roland_Garros,1,1997,06,08,1,Kulti_Nicklas,Philippoussis_Mark,Philippoussis_Mark,Roland_Garros,1997,06,08,6-2_4-6_3-6_6-4_6-4
 Roland_Garros,1,1997,06,08,1,Delaitre_Olivier,Henman_Tim,Delaitre_Olivier,Roland_Garros,1997,06,08,6-2_2-6_1-6_6-2_6-4
 Roland_Garros,1,1997,06,08,1,Berasategui_Alberto,Medvedev_Andrei,Medvedev_Andrei,Roland_Garros,1997,06,08,6-4_4-6_2-6_6-2_2-1_RET
-Roland_Garros,1,1997,06,08,1,Ruud_Christian,VilocaPuig_JuanAlbert,VilocaPuig_JuanAlbert,Roland_Garros,1997,06,08,5-7_6-4_6-1_4-1_RET
+Roland_Garros,1,1997,06,08,1,Ruud_Christian,VilocaPuig_Juan_Albert,VilocaPuig_Juan_Albert,Roland_Garros,1997,06,08,5-7_6-4_6-1_4-1_RET
 Roland_Garros,1,1997,06,08,1,Stark_Jonathan,Zabaleta_Mariano,Stark_Jonathan,Roland_Garros,1997,06,08,6-4_7-6(2)_7-6(5)
 Roland_Garros,1,1997,06,08,1,Johansson_Thomas,Escude_Nicolas,Escude_Nicolas,Roland_Garros,1997,06,08,6-3_2-6_7-5_7-6(3)
 Roland_Garros,1,1997,06,08,1,Kuerten_Gustavo,Dosedel_Slava,Kuerten_Gustavo,Roland_Garros,1997,06,08,6-0_7-5_6-1
@@ -39,7 +39,7 @@ Roland_Garros,1,1997,06,08,1,Nestor_Daniel,Volkov_Alexander,Volkov_Alexander,Rol
 Roland_Garros,1,1997,06,08,1,Pavel_Andrei,OBrien_Alex,Pavel_Andrei,Roland_Garros,1997,06,08,6-4_7-5_6-0
 Roland_Garros,1,1997,06,08,1,Voinea_Adrian,Costa_Albert,Costa_Albert,Roland_Garros,1997,06,08,6-4_7-5_6-4
 Roland_Garros,1,1997,06,08,1,Ferreira_Wayne,Tillstrom_Mikael,Ferreira_Wayne,Roland_Garros,1997,06,08,6-7(1)_7-6(3)_6-7(1)_6-3_6-1
-Roland_Garros,1,1997,06,08,1,Benfele_AlvarezEmilio,Carretero_Roberto,Carretero_Roberto,Roland_Garros,1997,06,08,5-7_7-6(3)_6-3_7-5
+Roland_Garros,1,1997,06,08,1,Benfele_Alvarez_Emilio,Carretero_Roberto,Carretero_Roberto,Roland_Garros,1997,06,08,5-7_7-6(3)_6-3_7-5
 Roland_Garros,1,1997,06,08,1,Flach_Doug,Costa_Carlos,Costa_Carlos,Roland_Garros,1997,06,08,6-4_6-0_6-1
 Roland_Garros,1,1997,06,08,1,Burillo_Jordi,Korda_Petr,Korda_Petr,Roland_Garros,1997,06,08,6-4_6-0_7-6(4)
 Roland_Garros,1,1997,06,08,1,Vacek_Daniel,Woodruff_Chris,Woodruff_Chris,Roland_Garros,1997,06,08,6-4_6-2_6-3
@@ -54,8 +54,8 @@ Roland_Garros,1,1997,06,08,1,Carlsen_Kenneth,Woodbridge_Todd,Woodbridge_Todd,Rol
 Roland_Garros,1,1997,06,08,1,Dreekmann_Hendrik,Arazi_Hicham,Arazi_Hicham,Roland_Garros,1997,06,08,6-3_6-4_6-2
 Roland_Garros,1,1997,06,08,1,Courier_Jim,Larsson_Magnus,Larsson_Magnus,Roland_Garros,1997,06,08,6-1_6-2_4-6_1-6_6-4
 Roland_Garros,1,1997,06,08,1,Fromberg_Richard,Mantilla_Felix,Mantilla_Felix,Roland_Garros,1997,06,08,6-3_6-2_6-2
-Roland_Garros,1,1997,06,08,1,Bruguera_Sergi,Van_HerckJohan,Bruguera_Sergi,Roland_Garros,1997,06,08,6-3_0-6_6-2_6-0
-Roland_Garros,1,1997,06,08,1,Haarhuis_Paul,Van_ScheppingenDennis,Van_ScheppingenDennis,Roland_Garros,1997,06,08,6-2_6-4_5-7_6-4
+Roland_Garros,1,1997,06,08,1,Bruguera_Sergi,Van_Herck_Johan,Bruguera_Sergi,Roland_Garros,1997,06,08,6-3_0-6_6-2_6-0
+Roland_Garros,1,1997,06,08,1,Haarhuis_Paul,Van_Scheppingen_Dennis,Van_Scheppingen_Dennis,Roland_Garros,1997,06,08,6-2_6-4_5-7_6-4
 Roland_Garros,1,1997,06,08,1,Sargsian_Sargis,Norman_Dick,Norman_Dick,Roland_Garros,1997,06,08,6-2_7-5_6-3
 Roland_Garros,1,1997,06,08,1,Stolle_Sandon,Furlan_Renzo,Stolle_Sandon,Roland_Garros,1997,06,08,7-5_6-1_4-6_6-3
 Roland_Garros,1,1997,06,08,1,Krocsko_Jozsef,Kroslak_Jan,Krocsko_Jozsef,Roland_Garros,1997,06,08,7-5_6-3_4-6_7-6(5)
@@ -74,7 +74,7 @@ Roland_Garros,1,1997,06,08,2,Kafelnikov_Yevgeny,Raoux_Guillaume,Kafelnikov_Yevge
 Roland_Garros,1,1997,06,08,2,Etlis_Gaston,Pioline_Cedric,Pioline_Cedric,Roland_Garros,1997,06,08,2-6_6-3_6-3_7-6(3)
 Roland_Garros,1,1997,06,08,2,Navarro_Salvador,Siemerink_Jan,Siemerink_Jan,Roland_Garros,1997,06,08,6-1_6-7(1)_6-1_6-2
 Roland_Garros,1,1997,06,08,2,Philippoussis_Mark,Delaitre_Olivier,Philippoussis_Mark,Roland_Garros,1997,06,08,6-4_3-6_6-1_6-4
-Roland_Garros,1,1997,06,08,2,Medvedev_Andrei,VilocaPuig_JuanAlbert,Medvedev_Andrei,Roland_Garros,1997,06,08,6-4_6-3_6-4
+Roland_Garros,1,1997,06,08,2,Medvedev_Andrei,VilocaPuig_Juan_Albert,Medvedev_Andrei,Roland_Garros,1997,06,08,6-4_6-3_6-4
 Roland_Garros,1,1997,06,08,2,Stark_Jonathan,Escude_Nicolas,Escude_Nicolas,Roland_Garros,1997,06,08,6-4_6-2_6-2
 Roland_Garros,1,1997,06,08,2,Kuerten_Gustavo,Bjorkman_Jonas,Kuerten_Gustavo,Roland_Garros,1997,06,08,6-4_6-2_4-6_7-5
 Roland_Garros,1,1997,06,08,2,Tarango_Jeff,Muster_Thomas,Muster_Thomas,Roland_Garros,1997,06,08,7-5_1-6_6-2_6-1
@@ -90,7 +90,7 @@ Roland_Garros,1,1997,06,08,2,Rios_Marcelo,Black_Byron,Rios_Marcelo,Roland_Garros
 Roland_Garros,1,1997,06,08,2,Boetsch_Arnaud,Ondruska_Marcos,Boetsch_Arnaud,Roland_Garros,1997,06,08,6-3_6-2_6-1
 Roland_Garros,1,1997,06,08,2,Woodbridge_Todd,Arazi_Hicham,Arazi_Hicham,Roland_Garros,1997,06,08,6-4_7-5_6-2
 Roland_Garros,1,1997,06,08,2,Larsson_Magnus,Mantilla_Felix,Larsson_Magnus,Roland_Garros,1997,06,08,6-2_6-4_3-6_6-3
-Roland_Garros,1,1997,06,08,2,Bruguera_Sergi,Van_ScheppingenDennis,Bruguera_Sergi,Roland_Garros,1997,06,08,6-2_6-3_6-3
+Roland_Garros,1,1997,06,08,2,Bruguera_Sergi,Van_Scheppingen_Dennis,Bruguera_Sergi,Roland_Garros,1997,06,08,6-2_6-3_6-3
 Roland_Garros,1,1997,06,08,2,Norman_Dick,Stolle_Sandon,Norman_Dick,Roland_Garros,1997,06,08,5-7_6-4_7-6(2)_6-3
 Roland_Garros,1,1997,06,08,2,Krocsko_Jozsef,Simian_Stephane,Simian_Stephane,Roland_Garros,1997,06,08,6-3_6-3_7-6(3)
 Roland_Garros,1,1997,06,08,2,Golmard_Jerome,Chang_Michael,Chang_Michael,Roland_Garros,1997,06,08,6-2_6-3_3-6_6-2

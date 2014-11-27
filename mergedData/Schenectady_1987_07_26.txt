@@ -4,7 +4,7 @@ Schenectady,2,1987,07,26,1,Jordan_Alvaro,Maciel_Francisco,Jordan_Alvaro,Schenect
 Schenectady,2,1987,07,26,1,Lapidus_Jay,Moir_Barry,Lapidus_Jay,Schenectady,1987,07,26,6-2_6-4
 Schenectady,2,1987,07,26,1,Odizor_Nduka,Mmoh_Tony,Mmoh_Tony,Schenectady,1987,07,26,6-3_6-4
 Schenectady,2,1987,07,26,1,Hooper_Chip,Chamberlin_Paul,Chamberlin_Paul,Schenectady,1987,07,26,6-4_7-6
-Schenectady,2,1987,07,26,1,Van_PattenVincent,Matuszewski_Richard,Van_PattenVincent,Schenectady,1987,07,26,7-6_6-3
+Schenectady,2,1987,07,26,1,Van_Patten_Vincent,Matuszewski_Richard,Van_Patten_Vincent,Schenectady,1987,07,26,7-6_6-3
 Schenectady,2,1987,07,26,1,Youl_Simon,Carlsson_Johan,Youl_Simon,Schenectady,1987,07,26,7-6_6-3
 Schenectady,2,1987,07,26,1,Testerman_Ben,Robertson_Michael,Testerman_Ben,Schenectady,1987,07,26,6-3_6-2
 Schenectady,2,1987,07,26,1,Saceanu_Christian,Lee_Mike,Saceanu_Christian,Schenectady,1987,07,26,4-6_6-3_7-6
@@ -17,13 +17,13 @@ Schenectady,2,1987,07,26,1,Muller_Gary,Agassi_Andre,Muller_Gary,Schenectady,1987
 Schenectady,2,1987,07,26,2,Yzaga_Jaime,Davis_Marty,Yzaga_Jaime,Schenectady,1987,07,26,5-7_6-2_6-2
 Schenectady,2,1987,07,26,2,Jordan_Alvaro,Lapidus_Jay,Lapidus_Jay,Schenectady,1987,07,26,6-4_6-4
 Schenectady,2,1987,07,26,2,Mmoh_Tony,Chamberlin_Paul,Mmoh_Tony,Schenectady,1987,07,26,1-6_6-3_6-3
-Schenectady,2,1987,07,26,2,Van_PattenVincent,Youl_Simon,Van_PattenVincent,Schenectady,1987,07,26,7-6_7-6
+Schenectady,2,1987,07,26,2,Van_Patten_Vincent,Youl_Simon,Van_Patten_Vincent,Schenectady,1987,07,26,7-6_7-6
 Schenectady,2,1987,07,26,2,Testerman_Ben,Saceanu_Christian,Testerman_Ben,Schenectady,1987,07,26,7-6_5-7_7-6
 Schenectady,2,1987,07,26,2,Laurendeau_Martin,Pugh_Jim,Pugh_Jim,Schenectady,1987,07,26,6-3_6-3
 Schenectady,2,1987,07,26,2,Winogradsky_Eric,Hogstedt_Thomas,Hogstedt_Thomas,Schenectady,1987,07,26,W/O
 Schenectady,2,1987,07,26,2,Pearce_Brad,Muller_Gary,Muller_Gary,Schenectady,1987,07,26,3-6_6-4_7-5
 Schenectady,2,1987,07,26,3,Yzaga_Jaime,Lapidus_Jay,Yzaga_Jaime,Schenectady,1987,07,26,6-2_6-0
-Schenectady,2,1987,07,26,3,Mmoh_Tony,Van_PattenVincent,Mmoh_Tony,Schenectady,1987,07,26,6-4_7-6
+Schenectady,2,1987,07,26,3,Mmoh_Tony,Van_Patten_Vincent,Mmoh_Tony,Schenectady,1987,07,26,6-4_7-6
 Schenectady,2,1987,07,26,3,Testerman_Ben,Pugh_Jim,Pugh_Jim,Schenectady,1987,07,26,6-2_6-3
 Schenectady,2,1987,07,26,3,Hogstedt_Thomas,Muller_Gary,Hogstedt_Thomas,Schenectady,1987,07,26,7-6_6-3
 Schenectady,2,1987,07,26,4,Yzaga_Jaime,Mmoh_Tony,Yzaga_Jaime,Schenectady,1987,07,26,6-3_6-2

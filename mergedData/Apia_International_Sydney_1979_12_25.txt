@@ -8,7 +8,7 @@ Apia_International_Sydney,2,1979,12,25,1,Drewett_Brad,Menon_Sashi,Drewett_Brad,A
 Apia_International_Sydney,2,1979,12,25,1,Edmondson_Mark,Sadri_John,Sadri_John,Apia_International_Sydney,1979,12,25,6-4_6-4
 Apia_International_Sydney,2,1979,12,25,1,Pfister_Henry,Docherty_Steve,Pfister_Henry,Apia_International_Sydney,1979,12,25,7-6_4-6_6-2
 Apia_International_Sydney,2,1979,12,25,1,Ruffels_Ray,Fitzgerald_John,Fitzgerald_John,Apia_International_Sydney,1979,12,25,6-2_6-4
-Apia_International_Sydney,2,1979,12,25,1,Lewis_JohnChris,Maze_Bill,Maze_Bill,Apia_International_Sydney,1979,12,25,7-6_3-6_6-4
+Apia_International_Sydney,2,1979,12,25,1,Lewis_John_Chris,Maze_Bill,Maze_Bill,Apia_International_Sydney,1979,12,25,7-6_3-6_6-4
 Apia_International_Sydney,2,1979,12,25,1,Moore_Raymond,Masters_Geoff,Masters_Geoff,Apia_International_Sydney,1979,12,25,6-1_7-6
 Apia_International_Sydney,2,1979,12,25,1,Warwick_Kim,Pascoe_Wayne,Warwick_Kim,Apia_International_Sydney,1979,12,25,7-6_6-4
 Apia_International_Sydney,2,1979,12,25,1,Dibley_Colin,Delaney_Christofer,Delaney_Christofer,Apia_International_Sydney,1979,12,25,1-6_6-1_6-3
@@ -16,7 +16,7 @@ Apia_International_Sydney,2,1979,12,25,1,Reininger_Robert,Hardie_George,Hardie_G
 Apia_International_Sydney,2,1979,12,25,1,Whyte_David,Feigl_Peter,Feigl_Peter,Apia_International_Sydney,1979,12,25,6-3_6-7_11-9
 Apia_International_Sydney,2,1979,12,25,1,Taroczy_Balazs,Campbell_Peter,Taroczy_Balazs,Apia_International_Sydney,1979,12,25,7-6_6-4
 Apia_International_Sydney,2,1979,12,25,1,Carter_David,Letcher_Cliff,Carter_David,Apia_International_Sydney,1979,12,25,2-6_6-4_6-4
-Apia_International_Sydney,2,1979,12,25,1,Malin_GeneStuart,Roche_Tony,Roche_Tony,Apia_International_Sydney,1979,12,25,7-6_6-4
+Apia_International_Sydney,2,1979,12,25,1,Malin_Gene_Stuart,Roche_Tony,Roche_Tony,Apia_International_Sydney,1979,12,25,7-6_6-4
 Apia_International_Sydney,2,1979,12,25,1,Davies_Phil,Case_Ross,Case_Ross,Apia_International_Sydney,1979,12,25,6-4_6-2
 Apia_International_Sydney,2,1979,12,25,1,Dent_Phil,Rosewall_Ken,Dent_Phil,Apia_International_Sydney,1979,12,25,6-1_6-2
 Apia_International_Sydney,2,1979,12,25,1,Phillips_Noel,Marks_John,Marks_John,Apia_International_Sydney,1979,12,25,7-6_6-4
@@ -27,7 +27,7 @@ Apia_International_Sydney,2,1979,12,25,1,Siegler_Dave,Krulevitz_Steve,Siegler_Da
 Apia_International_Sydney,2,1979,12,25,1,Rocavert_Terry,Collings_Dale,Rocavert_Terry,Apia_International_Sydney,1979,12,25,6-0_7-6
 Apia_International_Sydney,2,1979,12,25,1,James_John,Rennert_Peter,James_John,Apia_International_Sydney,1979,12,25,6-2_3-6_6-3
 Apia_International_Sydney,2,1979,12,25,1,McNamara_Peter,Ewert_Ernie,McNamara_Peter,Apia_International_Sydney,1979,12,25,6-3_6-7_6-2
-Apia_International_Sydney,2,1979,12,25,1,McNair_IVFred,Clarke_Simon,Clarke_Simon,Apia_International_Sydney,1979,12,25,7-6_6-3
+Apia_International_Sydney,2,1979,12,25,1,McNair_IV_Fred,Clarke_Simon,Clarke_Simon,Apia_International_Sydney,1979,12,25,7-6_6-3
 Apia_International_Sydney,2,1979,12,25,1,Stewart_Sherwood,Whitecross_Greg,Stewart_Sherwood,Apia_International_Sydney,1979,12,25,6-3_6-3
 Apia_International_Sydney,2,1979,12,25,1,Kronk_Paul,Alexander_John,Kronk_Paul,Apia_International_Sydney,1979,12,25,7-6_6-1
 Apia_International_Sydney,2,1979,12,25,2,Vilas_Guillermo,Petrovic_Glenn,Vilas_Guillermo,Apia_International_Sydney,1979,12,25,6-3_7-5

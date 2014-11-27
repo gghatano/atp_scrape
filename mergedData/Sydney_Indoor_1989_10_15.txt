@@ -1,6 +1,6 @@
 Sydney_Indoor,2,1989,10,15,1,Lendl_Ivan,Menezes_Mauro,Lendl_Ivan,Sydney_Indoor,1989,10,15,6-2_6-0
 Sydney_Indoor,2,1989,10,15,1,Pate_David,Shiras_Leif,Shiras_Leif,Sydney_Indoor,1989,10,15,2-6_6-2_6-4
-Sydney_Indoor,2,1989,10,15,1,Hogstedt_Thomas,De_LaPenaHoracio,Hogstedt_Thomas,Sydney_Indoor,1989,10,15,7-5_6-2
+Sydney_Indoor,2,1989,10,15,1,Hogstedt_Thomas,De_La_Pena_Horacio,Hogstedt_Thomas,Sydney_Indoor,1989,10,15,7-5_6-2
 Sydney_Indoor,2,1989,10,15,1,Drewett_Brad,Masur_Wally,Masur_Wally,Sydney_Indoor,1989,10,15,6-4_6-4
 Sydney_Indoor,2,1989,10,15,1,Fitzgerald_John,Kroon_Nicklas,Kroon_Nicklas,Sydney_Indoor,1989,10,15,6-3_2-6_6-4
 Sydney_Indoor,2,1989,10,15,1,Cahill_Darren,Amritraj_Vijay,Cahill_Darren,Sydney_Indoor,1989,10,15,6-4_6-0

@@ -10,7 +10,7 @@ Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Hrbaty_Dominik,Behrend_Tomas
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Golmard_Jerome,Ulihrach_Bohdan,Ulihrach_Bohdan,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-3_RET
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Escude_Nicolas,Kucera_Karol,Escude_Nicolas,Dubai_Duty_Free_Tennis_Championships,2001,03,04,4-6_6-4_7-6(2)
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Burgsmuller_Lars,Corretja_Alex,Burgsmuller_Lars,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-2
-Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Ferrero_JuanCarlos,Bjorkman_Jonas,Ferrero_JuanCarlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-3
+Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Ferrero_Juan_Carlos,Bjorkman_Jonas,Ferrero_Juan_Carlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-3
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Novak_Jiri,Pozzi_Gianluca,Novak_Jiri,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-1
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Pavel_Andrei,Alawadhi_Omar,Pavel_Andrei,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-1_6-2
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,1,Tarango_Jeff,Norman_Magnus,Norman_Magnus,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-4
@@ -20,12 +20,12 @@ Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Kafelnikov_Yevgeny,Johansson
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Voltchkov_Vladimir,Mirnyi_Max,Mirnyi_Max,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-1_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Hrbaty_Dominik,Ulihrach_Bohdan,Hrbaty_Dominik,Dubai_Duty_Free_Tennis_Championships,2001,03,04,5-7_7-6(3)_6-3
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Escude_Nicolas,Burgsmuller_Lars,Burgsmuller_Lars,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-2_RET
-Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Ferrero_JuanCarlos,Novak_Jiri,Ferrero_JuanCarlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-3_6-4
+Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Ferrero_Juan_Carlos,Novak_Jiri,Ferrero_Juan_Carlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,2,Pavel_Andrei,Norman_Magnus,Norman_Magnus,Dubai_Duty_Free_Tennis_Championships,2001,03,04,1-6_6-3_7-6(2)
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,3,Safin_Marat,Medvedev_Andrei,Safin_Marat,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-1_6-2
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,3,Johansson_Thomas,Mirnyi_Max,Johansson_Thomas,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-4_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,3,Hrbaty_Dominik,Burgsmuller_Lars,Hrbaty_Dominik,Dubai_Duty_Free_Tennis_Championships,2001,03,04,7-5_6-4
-Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,3,Ferrero_JuanCarlos,Norman_Magnus,Ferrero_JuanCarlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-2_4-6_6-4
+Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,3,Ferrero_Juan_Carlos,Norman_Magnus,Ferrero_Juan_Carlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-2_4-6_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,4,Safin_Marat,Johansson_Thomas,Safin_Marat,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-7(0)_7-6(4)_6-3
-Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,4,Hrbaty_Dominik,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,5-7_7-6(4)_6-3
-Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,5,Safin_Marat,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-2_3-1_RET
+Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,4,Hrbaty_Dominik,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,5-7_7-6(4)_6-3
+Dubai_Duty_Free_Tennis_Championships,2,2001,03,04,5,Safin_Marat,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Dubai_Duty_Free_Tennis_Championships,2001,03,04,6-2_3-1_RET

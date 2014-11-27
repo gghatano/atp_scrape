@@ -6,7 +6,7 @@ Seoul,2,1996,04,28,1,Henman_Tim,Norman_Dick,Henman_Tim,Seoul,1996,04,28,6-1_6-4
 Seoul,2,1996,04,28,1,Johansson_Thomas,Yoon_YongIl,Johansson_Thomas,Seoul,1996,04,28,6-2_6-1
 Seoul,2,1996,04,28,1,Lee_HyungTaik,Radulescu_Alex,Radulescu_Alex,Seoul,1996,04,28,6-3_3-6_6-1
 Seoul,2,1996,04,28,1,Ullyett_Kevin,Matsuoka_Shuzo,Matsuoka_Shuzo,Seoul,1996,04,28,6-7(1)_6-3_6-2
-Seoul,2,1996,04,28,1,Van_HerckJohan,Kroslak_Jan,Kroslak_Jan,Seoul,1996,04,28,7-5_6-1
+Seoul,2,1996,04,28,1,Van_Herck_Johan,Kroslak_Jan,Kroslak_Jan,Seoul,1996,04,28,7-5_6-1
 Seoul,2,1996,04,28,1,Renzenbrink_Joern,CunhaSilva_Joao,Renzenbrink_Joern,Seoul,1996,04,28,6-3_6-4
 Seoul,2,1996,04,28,1,Ogorodov_Oleg,Chang_Albert,Ogorodov_Oleg,Seoul,1996,04,28,6-2_6-2
 Seoul,2,1996,04,28,1,Caratti_Cristiano,Carlsen_Kenneth,Carlsen_Kenneth,Seoul,1996,04,28,6-4_6-0

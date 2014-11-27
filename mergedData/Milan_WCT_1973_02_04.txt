@@ -8,11 +8,11 @@ Milan_WCT,2,1973,02,04,1,Stolle_Fred,Rahim_Haroon,Rahim_Haroon,Milan_WCT,1973,02
 Milan_WCT,2,1973,02,04,1,Leonard_Tom,Riessen_Marty,Riessen_Marty,Milan_WCT,1973,02,04,6-3_6-2
 Milan_WCT,2,1973,02,04,1,Ashe_Arthur,Chanfreau_JeanBaptiste,Chanfreau_JeanBaptiste,Milan_WCT,1973,02,04,4-6_6-4_6-2
 Milan_WCT,2,1973,02,04,1,Tanner_Roscoe,Borowiak_Jeff,Tanner_Roscoe,Milan_WCT,1973,02,04,6-4_7-6(4)
-Milan_WCT,2,1973,02,04,1,Carmichael_Bob,Van_DillenErik,Carmichael_Bob,Milan_WCT,1973,02,04,1-6_7-6(6)_6-4
+Milan_WCT,2,1973,02,04,1,Carmichael_Bob,Van_Dillen_Erik,Carmichael_Bob,Milan_WCT,1973,02,04,1-6_7-6(6)_6-4
 Milan_WCT,2,1973,02,04,1,Lall_Premjit,Taylor_Roger,Taylor_Roger,Milan_WCT,1973,02,04,6-3_3-6_7-6(5)
 Milan_WCT,2,1973,02,04,1,Gorman_Tom,Franulovic_Zeljko,Gorman_Tom,Milan_WCT,1973,02,04,6-3_6-7(6)_6-3
 Milan_WCT,2,1973,02,04,1,Moore_Raymond,LoyoMayo_Joaquin,Moore_Raymond,Milan_WCT,1973,02,04,4-6_7-6(1)_7-5
-Milan_WCT,2,1973,02,04,1,Metreveli_Alex,El_ShafeiIsmail,Metreveli_Alex,Milan_WCT,1973,02,04,6-7(4)_7-6(4)_6-4
+Milan_WCT,2,1973,02,04,1,Metreveli_Alex,El_Shafei_Ismail,Metreveli_Alex,Milan_WCT,1973,02,04,6-7(4)_7-6(4)_6-4
 Milan_WCT,2,1973,02,04,1,Zednik_Vladimir,Okker_Tom,Okker_Tom,Milan_WCT,1973,02,04,6-3_6-2
 Milan_WCT,2,1973,02,04,2,Rosewall_Ken,Panatta_Adriano,Rosewall_Ken,Milan_WCT,1973,02,04,6-3_6-3
 Milan_WCT,2,1973,02,04,2,Ulrich_Torben,Cox_Mark,Cox_Mark,Milan_WCT,1973,02,04,6-3_3-6_6-3

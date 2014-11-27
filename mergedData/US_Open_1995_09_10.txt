@@ -2,7 +2,7 @@ US_Open,1,1995,09,10,1,Agassi_Andre,Shelton_Bryan,Agassi_Andre,US_Open,1995,09,1
 US_Open,1,1995,09,10,1,Corretja_Alex,OBrien_Alex,Corretja_Alex,US_Open,1995,09,10,6-4_6-4_6-3
 US_Open,1,1995,09,10,1,Nestor_Daniel,Olhovskiy_Andrei,Nestor_Daniel,US_Open,1995,09,10,6-3_6-4_3-6_6-1
 US_Open,1,1995,09,10,1,Edberg_Stefan,Damm_Martin,Edberg_Stefan,US_Open,1995,09,10,6-0_6-3_7-6(4)
-US_Open,1,1995,09,10,1,VilocaPuig_JuanAlbert,Henman_Tim,Henman_Tim,US_Open,1995,09,10,6-3_4-6_6-4_6-3
+US_Open,1,1995,09,10,1,VilocaPuig_Juan_Albert,Henman_Tim,Henman_Tim,US_Open,1995,09,10,6-3_4-6_6-4_6-3
 US_Open,1,1995,09,10,1,Palmer_Jared,Lavalle_Leonardo,Palmer_Jared,US_Open,1995,09,10,6-4_7-5_6-3
 US_Open,1,1995,09,10,1,Sargsian_Sargis,Joyce_Michael,Sargsian_Sargis,US_Open,1995,09,10,7-6(1)_2-6_4-6_6-3_6-1
 US_Open,1,1995,09,10,1,Arazi_Hicham,Medvedev_Andrei,Medvedev_Andrei,US_Open,1995,09,10,6-7(5)_6-3_6-4_6-4
@@ -14,7 +14,7 @@ US_Open,1,1995,09,10,1,Bates_Jeremy,Sanchez_Emilio,Sanchez_Emilio,US_Open,1995,0
 US_Open,1,1995,09,10,1,Dreekmann_Hendrik,Spadea_Vincent,Spadea_Vincent,US_Open,1995,09,10,6-4_7-5_6-4
 US_Open,1,1995,09,10,1,Marques_Nuno,Bhupathi_Mahesh,Marques_Nuno,US_Open,1995,09,10,6-7(3)_7-5_6-1_6-3
 US_Open,1,1995,09,10,1,Tarango_Jeff,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,US_Open,1995,09,10,6-0_6-4_7-5
-US_Open,1,1995,09,10,1,Becker_Boris,Lopez_MoronAlex,Becker_Boris,US_Open,1995,09,10,6-1_6-0_6-3
+US_Open,1,1995,09,10,1,Becker_Boris,Lopez_Moron_Alex,Becker_Boris,US_Open,1995,09,10,6-1_6-0_6-3
 US_Open,1,1995,09,10,1,Arriens_Carsten,Kucera_Karol,Arriens_Carsten,US_Open,1995,09,10,6-4_7-6(3)_6-2
 US_Open,1,1995,09,10,1,Roux_Lionel,Krickstein_Aaron,Krickstein_Aaron,US_Open,1995,09,10,3-6_6-3_6-1_3-6_6-4
 US_Open,1,1995,09,10,1,Stoltenberg_Jason,Vasek_Radomir,Stoltenberg_Jason,US_Open,1995,09,10,6-4_6-4_6-3
@@ -22,7 +22,7 @@ US_Open,1,1995,09,10,1,Delaitre_Olivier,Furlan_Renzo,Furlan_Renzo,US_Open,1995,0
 US_Open,1,1995,09,10,1,Rostagno_Derrick,Siemerink_Jan,Rostagno_Derrick,US_Open,1995,09,10,6-4_6-4_6-4
 US_Open,1,1995,09,10,1,Rafter_Patrick,Reneberg_Richey,Rafter_Patrick,US_Open,1995,09,10,7-6(3)_6-3_6-4
 US_Open,1,1995,09,10,1,Gaudenzi_Andrea,Rosset_Marc,Rosset_Marc,US_Open,1995,09,10,6-7(3)_6-3_6-1_6-0
-US_Open,1,1995,09,10,1,Bruguera_Sergi,Van_HerckJohan,Bruguera_Sergi,US_Open,1995,09,10,6-3_6-4_6-4
+US_Open,1,1995,09,10,1,Bruguera_Sergi,Van_Herck_Johan,Bruguera_Sergi,US_Open,1995,09,10,6-3_6-4_6-4
 US_Open,1,1995,09,10,1,Sinner_Martin,Vacek_Daniel,Vacek_Daniel,US_Open,1995,09,10,6-4_6-7(6)_6-3_2-6_7-6(4)
 US_Open,1,1995,09,10,1,Pereira_Nicolas,Santoro_Fabrice,Pereira_Nicolas,US_Open,1995,09,10,2-6_6-4_5-7_7-6(8)_7-6(3)
 US_Open,1,1995,09,10,1,Rusedski_Greg,Winnink_Joost,Winnink_Joost,US_Open,1995,09,10,7-6(5)_6-4_6-7(6)_6-1

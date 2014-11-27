@@ -1,6 +1,6 @@
 Boca_West,2,1984,06,10,1,Connors_Jimmy,Gilbert_Brad,Connors_Jimmy,Boca_West,1984,06,10,6-4_6-4
-Boca_West,2,1984,06,10,1,Krickstein_Aaron,Van_PattenVincent,Krickstein_Aaron,Boca_West,1984,06,10,6-0_2-6_6-1
-Boca_West,2,1984,06,10,1,Giammalva_JrSammy,Van_NostrandJohn,Giammalva_JrSammy,Boca_West,1984,06,10,6-1_6-3
+Boca_West,2,1984,06,10,1,Krickstein_Aaron,Van_Patten_Vincent,Krickstein_Aaron,Boca_West,1984,06,10,6-0_2-6_6-1
+Boca_West,2,1984,06,10,1,Giammalva_Jr_Sammy,Van_Nostrand_John,Giammalva_Jr_Sammy,Boca_West,1984,06,10,6-1_6-3
 Boca_West,2,1984,06,10,1,Pfister_Henry,Teltscher_Eliot,Teltscher_Eliot,Boca_West,1984,06,10,6-4_6-3
 Boca_West,2,1984,06,10,1,Arias_Jimmy,Testerman_Ben,Arias_Jimmy,Boca_West,1984,06,10,6-3_6-2
 Boca_West,2,1984,06,10,1,Gottfried_Brian,Gullikson_Tim,Gottfried_Brian,Boca_West,1984,06,10,6-3_6-2
@@ -15,14 +15,14 @@ Boca_West,2,1984,06,10,1,Krishnan_Ramesh,Gullikson_Tom,Gullikson_Tom,Boca_West,1
 Boca_West,2,1984,06,10,1,Tanner_Roscoe,Teacher_Brian,Teacher_Brian,Boca_West,1984,06,10,6-4_6-3
 Boca_West,2,1984,06,10,1,Drewett_Brad,Noah_Yannick,Noah_Yannick,Boca_West,1984,06,10,6-2_6-2
 Boca_West,2,1984,06,10,2,Connors_Jimmy,Krickstein_Aaron,Connors_Jimmy,Boca_West,1984,06,10,6-0_6-0
-Boca_West,2,1984,06,10,2,Giammalva_JrSammy,Teltscher_Eliot,Giammalva_JrSammy,Boca_West,1984,06,10,6-1_5-7_7-6
+Boca_West,2,1984,06,10,2,Giammalva_Jr_Sammy,Teltscher_Eliot,Giammalva_Jr_Sammy,Boca_West,1984,06,10,6-1_5-7_7-6
 Boca_West,2,1984,06,10,2,Arias_Jimmy,Gottfried_Brian,Arias_Jimmy,Boca_West,1984,06,10,6-7_6-3_6-4
 Boca_West,2,1984,06,10,2,Odizor_Nduka,Purcell_Mel,Purcell_Mel,Boca_West,1984,06,10,6-3_3-6_6-3
 Boca_West,2,1984,06,10,2,Kriek_Johan,Meister_Steve,Kriek_Johan,Boca_West,1984,06,10,4-6_7-5_6-4
 Boca_West,2,1984,06,10,2,Giammalva_Tony,Gomez_Andres,Giammalva_Tony,Boca_West,1984,06,10,5-7_7-6_6-2
 Boca_West,2,1984,06,10,2,Davis_Scott,Gullikson_Tom,Davis_Scott,Boca_West,1984,06,10,6-7_6-4_7-6
 Boca_West,2,1984,06,10,2,Teacher_Brian,Noah_Yannick,Noah_Yannick,Boca_West,1984,06,10,6-4_7-5
-Boca_West,2,1984,06,10,3,Connors_Jimmy,Giammalva_JrSammy,Connors_Jimmy,Boca_West,1984,06,10,6-1_6-3
+Boca_West,2,1984,06,10,3,Connors_Jimmy,Giammalva_Jr_Sammy,Connors_Jimmy,Boca_West,1984,06,10,6-1_6-3
 Boca_West,2,1984,06,10,3,Arias_Jimmy,Purcell_Mel,Arias_Jimmy,Boca_West,1984,06,10,6-2_6-7_6-0
 Boca_West,2,1984,06,10,3,Kriek_Johan,Giammalva_Tony,Kriek_Johan,Boca_West,1984,06,10,6-3_6-7_6-3
 Boca_West,2,1984,06,10,3,Davis_Scott,Noah_Yannick,Noah_Yannick,Boca_West,1984,06,10,7-6_6-3

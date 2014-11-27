@@ -2,12 +2,12 @@ Toulouse,2,1987,10,18,1,Mayotte_Tim,Jones_Kelly,Mayotte_Tim,Toulouse,1987,10,18,
 Toulouse,2,1987,10,18,1,Srejber_Milan,Odizor_Nduka,Odizor_Nduka,Toulouse,1987,10,18,6-3_6-4
 Toulouse,2,1987,10,18,1,Purcell_Mel,Testerman_Ben,Testerman_Ben,Toulouse,1987,10,18,6-4_6-4
 Toulouse,2,1987,10,18,1,Benhabiles_Tarik,Mezzadri_Claudio,Mezzadri_Claudio,Toulouse,1987,10,18,6-1_6-1
-Toulouse,2,1987,10,18,1,Hlasek_Jakob,De_MiguelDavid,Hlasek_Jakob,Toulouse,1987,10,18,6-1_7-5
+Toulouse,2,1987,10,18,1,Hlasek_Jakob,De_Miguel_David,Hlasek_Jakob,Toulouse,1987,10,18,6-1_7-5
 Toulouse,2,1987,10,18,1,Fibak_Wojtek,Schapers_Michiel,Schapers_Michiel,Toulouse,1987,10,18,6-2_6-1
 Toulouse,2,1987,10,18,1,Muster_Thomas,Kuhnen_Patrik,Kuhnen_Patrik,Toulouse,1987,10,18,6-7_6-3_6-3
 Toulouse,2,1987,10,18,1,Perez_Diego,Gunnarsson_Jan,Gunnarsson_Jan,Toulouse,1987,10,18,6-3_6-3
 Toulouse,2,1987,10,18,1,Svensson_Jonas,Woodforde_Mark,Woodforde_Mark,Toulouse,1987,10,18,6-2_6-3
-Toulouse,2,1987,10,18,1,Wilkison_Tim,De_LaPenaHoracio,Wilkison_Tim,Toulouse,1987,10,18,6-0_6-1
+Toulouse,2,1987,10,18,1,Wilkison_Tim,De_La_Pena_Horacio,Wilkison_Tim,Toulouse,1987,10,18,6-0_6-1
 Toulouse,2,1987,10,18,1,Potier_Jerome,Nijssen_Tom,Potier_Jerome,Toulouse,1987,10,18,6-2_6-4
 Toulouse,2,1987,10,18,1,Agenor_Ronald,Forget_Guy,Forget_Guy,Toulouse,1987,10,18,6-1_6-2
 Toulouse,2,1987,10,18,1,Smid_Tomas,Limberger_Carl,Limberger_Carl,Toulouse,1987,10,18,6-1_6-3

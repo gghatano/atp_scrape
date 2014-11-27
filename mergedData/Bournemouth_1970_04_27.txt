@@ -1,8 +1,8 @@
 Bournemouth,2,1970,04,27,1,Roche_Tony,Case_Ross,Roche_Tony,Bournemouth,1970,04,27,6-2_9-7_1-6_6-1
-Bournemouth,2,1970,04,27,1,Goven_Georges,De_MendozaJohn,Goven_Georges,Bournemouth,1970,04,27,2-6_6-1_8-6_6-1
+Bournemouth,2,1970,04,27,1,Goven_Georges,De_Mendoza_John,Goven_Georges,Bournemouth,1970,04,27,2-6_6-1_8-6_6-1
 Bournemouth,2,1970,04,27,1,Barthes_Pierre,Spear_Nicola,Barthes_Pierre,Bournemouth,1970,04,27,6-3_6-2_1-6_4-6_6-2
 Bournemouth,2,1970,04,27,1,Battrick_Gerald,Rouyer_JeanLoup,Battrick_Gerald,Bournemouth,1970,04,27,6-4_6-3_8-6
-Bournemouth,2,1970,04,27,1,El_ShafeiIsmail,Sylvester_Lewis,El_ShafeiIsmail,Bournemouth,1970,04,27,1-6_4-6_6-2_6-2_6-0
+Bournemouth,2,1970,04,27,1,El_Shafei_Ismail,Sylvester_Lewis,El_Shafei_Ismail,Bournemouth,1970,04,27,1-6_4-6_6-2_6-2_6-0
 Bournemouth,2,1970,04,27,1,Stilwell_Graham,Lloyd_David,Stilwell_Graham,Bournemouth,1970,04,27,6-2_6-1_6-3
 Bournemouth,2,1970,04,27,1,Cox_Mark,Maud_Robert,Cox_Mark,Bournemouth,1970,04,27,4-6_8-6_6-0_6-1
 Bournemouth,2,1970,04,27,1,NGodrella_Wanaro,Wilson_Bobby,NGodrella_Wanaro,Bournemouth,1970,04,27,3-6_6-1_6-0_12-10
@@ -16,14 +16,14 @@ Bournemouth,2,1970,04,27,1,Barrett_John,Hutchins_Paul,Barrett_John,Bournemouth,1
 Bournemouth,2,1970,04,27,1,Okker_Tom,Pattison_Andrew,Okker_Tom,Bournemouth,1970,04,27,6-1_6-2_2-6_6-3
 Bournemouth,2,1970,04,27,2,Roche_Tony,Goven_Georges,Goven_Georges,Bournemouth,1970,04,27,6-3_6-2_3-6_7-9_6-1
 Bournemouth,2,1970,04,27,2,Barthes_Pierre,Battrick_Gerald,Battrick_Gerald,Bournemouth,1970,04,27,6-4_8-6_7-5
-Bournemouth,2,1970,04,27,2,El_ShafeiIsmail,Stilwell_Graham,El_ShafeiIsmail,Bournemouth,1970,04,27,6-0_6-3_9-11_6-1
+Bournemouth,2,1970,04,27,2,El_Shafei_Ismail,Stilwell_Graham,El_Shafei_Ismail,Bournemouth,1970,04,27,6-0_6-3_9-11_6-1
 Bournemouth,2,1970,04,27,2,Cox_Mark,NGodrella_Wanaro,Cox_Mark,Bournemouth,1970,04,27,7-5_6-3_6-1
 Bournemouth,2,1970,04,27,2,Contet_Daniel,Jauffret_Francois,Jauffret_Francois,Bournemouth,1970,04,27,6-1_6-3_10-8
 Bournemouth,2,1970,04,27,2,McMillan_Frew,Hewitt_Bob,Hewitt_Bob,Bournemouth,1970,04,27,6-2_6-2_6-2
 Bournemouth,2,1970,04,27,2,Diepraam_Keith,Pilic_Nikola,Pilic_Nikola,Bournemouth,1970,04,27,9-7_3-6_3-6_6-4_6-2
 Bournemouth,2,1970,04,27,2,Barrett_John,Okker_Tom,Okker_Tom,Bournemouth,1970,04,27,6-1_6-0_2-6_6-1
 Bournemouth,2,1970,04,27,3,Goven_Georges,Battrick_Gerald,Battrick_Gerald,Bournemouth,1970,04,27,6-2_5-7_6-4_4-6_8-6
-Bournemouth,2,1970,04,27,3,El_ShafeiIsmail,Cox_Mark,Cox_Mark,Bournemouth,1970,04,27,6-4_6-4_6-2
+Bournemouth,2,1970,04,27,3,El_Shafei_Ismail,Cox_Mark,Cox_Mark,Bournemouth,1970,04,27,6-4_6-4_6-2
 Bournemouth,2,1970,04,27,3,Jauffret_Francois,Hewitt_Bob,Hewitt_Bob,Bournemouth,1970,04,27,6-1_7-5_5-7_6-4
 Bournemouth,2,1970,04,27,3,Pilic_Nikola,Okker_Tom,Pilic_Nikola,Bournemouth,1970,04,27,6-2_6-3_7-5
 Bournemouth,2,1970,04,27,4,Battrick_Gerald,Cox_Mark,Cox_Mark,Bournemouth,1970,04,27,7-5_6-3_6-4

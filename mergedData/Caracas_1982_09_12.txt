@@ -10,7 +10,7 @@ Caracas,2,1982,09,12,1,Krulevitz_Steve,Fromm_Eric,Fromm_Eric,Caracas,1982,09,12,
 Caracas,2,1982,09,12,1,Leeds_Cary,Hightower_Ron,Hightower_Ron,Caracas,1982,09,12,6-2_6-1
 Caracas,2,1982,09,12,1,Brunnberg_Mike,Aubone_Guillermo,Brunnberg_Mike,Caracas,1982,09,12,6-4_6-2
 Caracas,2,1982,09,12,1,Dupasquier_Ivan,LopezMaeso_Jose,LopezMaeso_Jose,Caracas,1982,09,12,6-7_6-2_6-2
-Caracas,2,1982,09,12,1,Fillol_SrJaime,Andrew_Jorge,Fillol_SrJaime,Caracas,1982,09,12,7-5_6-3
+Caracas,2,1982,09,12,1,Fillol_Sr_Jaime,Andrew_Jorge,Fillol_Sr_Jaime,Caracas,1982,09,12,7-5_6-3
 Caracas,2,1982,09,12,1,Holroyd_Glen,Siegler_Dave,Siegler_Dave,Caracas,1982,09,12,6-4_7-5
 Caracas,2,1982,09,12,1,Benavides_Ramiro,Panatta_Claudio,Panatta_Claudio,Caracas,1982,09,12,7-6_6-3
 Caracas,2,1982,09,12,1,Kary_Hans,Ramirez_Raul,Ramirez_Raul,Caracas,1982,09,12,6-2_6-4
@@ -20,7 +20,7 @@ Caracas,2,1982,09,12,2,Acuna_Ricardo,Sauer_Freddie,Sauer_Freddie,Caracas,1982,09
 Caracas,2,1982,09,12,2,Kandler_HansPeter,Kuharszky_Zoltan,Kuharszky_Zoltan,Caracas,1982,09,12,6-0_6-4
 Caracas,2,1982,09,12,2,Fromm_Eric,Hightower_Ron,Fromm_Eric,Caracas,1982,09,12,6-4_7-6
 Caracas,2,1982,09,12,2,Brunnberg_Mike,LopezMaeso_Jose,Brunnberg_Mike,Caracas,1982,09,12,6-4_6-2
-Caracas,2,1982,09,12,2,Fillol_SrJaime,Siegler_Dave,Siegler_Dave,Caracas,1982,09,12,4-6_7-6_7-6
+Caracas,2,1982,09,12,2,Fillol_Sr_Jaime,Siegler_Dave,Siegler_Dave,Caracas,1982,09,12,4-6_7-6_7-6
 Caracas,2,1982,09,12,2,Panatta_Claudio,Ramirez_Raul,Ramirez_Raul,Caracas,1982,09,12,6-2_5-7_6-3
 Caracas,2,1982,09,12,3,Dibbs_Eddie,RogerVasselin_Christophe,Dibbs_Eddie,Caracas,1982,09,12,6-4_6-2
 Caracas,2,1982,09,12,3,Sauer_Freddie,Kuharszky_Zoltan,Kuharszky_Zoltan,Caracas,1982,09,12,7-5_7-6

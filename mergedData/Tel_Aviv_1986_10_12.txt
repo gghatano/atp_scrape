@@ -7,7 +7,7 @@ Tel_Aviv,2,1986,10,12,1,Green_Bob,Moraing_Peter,Green_Bob,Tel_Aviv,1986,10,12,6-
 Tel_Aviv,2,1986,10,12,1,Evernden_Kelly,Oosting_Menno,Oosting_Menno,Tel_Aviv,1986,10,12,4-6_6-4_6-1
 Tel_Aviv,2,1986,10,12,1,Westphal_Michael,Edwards_Eddie,Westphal_Michael,Tel_Aviv,1986,10,12,3-6_6-4_7-5
 Tel_Aviv,2,1986,10,12,1,Mansdorf_Amos,Scott_Larry,Mansdorf_Amos,Tel_Aviv,1986,10,12,6-3_4-6_6-4
-Tel_Aviv,2,1986,10,12,1,Levine_Brian,Cox_CharlesBud,Levine_Brian,Tel_Aviv,1986,10,12,6-4_6-7_6-0
+Tel_Aviv,2,1986,10,12,1,Levine_Brian,Cox_Charles_Bud,Levine_Brian,Tel_Aviv,1986,10,12,6-4_6-7_6-0
 Tel_Aviv,2,1986,10,12,1,Sznajder_Andrew,Naor_Amit,Sznajder_Andrew,Tel_Aviv,1986,10,12,6-1_6-4
 Tel_Aviv,2,1986,10,12,1,Becka_Jaromir,Lundgren_Peter,Lundgren_Peter,Tel_Aviv,1986,10,12,6-4_6-2
 Tel_Aviv,2,1986,10,12,1,Visser_Danie,Carlsson_Peter,Carlsson_Peter,Tel_Aviv,1986,10,12,6-3_6-0

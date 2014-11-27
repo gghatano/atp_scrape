@@ -1,6 +1,6 @@
 Washington_Indoor,2,1979,04,08,1,Dibbs_Eddie,Manson_Bruce,Dibbs_Eddie,Washington_Indoor,1979,04,08,6-3_2-6_7-5
 Washington_Indoor,2,1979,04,08,1,Stewart_Sherwood,Gullikson_Tom,Gullikson_Tom,Washington_Indoor,1979,04,08,6-3_7-5
-Washington_Indoor,2,1979,04,08,1,Riessen_Marty,Pecci_SrVictor,Riessen_Marty,Washington_Indoor,1979,04,08,7-5_7-5
+Washington_Indoor,2,1979,04,08,1,Riessen_Marty,Pecci_Sr_Victor,Riessen_Marty,Washington_Indoor,1979,04,08,7-5_7-5
 Washington_Indoor,2,1979,04,08,1,Kirmayr_Carlos,Smith_Stan,Smith_Stan,Washington_Indoor,1979,04,08,6-1_6-2
 Washington_Indoor,2,1979,04,08,1,Tanner_Roscoe,Joubert_Deon,Tanner_Roscoe,Washington_Indoor,1979,04,08,6-2_6-3
 Washington_Indoor,2,1979,04,08,1,Franulovic_Zeljko,Smid_Tomas,Smid_Tomas,Washington_Indoor,1979,04,08,6-2_6-3

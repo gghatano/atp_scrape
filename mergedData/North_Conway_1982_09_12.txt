@@ -1,4 +1,4 @@
-North_Conway,2,1982,09,12,1,Vilas_Guillermo,Pecci_SrVictor,Pecci_SrVictor,North_Conway,1982,09,12,5-7_6-4_6-2
+North_Conway,2,1982,09,12,1,Vilas_Guillermo,Pecci_Sr_Victor,Pecci_Sr_Victor,North_Conway,1982,09,12,5-7_6-4_6-2
 North_Conway,2,1982,09,12,1,Gildemeister_Heinz,Urpi_Gabriel,Gildemeister_Heinz,North_Conway,1982,09,12,5-7_6-2_7-5
 North_Conway,2,1982,09,12,1,Visser_Danie,Kerns_Kevin,Kerns_Kevin,North_Conway,1982,09,12,7-5_6-3
 North_Conway,2,1982,09,12,1,Sauer_Freddie,McNamee_Paul,Sauer_Freddie,North_Conway,1982,09,12,3-4_RET
@@ -25,12 +25,12 @@ North_Conway,2,1982,09,12,1,Flach_Ken,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway
 North_Conway,2,1982,09,12,1,Gomez_Andres,Fromm_Eric,Gomez_Andres,North_Conway,1982,09,12,6-3_5-7_6-3
 North_Conway,2,1982,09,12,1,Murphy_Pender,Fagel_Rick,Murphy_Pender,North_Conway,1982,09,12,6-4_4-6_6-3
 North_Conway,2,1982,09,12,1,Vines_Mark,Gehring_Rolf,Gehring_Rolf,North_Conway,1982,09,12,6-4_4-6_6-1
-North_Conway,2,1982,09,12,1,Damiani_JoseLuis,Taroczy_Balazs,Taroczy_Balazs,North_Conway,1982,09,12,6-4_3-6_6-0
+North_Conway,2,1982,09,12,1,Damiani_Jose_Luis,Taroczy_Balazs,Taroczy_Balazs,North_Conway,1982,09,12,6-4_3-6_6-0
 North_Conway,2,1982,09,12,1,Gildemeister_Hans,Avendano_Juan,Gildemeister_Hans,North_Conway,1982,09,12,6-4_4-6_6-2
 North_Conway,2,1982,09,12,1,Leach_Mike,Casal_Sergio,Leach_Mike,North_Conway,1982,09,12,6-4_4-6_7-5
 North_Conway,2,1982,09,12,1,Forget_Guy,Fritz_Bernard,Fritz_Bernard,North_Conway,1982,09,12,6-7_6-4_6-1
 North_Conway,2,1982,09,12,1,Aguilera_Juan,Lendl_Ivan,Lendl_Ivan,North_Conway,1982,09,12,6-2_3-6_6-3
-North_Conway,2,1982,09,12,2,Pecci_SrVictor,Gildemeister_Heinz,Pecci_SrVictor,North_Conway,1982,09,12,6-1_6-2
+North_Conway,2,1982,09,12,2,Pecci_Sr_Victor,Gildemeister_Heinz,Pecci_Sr_Victor,North_Conway,1982,09,12,6-1_6-2
 North_Conway,2,1982,09,12,2,Kerns_Kevin,Sauer_Freddie,Sauer_Freddie,North_Conway,1982,09,12,6-2_6-1
 North_Conway,2,1982,09,12,2,Arraya_Pablo,Leconte_Henri,Leconte_Henri,North_Conway,1982,09,12,6-4_4-6_6-3
 North_Conway,2,1982,09,12,2,Solomon_Harold,McNamara_Peter,McNamara_Peter,North_Conway,1982,09,12,6-2_7-6
@@ -46,7 +46,7 @@ North_Conway,2,1982,09,12,2,Gomez_Andres,Murphy_Pender,Gomez_Andres,North_Conway
 North_Conway,2,1982,09,12,2,Gehring_Rolf,Taroczy_Balazs,Taroczy_Balazs,North_Conway,1982,09,12,6-1_6-1
 North_Conway,2,1982,09,12,2,Gildemeister_Hans,Leach_Mike,Gildemeister_Hans,North_Conway,1982,09,12,7-5_6-4
 North_Conway,2,1982,09,12,2,Fritz_Bernard,Lendl_Ivan,Lendl_Ivan,North_Conway,1982,09,12,6-4_6-0
-North_Conway,2,1982,09,12,3,Pecci_SrVictor,Sauer_Freddie,Pecci_SrVictor,North_Conway,1982,09,12,7-6_4-6_3-2_RET
+North_Conway,2,1982,09,12,3,Pecci_Sr_Victor,Sauer_Freddie,Pecci_Sr_Victor,North_Conway,1982,09,12,7-6_4-6_3-2_RET
 North_Conway,2,1982,09,12,3,Leconte_Henri,McNamara_Peter,McNamara_Peter,North_Conway,1982,09,12,6-4_6-7_7-5
 North_Conway,2,1982,09,12,3,Teltscher_Eliot,Purcell_Mel,Purcell_Mel,North_Conway,1982,09,12,6-3_6-4
 North_Conway,2,1982,09,12,3,Dibbs_Eddie,Higueras_Jose,Higueras_Jose,North_Conway,1982,09,12,6-4_6-2
@@ -54,7 +54,7 @@ North_Conway,2,1982,09,12,3,Panatta_Claudio,Luna_Fernando,Luna_Fernando,North_Co
 North_Conway,2,1982,09,12,3,Alexander_John,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway,1982,09,12,6-2_6-2
 North_Conway,2,1982,09,12,3,Gomez_Andres,Taroczy_Balazs,Taroczy_Balazs,North_Conway,1982,09,12,6-3_4-6_6-4
 North_Conway,2,1982,09,12,3,Gildemeister_Hans,Lendl_Ivan,Lendl_Ivan,North_Conway,1982,09,12,6-2_6-1
-North_Conway,2,1982,09,12,4,Pecci_SrVictor,McNamara_Peter,McNamara_Peter,North_Conway,1982,09,12,6-7_6-3_6-2
+North_Conway,2,1982,09,12,4,Pecci_Sr_Victor,McNamara_Peter,McNamara_Peter,North_Conway,1982,09,12,6-7_6-3_6-2
 North_Conway,2,1982,09,12,4,Purcell_Mel,Higueras_Jose,Higueras_Jose,North_Conway,1982,09,12,6-3_7-6
 North_Conway,2,1982,09,12,4,Luna_Fernando,Clerc_JoseLuis,Clerc_JoseLuis,North_Conway,1982,09,12,6-4_6-4
 North_Conway,2,1982,09,12,4,Taroczy_Balazs,Lendl_Ivan,Lendl_Ivan,North_Conway,1982,09,12,6-2_6-4

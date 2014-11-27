@@ -1,7 +1,7 @@
 Las_Vegas,2,1975,12,14,1,Connors_Jimmy,Koch_Thomas,Connors_Jimmy,Las_Vegas,1975,12,14,6-2_6-2
 Las_Vegas,2,1975,12,14,1,Riessen_Marty,Stockton_Dick,Stockton_Dick,Las_Vegas,1975,12,14,6-1_6-4
 Las_Vegas,2,1975,12,14,1,Richey_Cliff,Andrews_John,Richey_Cliff,Las_Vegas,1975,12,14,6-7_6-3_6-4
-Las_Vegas,2,1975,12,14,1,Van_DillenErik,Newcombe_John,Newcombe_John,Las_Vegas,1975,12,14,6-2_6-3
+Las_Vegas,2,1975,12,14,1,Van_Dillen_Erik,Newcombe_John,Newcombe_John,Las_Vegas,1975,12,14,6-2_6-3
 Las_Vegas,2,1975,12,14,1,Tanner_Roscoe,Stewart_Sherwood,Tanner_Roscoe,Las_Vegas,1975,12,14,6-7_6-2_6-2
 Las_Vegas,2,1975,12,14,1,Carmichael_Bob,Gorman_Tom,Gorman_Tom,Las_Vegas,1975,12,14,7-6_4-6_6-2
 Las_Vegas,2,1975,12,14,1,Sedgman_Frank,Pasarell_Charlie,Pasarell_Charlie,Las_Vegas,1975,12,14,6-1_6-2
@@ -11,7 +11,7 @@ Las_Vegas,2,1975,12,14,1,Masters_Geoff,Lutz_Robert,Lutz_Robert,Las_Vegas,1975,12
 Las_Vegas,2,1975,12,14,1,Case_Ross,Borowiak_Jeff,Borowiak_Jeff,Las_Vegas,1975,12,14,7-6_7-6
 Las_Vegas,2,1975,12,14,1,Hewitt_Bob,Rosewall_Ken,Rosewall_Ken,Las_Vegas,1975,12,14,6-0_6-1
 Las_Vegas,2,1975,12,14,1,Solomon_Harold,McManus_Jim,Solomon_Harold,Las_Vegas,1975,12,14,6-4_6-0
-Las_Vegas,2,1975,12,14,1,Bohrnstedt_DickR,Gottfried_Brian,Gottfried_Brian,Las_Vegas,1975,12,14,6-4_2-6_6-3
+Las_Vegas,2,1975,12,14,1,Bohrnstedt_Dick_R,Gottfried_Brian,Gottfried_Brian,Las_Vegas,1975,12,14,6-4_2-6_6-3
 Las_Vegas,2,1975,12,14,1,Smith_Stan,Emerson_Roy,Smith_Stan,Las_Vegas,1975,12,14,6-2_7-6
 Las_Vegas,2,1975,12,14,1,Amritraj_Anand,Ashe_Arthur,Ashe_Arthur,Las_Vegas,1975,12,14,7-5_6-1
 Las_Vegas,2,1975,12,14,2,Connors_Jimmy,Stockton_Dick,Connors_Jimmy,Las_Vegas,1975,12,14,6-3_6-3

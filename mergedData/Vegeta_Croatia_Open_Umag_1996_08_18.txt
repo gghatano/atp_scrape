@@ -6,9 +6,9 @@ Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Mantilla_Felix,Carretero_Roberto,Mantill
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Zabaleta_Mariano,Pala_Petr,Zabaleta_Mariano,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Schaller_Gilbert,CunhaSilva_Joao,Schaller_Gilbert,Vegeta_Croatia_Open_Umag,1996,08,18,7-6(2)_6-0
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Rybalko_Andrei,Costa_Carlos,Costa_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-1_6-4
-Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Gumy_Hernan,Gorriz_MarcosAurelio,Gorriz_MarcosAurelio,Vegeta_Croatia_Open_Umag,1996,08,18,3-6_7-5_6-1
+Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Gumy_Hernan,Gorriz_Marcos_Aurelio,Gorriz_Marcos_Aurelio,Vegeta_Croatia_Open_Umag,1996,08,18,3-6_7-5_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Rikl_David,Prpic_Goran,Rikl_David,Vegeta_Croatia_Open_Umag,1996,08,18,6-4_6-4
-Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Blanco_Galo,Morejon_LuisAdrian,Blanco_Galo,Vegeta_Croatia_Open_Umag,1996,08,18,6-7(2)_6-4_6-1
+Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Blanco_Galo,Morejon_Luis_Adrian,Blanco_Galo,Vegeta_Croatia_Open_Umag,1996,08,18,6-7(2)_6-4_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Sanchez_Javier,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-1_7-6(8)
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Alami_Karim,Meligeni_Fernando,Alami_Karim,Vegeta_Croatia_Open_Umag,1996,08,18,6-4_7-6(4)
 Vegeta_Croatia_Open_Umag,2,1996,08,18,1,Ruud_Christian,Golmard_Jerome,Ruud_Christian,Vegeta_Croatia_Open_Umag,1996,08,18,6-1_7-5
@@ -18,13 +18,13 @@ Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Costa_Albert,Ogorodov_Oleg,Costa_Albert,
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Koubek_Stefan,Dosedel_Slava,Dosedel_Slava,Vegeta_Croatia_Open_Umag,1996,08,18,6-0_6-2
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Mantilla_Felix,Zabaleta_Mariano,Mantilla_Felix,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-3
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Schaller_Gilbert,Costa_Carlos,Schaller_Gilbert,Vegeta_Croatia_Open_Umag,1996,08,18,4-6_6-2_6-0
-Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Gorriz_MarcosAurelio,Rikl_David,Gorriz_MarcosAurelio,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-1
+Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Gorriz_Marcos_Aurelio,Rikl_David,Gorriz_Marcos_Aurelio,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Blanco_Galo,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-2
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Alami_Karim,Ruud_Christian,Ruud_Christian,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-3
 Vegeta_Croatia_Open_Umag,2,1996,08,18,2,Ljubicic_Ivan,Kuerten_Gustavo,Kuerten_Gustavo,Vegeta_Croatia_Open_Umag,1996,08,18,6-2_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,3,Costa_Albert,Dosedel_Slava,Dosedel_Slava,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_6-4
 Vegeta_Croatia_Open_Umag,2,1996,08,18,3,Mantilla_Felix,Schaller_Gilbert,Mantilla_Felix,Vegeta_Croatia_Open_Umag,1996,08,18,6-3_7-6(4)
-Vegeta_Croatia_Open_Umag,2,1996,08,18,3,Gorriz_MarcosAurelio,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-2_6-1
+Vegeta_Croatia_Open_Umag,2,1996,08,18,3,Gorriz_Marcos_Aurelio,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-2_6-1
 Vegeta_Croatia_Open_Umag,2,1996,08,18,3,Ruud_Christian,Kuerten_Gustavo,Ruud_Christian,Vegeta_Croatia_Open_Umag,1996,08,18,7-5_6-4
 Vegeta_Croatia_Open_Umag,2,1996,08,18,4,Dosedel_Slava,Mantilla_Felix,Mantilla_Felix,Vegeta_Croatia_Open_Umag,1996,08,18,4-2_RET
 Vegeta_Croatia_Open_Umag,2,1996,08,18,4,Moya_Carlos,Ruud_Christian,Moya_Carlos,Vegeta_Croatia_Open_Umag,1996,08,18,6-1_6-2

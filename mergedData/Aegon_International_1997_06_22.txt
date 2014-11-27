@@ -6,7 +6,7 @@ Aegon_International,2,1997,06,22,1,Henman_Tim,Richardson_Andrew,Henman_Tim,Aegon
 Aegon_International,2,1997,06,22,1,Sargsian_Sargis,Fromberg_Richard,Fromberg_Richard,Aegon_International,1997,06,22,3-6_6-3_7-6(4)
 Aegon_International,2,1997,06,22,1,Nestor_Daniel,Stafford_Grant,Stafford_Grant,Aegon_International,1997,06,22,6-1_7-6(6)
 Aegon_International,2,1997,06,22,1,Norman_Magnus,Siemerink_Jan,Siemerink_Jan,Aegon_International,1997,06,22,6-0_6-4
-Aegon_International,2,1997,06,22,1,Courier_Jim,Van_HerckJohan,Courier_Jim,Aegon_International,1997,06,22,6-3_3-6_6-3
+Aegon_International,2,1997,06,22,1,Courier_Jim,Van_Herck_Johan,Courier_Jim,Aegon_International,1997,06,22,6-3_3-6_6-3
 Aegon_International,2,1997,06,22,1,Stoltenberg_Jason,Tarango_Jeff,Stoltenberg_Jason,Aegon_International,1997,06,22,6-4_6-2
 Aegon_International,2,1997,06,22,1,Stark_Jonathan,Woodforde_Mark,Woodforde_Mark,Aegon_International,1997,06,22,6-3_7-6(4)
 Aegon_International,2,1997,06,22,1,Rusedski_Greg,Kuerten_Gustavo,Rusedski_Greg,Aegon_International,1997,06,22,6-1_7-5

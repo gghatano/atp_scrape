@@ -4,8 +4,8 @@ Sydney_Indoor,2,1986,10,19,1,Furlong_Stephen,Barr_Shane,Furlong_Stephen,Sydney_I
 Sydney_Indoor,2,1986,10,19,1,Warder_Laurie,Masur_Wally,Masur_Wally,Sydney_Indoor,1986,10,19,6-2_7-5
 Sydney_Indoor,2,1986,10,19,1,Custer_Brett,McNamara_Peter,McNamara_Peter,Sydney_Indoor,1986,10,19,6-1_6-2
 Sydney_Indoor,2,1986,10,19,1,Lane_Anthony,Stansbury_Cary,Stansbury_Cary,Sydney_Indoor,1986,10,19,6-4_2-6_6-1
-Sydney_Indoor,2,1986,10,19,1,Miller_CraigA,Cash_Pat,Cash_Pat,Sydney_Indoor,1986,10,19,6-3_6-4
-Sydney_Indoor,2,1986,10,19,1,Drewett_Brad,Van_RensburgChristo,Drewett_Brad,Sydney_Indoor,1986,10,19,7-6_6-1
+Sydney_Indoor,2,1986,10,19,1,Miller_Craig_A,Cash_Pat,Cash_Pat,Sydney_Indoor,1986,10,19,6-3_6-4
+Sydney_Indoor,2,1986,10,19,1,Drewett_Brad,Van_Rensburg_Christo,Drewett_Brad,Sydney_Indoor,1986,10,19,7-6_6-1
 Sydney_Indoor,2,1986,10,19,1,Freeman_Marcel,Nelson_Todd,Freeman_Marcel,Sydney_Indoor,1986,10,19,6-2_6-4
 Sydney_Indoor,2,1986,10,19,1,Edmondson_Mark,Doohan_Peter,Edmondson_Mark,Sydney_Indoor,1986,10,19,6-2_6-3
 Sydney_Indoor,2,1986,10,19,1,Cahill_Darren,Warneke_Tomm,Cahill_Darren,Sydney_Indoor,1986,10,19,6-2_6-4

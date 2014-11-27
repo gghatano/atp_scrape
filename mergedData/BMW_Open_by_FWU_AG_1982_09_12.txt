@@ -10,7 +10,7 @@ BMW_Open_by_FWU_AG,2,1982,09,12,1,Birner_Stanislav,Ismail_Haroon,Birner_Stanisla
 BMW_Open_by_FWU_AG,2,1982,09,12,1,RogerVasselin_Christophe,Zirngibl_Werner,RogerVasselin_Christophe,BMW_Open_by_FWU_AG,1982,09,12,5-7_6-2_7-5
 BMW_Open_by_FWU_AG,2,1982,09,12,1,GarciaRequena_Jose,Meiler_Karl,GarciaRequena_Jose,BMW_Open_by_FWU_AG,1982,09,12,6-4_6-4
 BMW_Open_by_FWU_AG,2,1982,09,12,1,Gehring_Rolf,Purcell_Mel,Purcell_Mel,BMW_Open_by_FWU_AG,1982,09,12,6-3_6-3
-BMW_Open_by_FWU_AG,2,1982,09,12,1,Lewis_NZLChris,Hocevar_Marcos,Lewis_NZLChris,BMW_Open_by_FWU_AG,1982,09,12,7-5_7-5
+BMW_Open_by_FWU_AG,2,1982,09,12,1,Lewis_NZL_Chris,Hocevar_Marcos,Lewis_NZL_Chris,BMW_Open_by_FWU_AG,1982,09,12,7-5_7-5
 BMW_Open_by_FWU_AG,2,1982,09,12,1,LopezMaeso_Jose,Gimenez_Angel,LopezMaeso_Jose,BMW_Open_by_FWU_AG,1982,09,12,7-5_6-4
 BMW_Open_by_FWU_AG,2,1982,09,12,1,Eberhard_Klaus,Moor_Terry,Eberhard_Klaus,BMW_Open_by_FWU_AG,1982,09,12,3-6_6-2_6-4
 BMW_Open_by_FWU_AG,2,1982,09,12,1,Schwaier_Hans,Mayer_Gene,Mayer_Gene,BMW_Open_by_FWU_AG,1982,09,12,6-2_6-2
@@ -20,7 +20,7 @@ BMW_Open_by_FWU_AG,2,1982,09,12,2,Hooper_Chip,Krulevitz_Steve,Hooper_Chip,BMW_Op
 BMW_Open_by_FWU_AG,2,1982,09,12,2,Keretic_Damir,Granat_Jiri,Keretic_Damir,BMW_Open_by_FWU_AG,1982,09,12,7-5_4-6_7-6
 BMW_Open_by_FWU_AG,2,1982,09,12,2,Birner_Stanislav,RogerVasselin_Christophe,RogerVasselin_Christophe,BMW_Open_by_FWU_AG,1982,09,12,1-6_7-5_7-5
 BMW_Open_by_FWU_AG,2,1982,09,12,2,GarciaRequena_Jose,Purcell_Mel,GarciaRequena_Jose,BMW_Open_by_FWU_AG,1982,09,12,6-0_6-4
-BMW_Open_by_FWU_AG,2,1982,09,12,2,Lewis_NZLChris,LopezMaeso_Jose,LopezMaeso_Jose,BMW_Open_by_FWU_AG,1982,09,12,6-3_6-1
+BMW_Open_by_FWU_AG,2,1982,09,12,2,Lewis_NZL_Chris,LopezMaeso_Jose,LopezMaeso_Jose,BMW_Open_by_FWU_AG,1982,09,12,6-3_6-1
 BMW_Open_by_FWU_AG,2,1982,09,12,2,Eberhard_Klaus,Mayer_Gene,Mayer_Gene,BMW_Open_by_FWU_AG,1982,09,12,6-1_7-6
 BMW_Open_by_FWU_AG,2,1982,09,12,3,Elter_Peter,Glickstein_Shlomo,Elter_Peter,BMW_Open_by_FWU_AG,1982,09,12,6-4_2-6_6-3
 BMW_Open_by_FWU_AG,2,1982,09,12,3,Hooper_Chip,Keretic_Damir,Keretic_Damir,BMW_Open_by_FWU_AG,1982,09,12,6-3_3-6_6-1

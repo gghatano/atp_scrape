@@ -6,10 +6,10 @@ ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Kafelnikov_Yevgeny,Forget_Guy,Ka
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Olhovskiy_Andrei,Eltingh_Jacco,Eltingh_Jacco,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-6(5)_7-6(4)
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Pioline_Cedric,Alami_Karim,Pioline_Cedric,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-3_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Haarhuis_Paul,Krajicek_Richard,Krajicek_Richard,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-3_7-6(7)
-ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Boetsch_Arnaud,Van_ScheppingenDennis,Boetsch_Arnaud,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-6(7)_7-5
+ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Boetsch_Arnaud,Van_Scheppingen_Dennis,Boetsch_Arnaud,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-6(7)_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Raoux_Guillaume,Dosedel_Slava,Raoux_Guillaume,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-3_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Prinosil_David,Davids_HendrikJan,Prinosil_David,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-7(7)_6-3_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,van_LottumJohn,Rosset_Marc,Rosset_Marc,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-2_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Prinosil_David,Davids_Hendrik_Jan,Prinosil_David,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-7(7)_6-3_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,van_Lottum_John,Rosset_Marc,Rosset_Marc,ABN_AMRO_World_Tennis_Tournament,1996,03,10,6-2_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Ulihrach_Bohdan,Damm_Martin,Damm_Martin,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-6(5)_7-6(3)
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Baur_Patrick,Steeb_CarlUwe,Steeb_CarlUwe,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-5_7-6(4)
 ABN_AMRO_World_Tennis_Tournament,2,1996,03,10,1,Camporese_Omar,Tarango_Jeff,Camporese_Omar,ABN_AMRO_World_Tennis_Tournament,1996,03,10,7-6(4)_6-3

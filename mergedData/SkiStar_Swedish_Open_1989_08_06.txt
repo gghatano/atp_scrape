@@ -1,4 +1,4 @@
-SkiStar_Swedish_Open,2,1989,08,06,1,Mecir_SrMiloslav,Anderson_Johan,Anderson_Johan,SkiStar_Swedish_Open,1989,08,06,6-4_4-6_6-1
+SkiStar_Swedish_Open,2,1989,08,06,1,Mecir_Sr_Miloslav,Anderson_Johan,Anderson_Johan,SkiStar_Swedish_Open,1989,08,06,6-4_4-6_6-1
 SkiStar_Swedish_Open,2,1989,08,06,1,Larsson_Magnus,Nydahl_Tomas,Nydahl_Tomas,SkiStar_Swedish_Open,1989,08,06,6-1_1-6_6-4
 SkiStar_Swedish_Open,2,1989,08,06,1,Wostenholme_Martin,Cihak_Josef,Cihak_Josef,SkiStar_Swedish_Open,1989,08,06,6-1_6-1
 SkiStar_Swedish_Open,2,1989,08,06,1,Haldin_Thomas,Gustafsson_Magnus,Gustafsson_Magnus,SkiStar_Swedish_Open,1989,08,06,6-4_6-1

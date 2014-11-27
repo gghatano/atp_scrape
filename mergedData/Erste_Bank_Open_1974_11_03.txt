@@ -1,13 +1,13 @@
 Erste_Bank_Open,2,1974,11,03,1,Gorman_Tom,LoyoMayo_Joaquin,Gorman_Tom,Erste_Bank_Open,1974,11,03,6-3_7-5
 Erste_Bank_Open,2,1974,11,03,1,Keldie_Ray,Tiriac_Ion,Tiriac_Ion,Erste_Bank_Open,1974,11,03,3-6_6-4_6-0
-Erste_Bank_Open,2,1974,11,03,1,Meiler_Karl,Velasco_SrJairo,Meiler_Karl,Erste_Bank_Open,1974,11,03,6-1_6-4
+Erste_Bank_Open,2,1974,11,03,1,Meiler_Karl,Velasco_Sr_Jairo,Meiler_Karl,Erste_Bank_Open,1974,11,03,6-1_6-4
 Erste_Bank_Open,2,1974,11,03,1,Pokorny_Peter,McMillan_Frew,McMillan_Frew,Erste_Bank_Open,1974,11,03,6-4_6-1
 Erste_Bank_Open,2,1974,11,03,1,Moore_Raymond,Lundquist_JanEric,Moore_Raymond,Erste_Bank_Open,1974,11,03,6-3_6-1
 Erste_Bank_Open,2,1974,11,03,1,Holecek_Milan,Fibak_Wojtek,Fibak_Wojtek,Erste_Bank_Open,1974,11,03,5-7_6-2_8-6
 Erste_Bank_Open,2,1974,11,03,1,Gerulaitis_Vitas,Johansson_Kjell,Gerulaitis_Vitas,Erste_Bank_Open,1974,11,03,6-3_6-0
 Erste_Bank_Open,2,1974,11,03,1,Spear_Nicola,Hewitt_Bob,Hewitt_Bob,Erste_Bank_Open,1974,11,03,7-6_6-4
 Erste_Bank_Open,2,1974,11,03,1,Pattison_Andrew,Fisher_Rick,Pattison_Andrew,Erste_Bank_Open,1974,11,03,6-3_7-6
-Erste_Bank_Open,2,1974,11,03,1,Bengtson_OveNils,Pisecky_Jan,Bengtson_OveNils,Erste_Bank_Open,1974,11,03,6-2_7-5
+Erste_Bank_Open,2,1974,11,03,1,Bengtson_Ove_Nils,Pisecky_Jan,Bengtson_Ove_Nils,Erste_Bank_Open,1974,11,03,6-2_7-5
 Erste_Bank_Open,2,1974,11,03,1,Varga_Geza,Benyik_Janos,Benyik_Janos,Erste_Bank_Open,1974,11,03,7-5_6-4
 Erste_Bank_Open,2,1974,11,03,1,Pala_Frantisek,Kary_Hans,Kary_Hans,Erste_Bank_Open,1974,11,03,4-6_7-5_7-5
 Erste_Bank_Open,2,1974,11,03,1,Kuhnke_Christian,Rahim_Haroon,Rahim_Haroon,Erste_Bank_Open,1974,11,03,6-4_6-2
@@ -18,7 +18,7 @@ Erste_Bank_Open,2,1974,11,03,2,Gorman_Tom,Tiriac_Ion,Gorman_Tom,Erste_Bank_Open,
 Erste_Bank_Open,2,1974,11,03,2,Meiler_Karl,McMillan_Frew,Meiler_Karl,Erste_Bank_Open,1974,11,03,6-2_6-1
 Erste_Bank_Open,2,1974,11,03,2,Moore_Raymond,Fibak_Wojtek,Moore_Raymond,Erste_Bank_Open,1974,11,03,3-6_6-2_6-3
 Erste_Bank_Open,2,1974,11,03,2,Gerulaitis_Vitas,Hewitt_Bob,Gerulaitis_Vitas,Erste_Bank_Open,1974,11,03,6-2_7-5
-Erste_Bank_Open,2,1974,11,03,2,Pattison_Andrew,Bengtson_OveNils,Pattison_Andrew,Erste_Bank_Open,1974,11,03,7-5_6-1
+Erste_Bank_Open,2,1974,11,03,2,Pattison_Andrew,Bengtson_Ove_Nils,Pattison_Andrew,Erste_Bank_Open,1974,11,03,7-5_6-1
 Erste_Bank_Open,2,1974,11,03,2,Benyik_Janos,Kary_Hans,Kary_Hans,Erste_Bank_Open,1974,11,03,6-1_4-6_8-6
 Erste_Bank_Open,2,1974,11,03,2,Rahim_Haroon,Wimmer_Gerard,Wimmer_Gerard,Erste_Bank_Open,1974,11,03,1-6_7-6_10-8
 Erste_Bank_Open,2,1974,11,03,2,Battrick_Gerald,Taroczy_Balazs,Taroczy_Balazs,Erste_Bank_Open,1974,11,03,6-4_7-6

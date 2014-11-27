@@ -2,7 +2,7 @@ Open_Sud_de_France,2,2004,10,10,1,Massu_Nicolas,Calleri_Agustin,Calleri_Agustin,
 Open_Sud_de_France,2,2004,10,10,1,Horna_Luis,Youzhny_Mikhail,Youzhny_Mikhail,Open_Sud_de_France,2004,10,10,6-4_7-6(1)
 Open_Sud_de_France,2,2004,10,10,1,Stepanek_Radek,Mathieu_PaulHenri,Stepanek_Radek,Open_Sud_de_France,2004,10,10,4-6_7-5_6-2
 Open_Sud_de_France,2,2004,10,10,1,Malisse_Xavier,Hrbaty_Dominik,Malisse_Xavier,Open_Sud_de_France,2004,10,10,6-4_7-6(4)
-Open_Sud_de_France,2,2004,10,10,1,Ferrero_JuanCarlos,Sargsian_Sargis,Ferrero_JuanCarlos,Open_Sud_de_France,2004,10,10,6-3_7-6(4)
+Open_Sud_de_France,2,2004,10,10,1,Ferrero_Juan_Carlos,Sargsian_Sargis,Ferrero_Juan_Carlos,Open_Sud_de_France,2004,10,10,6-3_7-6(4)
 Open_Sud_de_France,2,2004,10,10,1,Ferrer_David,Sluiter_Raemon,Ferrer_David,Open_Sud_de_France,2004,10,10,6-3_6-4
 Open_Sud_de_France,2,2004,10,10,1,Costa_Albert,Bjorkman_Jonas,Bjorkman_Jonas,Open_Sud_de_France,2004,10,10,6-7(5)_7-6(6)_6-4
 Open_Sud_de_France,2,2004,10,10,1,Mirnyi_Max,Ancic_Mario,Mirnyi_Max,Open_Sud_de_France,2004,10,10,6-3_3-1_RET
@@ -16,7 +16,7 @@ Open_Sud_de_France,2,2004,10,10,1,Melzer_Jurgen,Llodra_Michael,Melzer_Jurgen,Ope
 Open_Sud_de_France,2,2004,10,10,1,Arazi_Hicham,Schuettler_Rainer,Arazi_Hicham,Open_Sud_de_France,2004,10,10,6-4_1-6_6-3
 Open_Sud_de_France,2,2004,10,10,2,Calleri_Agustin,Youzhny_Mikhail,Youzhny_Mikhail,Open_Sud_de_France,2004,10,10,6-3_6-7(2)_7-6(4)
 Open_Sud_de_France,2,2004,10,10,2,Stepanek_Radek,Malisse_Xavier,Malisse_Xavier,Open_Sud_de_France,2004,10,10,4-6_7-6(4)_6-0
-Open_Sud_de_France,2,2004,10,10,2,Ferrero_JuanCarlos,Ferrer_David,Ferrer_David,Open_Sud_de_France,2004,10,10,3-6_7-5_6-3
+Open_Sud_de_France,2,2004,10,10,2,Ferrero_Juan_Carlos,Ferrer_David,Ferrer_David,Open_Sud_de_France,2004,10,10,3-6_7-5_6-3
 Open_Sud_de_France,2,2004,10,10,2,Bjorkman_Jonas,Mirnyi_Max,Bjorkman_Jonas,Open_Sud_de_France,2004,10,10,6-7(3)_7-6(5)_6-4
 Open_Sud_de_France,2,2004,10,10,2,Soderling_Robin,Lopez_Feliciano,Soderling_Robin,Open_Sud_de_France,2004,10,10,4-6_6-3_6-3
 Open_Sud_de_France,2,2004,10,10,2,Benneteau_Julien,Johansson_Joachim,Johansson_Joachim,Open_Sud_de_France,2004,10,10,6-3_6-4

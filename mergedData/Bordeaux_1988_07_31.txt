@@ -12,7 +12,7 @@ Bordeaux,2,1988,07,31,1,Pistolesi_Claudio,Fleurian_JeanPhilippe,Pistolesi_Claudi
 Bordeaux,2,1988,07,31,1,Champion_Thierry,Muster_Thomas,Muster_Thomas,Bordeaux,1988,07,31,6-1_6-4
 Bordeaux,2,1988,07,31,1,Arrese_Jordi,Arraya_Pablo,Arraya_Pablo,Bordeaux,1988,07,31,6-3_2-6_7-5
 Bordeaux,2,1988,07,31,1,Skoff_Horst,Filippini_Marcelo,Skoff_Horst,Bordeaux,1988,07,31,4-6_6-3_6-0
-Bordeaux,2,1988,07,31,1,Baguena_JuanCarlos,Rackl_Markus,Rackl_Markus,Bordeaux,1988,07,31,6-7_7-6_6-2
+Bordeaux,2,1988,07,31,1,Baguena_Juan_Carlos,Rackl_Markus,Rackl_Markus,Bordeaux,1988,07,31,6-7_7-6_6-2
 Bordeaux,2,1988,07,31,1,Baur_Patrick,Carlsson_Kent,Carlsson_Kent,Bordeaux,1988,07,31,6-3_6-2
 Bordeaux,2,1988,07,31,2,Noah_Yannick,Davin_Franco,Noah_Yannick,Bordeaux,1988,07,31,6-2_1-6_7-6
 Bordeaux,2,1988,07,31,2,Tous_Alberto,Duncan_Lawson,Duncan_Lawson,Bordeaux,1988,07,31,6-2_6-0

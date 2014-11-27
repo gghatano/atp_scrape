@@ -8,7 +8,7 @@ BNP_Paribas_Masters,2,1982,01,10,1,Freyss_Christophe,Meister_Steve,Meister_Steve
 BNP_Paribas_Masters,2,1982,01,10,1,Lewis_Richard,Panatta_Adriano,Lewis_Richard,BNP_Paribas_Masters,1982,01,10,6-3_6-3
 BNP_Paribas_Masters,2,1982,01,10,1,Portes_Pascal,Smith_Jonathan,Portes_Pascal,BNP_Paribas_Masters,1982,01,10,6-3_6-4
 BNP_Paribas_Masters,2,1982,01,10,1,Proisy_Patrick,Courteau_Loic,Courteau_Loic,BNP_Paribas_Masters,1982,01,10,6-1_6-4
-BNP_Paribas_Masters,2,1982,01,10,1,Van_LangendonckJan,Potier_Jerome,Potier_Jerome,BNP_Paribas_Masters,1982,01,10,6-2_6-2
+BNP_Paribas_Masters,2,1982,01,10,1,Van_Langendonck_Jan,Potier_Jerome,Potier_Jerome,BNP_Paribas_Masters,1982,01,10,6-2_6-2
 BNP_Paribas_Masters,2,1982,01,10,1,Ismail_Haroon,Kriek_Johan,Kriek_Johan,BNP_Paribas_Masters,1982,01,10,7-6_6-2
 BNP_Paribas_Masters,2,1982,01,10,1,Smith_Stan,Leconte_Henri,Smith_Stan,BNP_Paribas_Masters,1982,01,10,6-3_6-4
 BNP_Paribas_Masters,2,1982,01,10,1,Torre_Paul,Feaver_John,Feaver_John,BNP_Paribas_Masters,1982,01,10,6-3_6-2

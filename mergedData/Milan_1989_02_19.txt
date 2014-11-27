@@ -13,7 +13,7 @@ Milan,2,1989,02,19,1,Ostoja_Marko,Hlasek_Jakob,Hlasek_Jakob,Milan,1989,02,19,7-6
 Milan,2,1989,02,19,1,Svensson_Jonas,Narducci_Massimiliano,Svensson_Jonas,Milan,1989,02,19,6-4_6-2
 Milan,2,1989,02,19,1,Gustafsson_Magnus,Jelen_Eric,Jelen_Eric,Milan,1989,02,19,6-4_6-2
 Milan,2,1989,02,19,1,Carbonell_Tomas,Cane_Paolo,Cane_Paolo,Milan,1989,02,19,6-3_6-2
-Milan,2,1989,02,19,1,Camporese_Omar,Mecir_SrMiloslav,Camporese_Omar,Milan,1989,02,19,6-4_7-6
+Milan,2,1989,02,19,1,Camporese_Omar,Mecir_Sr_Miloslav,Camporese_Omar,Milan,1989,02,19,6-4_7-6
 Milan,2,1989,02,19,2,Becker_Boris,Forget_Guy,Becker_Boris,Milan,1989,02,19,6-3_7-6
 Milan,2,1989,02,19,2,Bergstrom_Christian,Srejber_Milan,Bergstrom_Christian,Milan,1989,02,19,6-3_2-6_6-4
 Milan,2,1989,02,19,2,McEnroe_John,Schapers_Michiel,McEnroe_John,Milan,1989,02,19,6-2_6-3

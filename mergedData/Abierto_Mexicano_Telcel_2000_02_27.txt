@@ -1,7 +1,7 @@
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Kuerten_Gustavo,Etlis_Gaston,Kuerten_Gustavo,Abierto_Mexicano_Telcel,2000,02,27,6-4_3-6_6-3
-Abierto_Mexicano_Telcel,2,2000,02,27,1,Black_Byron,Chela_JuanIgnacio,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2000,02,27,6-2_6-3
-Abierto_Mexicano_Telcel,2,2000,02,27,1,Marin_JuanAntonio,Hantschk_Markus,Hantschk_Markus,Abierto_Mexicano_Telcel,2000,02,27,7-6(6)_3-6_6-0
-Abierto_Mexicano_Telcel,2,2000,02,27,1,Stanoytchev_Orlin,Di_PasqualeArnaud,Stanoytchev_Orlin,Abierto_Mexicano_Telcel,2000,02,27,6-1_7-5
+Abierto_Mexicano_Telcel,2,2000,02,27,1,Black_Byron,Chela_Juan_Ignacio,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2000,02,27,6-2_6-3
+Abierto_Mexicano_Telcel,2,2000,02,27,1,Marin_Juan_Antonio,Hantschk_Markus,Hantschk_Markus,Abierto_Mexicano_Telcel,2000,02,27,7-6(6)_3-6_6-0
+Abierto_Mexicano_Telcel,2,2000,02,27,1,Stanoytchev_Orlin,Di_Pasquale_Arnaud,Stanoytchev_Orlin,Abierto_Mexicano_Telcel,2000,02,27,6-1_7-5
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Koubek_Stefan,Portas_Albert,Koubek_Stefan,Abierto_Mexicano_Telcel,2000,02,27,6-1_6-3
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Sa_Andre,Fromberg_Richard,Fromberg_Richard,Abierto_Mexicano_Telcel,2000,02,27,4-6_6-2_6-4
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Tieleman_Laurence,Hernandez_Alejandro,Hernandez_Alejandro,Abierto_Mexicano_Telcel,2000,02,27,6-2_6-4
@@ -12,9 +12,9 @@ Abierto_Mexicano_Telcel,2,2000,02,27,1,Canas_Guillermo,Massu_Nicolas,Canas_Guill
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Bruguera_Sergi,Meligeni_Fernando,Meligeni_Fernando,Abierto_Mexicano_Telcel,2000,02,27,7-6(5)_7-6(3)
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Squillari_Franco,Blanco_Galo,Squillari_Franco,Abierto_Mexicano_Telcel,2000,02,27,3-6_6-4_6-1
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Diaz_Jacobo,Agenor_Ronald,Agenor_Ronald,Abierto_Mexicano_Telcel,2000,02,27,6-3_6-4
-Abierto_Mexicano_Telcel,2,2000,02,27,1,VilocaPuig_JuanAlbert,Sargsian_Sargis,Sargsian_Sargis,Abierto_Mexicano_Telcel,2000,02,27,3-6_6-4_6-1
+Abierto_Mexicano_Telcel,2,2000,02,27,1,VilocaPuig_Juan_Albert,Sargsian_Sargis,Sargsian_Sargis,Abierto_Mexicano_Telcel,2000,02,27,3-6_6-4_6-1
 Abierto_Mexicano_Telcel,2,2000,02,27,1,Ulihrach_Bohdan,Lapentti_Nicolas,Lapentti_Nicolas,Abierto_Mexicano_Telcel,2000,02,27,6-4_6-2
-Abierto_Mexicano_Telcel,2,2000,02,27,2,Kuerten_Gustavo,Chela_JuanIgnacio,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2000,02,27,3-6_7-6(8)_6-4
+Abierto_Mexicano_Telcel,2,2000,02,27,2,Kuerten_Gustavo,Chela_Juan_Ignacio,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2000,02,27,3-6_7-6(8)_6-4
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Hantschk_Markus,Stanoytchev_Orlin,Hantschk_Markus,Abierto_Mexicano_Telcel,2000,02,27,6-3_1-6_6-2
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Koubek_Stefan,Fromberg_Richard,Koubek_Stefan,Abierto_Mexicano_Telcel,2000,02,27,6-7(5)_6-4_6-4
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Hernandez_Alejandro,Gaudio_Gaston,Gaudio_Gaston,Abierto_Mexicano_Telcel,2000,02,27,3-6_6-3_6-3
@@ -22,10 +22,10 @@ Abierto_Mexicano_Telcel,2,2000,02,27,2,Puerta_Mariano,Gumy_Hernan,Puerta_Mariano
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Canas_Guillermo,Meligeni_Fernando,Canas_Guillermo,Abierto_Mexicano_Telcel,2000,02,27,6-2_4-6_6-3
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Squillari_Franco,Agenor_Ronald,Squillari_Franco,Abierto_Mexicano_Telcel,2000,02,27,7-5_6-2
 Abierto_Mexicano_Telcel,2,2000,02,27,2,Sargsian_Sargis,Lapentti_Nicolas,Lapentti_Nicolas,Abierto_Mexicano_Telcel,2000,02,27,7-5_4-6_6-1
-Abierto_Mexicano_Telcel,2,2000,02,27,3,Chela_JuanIgnacio,Hantschk_Markus,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2000,02,27,6-3_7-6(3)
+Abierto_Mexicano_Telcel,2,2000,02,27,3,Chela_Juan_Ignacio,Hantschk_Markus,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2000,02,27,6-3_7-6(3)
 Abierto_Mexicano_Telcel,2,2000,02,27,3,Koubek_Stefan,Gaudio_Gaston,Koubek_Stefan,Abierto_Mexicano_Telcel,2000,02,27,7-6(5)_6-4
 Abierto_Mexicano_Telcel,2,2000,02,27,3,Puerta_Mariano,Canas_Guillermo,Puerta_Mariano,Abierto_Mexicano_Telcel,2000,02,27,6-2_6-3
 Abierto_Mexicano_Telcel,2,2000,02,27,3,Squillari_Franco,Lapentti_Nicolas,Squillari_Franco,Abierto_Mexicano_Telcel,2000,02,27,6-4_7-6(3)
-Abierto_Mexicano_Telcel,2,2000,02,27,4,Chela_JuanIgnacio,Koubek_Stefan,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2000,02,27,7-6(2)_6-3
+Abierto_Mexicano_Telcel,2,2000,02,27,4,Chela_Juan_Ignacio,Koubek_Stefan,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2000,02,27,7-6(2)_6-3
 Abierto_Mexicano_Telcel,2,2000,02,27,4,Puerta_Mariano,Squillari_Franco,Puerta_Mariano,Abierto_Mexicano_Telcel,2000,02,27,6-4_6-1
-Abierto_Mexicano_Telcel,2,2000,02,27,5,Chela_JuanIgnacio,Puerta_Mariano,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2000,02,27,6-4_7-6(4)
+Abierto_Mexicano_Telcel,2,2000,02,27,5,Chela_Juan_Ignacio,Puerta_Mariano,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2000,02,27,6-4_7-6(4)

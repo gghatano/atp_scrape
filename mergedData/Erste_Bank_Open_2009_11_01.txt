@@ -11,7 +11,7 @@ Erste_Bank_Open,2,2009,11,01,1,Darcis_Steve,Berrer_Michael,Berrer_Michael,Erste_
 Erste_Bank_Open,2,2009,11,01,1,Seppi_Andreas,Hajek_Jan,Hajek_Jan,Erste_Bank_Open,2009,11,01,7-6(4)_5-7_6-3
 Erste_Bank_Open,2,2009,11,01,1,GarciaLopez_Guillermo,Monfils_Gael,Monfils_Gael,Erste_Bank_Open,2009,11,01,7-5_6-4
 Erste_Bank_Open,2,2009,11,01,1,Melzer_Jurgen,Chiudinelli_Marco,Melzer_Jurgen,Erste_Bank_Open,2009,11,01,7-6(4)_7-6(10)
-Erste_Bank_Open,2,2009,11,01,1,Ramirez_HidalgoRuben,Hrbaty_Dominik,Hrbaty_Dominik,Erste_Bank_Open,2009,11,01,6-3_6-4
+Erste_Bank_Open,2,2009,11,01,1,Ramirez_Hidalgo_Ruben,Hrbaty_Dominik,Hrbaty_Dominik,Erste_Bank_Open,2009,11,01,6-3_6-4
 Erste_Bank_Open,2,2009,11,01,1,Koubek_Stefan,Gil_Frederico,Gil_Frederico,Erste_Bank_Open,2009,11,01,4-6_6-4_6-4
 Erste_Bank_Open,2,2009,11,01,1,Kubot_Lukasz,Stepanek_Radek,Stepanek_Radek,Erste_Bank_Open,2009,11,01,6-4_6-1
 Erste_Bank_Open,2,2009,11,01,2,Cilic_Marin,Brands_Daniel,Cilic_Marin,Erste_Bank_Open,2009,11,01,7-6(7)_6-4

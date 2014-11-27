@@ -2,7 +2,7 @@ China_Open,2,1994,10,23,1,Chang_Michael,Ruah_Maurice,Chang_Michael,China_Open,19
 China_Open,2,1994,10,23,1,Ho_Tommy,Matsuoka_Shuzo,Matsuoka_Shuzo,China_Open,1994,10,23,3-6_6-3_7-6(8)
 China_Open,2,1994,10,23,1,Mronz_Alexander,Pan_Bing,Mronz_Alexander,China_Open,1994,10,23,7-6(5)_2-6_6-4
 China_Open,2,1994,10,23,1,Matuszewski_Richard,Petchey_Mark,Petchey_Mark,China_Open,1994,10,23,6-3_6-0
-China_Open,2,1994,10,23,1,Holm_Henrik,Van_RensburgChristo,Van_RensburgChristo,China_Open,1994,10,23,7-6(4)_7-6(7)
+China_Open,2,1994,10,23,1,Holm_Henrik,Van_Rensburg_Christo,Van_Rensburg_Christo,China_Open,1994,10,23,7-6(4)_7-6(7)
 China_Open,2,1994,10,23,1,Steven_Brett,Poliakov_Dimitri,Steven_Brett,China_Open,1994,10,23,6-4_6-3
 China_Open,2,1994,10,23,1,Pereira_Nicolas,Tebbutt_Michael,Pereira_Nicolas,China_Open,1994,10,23,2-6_7-6(3)_7-6(5)
 China_Open,2,1994,10,23,1,Sinner_Martin,Olhovskiy_Andrei,Olhovskiy_Andrei,China_Open,1994,10,23,6-4_6-4
@@ -16,7 +16,7 @@ China_Open,2,1994,10,23,1,Jarryd_Anders,Weiss_Robbie,Jarryd_Anders,China_Open,19
 China_Open,2,1994,10,23,1,Bryan_Steve,Wheaton_David,Wheaton_David,China_Open,1994,10,23,6-3_6-2
 China_Open,2,1994,10,23,2,Chang_Michael,Matsuoka_Shuzo,Chang_Michael,China_Open,1994,10,23,7-6(4)_6-4
 China_Open,2,1994,10,23,2,Mronz_Alexander,Petchey_Mark,Mronz_Alexander,China_Open,1994,10,23,7-6(2)_7-5
-China_Open,2,1994,10,23,2,Van_RensburgChristo,Steven_Brett,Steven_Brett,China_Open,1994,10,23,6-4_6-3
+China_Open,2,1994,10,23,2,Van_Rensburg_Christo,Steven_Brett,Steven_Brett,China_Open,1994,10,23,6-4_6-3
 China_Open,2,1994,10,23,2,Pereira_Nicolas,Olhovskiy_Andrei,Olhovskiy_Andrei,China_Open,1994,10,23,6-4_6-2
 China_Open,2,1994,10,23,2,Nydahl_Tomas,Leach_Rick,Nydahl_Tomas,China_Open,1994,10,23,6-4_6-4
 China_Open,2,1994,10,23,2,Adams_David,Kinnear_Kent,Adams_David,China_Open,1994,10,23,7-5_2-6_6-3

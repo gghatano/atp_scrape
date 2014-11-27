@@ -6,7 +6,7 @@ Swiss_Indoors_Basel,2,1982,01,10,1,Gomez_Andres,Gunthardt_Markus,Gomez_Andres,Sw
 Swiss_Indoors_Basel,2,1982,01,10,1,Okker_Tom,Sorensen_Sean,Okker_Tom,Swiss_Indoors_Basel,1982,01,10,7-5_6-2
 Swiss_Indoors_Basel,2,1982,01,10,1,Stadler_Roland,Gimenez_Angel,Gimenez_Angel,Swiss_Indoors_Basel,1982,01,10,7-5_6-2
 Swiss_Indoors_Basel,2,1982,01,10,1,Doyle_Matt,Gunthardt_Heinz,Gunthardt_Heinz,Swiss_Indoors_Basel,1982,01,10,3-6_6-3_6-3
-Swiss_Indoors_Basel,2,1982,01,10,1,Giammalva_JrSammy,Soares_Joao,Giammalva_JrSammy,Swiss_Indoors_Basel,1982,01,10,7-6_4-6_6-1
+Swiss_Indoors_Basel,2,1982,01,10,1,Giammalva_Jr_Sammy,Soares_Joao,Giammalva_Jr_Sammy,Swiss_Indoors_Basel,1982,01,10,7-6_4-6_6-1
 Swiss_Indoors_Basel,2,1982,01,10,1,Moore_Raymond,Beutel_HansDieter,Moore_Raymond,Swiss_Indoors_Basel,1982,01,10,6-7_6-1_6-3
 Swiss_Indoors_Basel,2,1982,01,10,1,Kandler_HansPeter,Waltke_Trey,Waltke_Trey,Swiss_Indoors_Basel,1982,01,10,6-0_6-3
 Swiss_Indoors_Basel,2,1982,01,10,1,Elter_Peter,Gehring_Rolf,Gehring_Rolf,Swiss_Indoors_Basel,1982,01,10,6-7_6-0_7-5
@@ -18,13 +18,13 @@ Swiss_Indoors_Basel,2,1982,01,10,2,Lendl_Ivan,Ostoja_Marko,Lendl_Ivan,Swiss_Indo
 Swiss_Indoors_Basel,2,1982,01,10,2,Lapidus_Jay,Dibbs_Eddie,Dibbs_Eddie,Swiss_Indoors_Basel,1982,01,10,6-1_6-3
 Swiss_Indoors_Basel,2,1982,01,10,2,Gomez_Andres,Okker_Tom,Gomez_Andres,Swiss_Indoors_Basel,1982,01,10,6-4_7-6
 Swiss_Indoors_Basel,2,1982,01,10,2,Gimenez_Angel,Gunthardt_Heinz,Gunthardt_Heinz,Swiss_Indoors_Basel,1982,01,10,6-3_7-5
-Swiss_Indoors_Basel,2,1982,01,10,2,Giammalva_JrSammy,Moore_Raymond,Giammalva_JrSammy,Swiss_Indoors_Basel,1982,01,10,6-2_6-7_7-6
+Swiss_Indoors_Basel,2,1982,01,10,2,Giammalva_Jr_Sammy,Moore_Raymond,Giammalva_Jr_Sammy,Swiss_Indoors_Basel,1982,01,10,6-2_6-7_7-6
 Swiss_Indoors_Basel,2,1982,01,10,2,Waltke_Trey,Gehring_Rolf,Waltke_Trey,Swiss_Indoors_Basel,1982,01,10,6-3_7-5
 Swiss_Indoors_Basel,2,1982,01,10,2,Austin_John,Krulevitz_Steve,Krulevitz_Steve,Swiss_Indoors_Basel,1982,01,10,6-3_6-3
 Swiss_Indoors_Basel,2,1982,01,10,2,Siegler_Dave,Clerc_JoseLuis,Clerc_JoseLuis,Swiss_Indoors_Basel,1982,01,10,3-6_6-1_6-1
 Swiss_Indoors_Basel,2,1982,01,10,3,Lendl_Ivan,Dibbs_Eddie,Lendl_Ivan,Swiss_Indoors_Basel,1982,01,10,6-1_6-0
 Swiss_Indoors_Basel,2,1982,01,10,3,Gomez_Andres,Gunthardt_Heinz,Gunthardt_Heinz,Swiss_Indoors_Basel,1982,01,10,6-4_4-6_6-3
-Swiss_Indoors_Basel,2,1982,01,10,3,Giammalva_JrSammy,Waltke_Trey,Waltke_Trey,Swiss_Indoors_Basel,1982,01,10,6-1_6-2
+Swiss_Indoors_Basel,2,1982,01,10,3,Giammalva_Jr_Sammy,Waltke_Trey,Waltke_Trey,Swiss_Indoors_Basel,1982,01,10,6-1_6-2
 Swiss_Indoors_Basel,2,1982,01,10,3,Krulevitz_Steve,Clerc_JoseLuis,Clerc_JoseLuis,Swiss_Indoors_Basel,1982,01,10,6-2_6-3
 Swiss_Indoors_Basel,2,1982,01,10,4,Lendl_Ivan,Gunthardt_Heinz,Lendl_Ivan,Swiss_Indoors_Basel,1982,01,10,6-2_6-1
 Swiss_Indoors_Basel,2,1982,01,10,4,Waltke_Trey,Clerc_JoseLuis,Clerc_JoseLuis,Swiss_Indoors_Basel,1982,01,10,5-7_7-6_6-3

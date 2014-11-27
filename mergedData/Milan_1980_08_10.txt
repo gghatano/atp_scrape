@@ -5,7 +5,7 @@ Milan,2,1980,08,10,1,Pattison_Andrew,Gildemeister_Hans,Pattison_Andrew,Milan,198
 Milan,2,1980,08,10,1,Gerulaitis_Vitas,Kriek_Johan,Kriek_Johan,Milan,1980,08,10,6-4_7-6
 Milan,2,1980,08,10,1,Beven_Rohun,Lendl_Ivan,Lendl_Ivan,Milan,1980,08,10,6-1_6-3
 Milan,2,1980,08,10,1,Bertolucci_Paolo,Scanlon_Bill,Scanlon_Bill,Milan,1980,08,10,6-1_6-2
-Milan,2,1980,08,10,1,Gullikson_Tim,Pecci_SrVictor,Gullikson_Tim,Milan,1980,08,10,6-3_6-4
+Milan,2,1980,08,10,1,Gullikson_Tim,Pecci_Sr_Victor,Gullikson_Tim,Milan,1980,08,10,6-3_6-4
 Milan,2,1980,08,10,1,Dibbs_Eddie,Pinner_Ulrich,Dibbs_Eddie,Milan,1980,08,10,7-6_7-6
 Milan,2,1980,08,10,1,Clerc_JoseLuis,Dent_Phil,Clerc_JoseLuis,Milan,1980,08,10,7-6_7-5
 Milan,2,1980,08,10,1,Frawley_Rod,Panatta_Adriano,Frawley_Rod,Milan,1980,08,10,7-6_6-3

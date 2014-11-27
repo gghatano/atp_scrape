@@ -4,7 +4,7 @@ Brussels,2,1987,03,29,1,Casal_Sergio,Chesnokov_Andrei,Chesnokov_Andrei,Brussels,
 Brussels,2,1987,03,29,1,Pimek_Libor,Jarryd_Anders,Jarryd_Anders,Brussels,1987,03,29,6-3_6-3
 Brussels,2,1987,03,29,1,McEnroe_John,Cane_Paolo,McEnroe_John,Brussels,1987,03,29,6-3_6-1
 Brussels,2,1987,03,29,1,Smid_Tomas,Hogstedt_Thomas,Hogstedt_Thomas,Brussels,1987,03,29,7-6_6-4
-Brussels,2,1987,03,29,1,Van_LangendonckJan,Leach_Mike,Leach_Mike,Brussels,1987,03,29,7-5_6-7_6-3
+Brussels,2,1987,03,29,1,Van_Langendonck_Jan,Leach_Mike,Leach_Mike,Brussels,1987,03,29,7-5_6-7_6-3
 Brussels,2,1987,03,29,1,Canter_Jonathan,Hlasek_Jakob,Hlasek_Jakob,Brussels,1987,03,29,6-2_6-4
 Brussels,2,1987,03,29,1,Svensson_Jonas,Arraya_Pablo,Svensson_Jonas,Brussels,1987,03,29,6-3_6-3
 Brussels,2,1987,03,29,1,Limberger_Carl,Demuynck_Karel,Limberger_Carl,Brussels,1987,03,29,7-5_2-6_6-4

@@ -1,7 +1,7 @@
 SkiStar_Swedish_Open,2,1971,07,18,1,Nastase_Ilie,Olander_Lars,Nastase_Ilie,SkiStar_Swedish_Open,1971,07,18,6-2_6-2_6-0
 SkiStar_Swedish_Open,2,1971,07,18,1,Johansson_Kjell,Rodriguez_Patricio,Johansson_Kjell,SkiStar_Swedish_Open,1971,07,18,7-5_4-6_6-0_6-2
 SkiStar_Swedish_Open,2,1971,07,18,1,Proisy_Patrick,Crealy_Dick,Proisy_Patrick,SkiStar_Swedish_Open,1971,07,18,7-5_1-1_RET
-SkiStar_Swedish_Open,2,1971,07,18,1,Bengtson_OveNils,Zuleta_Eduardo,Bengtson_OveNils,SkiStar_Swedish_Open,1971,07,18,6-3_7-5_6-1
+SkiStar_Swedish_Open,2,1971,07,18,1,Bengtson_Ove_Nils,Zuleta_Eduardo,Bengtson_Ove_Nils,SkiStar_Swedish_Open,1971,07,18,6-3_7-5_6-1
 SkiStar_Swedish_Open,2,1971,07,18,1,Jemsby_Per,Goven_Georges,Jemsby_Per,SkiStar_Swedish_Open,1971,07,18,6-4_6-4_6-7_6-3
 SkiStar_Swedish_Open,2,1971,07,18,1,Johansson_Leif,Unknown_Unknown,Johansson_Leif,SkiStar_Swedish_Open,1971,07,18,
 SkiStar_Swedish_Open,2,1971,07,18,1,Tiriac_Ion,Holmstrom_Bo,Tiriac_Ion,SkiStar_Swedish_Open,1971,07,18,6-3_6-2_2-6_6-2
@@ -15,7 +15,7 @@ SkiStar_Swedish_Open,2,1971,07,18,1,Santana_Manuel,Aberg_Bengt,Santana_Manuel,Sk
 SkiStar_Swedish_Open,2,1971,07,18,1,PintoBravo_Jaime,Unknown_Unknown,PintoBravo_Jaime,SkiStar_Swedish_Open,1971,07,18,
 SkiStar_Swedish_Open,2,1971,07,18,1,Smith_Stan,Svensson_Tenny,Smith_Stan,SkiStar_Swedish_Open,1971,07,18,6-4_3-6_7-5_6-0
 SkiStar_Swedish_Open,2,1971,07,18,2,Nastase_Ilie,Johansson_Kjell,Nastase_Ilie,SkiStar_Swedish_Open,1971,07,18,7-5_6-4_6-3
-SkiStar_Swedish_Open,2,1971,07,18,2,Proisy_Patrick,Bengtson_OveNils,Proisy_Patrick,SkiStar_Swedish_Open,1971,07,18,6-4_6-0_6-4
+SkiStar_Swedish_Open,2,1971,07,18,2,Proisy_Patrick,Bengtson_Ove_Nils,Proisy_Patrick,SkiStar_Swedish_Open,1971,07,18,6-4_6-0_6-4
 SkiStar_Swedish_Open,2,1971,07,18,2,Jemsby_Per,Johansson_Leif,Jemsby_Per,SkiStar_Swedish_Open,1971,07,18,6-4_6-3_6-3
 SkiStar_Swedish_Open,2,1971,07,18,2,Tiriac_Ion,Ruffels_Ray,Ruffels_Ray,SkiStar_Swedish_Open,1971,07,18,7-5_7-5_6-3
 SkiStar_Swedish_Open,2,1971,07,18,2,Carmichael_Bob,Barthes_Pierre,Barthes_Pierre,SkiStar_Swedish_Open,1971,07,18,7-5_6-4_6-3

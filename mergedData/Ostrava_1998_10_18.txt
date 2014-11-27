@@ -12,7 +12,7 @@ Ostrava,2,1998,10,18,1,Damm_Martin,Black_Byron,Damm_Martin,Ostrava,1998,10,18,5-
 Ostrava,2,1998,10,18,1,Fromberg_Richard,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Ostrava,1998,10,18,7-6(4)_6-3
 Ostrava,2,1998,10,18,1,Johansson_Thomas,Ilie_Andrew,Johansson_Thomas,Ostrava,1998,10,18,6-4_6-4
 Ostrava,2,1998,10,18,1,Novak_Jiri,Kiefer_Nicolas,Novak_Jiri,Ostrava,1998,10,18,7-6(5)_0-6_7-6(2)
-Ostrava,2,1998,10,18,1,van_LottumJohn,Norman_Magnus,Norman_Magnus,Ostrava,1998,10,18,7-6(5)_7-6(7)
+Ostrava,2,1998,10,18,1,van_Lottum_John,Norman_Magnus,Norman_Magnus,Ostrava,1998,10,18,7-6(5)_7-6(7)
 Ostrava,2,1998,10,18,1,Carlsen_Kenneth,Agassi_Andre,Agassi_Andre,Ostrava,1998,10,18,6-4_6-4
 Ostrava,2,1998,10,18,2,Safin_Marat,Kulti_Nicklas,Kulti_Nicklas,Ostrava,1998,10,18,7-6(4)_7-6(1)
 Ostrava,2,1998,10,18,2,Ulihrach_Bohdan,Enqvist_Thomas,Enqvist_Thomas,Ostrava,1998,10,18,6-7(4)_6-2_6-4

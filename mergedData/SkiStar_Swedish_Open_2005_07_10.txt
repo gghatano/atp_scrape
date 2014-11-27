@@ -1,7 +1,7 @@
 SkiStar_Swedish_Open,2,2005,07,10,1,Nadal_Rafael,Monaco_Juan,Nadal_Rafael,SkiStar_Swedish_Open,2005,07,10,6-1_6-1
 SkiStar_Swedish_Open,2,2005,07,10,1,Calleri_Agustin,Martin_Alberto,Martin_Alberto,SkiStar_Swedish_Open,2005,07,10,6-1_6-1
 SkiStar_Swedish_Open,2,2005,07,10,1,GarciaLopez_Guillermo,Lapentti_Nicolas,GarciaLopez_Guillermo,SkiStar_Swedish_Open,2005,07,10,7-5_6-1
-SkiStar_Swedish_Open,2,2005,07,10,1,Dlouhy_Lukas,Ferrero_JuanCarlos,Ferrero_JuanCarlos,SkiStar_Swedish_Open,2005,07,10,6-4_6-1
+SkiStar_Swedish_Open,2,2005,07,10,1,Dlouhy_Lukas,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,SkiStar_Swedish_Open,2005,07,10,6-4_6-1
 SkiStar_Swedish_Open,2,2005,07,10,1,Robredo_Tommy,Tabara_Michal,Robredo_Tommy,SkiStar_Swedish_Open,2005,07,10,7-5_6-0
 SkiStar_Swedish_Open,2,2005,07,10,1,Bjorkman_Jonas,Monfils_Gael,Monfils_Gael,SkiStar_Swedish_Open,2005,07,10,6-2_6-2
 SkiStar_Swedish_Open,2,2005,07,10,1,Vinciguerra_Andreas,Ryderstedt_Michael,Vinciguerra_Andreas,SkiStar_Swedish_Open,2005,07,10,6-3_6-1
@@ -15,14 +15,14 @@ SkiStar_Swedish_Open,2,2005,07,10,1,Hernandez_Oscar,Fraile_Gorka,Hernandez_Oscar
 SkiStar_Swedish_Open,2,2005,07,10,1,Nieminen_Jarkko,Serra_Florent,Serra_Florent,SkiStar_Swedish_Open,2005,07,10,7-5_6-1
 SkiStar_Swedish_Open,2,2005,07,10,1,Vanek_Jiri,Johansson_Joachim,Vanek_Jiri,SkiStar_Swedish_Open,2005,07,10,6-7(2)_7-6(2)_6-2
 SkiStar_Swedish_Open,2,2005,07,10,2,Nadal_Rafael,Martin_Alberto,Nadal_Rafael,SkiStar_Swedish_Open,2005,07,10,6-2_6-4
-SkiStar_Swedish_Open,2,2005,07,10,2,GarciaLopez_Guillermo,Ferrero_JuanCarlos,Ferrero_JuanCarlos,SkiStar_Swedish_Open,2005,07,10,6-3_6-4
+SkiStar_Swedish_Open,2,2005,07,10,2,GarciaLopez_Guillermo,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,SkiStar_Swedish_Open,2005,07,10,6-3_6-4
 SkiStar_Swedish_Open,2,2005,07,10,2,Robredo_Tommy,Monfils_Gael,Robredo_Tommy,SkiStar_Swedish_Open,2005,07,10,6-4_4-2_RET
 SkiStar_Swedish_Open,2,2005,07,10,2,Vinciguerra_Andreas,Youzhny_Mikhail,Youzhny_Mikhail,SkiStar_Swedish_Open,2005,07,10,4-6_7-6(4)_7-5
 SkiStar_Swedish_Open,2,2005,07,10,2,Almagro_Nicolas,Berdych_Tomas,Berdych_Tomas,SkiStar_Swedish_Open,2005,07,10,4-6_6-3_6-4
 SkiStar_Swedish_Open,2,2005,07,10,2,Zabaleta_Mariano,Moya_Carlos,Zabaleta_Mariano,SkiStar_Swedish_Open,2005,07,10,7-6(3)_6-2
 SkiStar_Swedish_Open,2,2005,07,10,2,Soderling_Robin,Hernandez_Oscar,Hernandez_Oscar,SkiStar_Swedish_Open,2005,07,10,1-6_6-3_6-2
 SkiStar_Swedish_Open,2,2005,07,10,2,Serra_Florent,Vanek_Jiri,Vanek_Jiri,SkiStar_Swedish_Open,2005,07,10,6-4_1-6_6-3
-SkiStar_Swedish_Open,2,2005,07,10,3,Nadal_Rafael,Ferrero_JuanCarlos,Nadal_Rafael,SkiStar_Swedish_Open,2005,07,10,6-3_6-3
+SkiStar_Swedish_Open,2,2005,07,10,3,Nadal_Rafael,Ferrero_Juan_Carlos,Nadal_Rafael,SkiStar_Swedish_Open,2005,07,10,6-3_6-3
 SkiStar_Swedish_Open,2,2005,07,10,3,Robredo_Tommy,Youzhny_Mikhail,Robredo_Tommy,SkiStar_Swedish_Open,2005,07,10,3-6_6-4_6-3
 SkiStar_Swedish_Open,2,2005,07,10,3,Berdych_Tomas,Zabaleta_Mariano,Berdych_Tomas,SkiStar_Swedish_Open,2005,07,10,6-3_6-2
 SkiStar_Swedish_Open,2,2005,07,10,3,Hernandez_Oscar,Vanek_Jiri,Vanek_Jiri,SkiStar_Swedish_Open,2005,07,10,6-4_6-2

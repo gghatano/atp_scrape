@@ -1,4 +1,4 @@
-Frankfurt,2,1981,07,05,1,McEnroe_John,Mottram_BusterC,McEnroe_John,Frankfurt,1981,07,05,6-3_6-3
+Frankfurt,2,1981,07,05,1,McEnroe_John,Mottram_Buster_C,McEnroe_John,Frankfurt,1981,07,05,6-3_6-3
 Frankfurt,2,1981,07,05,1,Sadri_John,Portes_Pascal,Portes_Pascal,Frankfurt,1981,07,05,6-4_6-3
 Frankfurt,2,1981,07,05,1,Wilkison_Tim,Johansson_Kjell,Wilkison_Tim,Frankfurt,1981,07,05,6-0_6-1
 Frankfurt,2,1981,07,05,1,Walts_Butch,Teacher_Brian,Teacher_Brian,Frankfurt,1981,07,05,6-4_6-3

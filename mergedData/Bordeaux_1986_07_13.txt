@@ -3,10 +3,10 @@ Bordeaux,2,1986,07,13,1,Arguello_Roberto,Champion_Thierry,Champion_Thierry,Borde
 Bordeaux,2,1986,07,13,1,Cancellotti_Francesco,Cane_Paolo,Cane_Paolo,Bordeaux,1986,07,13,7-6_6-4
 Bordeaux,2,1986,07,13,1,LopezMaeso_Jose,Luna_Fernando,Luna_Fernando,Bordeaux,1986,07,13,6-3_6-3
 Bordeaux,2,1986,07,13,1,Perez_Diego,Allan_Trevor,Perez_Diego,Bordeaux,1986,07,13,6-1_6-2
-Bordeaux,2,1986,07,13,1,Van_DenDaeleThierry,Stepanek_Alex,Stepanek_Alex,Bordeaux,1986,07,13,7-6_6-1
+Bordeaux,2,1986,07,13,1,Van_Den_Daele_Thierry,Stepanek_Alex,Stepanek_Alex,Bordeaux,1986,07,13,7-6_6-1
 Bordeaux,2,1986,07,13,1,Bathman_Ronnie,Aguilera_Juan,Aguilera_Juan,Bordeaux,1986,07,13,7-5_4-6_6-0
 Bordeaux,2,1986,07,13,1,Woodforde_Mark,Stenlund_Ulf,Stenlund_Ulf,Bordeaux,1986,07,13,6-3_6-3
-Bordeaux,2,1986,07,13,1,Pimek_Libor,De_MiguelDavid,Pimek_Libor,Bordeaux,1986,07,13,6-4_6-3
+Bordeaux,2,1986,07,13,1,Pimek_Libor,De_Miguel_David,Pimek_Libor,Bordeaux,1986,07,13,6-4_6-3
 Bordeaux,2,1986,07,13,1,Fleurian_JeanPhilippe,Mezzadri_Claudio,Mezzadri_Claudio,Bordeaux,1986,07,13,6-1_6-2
 Bordeaux,2,1986,07,13,1,Colombo_Simone,Arrese_Jordi,Arrese_Jordi,Bordeaux,1986,07,13,6-4_6-4
 Bordeaux,2,1986,07,13,1,Pistolesi_Claudio,Carlsson_Kent,Carlsson_Kent,Bordeaux,1986,07,13,6-2_6-1

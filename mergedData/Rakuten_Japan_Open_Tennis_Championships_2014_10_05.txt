@@ -10,7 +10,7 @@ Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Tsonga_JoWilfried,Przysie
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Daniel_Taro,Istomin_Denis,Istomin_Denis,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,7-6(2)_6-7(5)_7-5
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,RogerVasselin_Edouard,Melzer_Jurgen,Melzer_Jurgen,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,7-5_4-1_RET
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Tomic_Bernard,Raonic_Milos,Raonic_Milos,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,7-6(3)_6-3
-Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Bautista_AgutRoberto,Simon_Gilles,Simon_Gilles,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,4-6_7-6(7)_2-1_RET
+Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Bautista_Agut_Roberto,Simon_Gilles,Simon_Gilles,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,4-6_7-6(7)_2-1_RET
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Delbonis_Federico,Muller_Gilles,Muller_Gilles,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,6-3_6-4
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Moriya_Hiroki,Johnson_Steve,Johnson_Steve,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,7-6(4)_6-2
 Rakuten_Japan_Open_Tennis_Championships,2,2014,10,05,1,Granollers_Marcel,Ferrer_David,Granollers_Marcel,Rakuten_Japan_Open_Tennis_Championships,2014,10,05,4-6_6-4_6-4

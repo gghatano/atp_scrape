@@ -3,10 +3,10 @@ Columbus,2,1982,09,12,1,Cain_Tom,Haynes_Garth,Cain_Tom,Columbus,1982,09,12,6-2_6
 Columbus,2,1982,09,12,1,Sadri_John,Visser_Danie,Sadri_John,Columbus,1982,09,12,6-7_6-1_6-2
 Columbus,2,1982,09,12,1,Gonzalez_Francisco,Pfister_Henry,Pfister_Henry,Columbus,1982,09,12,7-5_6-3
 Columbus,2,1982,09,12,1,Mayotte_Tim,Leconte_Henri,Mayotte_Tim,Columbus,1982,09,12,6-2_3-6_6-3
-Columbus,2,1982,09,12,1,Solomon_Harold,Vant_HofRobert,Solomon_Harold,Columbus,1982,09,12,6-3_1-6_6-2
+Columbus,2,1982,09,12,1,Solomon_Harold,Vant_Hof_Robert,Solomon_Harold,Columbus,1982,09,12,6-3_1-6_6-2
 Columbus,2,1982,09,12,1,Dupre_Pat,Fernandez_Ernie,Fernandez_Ernie,Columbus,1982,09,12,6-4_6-2
 Columbus,2,1982,09,12,1,Leach_Mike,Hooper_Chip,Hooper_Chip,Columbus,1982,09,12,7-6_7-6
-Columbus,2,1982,09,12,1,Van_PattenVincent,Saviano_Nick,Saviano_Nick,Columbus,1982,09,12,7-6_7-5
+Columbus,2,1982,09,12,1,Van_Patten_Vincent,Saviano_Nick,Saviano_Nick,Columbus,1982,09,12,7-6_7-5
 Columbus,2,1982,09,12,1,Smith_Stan,Barton_Ken,Barton_Ken,Columbus,1982,09,12,7-6_4-6_6-3
 Columbus,2,1982,09,12,1,Pate_David,Iskersky_Erick,Pate_David,Columbus,1982,09,12,6-4_3-6_7-6
 Columbus,2,1982,09,12,1,Gullikson_Tim,Gottfried_Brian,Gottfried_Brian,Columbus,1982,09,12,6-4_6-1

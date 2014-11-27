@@ -3,7 +3,7 @@ Berlin,2,1973,06,17,1,Engert_Hans,Seewagen_Butch,Seewagen_Butch,Berlin,1973,06,1
 Berlin,2,1973,06,17,1,Lloyd_William,Spear_Nicola,Spear_Nicola,Berlin,1973,06,17,6-4_6-4_3-6_6-4
 Berlin,2,1973,06,17,1,Korpas_Attila,Ramirez_Raul,Korpas_Attila,Berlin,1973,06,17,6-3_7-5_6-4
 Berlin,2,1973,06,17,1,Pohmann_HansJurgen,Pokorny_Peter,Pohmann_HansJurgen,Berlin,1973,06,17,6-4_7-6_6-3
-Berlin,2,1973,06,17,1,Mandarino_JoseEdison,Cramer_Pat,Mandarino_JoseEdison,Berlin,1973,06,17,4-6_3-6_6-1_6-4_6-3
+Berlin,2,1973,06,17,1,Mandarino_Jose_Edison,Cramer_Pat,Mandarino_Jose_Edison,Berlin,1973,06,17,4-6_3-6_6-1_6-4_6-3
 Berlin,2,1973,06,17,1,Estep_Mike,Kronk_Paul,Estep_Mike,Berlin,1973,06,17,7-6_6-3_6-4
 Berlin,2,1973,06,17,1,Pinner_Ulrich,Cooper_John,Pinner_Ulrich,Berlin,1973,06,17,6-0_4-6_7-5_6-3
 Berlin,2,1973,06,17,1,Elschenbroich_Harald,Rheinberger_Robert,Elschenbroich_Harald,Berlin,1973,06,17,6-2_6-2_6-3
@@ -16,7 +16,7 @@ Berlin,2,1973,06,17,1,Holecek_Milan,Warwick_Kim,Holecek_Milan,Berlin,1973,06,17,
 Berlin,2,1973,06,17,1,Varga_Geza,Meiler_Karl,Meiler_Karl,Berlin,1973,06,17,5-7_7-5_6-3_6-7_6-2
 Berlin,2,1973,06,17,2,Fassbender_Jurgen,Seewagen_Butch,Fassbender_Jurgen,Berlin,1973,06,17,6-3_6-2_6-3
 Berlin,2,1973,06,17,2,Spear_Nicola,Korpas_Attila,Korpas_Attila,Berlin,1973,06,17,4-6_7-5_6-3_6-3
-Berlin,2,1973,06,17,2,Pohmann_HansJurgen,Mandarino_JoseEdison,Pohmann_HansJurgen,Berlin,1973,06,17,7-6_6-3_6-4
+Berlin,2,1973,06,17,2,Pohmann_HansJurgen,Mandarino_Jose_Edison,Pohmann_HansJurgen,Berlin,1973,06,17,7-6_6-3_6-4
 Berlin,2,1973,06,17,2,Estep_Mike,Pinner_Ulrich,Pinner_Ulrich,Berlin,1973,06,17,6-2_6-3_1-6_6-1
 Berlin,2,1973,06,17,2,Elschenbroich_Harald,Ganzabal_Julian,Elschenbroich_Harald,Berlin,1973,06,17,6-3_6-4_6-4
 Berlin,2,1973,06,17,2,Dibbs_Eddie,Falderbaum_Frank,Dibbs_Eddie,Berlin,1973,06,17,6-3_7-5_6-1

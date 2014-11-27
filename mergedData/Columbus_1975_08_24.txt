@@ -1,7 +1,7 @@
 Columbus,2,1975,08,24,1,Smith_Stan,Gorsuch_Jack,Smith_Stan,Columbus,1975,08,24,6-1_6-3
 Columbus,2,1975,08,24,1,McMillan_Kenneth,Holecek_Milan,McMillan_Kenneth,Columbus,1975,08,24,6-1_6-4
 Columbus,2,1975,08,24,1,Fassbender_Jurgen,Kachel_Chris,Fassbender_Jurgen,Columbus,1975,08,24,6-3_7-6
-Columbus,2,1975,08,24,1,Alvarez_ElioLito,Whitlinger_John,Whitlinger_John,Columbus,1975,08,24,6-4_6-3
+Columbus,2,1975,08,24,1,Alvarez_Elio_Lito,Whitlinger_John,Whitlinger_John,Columbus,1975,08,24,6-4_6-3
 Columbus,2,1975,08,24,1,Amritraj_Vijay,Ball_Syd,Amritraj_Vijay,Columbus,1975,08,24,6-4_7-6
 Columbus,2,1975,08,24,1,Teacher_Brian,Caujolle_JeanFrancois,Teacher_Brian,Columbus,1975,08,24,6-3_6-3
 Columbus,2,1975,08,24,1,Pohmann_HansJurgen,Rahim_Haroon,Pohmann_HansJurgen,Columbus,1975,08,24,6-2_6-1
@@ -13,7 +13,7 @@ Columbus,2,1975,08,24,1,Farrell_Mark,Meiler_Karl,Meiler_Karl,Columbus,1975,08,24
 Columbus,2,1975,08,24,1,Stewart_Sherwood,Lloyd_John,Stewart_Sherwood,Columbus,1975,08,24,6-3_1-6_6-0
 Columbus,2,1975,08,24,1,Pinner_Ulrich,Yuill_John,Pinner_Ulrich,Columbus,1975,08,24,6-7_6-4_6-1
 Columbus,2,1975,08,24,1,Dibley_Colin,Estep_Mike,Estep_Mike,Columbus,1975,08,24,7-6_6-1
-Columbus,2,1975,08,24,1,McNair_IVFred,Lutz_Robert,Lutz_Robert,Columbus,1975,08,24,7-6_6-3
+Columbus,2,1975,08,24,1,McNair_IV_Fred,Lutz_Robert,Lutz_Robert,Columbus,1975,08,24,7-6_6-3
 Columbus,2,1975,08,24,2,Smith_Stan,McMillan_Kenneth,Smith_Stan,Columbus,1975,08,24,6-4_6-2
 Columbus,2,1975,08,24,2,Fassbender_Jurgen,Whitlinger_John,Fassbender_Jurgen,Columbus,1975,08,24,6-2_3-6_6-4
 Columbus,2,1975,08,24,2,Amritraj_Vijay,Teacher_Brian,Amritraj_Vijay,Columbus,1975,08,24,6-2_7-6

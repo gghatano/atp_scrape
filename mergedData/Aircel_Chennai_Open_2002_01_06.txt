@@ -5,11 +5,11 @@ Aircel_Chennai_Open,2,2002,01,06,1,Okun_Noam,Pless_Kristian,Okun_Noam,Aircel_Che
 Aircel_Chennai_Open,2,2002,01,06,1,Santoro_Fabrice,Wessels_Peter,Santoro_Fabrice,Aircel_Chennai_Open,2002,01,06,7-6(6)_6-3
 Aircel_Chennai_Open,2,2002,01,06,1,Labadze_Irakli,Dupre_Thomas,Labadze_Irakli,Aircel_Chennai_Open,2002,01,06,6-4_7-6(0)
 Aircel_Chennai_Open,2,2002,01,06,1,Balcells_Juan,Kucera_Karol,Kucera_Karol,Aircel_Chennai_Open,2002,01,06,6-4_3-6_7-5
-Aircel_Chennai_Open,2,2002,01,06,1,Van_ScheppingenDennis,Tabara_Michal,Van_ScheppingenDennis,Aircel_Chennai_Open,2002,01,06,4-6_6-3_6-4
+Aircel_Chennai_Open,2,2002,01,06,1,Van_Scheppingen_Dennis,Tabara_Michal,Van_Scheppingen_Dennis,Aircel_Chennai_Open,2002,01,06,4-6_6-3_6-4
 Aircel_Chennai_Open,2,2002,01,06,1,Hrbaty_Dominik,Pretzsch_Axel,Hrbaty_Dominik,Aircel_Chennai_Open,2002,01,06,6-1_6-4
 Aircel_Chennai_Open,2,2002,01,06,1,Fukarek_Ota,Calatrava_Alex,Calatrava_Alex,Aircel_Chennai_Open,2002,01,06,6-7(4)_6-2_6-4
 Aircel_Chennai_Open,2,2002,01,06,1,Galvani_Stefano,Luzzi_Federico,Galvani_Stefano,Aircel_Chennai_Open,2002,01,06,6-1_6-3
-Aircel_Chennai_Open,2,2002,01,06,1,Marin_JuanAntonio,Pavel_Andrei,Pavel_Andrei,Aircel_Chennai_Open,2002,01,06,6-3_6-2
+Aircel_Chennai_Open,2,2002,01,06,1,Marin_Juan_Antonio,Pavel_Andrei,Pavel_Andrei,Aircel_Chennai_Open,2002,01,06,6-3_6-2
 Aircel_Chennai_Open,2,2002,01,06,1,Mirnyi_Max,Srichaphan_Paradorn,Srichaphan_Paradorn,Aircel_Chennai_Open,2002,01,06,6-3_6-3
 Aircel_Chennai_Open,2,2002,01,06,1,Paes_Leander,Stoliarov_Andrei,Stoliarov_Andrei,Aircel_Chennai_Open,2002,01,06,6-3_6-1
 Aircel_Chennai_Open,2,2002,01,06,1,Rochus_Olivier,Lee_Martin,Rochus_Olivier,Aircel_Chennai_Open,2002,01,06,6-4_6-3
@@ -17,7 +17,7 @@ Aircel_Chennai_Open,2,2002,01,06,1,Heuberger_Ivo,Johansson_Thomas,Johansson_Thom
 Aircel_Chennai_Open,2,2002,01,06,2,Canas_Guillermo,Karlovic_Ivo,Canas_Guillermo,Aircel_Chennai_Open,2002,01,06,7-5_6-2
 Aircel_Chennai_Open,2,2002,01,06,2,Vanek_Jiri,Okun_Noam,Vanek_Jiri,Aircel_Chennai_Open,2002,01,06,3-6_7-6(5)_6-4
 Aircel_Chennai_Open,2,2002,01,06,2,Santoro_Fabrice,Labadze_Irakli,Santoro_Fabrice,Aircel_Chennai_Open,2002,01,06,6-2_6-3
-Aircel_Chennai_Open,2,2002,01,06,2,Kucera_Karol,Van_ScheppingenDennis,Kucera_Karol,Aircel_Chennai_Open,2002,01,06,7-5_7-6(2)
+Aircel_Chennai_Open,2,2002,01,06,2,Kucera_Karol,Van_Scheppingen_Dennis,Kucera_Karol,Aircel_Chennai_Open,2002,01,06,7-5_7-6(2)
 Aircel_Chennai_Open,2,2002,01,06,2,Hrbaty_Dominik,Calatrava_Alex,Calatrava_Alex,Aircel_Chennai_Open,2002,01,06,2-6_7-5_6-2
 Aircel_Chennai_Open,2,2002,01,06,2,Galvani_Stefano,Pavel_Andrei,Pavel_Andrei,Aircel_Chennai_Open,2002,01,06,6-3_6-3
 Aircel_Chennai_Open,2,2002,01,06,2,Srichaphan_Paradorn,Stoliarov_Andrei,Srichaphan_Paradorn,Aircel_Chennai_Open,2002,01,06,6-2_6-1

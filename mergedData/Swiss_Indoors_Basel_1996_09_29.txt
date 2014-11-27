@@ -11,7 +11,7 @@ Swiss_Indoors_Basel,2,1996,09,29,1,Vacek_Daniel,Furlan_Renzo,Furlan_Renzo,Swiss_
 Swiss_Indoors_Basel,2,1996,09,29,1,Novak_Jiri,Veglio_Filippo,Novak_Jiri,Swiss_Indoors_Basel,1996,09,29,6-4_2-6_6-2
 Swiss_Indoors_Basel,2,1996,09,29,1,Ulihrach_Bohdan,Becker_Boris,Becker_Boris,Swiss_Indoors_Basel,1996,09,29,6-1_5-7_6-3
 Swiss_Indoors_Basel,2,1996,09,29,1,Stich_Michael,Dreekmann_Hendrik,Dreekmann_Hendrik,Swiss_Indoors_Basel,1996,09,29,6-7(4)_6-4_6-1
-Swiss_Indoors_Basel,2,1996,09,29,1,Larsson_Magnus,El_AynaouiYounes,Larsson_Magnus,Swiss_Indoors_Basel,1996,09,29,6-3_3-6_6-4
+Swiss_Indoors_Basel,2,1996,09,29,1,Larsson_Magnus,El_Aynaoui_Younes,Larsson_Magnus,Swiss_Indoors_Basel,1996,09,29,6-3_3-6_6-4
 Swiss_Indoors_Basel,2,1996,09,29,1,Reneberg_Richey,Korda_Petr,Korda_Petr,Swiss_Indoors_Basel,1996,09,29,7-5_6-4
 Swiss_Indoors_Basel,2,1996,09,29,1,Prinosil_David,Ivanisevic_Goran,Prinosil_David,Swiss_Indoors_Basel,1996,09,29,7-6(3)_6-4
 Swiss_Indoors_Basel,2,1996,09,29,2,Sampras_Pete,Haas_Tommy,Sampras_Pete,Swiss_Indoors_Basel,1996,09,29,6-4_2-6_6-3

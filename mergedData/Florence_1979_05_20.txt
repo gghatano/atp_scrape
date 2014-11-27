@@ -7,9 +7,9 @@ Florence,2,1979,05,20,1,Fanucci_Fabrizio,Meiler_Karl,Meiler_Karl,Florence,1979,0
 Florence,2,1979,05,20,1,Slozil_Pavel,Rafaitin_Gregoire,Slozil_Pavel,Florence,1979,05,20,6-4_6-2
 Florence,2,1979,05,20,1,Eriksson_Ulf,Kirmayr_Carlos,Eriksson_Ulf,Florence,1979,05,20,6-1_6-0
 Florence,2,1979,05,20,1,Bertolucci_Paolo,Dominguez_Patrice,Bertolucci_Paolo,Florence,1979,05,20,7-5_6-2
-Florence,2,1979,05,20,1,Van_DillenErik,Portes_Pascal,Portes_Pascal,Florence,1979,05,20,7-6_6-2
+Florence,2,1979,05,20,1,Van_Dillen_Erik,Portes_Pascal,Portes_Pascal,Florence,1979,05,20,7-6_6-2
 Florence,2,1979,05,20,1,Prajoux_Belus,Kary_Hans,Prajoux_Belus,Florence,1979,05,20,7-6_6-2
-Florence,2,1979,05,20,1,DallaFontana_Fernando,Mottram_BusterC,Mottram_BusterC,Florence,1979,05,20,6-1_6-0
+Florence,2,1979,05,20,1,DallaFontana_Fernando,Mottram_Buster_C,Mottram_Buster_C,Florence,1979,05,20,6-1_6-0
 Florence,2,1979,05,20,1,Noah_Yannick,Jauffret_Francois,Noah_Yannick,Florence,1979,05,20,5-7_6-2_6-1
 Florence,2,1979,05,20,1,Andersson_Birger,Munoz_Antonio,Munoz_Antonio,Florence,1979,05,20,2-6_7-5_6-3
 Florence,2,1979,05,20,1,Deblicker_Eric,Parrini_Patrizio,Deblicker_Eric,Florence,1979,05,20,6-0_7-5
@@ -19,12 +19,12 @@ Florence,2,1979,05,20,2,Caujolle_JeanFrancois,Carter_David,Caujolle_JeanFrancois
 Florence,2,1979,05,20,2,Winitsky_Van,Meiler_Karl,Meiler_Karl,Florence,1979,05,20,6-2_6-1
 Florence,2,1979,05,20,2,Slozil_Pavel,Eriksson_Ulf,Slozil_Pavel,Florence,1979,05,20,6-3_6-2
 Florence,2,1979,05,20,2,Bertolucci_Paolo,Portes_Pascal,Portes_Pascal,Florence,1979,05,20,6-7_6-3_6-1
-Florence,2,1979,05,20,2,Prajoux_Belus,Mottram_BusterC,Mottram_BusterC,Florence,1979,05,20,6-1_1-6_6-2
+Florence,2,1979,05,20,2,Prajoux_Belus,Mottram_Buster_C,Mottram_Buster_C,Florence,1979,05,20,6-1_1-6_6-2
 Florence,2,1979,05,20,2,Noah_Yannick,Munoz_Antonio,Noah_Yannick,Florence,1979,05,20,7-5_7-6
 Florence,2,1979,05,20,2,Deblicker_Eric,Ramirez_Raul,Ramirez_Raul,Florence,1979,05,20,7-6_6-4
 Florence,2,1979,05,20,3,Ashe_Arthur,Caujolle_JeanFrancois,Caujolle_JeanFrancois,Florence,1979,05,20,1-6_7-6_6-3
 Florence,2,1979,05,20,3,Meiler_Karl,Slozil_Pavel,Meiler_Karl,Florence,1979,05,20,6-2_6-1
-Florence,2,1979,05,20,3,Portes_Pascal,Mottram_BusterC,Portes_Pascal,Florence,1979,05,20,6-4_6-4
+Florence,2,1979,05,20,3,Portes_Pascal,Mottram_Buster_C,Portes_Pascal,Florence,1979,05,20,6-4_6-4
 Florence,2,1979,05,20,3,Noah_Yannick,Ramirez_Raul,Ramirez_Raul,Florence,1979,05,20,6-2_7-5
 Florence,2,1979,05,20,4,Caujolle_JeanFrancois,Meiler_Karl,Meiler_Karl,Florence,1979,05,20,6-3_6-4
 Florence,2,1979,05,20,4,Portes_Pascal,Ramirez_Raul,Ramirez_Raul,Florence,1979,05,20,W/O

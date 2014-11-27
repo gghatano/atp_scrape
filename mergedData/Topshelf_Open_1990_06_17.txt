@@ -4,7 +4,7 @@ Topshelf_Open,2,1990,06,17,1,Evernden_Kelly,Mansdorf_Amos,Mansdorf_Amos,Topshelf
 Topshelf_Open,2,1990,06,17,1,Nijssen_Tom,Goldie_Dan,Goldie_Dan,Topshelf_Open,1990,06,17,7-5_6-1
 Topshelf_Open,2,1990,06,17,1,Haarhuis_Paul,Engel_David,Engel_David,Topshelf_Open,1990,06,17,7-6_7-6
 Topshelf_Open,2,1990,06,17,1,Nido_Miguel,Tarango_Jeff,Tarango_Jeff,Topshelf_Open,1990,06,17,6-4_6-2
-Topshelf_Open,2,1990,06,17,1,Mecir_SrMiloslav,Stich_Michael,Stich_Michael,Topshelf_Open,1990,06,17,6-3_6-2
+Topshelf_Open,2,1990,06,17,1,Mecir_Sr_Miloslav,Stich_Michael,Stich_Michael,Topshelf_Open,1990,06,17,6-3_6-2
 Topshelf_Open,2,1990,06,17,1,Woodforde_Mark,Reneberg_Richey,Reneberg_Richey,Topshelf_Open,1990,06,17,6-2_6-4
 Topshelf_Open,2,1990,06,17,1,Grabb_Jim,Eltingh_Jacco,Grabb_Jim,Topshelf_Open,1990,06,17,7-6_4-6_6-4
 Topshelf_Open,2,1990,06,17,1,Volkov_Alexander,Delaitre_Olivier,Volkov_Alexander,Topshelf_Open,1990,06,17,6-2_6-1

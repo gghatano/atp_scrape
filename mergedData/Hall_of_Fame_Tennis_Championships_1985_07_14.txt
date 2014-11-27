@@ -10,10 +10,10 @@ Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Sadri_John,Lapidus_Jay,Sadri_Jo
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Simpson_Russell,Edwards_Eddie,Simpson_Russell,Hall_of_Fame_Tennis_Championships,1985,07,14,6-1_7-6
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Gonzalez_Francisco,Visser_Danie,Gonzalez_Francisco,Hall_of_Fame_Tennis_Championships,1985,07,14,7-6_2-6_6-1
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Cassidy_Dan,Davis_Scott,Davis_Scott,Hall_of_Fame_Tennis_Championships,1985,07,14,7-6_6-2
-Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Giammalva_JrSammy,Gullikson_Tim,Gullikson_Tim,Hall_of_Fame_Tennis_Championships,1985,07,14,3-6_6-3_6-4
+Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Giammalva_Jr_Sammy,Gullikson_Tim,Gullikson_Tim,Hall_of_Fame_Tennis_Championships,1985,07,14,3-6_6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Acuna_Ricardo,Flur_Marc,Flur_Marc,Hall_of_Fame_Tennis_Championships,1985,07,14,7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Green_Bob,Michibata_Glenn,Michibata_Glenn,Hall_of_Fame_Tennis_Championships,1985,07,14,6-3_6-2
-Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Van_RensburgChristo,Mayotte_Tim,Mayotte_Tim,Hall_of_Fame_Tennis_Championships,1985,07,14,6-4_6-4
+Hall_of_Fame_Tennis_Championships,2,1985,07,14,1,Van_Rensburg_Christo,Mayotte_Tim,Mayotte_Tim,Hall_of_Fame_Tennis_Championships,1985,07,14,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,2,Kriek_Johan,McCain_Scott,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1985,07,14,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,2,Gullikson_Tom,Fitzgerald_John,Gullikson_Tom,Hall_of_Fame_Tennis_Championships,1985,07,14,6-4_7-6
 Hall_of_Fame_Tennis_Championships,2,1985,07,14,2,Pate_David,Shiras_Leif,Pate_David,Hall_of_Fame_Tennis_Championships,1985,07,14,6-2_6-2

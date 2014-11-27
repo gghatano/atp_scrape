@@ -3,7 +3,7 @@ Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Guccione_Chris,Pescosolido_Stef
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Johansson_Joachim,Fleishman_Zack,Fleishman_Zack,Hall_of_Fame_Tennis_Championships,2003,07,13,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Morrison_Jeff,Gimelstob_Justin,Gimelstob_Justin,Hall_of_Fame_Tennis_Championships,2003,07,13,6-4_4-6_7-6(13)
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Ginepri_Robby,Amritraj_Prakash,Ginepri_Robby,Hall_of_Fame_Tennis_Championships,2003,07,13,6-1_6-4
-Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Van_ScheppingenDennis,Waske_Alexander,Van_ScheppingenDennis,Hall_of_Fame_Tennis_Championships,2003,07,13,6-2_RET
+Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Van_Scheppingen_Dennis,Waske_Alexander,Van_Scheppingen_Dennis,Hall_of_Fame_Tennis_Championships,2003,07,13,6-2_RET
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Stoliarov_Andrei,Kendrick_Robert,Stoliarov_Andrei,Hall_of_Fame_Tennis_Championships,2003,07,13,6-2_6-4
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Miranda_Ivan,Vahaly_Brian,Miranda_Ivan,Hall_of_Fame_Tennis_Championships,2003,07,13,7-6(6)_6-3
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Sluiter_Raemon,Draper_Scott,Draper_Scott,Hall_of_Fame_Tennis_Championships,2003,07,13,6-3_3-2_RET
@@ -16,7 +16,7 @@ Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Kim_Alex,Shimada_Thomas,Kim_Ale
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,1,Bastl_George,Salzenstein_Jeff,Salzenstein_Jeff,Hall_of_Fame_Tennis_Championships,2003,07,13,6-1_6-3
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Carraz_Gregory,Guccione_Chris,Carraz_Gregory,Hall_of_Fame_Tennis_Championships,2003,07,13,6-7(5)_7-6(5)_6-4
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Fleishman_Zack,Gimelstob_Justin,Gimelstob_Justin,Hall_of_Fame_Tennis_Championships,2003,07,13,1-6_6-3_6-3
-Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Ginepri_Robby,Van_ScheppingenDennis,Ginepri_Robby,Hall_of_Fame_Tennis_Championships,2003,07,13,6-4_7-6(3)
+Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Ginepri_Robby,Van_Scheppingen_Dennis,Ginepri_Robby,Hall_of_Fame_Tennis_Championships,2003,07,13,6-4_7-6(3)
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Stoliarov_Andrei,Miranda_Ivan,Miranda_Ivan,Hall_of_Fame_Tennis_Championships,2003,07,13,7-6(3)_6-1
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Draper_Scott,Saulnier_Cyril,Saulnier_Cyril,Hall_of_Fame_Tennis_Championships,2003,07,13,6-2_6-3
 Hall_of_Fame_Tennis_Championships,2,2003,07,13,2,Bryan_Bob,Vemic_Dusan,Bryan_Bob,Hall_of_Fame_Tennis_Championships,2003,07,13,6-4_6-2

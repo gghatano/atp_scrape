@@ -1,5 +1,5 @@
 US_Open,1,1977,08,29,1,Borg_Bjorn,Waltke_Trey,Borg_Bjorn,US_Open,1977,08,29,6-2_6-1
-US_Open,1,1977,08,29,1,James_John,Pecci_SrVictor,James_John,US_Open,1977,08,29,6-4_4-6_6-3
+US_Open,1,1977,08,29,1,James_John,Pecci_Sr_Victor,James_John,US_Open,1977,08,29,6-4_4-6_6-3
 US_Open,1,1977,08,29,1,Prinsloo_Willem,Borowiak_Jeff,Prinsloo_Willem,US_Open,1977,08,29,3-6_7-6_6-1
 US_Open,1,1977,08,29,1,Soler_Javier,Parun_Onny,Parun_Onny,US_Open,1977,08,29,6-2_6-4
 US_Open,1,1977,08,29,1,Krulevitz_Steve,Schneider_David,Krulevitz_Steve,US_Open,1977,08,29,6-4_6-3
@@ -16,13 +16,13 @@ US_Open,1,1977,08,29,1,Prajoux_Belus,Smid_Tomas,Smid_Tomas,US_Open,1977,08,29,6-
 US_Open,1,1977,08,29,1,Dominguez_Patrice,Gerulaitis_Vitas,Gerulaitis_Vitas,US_Open,1977,08,29,6-2_6-0
 US_Open,1,1977,08,29,1,Vilas_Guillermo,Santana_Manuel,Vilas_Guillermo,US_Open,1977,08,29,6-1_6-0
 US_Open,1,1977,08,29,1,Mayer_Gene,Norback_Jan,Mayer_Gene,US_Open,1977,08,29,7-6_6-3
-US_Open,1,1977,08,29,1,Hagey_JamesChico,Docherty_Steve,Docherty_Steve,US_Open,1977,08,29,6-4_7-6
+US_Open,1,1977,08,29,1,Hagey_James_Chico,Docherty_Steve,Docherty_Steve,US_Open,1977,08,29,6-4_7-6
 US_Open,1,1977,08,29,1,Amaya_Victor,Hardie_George,Amaya_Victor,US_Open,1977,08,29,6-2_7-5
 US_Open,1,1977,08,29,1,Higueras_Jose,Wilkison_Tim,Higueras_Jose,US_Open,1977,08,29,6-2_6-2
 US_Open,1,1977,08,29,1,Schoenfield_Howard,Manson_Bruce,Manson_Bruce,US_Open,1977,08,29,3-6_7-6_5-3_RET
 US_Open,1,1977,08,29,1,Richardson_Keith,Dent_Phil,Dent_Phil,US_Open,1977,08,29,6-4_6-4
 US_Open,1,1977,08,29,1,Gullikson_Tim,Rosewall_Ken,Rosewall_Ken,US_Open,1977,08,29,6-0_6-4
-US_Open,1,1977,08,29,1,Smith_Stan,Bohrnstedt_DickR,Smith_Stan,US_Open,1977,08,29,7-6_6-2
+US_Open,1,1977,08,29,1,Smith_Stan,Bohrnstedt_Dick_R,Smith_Stan,US_Open,1977,08,29,7-6_6-2
 US_Open,1,1977,08,29,1,Martin_Billy,Fishbach_Mike,Fishbach_Mike,US_Open,1977,08,29,6-1_7-5
 US_Open,1,1977,08,29,1,Betancur_Alvaro,Amritraj_Anand,Amritraj_Anand,US_Open,1977,08,29,3-6_6-4_6-3
 US_Open,1,1977,08,29,1,Feaver_John,Pasarell_Charlie,Feaver_John,US_Open,1977,08,29,7-5_6-1
@@ -50,10 +50,10 @@ US_Open,1,1977,08,29,1,Orantes_Manuel,Maze_Bill,Orantes_Manuel,US_Open,1977,08,2
 US_Open,1,1977,08,29,1,Amritraj_Vijay,Stolle_Fred,Stolle_Fred,US_Open,1977,08,29,3-6_7-6_7-5
 US_Open,1,1977,08,29,1,Dupre_Pat,Jauffret_Francois,Jauffret_Francois,US_Open,1977,08,29,7-5_6-0
 US_Open,1,1977,08,29,1,Machette_Mike,Stewart_Sherwood,Stewart_Sherwood,US_Open,1977,08,29,6-1_6-4
-US_Open,1,1977,08,29,1,Gildemeister_Hans,Fillol_SrJaime,Gildemeister_Hans,US_Open,1977,08,29,6-0_6-3
+US_Open,1,1977,08,29,1,Gildemeister_Hans,Fillol_Sr_Jaime,Gildemeister_Hans,US_Open,1977,08,29,6-0_6-3
 US_Open,1,1977,08,29,1,McEnroe_John,Teltscher_Eliot,McEnroe_John,US_Open,1977,08,29,6-1_6-3
-US_Open,1,1977,08,29,1,Deblicker_Eric,McNair_IVFred,McNair_IVFred,US_Open,1977,08,29,6-4_4-6_6-2
-US_Open,1,1977,08,29,1,Alvarez_ElioLito,Dibbs_Eddie,Dibbs_Eddie,US_Open,1977,08,29,6-4_6-3
+US_Open,1,1977,08,29,1,Deblicker_Eric,McNair_IV_Fred,McNair_IV_Fred,US_Open,1977,08,29,6-4_4-6_6-2
+US_Open,1,1977,08,29,1,Alvarez_Elio_Lito,Dibbs_Eddie,Dibbs_Eddie,US_Open,1977,08,29,6-4_6-3
 US_Open,1,1977,08,29,1,Tanner_Roscoe,Mitchell_Matt,Tanner_Roscoe,US_Open,1977,08,29,4-6_7-6_6-1
 US_Open,1,1977,08,29,1,Pattison_Andrew,McNamee_Paul,Pattison_Andrew,US_Open,1977,08,29,6-4_6-0
 US_Open,1,1977,08,29,1,Moor_Terry,Drysdale_Cliff,Moor_Terry,US_Open,1977,08,29,7-6_6-2
@@ -89,7 +89,7 @@ US_Open,1,1977,08,29,2,Riessen_Marty,Gottfried_Brian,Gottfried_Brian,US_Open,197
 US_Open,1,1977,08,29,2,Orantes_Manuel,Stolle_Fred,Orantes_Manuel,US_Open,1977,08,29,6-2_6-2
 US_Open,1,1977,08,29,2,Jauffret_Francois,Stewart_Sherwood,Stewart_Sherwood,US_Open,1977,08,29,7-5_6-3
 US_Open,1,1977,08,29,2,Gildemeister_Hans,McEnroe_John,McEnroe_John,US_Open,1977,08,29,7-5_6-1
-US_Open,1,1977,08,29,2,McNair_IVFred,Dibbs_Eddie,Dibbs_Eddie,US_Open,1977,08,29,6-2_6-2
+US_Open,1,1977,08,29,2,McNair_IV_Fred,Dibbs_Eddie,Dibbs_Eddie,US_Open,1977,08,29,6-2_6-2
 US_Open,1,1977,08,29,2,Tanner_Roscoe,Pattison_Andrew,Tanner_Roscoe,US_Open,1977,08,29,6-7_6-0_6-3
 US_Open,1,1977,08,29,2,Moor_Terry,Bunis_Henry,Moor_Terry,US_Open,1977,08,29,6-2_6-4
 US_Open,1,1977,08,29,2,Guerry_Zan,Cahill_Mike,Guerry_Zan,US_Open,1977,08,29,6-4_7-5

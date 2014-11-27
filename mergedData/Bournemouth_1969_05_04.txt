@@ -1,4 +1,4 @@
-Bournemouth,2,1969,05,04,1,Newcombe_John,El_ShafeiIsmail,Newcombe_John,Bournemouth,1969,05,04,6-2_3-6_6-4_3-6_6-1
+Bournemouth,2,1969,05,04,1,Newcombe_John,El_Shafei_Ismail,Newcombe_John,Bournemouth,1969,05,04,6-2_3-6_6-4_3-6_6-1
 Bournemouth,2,1969,05,04,1,Belkin_Mike,Jauffret_Francois,Belkin_Mike,Bournemouth,1969,05,04,6-4_3-6_5-7_6-2_6-0
 Bournemouth,2,1969,05,04,1,Cox_Mark,Maud_Robert,Cox_Mark,Bournemouth,1969,05,04,6-3_6-0_1-6_0-6_6-4
 Bournemouth,2,1969,05,04,1,Beust_Patrice,McHugo_Colin,Beust_Patrice,Bournemouth,1969,05,04,8-6_6-1_6-2

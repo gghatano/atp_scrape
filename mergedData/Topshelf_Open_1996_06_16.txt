@@ -3,7 +3,7 @@ Topshelf_Open,2,1996,06,16,1,Kroslak_Jan,Golmard_Jerome,Kroslak_Jan,Topshelf_Ope
 Topshelf_Open,2,1996,06,16,1,Tarango_Jeff,Paes_Leander,Paes_Leander,Topshelf_Open,1996,06,16,7-5_7-6(5)
 Topshelf_Open,2,1996,06,16,1,Nestor_Daniel,Philippoussis_Mark,Nestor_Daniel,Topshelf_Open,1996,06,16,6-4_7-6(7)
 Topshelf_Open,2,1996,06,16,1,Krajicek_Richard,Eltingh_Jacco,Krajicek_Richard,Topshelf_Open,1996,06,16,7-6(5)_7-6(12)
-Topshelf_Open,2,1996,06,16,1,Davids_HendrikJan,Prinosil_David,Davids_HendrikJan,Topshelf_Open,1996,06,16,7-5_6-3
+Topshelf_Open,2,1996,06,16,1,Davids_Hendrik_Jan,Prinosil_David,Davids_Hendrik_Jan,Topshelf_Open,1996,06,16,7-5_6-3
 Topshelf_Open,2,1996,06,16,1,Leconte_Henri,Carlsen_Kenneth,Carlsen_Kenneth,Topshelf_Open,1996,06,16,7-5_6-2
 Topshelf_Open,2,1996,06,16,1,Thorne_Kenny,Haarhuis_Paul,Haarhuis_Paul,Topshelf_Open,1996,06,16,6-2_3-6_6-1
 Topshelf_Open,2,1996,06,16,1,Siemerink_Jan,Karbacher_Bernd,Siemerink_Jan,Topshelf_Open,1996,06,16,6-2_6-4
@@ -16,7 +16,7 @@ Topshelf_Open,2,1996,06,16,1,Groen_Sander,Fetterlein_Frederik,Fetterlein_Frederi
 Topshelf_Open,2,1996,06,16,1,Arazi_Hicham,Costa_Albert,Arazi_Hicham,Topshelf_Open,1996,06,16,1-6_7-6(5)_7-6(7)
 Topshelf_Open,2,1996,06,16,2,Simian_Stephane,Kroslak_Jan,Simian_Stephane,Topshelf_Open,1996,06,16,6-1_6-4
 Topshelf_Open,2,1996,06,16,2,Paes_Leander,Nestor_Daniel,Paes_Leander,Topshelf_Open,1996,06,16,5-7_7-6(2)_6-4
-Topshelf_Open,2,1996,06,16,2,Krajicek_Richard,Davids_HendrikJan,Krajicek_Richard,Topshelf_Open,1996,06,16,3-6_6-3_7-6(2)
+Topshelf_Open,2,1996,06,16,2,Krajicek_Richard,Davids_Hendrik_Jan,Krajicek_Richard,Topshelf_Open,1996,06,16,3-6_6-3_7-6(2)
 Topshelf_Open,2,1996,06,16,2,Carlsen_Kenneth,Haarhuis_Paul,Haarhuis_Paul,Topshelf_Open,1996,06,16,6-4_7-6(3)
 Topshelf_Open,2,1996,06,16,2,Siemerink_Jan,Steven_Brett,Siemerink_Jan,Topshelf_Open,1996,06,16,4-6_6-3_6-2
 Topshelf_Open,2,1996,06,16,2,Bjorkman_Jonas,Schalken_Sjeng,Bjorkman_Jonas,Topshelf_Open,1996,06,16,6-1_4-6_6-2

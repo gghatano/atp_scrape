@@ -9,7 +9,7 @@ Scottsdale,2,1987,10,11,1,Failla_Greg,Curren_Kevin,Curren_Kevin,Scottsdale,1987,
 Scottsdale,2,1987,10,11,1,Kriek_Johan,Yzaga_Jaime,Kriek_Johan,Scottsdale,1987,10,11,7-6_6-2
 Scottsdale,2,1987,10,11,1,Pearce_Brad,Gyetko_Brian,Pearce_Brad,Scottsdale,1987,10,11,6-2_6-2
 Scottsdale,2,1987,10,11,1,Rostagno_Derrick,Holmes_Greg,Rostagno_Derrick,Scottsdale,1987,10,11,6-2_6-4
-Scottsdale,2,1987,10,11,1,De_PalmerMike,Gilbert_Brad,Gilbert_Brad,Scottsdale,1987,10,11,6-3_6-2
+Scottsdale,2,1987,10,11,1,De_Palmer_Mike,Gilbert_Brad,Gilbert_Brad,Scottsdale,1987,10,11,6-3_6-2
 Scottsdale,2,1987,10,11,1,Berger_Jay,Chang_Michael,Chang_Michael,Scottsdale,1987,10,11,6-3_6-2
 Scottsdale,2,1987,10,11,1,Flur_Marc,Testerman_Ben,Testerman_Ben,Scottsdale,1987,10,11,6-3_6-0
 Scottsdale,2,1987,10,11,1,Flach_Ken,Lozano_Jorge,Lozano_Jorge,Scottsdale,1987,10,11,7-6_4-6_6-1

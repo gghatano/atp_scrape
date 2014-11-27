@@ -13,7 +13,7 @@ Erste_Bank_Open,2,2002,10,13,1,Vacek_Jan,Moya_Carlos,Moya_Carlos,Erste_Bank_Open
 Erste_Bank_Open,2,2002,10,13,1,Federer_Roger,Krajan_Zeljko,Federer_Roger,Erste_Bank_Open,2002,10,13,7-5_6-1
 Erste_Bank_Open,2,2002,10,13,1,Nieminen_Jarkko,Robredo_Tommy,Robredo_Tommy,Erste_Bank_Open,2002,10,13,6-3_6-3
 Erste_Bank_Open,2,2002,10,13,1,Ulihrach_Bohdan,Kratochvil_Michel,Ulihrach_Bohdan,Erste_Bank_Open,2002,10,13,6-3_6-7(2)_7-6(2)
-Erste_Bank_Open,2,2002,10,13,1,Massu_Nicolas,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Erste_Bank_Open,2002,10,13,5-7_6-4_6-3
+Erste_Bank_Open,2,2002,10,13,1,Massu_Nicolas,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Erste_Bank_Open,2002,10,13,5-7_6-4_6-3
 Erste_Bank_Open,2,2002,10,13,2,Haas_Tommy,Melzer_Jurgen,Melzer_Jurgen,Erste_Bank_Open,2002,10,13,6-4_6-3
 Erste_Bank_Open,2,2002,10,13,2,Coria_Guillermo,Novak_Jiri,Novak_Jiri,Erste_Bank_Open,2002,10,13,7-5_6-2
 Erste_Bank_Open,2,2002,10,13,2,Pavel_Andrei,Schuettler_Rainer,Pavel_Andrei,Erste_Bank_Open,2002,10,13,6-0_6-4
@@ -21,7 +21,7 @@ Erste_Bank_Open,2,2002,10,13,2,Stepanek_Radek,Davydenko_Nikolay,Davydenko_Nikola
 Erste_Bank_Open,2,2002,10,13,2,Kiefer_Nicolas,Blake_James,Blake_James,Erste_Bank_Open,2002,10,13,6-4_7-6(4)
 Erste_Bank_Open,2,2002,10,13,2,Calleri_Agustin,Moya_Carlos,Moya_Carlos,Erste_Bank_Open,2002,10,13,6-3_2-6_7-6(7)
 Erste_Bank_Open,2,2002,10,13,2,Federer_Roger,Robredo_Tommy,Federer_Roger,Erste_Bank_Open,2002,10,13,6-2_6-7(5)_6-4
-Erste_Bank_Open,2,2002,10,13,2,Ulihrach_Bohdan,Ferrero_JuanCarlos,Ulihrach_Bohdan,Erste_Bank_Open,2002,10,13,6-4_6-2
+Erste_Bank_Open,2,2002,10,13,2,Ulihrach_Bohdan,Ferrero_Juan_Carlos,Ulihrach_Bohdan,Erste_Bank_Open,2002,10,13,6-4_6-2
 Erste_Bank_Open,2,2002,10,13,3,Melzer_Jurgen,Novak_Jiri,Novak_Jiri,Erste_Bank_Open,2002,10,13,6-4_6-2
 Erste_Bank_Open,2,2002,10,13,3,Pavel_Andrei,Davydenko_Nikolay,Pavel_Andrei,Erste_Bank_Open,2002,10,13,6-3_7-6(2)
 Erste_Bank_Open,2,2002,10,13,3,Blake_James,Moya_Carlos,Moya_Carlos,Erste_Bank_Open,2002,10,13,7-6(4)_3-6_6-1

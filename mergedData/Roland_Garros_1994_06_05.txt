@@ -59,8 +59,8 @@ Roland_Garros,1,1994,06,05,1,Voinea_Adrian,Dreekmann_Hendrik,Dreekmann_Hendrik,R
 Roland_Garros,1,1994,06,05,1,Rikl_David,Chesnokov_Andrei,Rikl_David,Roland_Garros,1994,06,05,6-1_2-1_RET
 Roland_Garros,1,1994,06,05,1,Stoltenberg_Jason,Reneberg_Richey,Reneberg_Richey,Roland_Garros,1994,06,05,1-6_3-6_6-3_6-3_7-5
 Roland_Garros,1,1994,06,05,1,Stafford_Grant,Poliakov_Dimitri,Poliakov_Dimitri,Roland_Garros,1994,06,05,6-2_7-6(4)_6-4
-Roland_Garros,1,1994,06,05,1,El_AynaouiYounes,Vasek_Radomir,Vasek_Radomir,Roland_Garros,1994,06,05,6-3_6-4_7-6(6)
-Roland_Garros,1,1994,06,05,1,De_LaPenaHoracio,Krickstein_Aaron,Krickstein_Aaron,Roland_Garros,1994,06,05,6-3_6-4_7-6
+Roland_Garros,1,1994,06,05,1,El_Aynaoui_Younes,Vasek_Radomir,Vasek_Radomir,Roland_Garros,1994,06,05,6-3_6-4_7-6(6)
+Roland_Garros,1,1994,06,05,1,De_La_Pena_Horacio,Krickstein_Aaron,Krickstein_Aaron,Roland_Garros,1994,06,05,6-3_6-4_7-6
 Roland_Garros,1,1994,06,05,1,Furlan_Renzo,Stich_Michael,Stich_Michael,Roland_Garros,1994,06,05,6-1_7-5_6-4
 Roland_Garros,1,1994,06,05,2,Sampras_Pete,Rios_Marcelo,Sampras_Pete,Roland_Garros,1994,06,05,7-6(5)_7-6(4)_6-4
 Roland_Garros,1,1994,06,05,2,Jonsson_Lars,Haarhuis_Paul,Haarhuis_Paul,Roland_Garros,1994,06,05,6-3_2-6_1-6_7-5_6-3

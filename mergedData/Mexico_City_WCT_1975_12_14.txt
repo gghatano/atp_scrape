@@ -1,6 +1,6 @@
-Mexico_City_WCT,2,1975,12,14,1,Vilas_Guillermo,Fillol_SrJaime,Vilas_Guillermo,Mexico_City_WCT,1975,12,14,6-4_6-2
+Mexico_City_WCT,2,1975,12,14,1,Vilas_Guillermo,Fillol_Sr_Jaime,Vilas_Guillermo,Mexico_City_WCT,1975,12,14,6-4_6-2
 Mexico_City_WCT,2,1975,12,14,1,Gottfried_Brian,Solomon_Harold,Gottfried_Brian,Mexico_City_WCT,1975,12,14,7-6(2)_6-1
-Mexico_City_WCT,2,1975,12,14,1,Dibbs_Eddie,El_ShafeiIsmail,Dibbs_Eddie,Mexico_City_WCT,1975,12,14,7-6(4)_6-1
+Mexico_City_WCT,2,1975,12,14,1,Dibbs_Eddie,El_Shafei_Ismail,Dibbs_Eddie,Mexico_City_WCT,1975,12,14,7-6(4)_6-1
 Mexico_City_WCT,2,1975,12,14,1,Montano_Emilio,Rosewall_Ken,Rosewall_Ken,Mexico_City_WCT,1975,12,14,6-1_6-3
 Mexico_City_WCT,2,1975,12,14,1,Ramirez_Raul,Crealy_Dick,Ramirez_Raul,Mexico_City_WCT,1975,12,14,W/O
 Mexico_City_WCT,2,1975,12,14,1,Gorman_Tom,Fairlie_Brian,Gorman_Tom,Mexico_City_WCT,1975,12,14,7-6(2)_6-2

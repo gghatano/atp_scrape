@@ -1,5 +1,5 @@
 Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,Masur_Wally,Carter_Peter,Masur_Wally,Brisbane_International_presented_by_Suncorp,1988,01,03,6-2_6-1
-Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,McNamee_Paul,Cox_CharlesBud,McNamee_Paul,Brisbane_International_presented_by_Suncorp,1988,01,03,6-1_6-2
+Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,McNamee_Paul,Cox_Charles_Bud,McNamee_Paul,Brisbane_International_presented_by_Suncorp,1988,01,03,6-1_6-2
 Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,Levine_Jon,Limberger_Carl,Limberger_Carl,Brisbane_International_presented_by_Suncorp,1988,01,03,7-6_6-4
 Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,Rasheed_Roger,Saceanu_Christian,Rasheed_Roger,Brisbane_International_presented_by_Suncorp,1988,01,03,6-2_3-6_7-5
 Brisbane_International_presented_by_Suncorp,2,1988,01,03,1,Doohan_Peter,Schultz_Bud,Schultz_Bud,Brisbane_International_presented_by_Suncorp,1988,01,03,6-1_6-2

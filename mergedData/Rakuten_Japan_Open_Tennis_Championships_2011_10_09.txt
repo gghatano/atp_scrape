@@ -12,7 +12,7 @@ Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Ebden_Matthew,Andujar_Pab
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Nishikori_Kei,Ferrer_David,Ferrer_David,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-4_6-3
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Monaco_Juan,Dodig_Ivan,Dodig_Ivan,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-2_2-6_7-6(1)
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Nalbandian_David,Rosol_Lukas,Nalbandian_David,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-1_6-1
-Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Nieminen_Jarkko,Bogomolov_JrAlex,Bogomolov_JrAlex,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-4_6-4
+Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Nieminen_Jarkko,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-4_6-4
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,1,Baghdatis_Marcos,Murray_Andy,Murray_Andy,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,7-6(4)_2-6_6-4
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Nadal_Rafael,Raonic_Milos,Nadal_Rafael,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,7-5_6-3
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Giraldo_Santiago,Tursunov_Dmitry,Giraldo_Santiago,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-4_7-6(4)
@@ -21,7 +21,7 @@ Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Ito_Tatsuma,Tomic_Bernard
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Stepanek_Radek,Chiudinelli_Marco,Stepanek_Radek,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,7-5_6-7(5)_6-1
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Ebden_Matthew,Ferrer_David,Ferrer_David,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,4-6_6-2_6-2
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Dodig_Ivan,Nalbandian_David,Nalbandian_David,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,7-6(2)_6-2
-Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Bogomolov_JrAlex,Murray_Andy,Murray_Andy,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-1_6-2
+Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,2,Bogomolov_Jr_Alex,Murray_Andy,Murray_Andy,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-1_6-2
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,3,Nadal_Rafael,Giraldo_Santiago,Nadal_Rafael,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,7-6(6)_6-3
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,3,Fish_Mardy,Tomic_Bernard,Fish_Mardy,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-7(5)_6-4_6-1
 Rakuten_Japan_Open_Tennis_Championships,2,2011,10,09,3,Stepanek_Radek,Ferrer_David,Ferrer_David,Rakuten_Japan_Open_Tennis_Championships,2011,10,09,6-2_7-6(3)

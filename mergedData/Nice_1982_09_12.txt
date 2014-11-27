@@ -10,7 +10,7 @@ Nice,2,1982,09,12,1,Orantes_Manuel,Ostoja_Marko,Orantes_Manuel,Nice,1982,09,12,6
 Nice,2,1982,09,12,1,GarciaRequena_Jose,Dupasquier_Ivan,GarciaRequena_Jose,Nice,1982,09,12,6-3_6-3
 Nice,2,1982,09,12,1,Hampson_Wayne,Panatta_Claudio,Panatta_Claudio,Nice,1982,09,12,4-6_7-5_6-3
 Nice,2,1982,09,12,1,Fromm_Eric,Rebolledo_Pedro,Fromm_Eric,Nice,1982,09,12,6-4_2-6_7-5
-Nice,2,1982,09,12,1,Damiani_JoseLuis,Torre_Paul,Damiani_JoseLuis,Nice,1982,09,12,6-2_6-3
+Nice,2,1982,09,12,1,Damiani_Jose_Luis,Torre_Paul,Damiani_Jose_Luis,Nice,1982,09,12,6-2_6-3
 Nice,2,1982,09,12,1,Johnstone_Chris,Arraya_Pablo,Johnstone_Chris,Nice,1982,09,12,7-6_6-1
 Nice,2,1982,09,12,1,Bedel_Dominique,Haillet_JeanLouis,Bedel_Dominique,Nice,1982,09,12,6-2_4-6_6-3
 Nice,2,1982,09,12,1,Perez_Diego,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,3-6_7-5_6-4
@@ -20,12 +20,12 @@ Nice,2,1982,09,12,2,Gomez_Andres,Gimenez_Angel,Gimenez_Angel,Nice,1982,09,12,2-6
 Nice,2,1982,09,12,2,Luna_Fernando,Martinez_Mario,Luna_Fernando,Nice,1982,09,12,0-6_6-2_6-3
 Nice,2,1982,09,12,2,Orantes_Manuel,GarciaRequena_Jose,GarciaRequena_Jose,Nice,1982,09,12,6-3_7-5
 Nice,2,1982,09,12,2,Panatta_Claudio,Fromm_Eric,Panatta_Claudio,Nice,1982,09,12,3-6_6-0_6-1
-Nice,2,1982,09,12,2,Damiani_JoseLuis,Johnstone_Chris,Damiani_JoseLuis,Nice,1982,09,12,6-3_3-6_6-1
+Nice,2,1982,09,12,2,Damiani_Jose_Luis,Johnstone_Chris,Damiani_Jose_Luis,Nice,1982,09,12,6-3_3-6_6-1
 Nice,2,1982,09,12,2,Bedel_Dominique,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,6-1_6-3
 Nice,2,1982,09,12,3,Noah_Yannick,Krishnan_Ramesh,Noah_Yannick,Nice,1982,09,12,6-3_7-6
 Nice,2,1982,09,12,3,Gimenez_Angel,Luna_Fernando,Luna_Fernando,Nice,1982,09,12,3-6_6-2_6-2
 Nice,2,1982,09,12,3,GarciaRequena_Jose,Panatta_Claudio,Panatta_Claudio,Nice,1982,09,12,6-3_4-6_6-4
-Nice,2,1982,09,12,3,Damiani_JoseLuis,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,6-7_6-1_9-7
+Nice,2,1982,09,12,3,Damiani_Jose_Luis,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,6-7_6-1_9-7
 Nice,2,1982,09,12,4,Noah_Yannick,Luna_Fernando,Noah_Yannick,Nice,1982,09,12,6-3_6-3
 Nice,2,1982,09,12,4,Panatta_Claudio,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,6-2_6-4
 Nice,2,1982,09,12,5,Noah_Yannick,Taroczy_Balazs,Taroczy_Balazs,Nice,1982,09,12,6-2_3-6_13-11

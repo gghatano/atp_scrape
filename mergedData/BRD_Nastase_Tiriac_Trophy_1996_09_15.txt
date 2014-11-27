@@ -1,7 +1,7 @@
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Becker_Boris,Ruud_Christian,Ruud_Christian,BRD_Nastase_Tiriac_Trophy,1996,09,15,5-3_RET
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Johansson_Thomas,Trifu_Gabriel,Johansson_Thomas,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-4_6-2
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Burillo_Jordi,Pescariu_Dinu,Pescariu_Dinu,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-2
-BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Gorriz_MarcosAurelio,Schaller_Gilbert,Schaller_Gilbert,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-1_4-6_6-2
+BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Gorriz_Marcos_Aurelio,Schaller_Gilbert,Schaller_Gilbert,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-1_4-6_6-2
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Berasategui_Alberto,Goossens_Kris,Berasategui_Alberto,BRD_Nastase_Tiriac_Trophy,1996,09,15,4-0_RET
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Dewulf_Filip,Fromberg_Richard,Fromberg_Richard,BRD_Nastase_Tiriac_Trophy,1996,09,15,7-5_5-7_7-6(6)
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Tarango_Jeff,Moldovan_Ion,Moldovan_Ion,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-4_2-6_6-0
@@ -12,7 +12,7 @@ BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Arazi_Hicham,Zingman_Andy,Zingman_Andy,
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Vicente_Fernando,Moya_Carlos,Moya_Carlos,BRD_Nastase_Tiriac_Trophy,1996,09,15,7-6(5)_5-7_6-3
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Novak_Jiri,Carbonell_Tomas,Novak_Jiri,BRD_Nastase_Tiriac_Trophy,1996,09,15,5-7_6-3_7-6(4)
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Roux_Lionel,Merinov_Andrei,Roux_Lionel,BRD_Nastase_Tiriac_Trophy,1996,09,15,7-5_0-6_6-1
-BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Van_HerckJohan,Krocsko_Jozsef,Van_HerckJohan,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-3_6-0
+BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Van_Herck_Johan,Krocsko_Jozsef,Van_Herck_Johan,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-3_6-0
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,1,Pavel_Andrei,Adams_David,Pavel_Andrei,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-0
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Ruud_Christian,Johansson_Thomas,Ruud_Christian,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-4_6-1
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Pescariu_Dinu,Schaller_Gilbert,Pescariu_Dinu,BRD_Nastase_Tiriac_Trophy,1996,09,15,4-6_6-4_6-2
@@ -21,7 +21,7 @@ BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Moldovan_Ion,Prieto_Sebastian,Moldovan_
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Clavet_Francisco,Blanco_Galo,Clavet_Francisco,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-3_6-2
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Zingman_Andy,Moya_Carlos,Moya_Carlos,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-3
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Novak_Jiri,Roux_Lionel,Novak_Jiri,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-4_7-6(3)
-BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Van_HerckJohan,Pavel_Andrei,Pavel_Andrei,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-2
+BRD_Nastase_Tiriac_Trophy,2,1996,09,15,2,Van_Herck_Johan,Pavel_Andrei,Pavel_Andrei,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-2
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,3,Ruud_Christian,Pescariu_Dinu,Ruud_Christian,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_7-5
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,3,Berasategui_Alberto,Moldovan_Ion,Berasategui_Alberto,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-4_6-2
 BRD_Nastase_Tiriac_Trophy,2,1996,09,15,3,Clavet_Francisco,Moya_Carlos,Moya_Carlos,BRD_Nastase_Tiriac_Trophy,1996,09,15,6-2_6-3

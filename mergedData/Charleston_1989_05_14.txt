@@ -1,6 +1,6 @@
 Charleston,2,1989,05,14,1,Gilbert_Brad,Rive_Joey,Gilbert_Brad,Charleston,1989,05,14,7-6_3-6_6-1
 Charleston,2,1989,05,14,1,Pugh_Jim,Seguso_Robert,Pugh_Jim,Charleston,1989,05,14,7-6_6-0
-Charleston,2,1989,05,14,1,Wilkison_Tim,Giammalva_JrSammy,Wilkison_Tim,Charleston,1989,05,14,7-5_6-2
+Charleston,2,1989,05,14,1,Wilkison_Tim,Giammalva_Jr_Sammy,Wilkison_Tim,Charleston,1989,05,14,7-5_6-2
 Charleston,2,1989,05,14,1,Arias_Jimmy,Oresar_Bruno,Arias_Jimmy,Charleston,1989,05,14,6-1_6-3
 Charleston,2,1989,05,14,1,Goldie_Dan,Vilas_Guillermo,Vilas_Guillermo,Charleston,1989,05,14,6-3_4-6_6-3
 Charleston,2,1989,05,14,1,Svantesson_Tobias,Duncan_Lawson,Duncan_Lawson,Charleston,1989,05,14,7-5_7-5

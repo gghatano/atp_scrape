@@ -5,7 +5,7 @@ Atlanta,2,1996,05,05,1,Fromberg_Richard,Wilander_Mats,Fromberg_Richard,Atlanta,1
 Atlanta,2,1996,05,05,1,Frana_Javier,Filippini_Marcelo,Frana_Javier,Atlanta,1996,05,05,7-6(2)_3-6_6-4
 Atlanta,2,1996,05,05,1,Goossens_Kris,Etlis_Gaston,Goossens_Kris,Atlanta,1996,05,05,0-6_6-4_6-4
 Atlanta,2,1996,05,05,1,Doyle_Grant,Stolle_Sandon,Stolle_Sandon,Atlanta,1996,05,05,7-5_6-2
-Atlanta,2,1996,05,05,1,Morejon_LuisAdrian,Alami_Karim,Alami_Karim,Atlanta,1996,05,05,7-6(2)_6-4
+Atlanta,2,1996,05,05,1,Morejon_Luis_Adrian,Alami_Karim,Alami_Karim,Atlanta,1996,05,05,7-6(2)_6-4
 Atlanta,2,1996,05,05,1,Bjorkman_Jonas,Gross_Oliver,Bjorkman_Jonas,Atlanta,1996,05,05,6-4_7-6(4)
 Atlanta,2,1996,05,05,1,Spadea_Vincent,Pozzi_Gianluca,Spadea_Vincent,Atlanta,1996,05,05,6-1_6-4
 Atlanta,2,1996,05,05,1,Draper_Scott,Rafter_Patrick,Draper_Scott,Atlanta,1996,05,05,7-6(7)_6-4

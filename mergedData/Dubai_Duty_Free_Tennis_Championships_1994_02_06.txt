@@ -8,10 +8,10 @@ Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Bergstrom_Christian,Woodford
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Rusedski_Greg,Ferreira_Wayne,Ferreira_Wayne,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Lendl_Ivan,Arriens_Carsten,Lendl_Ivan,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-1_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Santoro_Fabrice,Cherkasov_Andrei,Cherkasov_Andrei,Dubai_Duty_Free_Tennis_Championships,1994,02,06,3-6_6-1_6-2
-Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Rafter_Patrick,El_AynaouiYounes,Rafter_Patrick,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-3_2-6_6-3
+Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Rafter_Patrick,El_Aynaoui_Younes,Rafter_Patrick,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-3_2-6_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Larsson_Magnus,Gustafsson_Magnus,Gustafsson_Magnus,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4(4)_7-6
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Volkov_Alexander,Stoltenberg_Jason,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4_7-6(2)
-Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Burillo_Jordi,Davids_HendrikJan,Davids_HendrikJan,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-3_6-2
+Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Burillo_Jordi,Davids_Hendrik_Jan,Davids_Hendrik_Jan,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-3_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Sanchez_Javier,Holm_Henrik,Holm_Henrik,Dubai_Duty_Free_Tennis_Championships,1994,02,06,7-5_4-6_6-1
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,1,Cahill_Darren,Muster_Thomas,Muster_Thomas,Dubai_Duty_Free_Tennis_Championships,1994,02,06,7-5_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Bruguera_Sergi,Woodbridge_Todd,Bruguera_Sergi,Dubai_Duty_Free_Tennis_Championships,1994,02,06,7-6(2)_3-6_6-1
@@ -20,7 +20,7 @@ Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Korda_Petr,Jonsson_Lars,Kord
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Woodforde_Mark,Ferreira_Wayne,Ferreira_Wayne,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-2_7-5
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Lendl_Ivan,Cherkasov_Andrei,Lendl_Ivan,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Rafter_Patrick,Gustafsson_Magnus,Gustafsson_Magnus,Dubai_Duty_Free_Tennis_Championships,1994,02,06,7-5_3-6_6-3
-Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Volkov_Alexander,Davids_HendrikJan,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-2_3-6_6-2
+Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Volkov_Alexander,Davids_Hendrik_Jan,Volkov_Alexander,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-2_3-6_6-2
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,2,Holm_Henrik,Muster_Thomas,Holm_Henrik,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-3_6-4
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,3,Bruguera_Sergi,Goellner_MarcKevin,Bruguera_Sergi,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4_6-3
 Dubai_Duty_Free_Tennis_Championships,2,1994,02,06,3,Korda_Petr,Ferreira_Wayne,Ferreira_Wayne,Dubai_Duty_Free_Tennis_Championships,1994,02,06,6-4_3-6_6-2

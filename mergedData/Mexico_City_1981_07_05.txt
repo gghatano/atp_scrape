@@ -11,7 +11,7 @@ Mexico_City,2,1981,07,05,1,Gonzalez_Adolfo,Letcher_Cliff,Gonzalez_Adolfo,Mexico_
 Mexico_City,2,1981,07,05,1,Aubone_Guillermo,Estep_Mike,Aubone_Guillermo,Mexico_City,1981,07,05,5-7_6-2_7-6
 Mexico_City,2,1981,07,05,1,Eberhard_Klaus,Foxworth_Bruce,Eberhard_Klaus,Mexico_City,1981,07,05,6-2_6-0
 Mexico_City,2,1981,07,05,1,Alexander_John,Meiler_Karl,Alexander_John,Mexico_City,1981,07,05,3-6_7-5_6-3
-Mexico_City,2,1981,07,05,1,Fillol_SrJaime,Spang_Peter,Fillol_SrJaime,Mexico_City,1981,07,05,3-6_6-2_6-1
+Mexico_City,2,1981,07,05,1,Fillol_Sr_Jaime,Spang_Peter,Fillol_Sr_Jaime,Mexico_City,1981,07,05,3-6_6-2_6-1
 Mexico_City,2,1981,07,05,1,Case_Ross,Fillol_Alvaro,Case_Ross,Mexico_City,1981,07,05,6-1_6-4
 Mexico_City,2,1981,07,05,1,Kronk_Paul,Montano_Emilio,Kronk_Paul,Mexico_City,1981,07,05,6-1_6-2
 Mexico_City,2,1981,07,05,2,McKown_Ben,Cain_Tom,Cain_Tom,Mexico_City,1981,07,05,6-3_6-4
@@ -20,12 +20,12 @@ Mexico_City,2,1981,07,05,2,Hayes_John,Davis_Marty,Hayes_John,Mexico_City,1981,07
 Mexico_City,2,1981,07,05,2,Carter_David,Stockton_Dick,Carter_David,Mexico_City,1981,07,05,7-6_7-6
 Mexico_City,2,1981,07,05,2,Arias_Jimmy,Gonzalez_Adolfo,Gonzalez_Adolfo,Mexico_City,1981,07,05,6-3_6-2
 Mexico_City,2,1981,07,05,2,Aubone_Guillermo,Eberhard_Klaus,Eberhard_Klaus,Mexico_City,1981,07,05,6-3_7-6
-Mexico_City,2,1981,07,05,2,Alexander_John,Fillol_SrJaime,Fillol_SrJaime,Mexico_City,1981,07,05,7-6_4-6_6-1
+Mexico_City,2,1981,07,05,2,Alexander_John,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Mexico_City,1981,07,05,7-6_4-6_6-1
 Mexico_City,2,1981,07,05,2,Case_Ross,Kronk_Paul,Case_Ross,Mexico_City,1981,07,05,3-6_6-4_7-6
 Mexico_City,2,1981,07,05,3,Cain_Tom,Krulevitz_Steve,Krulevitz_Steve,Mexico_City,1981,07,05,5-7_6-4_6-4
 Mexico_City,2,1981,07,05,3,Hayes_John,Carter_David,Carter_David,Mexico_City,1981,07,05,4-6_6-3_6-4
 Mexico_City,2,1981,07,05,3,Gonzalez_Adolfo,Eberhard_Klaus,Gonzalez_Adolfo,Mexico_City,1981,07,05,5-7_6-4_6-4
-Mexico_City,2,1981,07,05,3,Fillol_SrJaime,Case_Ross,Fillol_SrJaime,Mexico_City,1981,07,05,7-5_6-4
+Mexico_City,2,1981,07,05,3,Fillol_Sr_Jaime,Case_Ross,Fillol_Sr_Jaime,Mexico_City,1981,07,05,7-5_6-4
 Mexico_City,2,1981,07,05,4,Krulevitz_Steve,Carter_David,Carter_David,Mexico_City,1981,07,05,6-1_7-5
-Mexico_City,2,1981,07,05,4,Gonzalez_Adolfo,Fillol_SrJaime,Fillol_SrJaime,Mexico_City,1981,07,05,6-3_6-1
-Mexico_City,2,1981,07,05,5,Carter_David,Fillol_SrJaime,Fillol_SrJaime,Mexico_City,1981,07,05,6-2_6-3
+Mexico_City,2,1981,07,05,4,Gonzalez_Adolfo,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Mexico_City,1981,07,05,6-3_6-1
+Mexico_City,2,1981,07,05,5,Carter_David,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Mexico_City,1981,07,05,6-2_6-3

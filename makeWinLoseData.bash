@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## convert player-data to match-up format
+
 dir=$(dirname $0)
 file=$(ls players | grep Malaysian_Open | head -n 1)
 

@@ -11,7 +11,7 @@ Bologna,2,1992,05,24,1,Frana_Javier,Michelotti_Francesco,Frana_Javier,Bologna,19
 Bologna,2,1992,05,24,1,Cane_Paolo,Sinner_Martin,Cane_Paolo,Bologna,1992,05,24,6-3_6-3
 Bologna,2,1992,05,24,1,Davin_Franco,Markus_Gabriel,Davin_Franco,Bologna,1992,05,24,4-6_6-4_6-1
 Bologna,2,1992,05,24,1,Pozzi_Gianluca,Dosedel_Slava,Dosedel_Slava,Bologna,1992,05,24,7-5_6-3
-Bologna,2,1992,05,24,1,De_LaPenaHoracio,Carbonell_Tomas,Carbonell_Tomas,Bologna,1992,05,24,3-6_6-4_6-1
+Bologna,2,1992,05,24,1,De_La_Pena_Horacio,Carbonell_Tomas,Carbonell_Tomas,Bologna,1992,05,24,3-6_6-4_6-1
 Bologna,2,1992,05,24,1,Svensson_Jonas,Wuyts_Bart,Wuyts_Bart,Bologna,1992,05,24,6-1_4-6_6-2
 Bologna,2,1992,05,24,1,Mezzadri_Claudio,Ferreira_Wayne,Ferreira_Wayne,Bologna,1992,05,24,6-4_6-7(5)_6-4
 Bologna,2,1992,05,24,2,Koslowski_Lars,Koevermans_Mark,Koslowski_Lars,Bologna,1992,05,24,1-6_6-3_6-3

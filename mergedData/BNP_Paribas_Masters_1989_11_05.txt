@@ -3,7 +3,7 @@ BNP_Paribas_Masters,2,1989,11,05,1,Santoro_Fabrice,Forget_Guy,Forget_Guy,BNP_Par
 BNP_Paribas_Masters,2,1989,11,05,1,Curren_Kevin,Masur_Wally,Masur_Wally,BNP_Paribas_Masters,1989,11,05,7-5_6-4
 BNP_Paribas_Masters,2,1989,11,05,1,Wilander_Mats,Mancini_Alberto,Mancini_Alberto,BNP_Paribas_Masters,1989,11,05,7-6_6-4
 BNP_Paribas_Masters,2,1989,11,05,1,McEnroe_John,Svensson_Jonas,McEnroe_John,BNP_Paribas_Masters,1989,11,05,6-3_6-3
-BNP_Paribas_Masters,2,1989,11,05,1,Skoff_Horst,Van_RensburgChristo,Skoff_Horst,BNP_Paribas_Masters,1989,11,05,6-4_4-6_6-3
+BNP_Paribas_Masters,2,1989,11,05,1,Skoff_Horst,Van_Rensburg_Christo,Skoff_Horst,BNP_Paribas_Masters,1989,11,05,6-4_4-6_6-3
 BNP_Paribas_Masters,2,1989,11,05,1,Leconte_Henri,Matuszewski_Richard,Leconte_Henri,BNP_Paribas_Masters,1989,11,05,7-6_6-0
 BNP_Paribas_Masters,2,1989,11,05,1,Mansdorf_Amos,Chang_Michael,Chang_Michael,BNP_Paribas_Masters,1989,11,05,6-3_6-2
 BNP_Paribas_Masters,2,1989,11,05,1,Krickstein_Aaron,Pernfors_Mikael,Krickstein_Aaron,BNP_Paribas_Masters,1989,11,05,6-1_6-3
@@ -12,7 +12,7 @@ BNP_Paribas_Masters,2,1989,11,05,1,Muster_Thomas,Noah_Yannick,Noah_Yannick,BNP_P
 BNP_Paribas_Masters,2,1989,11,05,1,Korda_Petr,Gilbert_Brad,Gilbert_Brad,BNP_Paribas_Masters,1989,11,05,3-6_7-6_6-3
 BNP_Paribas_Masters,2,1989,11,05,1,Mayotte_Tim,Hlasek_Jakob,Hlasek_Jakob,BNP_Paribas_Masters,1989,11,05,2-6_6-3_6-3
 BNP_Paribas_Masters,2,1989,11,05,1,Steeb_CarlUwe,Jaite_Martin,Jaite_Martin,BNP_Paribas_Masters,1989,11,05,2-6_6-4_7-6
-BNP_Paribas_Masters,2,1989,11,05,1,Mecir_SrMiloslav,Sanchez_Emilio,Mecir_SrMiloslav,BNP_Paribas_Masters,1989,11,05,6-2_6-2
+BNP_Paribas_Masters,2,1989,11,05,1,Mecir_Sr_Miloslav,Sanchez_Emilio,Mecir_Sr_Miloslav,BNP_Paribas_Masters,1989,11,05,6-2_6-2
 BNP_Paribas_Masters,2,1989,11,05,1,Chesnokov_Andrei,Edberg_Stefan,Edberg_Stefan,BNP_Paribas_Masters,1989,11,05,6-2_6-3
 BNP_Paribas_Masters,2,1989,11,05,2,Becker_Boris,Forget_Guy,Becker_Boris,BNP_Paribas_Masters,1989,11,05,6-7_6-4_7-6
 BNP_Paribas_Masters,2,1989,11,05,2,Masur_Wally,Mancini_Alberto,Masur_Wally,BNP_Paribas_Masters,1989,11,05,4-6_6-3_6-0
@@ -21,7 +21,7 @@ BNP_Paribas_Masters,2,1989,11,05,2,Leconte_Henri,Chang_Michael,Chang_Michael,BNP
 BNP_Paribas_Masters,2,1989,11,05,2,Krickstein_Aaron,Agenor_Ronald,Krickstein_Aaron,BNP_Paribas_Masters,1989,11,05,6-3_5-7_6-4
 BNP_Paribas_Masters,2,1989,11,05,2,Noah_Yannick,Gilbert_Brad,Gilbert_Brad,BNP_Paribas_Masters,1989,11,05,7-6_7-6
 BNP_Paribas_Masters,2,1989,11,05,2,Hlasek_Jakob,Jaite_Martin,Hlasek_Jakob,BNP_Paribas_Masters,1989,11,05,4-6_6-3_6-4
-BNP_Paribas_Masters,2,1989,11,05,2,Mecir_SrMiloslav,Edberg_Stefan,Edberg_Stefan,BNP_Paribas_Masters,1989,11,05,7-6_6-4
+BNP_Paribas_Masters,2,1989,11,05,2,Mecir_Sr_Miloslav,Edberg_Stefan,Edberg_Stefan,BNP_Paribas_Masters,1989,11,05,7-6_6-4
 BNP_Paribas_Masters,2,1989,11,05,3,Becker_Boris,Masur_Wally,Becker_Boris,BNP_Paribas_Masters,1989,11,05,6-7_6-4_7-6
 BNP_Paribas_Masters,2,1989,11,05,3,McEnroe_John,Chang_Michael,McEnroe_John,BNP_Paribas_Masters,1989,11,05,6-4_6-3
 BNP_Paribas_Masters,2,1989,11,05,3,Krickstein_Aaron,Gilbert_Brad,Krickstein_Aaron,BNP_Paribas_Masters,1989,11,05,4-6_6-3_6-4

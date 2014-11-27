@@ -8,7 +8,7 @@ Zaragoza,2,1993,03,21,1,Sansoni_Stephane,Goellner_MarcKevin,Goellner_MarcKevin,Z
 Zaragoza,2,1993,03,21,1,Anda_Tino,Wuyts_Bart,Wuyts_Bart,Zaragoza,1993,03,21,7-6(5)_7-5
 Zaragoza,2,1993,03,21,1,Simian_Stephane,Perez_Diego,Simian_Stephane,Zaragoza,1993,03,21,6-3_3-6_6-3
 Zaragoza,2,1993,03,21,1,Antonitsch_Alex,Damm_Martin,Damm_Martin,Zaragoza,1993,03,21,6-2_6-1
-Zaragoza,2,1993,03,21,1,Altur_JoseFrancisco,Paes_Leander,Altur_JoseFrancisco,Zaragoza,1993,03,21,7-5_0-6_6-4
+Zaragoza,2,1993,03,21,1,Altur_Jose_Francisco,Paes_Leander,Altur_Jose_Francisco,Zaragoza,1993,03,21,7-5_0-6_6-4
 Zaragoza,2,1993,03,21,1,Dreekmann_Hendrik,Svensson_Jonas,Svensson_Jonas,Zaragoza,1993,03,21,6-4_5-7_7-5
 Zaragoza,2,1993,03,21,1,Schaller_Gilbert,Zoecke_Markus,Zoecke_Markus,Zaragoza,1993,03,21,7-5_7-5
 Zaragoza,2,1993,03,21,1,Pridham_Chris,Saceanu_Christian,Saceanu_Christian,Zaragoza,1993,03,21,7-6(6)_7-6
@@ -19,7 +19,7 @@ Zaragoza,2,1993,03,21,2,CunhaSilva_Joao,Roig_Francisco,Roig_Francisco,Zaragoza,1
 Zaragoza,2,1993,03,21,2,Jarryd_Anders,Renzenbrink_Joern,Jarryd_Anders,Zaragoza,1993,03,21,6-2_6-2
 Zaragoza,2,1993,03,21,2,Goellner_MarcKevin,Wuyts_Bart,Goellner_MarcKevin,Zaragoza,1993,03,21,7-6(3)_6-4
 Zaragoza,2,1993,03,21,2,Simian_Stephane,Damm_Martin,Damm_Martin,Zaragoza,1993,03,21,6-3_6-3
-Zaragoza,2,1993,03,21,2,Altur_JoseFrancisco,Svensson_Jonas,Svensson_Jonas,Zaragoza,1993,03,21,7-6(4)_6-2
+Zaragoza,2,1993,03,21,2,Altur_Jose_Francisco,Svensson_Jonas,Svensson_Jonas,Zaragoza,1993,03,21,7-6(4)_6-2
 Zaragoza,2,1993,03,21,2,Zoecke_Markus,Saceanu_Christian,Zoecke_Markus,Zaragoza,1993,03,21,6-4_7-6(2)
 Zaragoza,2,1993,03,21,2,Thoms_Arne,Gustafsson_Magnus,Thoms_Arne,Zaragoza,1993,03,21,6-4_7-6(7)
 Zaragoza,2,1993,03,21,3,Novacek_Karel,Roig_Francisco,Novacek_Karel,Zaragoza,1993,03,21,6-4_6-4

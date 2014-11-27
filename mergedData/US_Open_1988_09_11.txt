@@ -32,7 +32,7 @@ US_Open,1,1988,09,11,1,Korda_Petr,Bloom_Gilad,Bloom_Gilad,US_Open,1988,09,11,4-6
 US_Open,1,1988,09,11,1,Moreno_Agustin,Connors_Jimmy,Connors_Jimmy,US_Open,1988,09,11,6-3_6-2_6-2
 US_Open,1,1988,09,11,1,Becker_Boris,Nelson_Todd,Becker_Boris,US_Open,1988,09,11,6-3_6-0_7-6
 US_Open,1,1988,09,11,1,Duncan_Lawson,Cahill_Darren,Cahill_Darren,US_Open,1988,09,11,6-0_6-0_6-2
-US_Open,1,1988,09,11,1,De_LaPenaHoracio,Ingaramo_Marcelo,Ingaramo_Marcelo,US_Open,1988,09,11,6-3_3-6_3-6_7-6_6-2
+US_Open,1,1988,09,11,1,De_La_Pena_Horacio,Ingaramo_Marcelo,Ingaramo_Marcelo,US_Open,1988,09,11,6-3_3-6_3-6_7-6_6-2
 US_Open,1,1988,09,11,1,Riglewski_Udo,Burrow_Andrew,Burrow_Andrew,US_Open,1988,09,11,6-2_4-6_7-6_6-2
 US_Open,1,1988,09,11,1,Robertson_Michael,Oosting_Menno,Oosting_Menno,US_Open,1988,09,11,6-3_7-6_6-3
 US_Open,1,1988,09,11,1,Laurendeau_Martin,Arias_Jimmy,Laurendeau_Martin,US_Open,1988,09,11,2-6_6-4_7-6_7-6
@@ -46,8 +46,8 @@ US_Open,1,1988,09,11,1,Svantesson_Tobias,Carbonell_Tomas,Svantesson_Tobias,US_Op
 US_Open,1,1988,09,11,1,Carlsson_Johan,Zivojinovic_Slobodan,Carlsson_Johan,US_Open,1988,09,11,6-0_6-4_6-4
 US_Open,1,1988,09,11,1,Forget_Guy,Tulasne_Thierry,Forget_Guy,US_Open,1988,09,11,5-7_6-4_6-3_6-4
 US_Open,1,1988,09,11,1,Pimek_Libor,Edberg_Stefan,Edberg_Stefan,US_Open,1988,09,11,6-2_6-2_6-4
-US_Open,1,1988,09,11,1,Mecir_SrMiloslav,Smid_Tomas,Mecir_SrMiloslav,US_Open,1988,09,11,7-5_6-4_6-0
-US_Open,1,1988,09,11,1,Giammalva_JrSammy,Nido_Miguel,Giammalva_JrSammy,US_Open,1988,09,11,6-4_6-3_7-6
+US_Open,1,1988,09,11,1,Mecir_Sr_Miloslav,Smid_Tomas,Mecir_Sr_Miloslav,US_Open,1988,09,11,7-5_6-4_6-0
+US_Open,1,1988,09,11,1,Giammalva_Jr_Sammy,Nido_Miguel,Giammalva_Jr_Sammy,US_Open,1988,09,11,6-4_6-3_7-6
 US_Open,1,1988,09,11,1,Sanchez_Emilio,Casal_Sergio,Sanchez_Emilio,US_Open,1988,09,11,6-3_6-4_6-2
 US_Open,1,1988,09,11,1,Marques_Nuno,Krishnan_Ramesh,Krishnan_Ramesh,US_Open,1988,09,11,6-4_5-7_3-6_7-5_6-1
 US_Open,1,1988,09,11,1,Annacone_Paul,Narducci_Massimiliano,Annacone_Paul,US_Open,1988,09,11,6-4_6-3_2-6_6-3
@@ -86,7 +86,7 @@ US_Open,1,1988,09,11,2,Gomez_Andres,Matsuoka_Shuzo,Gomez_Andres,US_Open,1988,09,
 US_Open,1,1988,09,11,2,Krickstein_Aaron,Pate_David,Krickstein_Aaron,US_Open,1988,09,11,3-6_6-2_6-4_6-3
 US_Open,1,1988,09,11,2,Svantesson_Tobias,Carlsson_Johan,Carlsson_Johan,US_Open,1988,09,11,6-2_6-3_6-0
 US_Open,1,1988,09,11,2,Forget_Guy,Edberg_Stefan,Edberg_Stefan,US_Open,1988,09,11,7-5_6-1_6-3
-US_Open,1,1988,09,11,2,Mecir_SrMiloslav,Giammalva_JrSammy,Mecir_SrMiloslav,US_Open,1988,09,11,6-4_6-1_7-6
+US_Open,1,1988,09,11,2,Mecir_Sr_Miloslav,Giammalva_Jr_Sammy,Mecir_Sr_Miloslav,US_Open,1988,09,11,6-4_6-1_7-6
 US_Open,1,1988,09,11,2,Sanchez_Emilio,Krishnan_Ramesh,Sanchez_Emilio,US_Open,1988,09,11,6-2_7-5_6-2
 US_Open,1,1988,09,11,2,Annacone_Paul,Frawley_John,Frawley_John,US_Open,1988,09,11,6-4_3-6_4-6_6-3_7-6
 US_Open,1,1988,09,11,2,Moir_Barry,Leconte_Henri,Leconte_Henri,US_Open,1988,09,11,6-0_6-4_6-4
@@ -106,7 +106,7 @@ US_Open,1,1988,09,11,3,Cahill_Darren,Ingaramo_Marcelo,Cahill_Darren,US_Open,1988
 US_Open,1,1988,09,11,3,Laurendeau_Martin,Yzaga_Jaime,Laurendeau_Martin,US_Open,1988,09,11,4-6_6-2_6-4_7-5
 US_Open,1,1988,09,11,3,Gomez_Andres,Krickstein_Aaron,Krickstein_Aaron,US_Open,1988,09,11,6-4_4-6_6-4_6-4
 US_Open,1,1988,09,11,3,Carlsson_Johan,Edberg_Stefan,Edberg_Stefan,US_Open,1988,09,11,6-0_7-5_6-2
-US_Open,1,1988,09,11,3,Mecir_SrMiloslav,Sanchez_Emilio,Sanchez_Emilio,US_Open,1988,09,11,6-3_3-6_7-6_6-1
+US_Open,1,1988,09,11,3,Mecir_Sr_Miloslav,Sanchez_Emilio,Sanchez_Emilio,US_Open,1988,09,11,6-3_3-6_7-6_6-1
 US_Open,1,1988,09,11,3,Frawley_John,Leconte_Henri,Frawley_John,US_Open,1988,09,11,6-3_6-4_6-3
 US_Open,1,1988,09,11,3,Woodforde_Mark,Nargiso_Diego,Woodforde_Mark,US_Open,1988,09,11,6-1_5-7_6-3_6-0
 US_Open,1,1988,09,11,3,Pernfors_Mikael,Wilander_Mats,Wilander_Mats,US_Open,1988,09,11,6-4_6-0_7-5

@@ -7,7 +7,7 @@ St._Poelten,2,1997,05,25,1,Kroslak_Jan,Voinea_Adrian,Kroslak_Jan,St._Poelten,199
 St._Poelten,2,1997,05,25,1,Schranz_Wolfgang,Norman_Magnus,Norman_Magnus,St._Poelten,1997,05,25,6-3_7-5
 St._Poelten,2,1997,05,25,1,Trimmel_Clemens,Bjorkman_Jonas,Trimmel_Clemens,St._Poelten,1997,05,25,7-5_3-6_7-5
 St._Poelten,2,1997,05,25,1,Rosset_Marc,Sargsian_Sargis,Rosset_Marc,St._Poelten,1997,05,25,6-2_4-6_7-6(2)
-St._Poelten,2,1997,05,25,1,VilocaPuig_JuanAlbert,Filippini_Marcelo,Filippini_Marcelo,St._Poelten,1997,05,25,7-6(2)_7-5
+St._Poelten,2,1997,05,25,1,VilocaPuig_Juan_Albert,Filippini_Marcelo,Filippini_Marcelo,St._Poelten,1997,05,25,7-6(2)_7-5
 St._Poelten,2,1997,05,25,1,Nydahl_Tomas,Hipfl_Markus,Nydahl_Tomas,St._Poelten,1997,05,25,7-6(2)_5-7_7-5
 St._Poelten,2,1997,05,25,1,Gaudenzi_Andrea,Rios_Marcelo,Rios_Marcelo,St._Poelten,1997,05,25,6-4_4-6_6-4
 St._Poelten,2,1997,05,25,1,Johansson_Thomas,Schaller_Gilbert,Schaller_Gilbert,St._Poelten,1997,05,25,4-6_7-6(3)_7-6(4)

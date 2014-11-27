@@ -1,7 +1,7 @@
 Birmingham_WCT,2,1978,01,15,1,Borg_Bjorn,Solomon_Harold,Borg_Bjorn,Birmingham_WCT,1978,01,15,6-2_6-4
 Birmingham_WCT,2,1978,01,15,1,Drysdale_Cliff,Crealy_Dick,Drysdale_Cliff,Birmingham_WCT,1978,01,15,7-6_6-3
 Birmingham_WCT,2,1978,01,15,1,Saviano_Nick,Zugarelli_Antonio,Saviano_Nick,Birmingham_WCT,1978,01,15,6-4_6-3
-Birmingham_WCT,2,1978,01,15,1,Mottram_BusterC,Tanner_Roscoe,Tanner_Roscoe,Birmingham_WCT,1978,01,15,6-4_4-6_6-3
+Birmingham_WCT,2,1978,01,15,1,Mottram_Buster_C,Tanner_Roscoe,Tanner_Roscoe,Birmingham_WCT,1978,01,15,6-4_4-6_6-3
 Birmingham_WCT,2,1978,01,15,1,Gerulaitis_Vitas,Cox_Mark,Gerulaitis_Vitas,Birmingham_WCT,1978,01,15,6-2_6-4
 Birmingham_WCT,2,1978,01,15,1,McMillan_Frew,Hoyt_Hubertus,McMillan_Frew,Birmingham_WCT,1978,01,15,6-0_6-2
 Birmingham_WCT,2,1978,01,15,1,Cahill_Mike,Fibak_Wojtek,Fibak_Wojtek,Birmingham_WCT,1978,01,15,6-2_7-5

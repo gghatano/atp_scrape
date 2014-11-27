@@ -4,8 +4,8 @@ Stratton_Mountain,2,1986,08,10,1,Srejber_Milan,Grabb_Jim,Srejber_Milan,Stratton_
 Stratton_Mountain,2,1986,08,10,1,Visser_Danie,Krishnan_Ramesh,Krishnan_Ramesh,Stratton_Mountain,1986,08,10,6-3_6-4
 Stratton_Mountain,2,1986,08,10,1,Kriek_Johan,McEnroe_Patrick,Kriek_Johan,Stratton_Mountain,1986,08,10,6-2_5-7_6-4
 Stratton_Mountain,2,1986,08,10,1,Holmes_Greg,Edwards_Eddie,Holmes_Greg,Stratton_Mountain,1986,08,10,6-4_6-2
-Stratton_Mountain,2,1986,08,10,1,Freeman_Marcel,Van_RensburgChristo,Freeman_Marcel,Stratton_Mountain,1986,08,10,4-6_6-0_6-3
-Stratton_Mountain,2,1986,08,10,1,Giammalva_JrSammy,Gilbert_Brad,Gilbert_Brad,Stratton_Mountain,1986,08,10,2-6_6-4_6-1
+Stratton_Mountain,2,1986,08,10,1,Freeman_Marcel,Van_Rensburg_Christo,Freeman_Marcel,Stratton_Mountain,1986,08,10,4-6_6-0_6-3
+Stratton_Mountain,2,1986,08,10,1,Giammalva_Jr_Sammy,Gilbert_Brad,Gilbert_Brad,Stratton_Mountain,1986,08,10,2-6_6-4_6-1
 Stratton_Mountain,2,1986,08,10,1,Connors_Jimmy,Korita_Eric,Connors_Jimmy,Stratton_Mountain,1986,08,10,6-7_6-3_7-5
 Stratton_Mountain,2,1986,08,10,1,Layendecker_Glenn,Pearce_Brad,Pearce_Brad,Stratton_Mountain,1986,08,10,6-2_6-4
 Stratton_Mountain,2,1986,08,10,1,Arraya_Pablo,Odizor_Nduka,Arraya_Pablo,Stratton_Mountain,1986,08,10,6-3_7-5
@@ -13,14 +13,14 @@ Stratton_Mountain,2,1986,08,10,1,Michibata_Glenn,Wilkison_Tim,Wilkison_Tim,Strat
 Stratton_Mountain,2,1986,08,10,1,Seguso_Robert,Gullikson_Tom,Seguso_Robert,Stratton_Mountain,1986,08,10,6-4_6-2
 Stratton_Mountain,2,1986,08,10,1,Davis_Marty,Windahl_Jorgen,Davis_Marty,Stratton_Mountain,1986,08,10,6-1_6-2
 Stratton_Mountain,2,1986,08,10,1,Nelson_Todd,Donnelly_Gary,Donnelly_Gary,Stratton_Mountain,1986,08,10,2-6_6-3_6-2
-Stratton_Mountain,2,1986,08,10,1,Di_LauraCarlos,Pernfors_Mikael,Pernfors_Mikael,Stratton_Mountain,1986,08,10,6-1_6-2
+Stratton_Mountain,2,1986,08,10,1,Di_Laura_Carlos,Pernfors_Mikael,Pernfors_Mikael,Stratton_Mountain,1986,08,10,6-1_6-2
 Stratton_Mountain,2,1986,08,10,1,Mayotte_Tim,Hooper_Chip,Mayotte_Tim,Stratton_Mountain,1986,08,10,3-6_7-5_7-6
 Stratton_Mountain,2,1986,08,10,1,Eriksson_Stefan,Agassi_Andre,Agassi_Andre,Stratton_Mountain,1986,08,10,7-6_6-2
 Stratton_Mountain,2,1986,08,10,1,Wilder_Vallis,Davis_Scott,Davis_Scott,Stratton_Mountain,1986,08,10,7-5_5-7_7-6
 Stratton_Mountain,2,1986,08,10,1,Kratzmann_Mark,Anger_Matt,Kratzmann_Mark,Stratton_Mountain,1986,08,10,7-6_6-3
 Stratton_Mountain,2,1986,08,10,1,Pate_David,Masur_Wally,Masur_Wally,Stratton_Mountain,1986,08,10,1-6_6-1_6-4
 Stratton_Mountain,2,1986,08,10,1,Rudeen_Rick,Flur_Marc,Flur_Marc,Stratton_Mountain,1986,08,10,6-1_6-0
-Stratton_Mountain,2,1986,08,10,1,Van_PattenVincent,Fleming_Peter,Fleming_Peter,Stratton_Mountain,1986,08,10,7-5_4-6_6-1
+Stratton_Mountain,2,1986,08,10,1,Van_Patten_Vincent,Fleming_Peter,Fleming_Peter,Stratton_Mountain,1986,08,10,7-5_4-6_6-1
 Stratton_Mountain,2,1986,08,10,1,Ostoja_Marko,McEnroe_John,McEnroe_John,Stratton_Mountain,1986,08,10,7-5_6-3
 Stratton_Mountain,2,1986,08,10,1,Annacone_Paul,Edmondson_Mark,Annacone_Paul,Stratton_Mountain,1986,08,10,5-7_6-2_6-4
 Stratton_Mountain,2,1986,08,10,1,Ross_John,Laurendeau_Martin,Laurendeau_Martin,Stratton_Mountain,1986,08,10,6-3_6-3

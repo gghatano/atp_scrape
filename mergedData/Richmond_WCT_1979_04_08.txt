@@ -1,5 +1,5 @@
-Richmond_WCT,2,1979,04,08,1,Borg_Bjorn,Van_DillenErik,Borg_Bjorn,Richmond_WCT,1979,04,08,6-4_6-4
-Richmond_WCT,2,1979,04,08,1,Fillol_SrJaime,Simpson_Russell,Simpson_Russell,Richmond_WCT,1979,04,08,6-1_6-3
+Richmond_WCT,2,1979,04,08,1,Borg_Bjorn,Van_Dillen_Erik,Borg_Bjorn,Richmond_WCT,1979,04,08,6-4_6-4
+Richmond_WCT,2,1979,04,08,1,Fillol_Sr_Jaime,Simpson_Russell,Simpson_Russell,Richmond_WCT,1979,04,08,6-1_6-3
 Richmond_WCT,2,1979,04,08,1,Riessen_Marty,Franulovic_Zeljko,Riessen_Marty,Richmond_WCT,1979,04,08,2-6_7-6_6-4
 Richmond_WCT,2,1979,04,08,1,Dupre_Pat,Orantes_Manuel,Dupre_Pat,Richmond_WCT,1979,04,08,7-6_3-6_6-4
 Richmond_WCT,2,1979,04,08,1,McEnroe_John,Bailey_Joel,McEnroe_John,Richmond_WCT,1979,04,08,6-4_6-3
@@ -8,11 +8,11 @@ Richmond_WCT,2,1979,04,08,1,Higueras_Jose,Stockton_Dick,Higueras_Jose,Richmond_W
 Richmond_WCT,2,1979,04,08,1,Alexander_John,Nastase_Ilie,Nastase_Ilie,Richmond_WCT,1979,04,08,6-7_6-4_6-4
 Richmond_WCT,2,1979,04,08,1,Ashe_Arthur,Teltscher_Eliot,Ashe_Arthur,Richmond_WCT,1979,04,08,7-6_6-2
 Richmond_WCT,2,1979,04,08,1,Kronk_Paul,Case_Ross,Case_Ross,Richmond_WCT,1979,04,08,6-4_2-6_6-3
-Richmond_WCT,2,1979,04,08,1,Gunthardt_Heinz,McNair_IVFred,Gunthardt_Heinz,Richmond_WCT,1979,04,08,3-6_7-6_7-5
+Richmond_WCT,2,1979,04,08,1,Gunthardt_Heinz,McNair_IV_Fred,Gunthardt_Heinz,Richmond_WCT,1979,04,08,3-6_7-6_7-5
 Richmond_WCT,2,1979,04,08,1,McMillan_Frew,Gottfried_Brian,Gottfried_Brian,Richmond_WCT,1979,04,08,6-0_7-5
 Richmond_WCT,2,1979,04,08,1,Barazzutti_Corrado,Winitsky_Van,Barazzutti_Corrado,Richmond_WCT,1979,04,08,6-1_6-4
 Richmond_WCT,2,1979,04,08,1,Mitton_Bernard,Wilkison_Tim,Wilkison_Tim,Richmond_WCT,1979,04,08,6-2_6-1
-Richmond_WCT,2,1979,04,08,1,Mottram_BusterC,Masters_Geoff,Mottram_BusterC,Richmond_WCT,1979,04,08,6-3_6-3
+Richmond_WCT,2,1979,04,08,1,Mottram_Buster_C,Masters_Geoff,Mottram_Buster_C,Richmond_WCT,1979,04,08,6-3_6-3
 Richmond_WCT,2,1979,04,08,1,Gimenez_Angel,Vilas_Guillermo,Vilas_Guillermo,Richmond_WCT,1979,04,08,6-1_6-4
 Richmond_WCT,2,1979,04,08,2,Borg_Bjorn,Simpson_Russell,Borg_Bjorn,Richmond_WCT,1979,04,08,6-1_6-2
 Richmond_WCT,2,1979,04,08,2,Riessen_Marty,Dupre_Pat,Dupre_Pat,Richmond_WCT,1979,04,08,3-6_7-6_6-2
@@ -21,7 +21,7 @@ Richmond_WCT,2,1979,04,08,2,Higueras_Jose,Nastase_Ilie,Nastase_Ilie,Richmond_WCT
 Richmond_WCT,2,1979,04,08,2,Ashe_Arthur,Case_Ross,Ashe_Arthur,Richmond_WCT,1979,04,08,7-6_6-7_6-2
 Richmond_WCT,2,1979,04,08,2,Gunthardt_Heinz,Gottfried_Brian,Gottfried_Brian,Richmond_WCT,1979,04,08,6-3_7-5
 Richmond_WCT,2,1979,04,08,2,Barazzutti_Corrado,Wilkison_Tim,Wilkison_Tim,Richmond_WCT,1979,04,08,6-3_6-4
-Richmond_WCT,2,1979,04,08,2,Mottram_BusterC,Vilas_Guillermo,Vilas_Guillermo,Richmond_WCT,1979,04,08,5-7_6-3_6-3
+Richmond_WCT,2,1979,04,08,2,Mottram_Buster_C,Vilas_Guillermo,Vilas_Guillermo,Richmond_WCT,1979,04,08,5-7_6-3_6-3
 Richmond_WCT,2,1979,04,08,3,Borg_Bjorn,Dupre_Pat,Borg_Bjorn,Richmond_WCT,1979,04,08,6-1_6-2
 Richmond_WCT,2,1979,04,08,3,McEnroe_John,Nastase_Ilie,McEnroe_John,Richmond_WCT,1979,04,08,6-3_3-6_6-2
 Richmond_WCT,2,1979,04,08,3,Ashe_Arthur,Gottfried_Brian,Ashe_Arthur,Richmond_WCT,1979,04,08,6-2_2-6_6-3

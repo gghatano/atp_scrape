@@ -2,7 +2,7 @@ Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Case_Ross,Johnston_Pe
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Drewett_Brad,Fisher_Rick,Drewett_Brad,Brisbane_International_presented_by_Suncorp,1981,07,05,6-4_7-5
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Wittus_Craig,Guan_Brad,Wittus_Craig,Brisbane_International_presented_by_Suncorp,1981,07,05,7-5_6-3
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Johnstone_Chris,Masters_Geoff,Johnstone_Chris,Brisbane_International_presented_by_Suncorp,1981,07,05,6-2_6-2
-Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Lewis_NZLChris,Cash_Pat,Lewis_NZLChris,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_6-1
+Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Lewis_NZL_Chris,Cash_Pat,Lewis_NZL_Chris,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_6-1
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Pascoe_Wayne,Dilouie_Jai,Pascoe_Wayne,Brisbane_International_presented_by_Suncorp,1981,07,05,3-6_6-2_6-3
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Gurfein_Jim,James_John,Gurfein_Jim,Brisbane_International_presented_by_Suncorp,1981,07,05,6-4_6-4
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Edwards_Eddie,Marten_Ulrich,Edwards_Eddie,Brisbane_International_presented_by_Suncorp,1981,07,05,5-7_6-4_6-4
@@ -10,13 +10,13 @@ Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Edmondson_Mark,Doohan
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Holroyd_Glen,Masur_Wally,Holroyd_Glen,Brisbane_International_presented_by_Suncorp,1981,07,05,3-6_6-3_6-2
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Hansson_Hans,Hunter_Maurice,Hansson_Hans,Brisbane_International_presented_by_Suncorp,1981,07,05,7-5_2-6_6-1
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Gullikson_Tom,Letcher_Cliff,Gullikson_Tom,Brisbane_International_presented_by_Suncorp,1981,07,05,3-6_7-6_6-4
-Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Ball_Syd,Miller_CraigA,Ball_Syd,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_6-4
+Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Ball_Syd,Miller_Craig_A,Ball_Syd,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_6-4
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Sisson_Beejong,Hampson_Wayne,Sisson_Beejong,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_2-6_6-3
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Fitzgerald_John,Smith_Jonathan,Fitzgerald_John,Brisbane_International_presented_by_Suncorp,1981,07,05,6-3_6-4
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,1,Collings_Dale,Dibley_Colin,Collings_Dale,Brisbane_International_presented_by_Suncorp,1981,07,05,7-5_6-2
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Case_Ross,Drewett_Brad,Drewett_Brad,Brisbane_International_presented_by_Suncorp,1981,07,05,3-6_6-2_6-4
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Wittus_Craig,Johnstone_Chris,Johnstone_Chris,Brisbane_International_presented_by_Suncorp,1981,07,05,6-1_6-2
-Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Lewis_NZLChris,Pascoe_Wayne,Pascoe_Wayne,Brisbane_International_presented_by_Suncorp,1981,07,05,6-4_6-1
+Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Lewis_NZL_Chris,Pascoe_Wayne,Pascoe_Wayne,Brisbane_International_presented_by_Suncorp,1981,07,05,6-4_6-1
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Gurfein_Jim,Edwards_Eddie,Edwards_Eddie,Brisbane_International_presented_by_Suncorp,1981,07,05,7-6_5-7_7-5
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Edmondson_Mark,Holroyd_Glen,Edmondson_Mark,Brisbane_International_presented_by_Suncorp,1981,07,05,2-6_6-1_6-2
 Brisbane_International_presented_by_Suncorp,2,1981,07,05,2,Hansson_Hans,Gullikson_Tom,Gullikson_Tom,Brisbane_International_presented_by_Suncorp,1981,07,05,6-1_7-5

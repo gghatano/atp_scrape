@@ -11,7 +11,7 @@ Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Rostagno_Derrick,Pfister_Henry,
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Freeman_Marcel,Saltz_Danny,Saltz_Danny,Hall_of_Fame_Tennis_Championships,1984,07,15,6-4_6-1
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Holmes_Greg,Shiras_Leif,Shiras_Leif,Hall_of_Fame_Tennis_Championships,1984,07,15,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Visser_Danie,Amritraj_Vijay,Amritraj_Vijay,Hall_of_Fame_Tennis_Championships,1984,07,15,6-3_6-7_6-3
-Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Van_RensburgChristo,Leach_Mike,Van_RensburgChristo,Hall_of_Fame_Tennis_Championships,1984,07,15,6-3_7-5
+Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Van_Rensburg_Christo,Leach_Mike,Van_Rensburg_Christo,Hall_of_Fame_Tennis_Championships,1984,07,15,6-3_7-5
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Green_Bob,Mitchell_Matt,Mitchell_Matt,Hall_of_Fame_Tennis_Championships,1984,07,15,7-6_7-6
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,1,Mustard_David,Davis_Scott,Davis_Scott,Hall_of_Fame_Tennis_Championships,1984,07,15,6-4_7-5
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Mayotte_Tim,Edwards_Eddie,Mayotte_Tim,Hall_of_Fame_Tennis_Championships,1984,07,15,6-7_6-4_6-3
@@ -20,7 +20,7 @@ Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Simpson_Russell,Annacone_Paul,A
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Hocevar_Marcos,Sadri_John,Sadri_John,Hall_of_Fame_Tennis_Championships,1984,07,15,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Gullikson_Tom,Rostagno_Derrick,Gullikson_Tom,Hall_of_Fame_Tennis_Championships,1984,07,15,7-5_6-4
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Saltz_Danny,Shiras_Leif,Shiras_Leif,Hall_of_Fame_Tennis_Championships,1984,07,15,6-3_6-3
-Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Amritraj_Vijay,Van_RensburgChristo,Amritraj_Vijay,Hall_of_Fame_Tennis_Championships,1984,07,15,3-6_6-3_6-4
+Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Amritraj_Vijay,Van_Rensburg_Christo,Amritraj_Vijay,Hall_of_Fame_Tennis_Championships,1984,07,15,3-6_6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,2,Mitchell_Matt,Davis_Scott,Mitchell_Matt,Hall_of_Fame_Tennis_Championships,1984,07,15,3-6_6-3_7-6
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,3,Mayotte_Tim,Drewett_Brad,Mayotte_Tim,Hall_of_Fame_Tennis_Championships,1984,07,15,6-3_7-6
 Hall_of_Fame_Tennis_Championships,2,1984,07,15,3,Annacone_Paul,Sadri_John,Sadri_John,Hall_of_Fame_Tennis_Championships,1984,07,15,7-5_6-4

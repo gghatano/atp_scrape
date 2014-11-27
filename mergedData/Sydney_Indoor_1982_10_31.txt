@@ -10,7 +10,7 @@ Sydney_Indoor,2,1982,10,31,1,Denton_Steve,Whitecross_Greg,Denton_Steve,Sydney_In
 Sydney_Indoor,2,1982,10,31,1,Waltke_Trey,Case_Ross,Waltke_Trey,Sydney_Indoor,1982,10,31,6-1_7-5
 Sydney_Indoor,2,1982,10,31,1,Dent_Phil,Cash_Pat,Cash_Pat,Sydney_Indoor,1982,10,31,3-6_7-6_7-6
 Sydney_Indoor,2,1982,10,31,1,Gilbert_Brad,Gerulaitis_Vitas,Gilbert_Brad,Sydney_Indoor,1982,10,31,6-3_6-4
-Sydney_Indoor,2,1982,10,31,1,McNamara_Peter,Miller_CraigA,McNamara_Peter,Sydney_Indoor,1982,10,31,6-3_6-3
+Sydney_Indoor,2,1982,10,31,1,McNamara_Peter,Miller_Craig_A,McNamara_Peter,Sydney_Indoor,1982,10,31,6-3_6-3
 Sydney_Indoor,2,1982,10,31,1,Sadri_John,Drewett_Brad,Drewett_Brad,Sydney_Indoor,1982,10,31,6-2_6-3
 Sydney_Indoor,2,1982,10,31,1,Mayotte_Chris,Johnstone_Chris,Johnstone_Chris,Sydney_Indoor,1982,10,31,6-1_5-7_6-4
 Sydney_Indoor,2,1982,10,31,1,Frawley_Rod,McEnroe_John,McEnroe_John,Sydney_Indoor,1982,10,31,6-3_6-4

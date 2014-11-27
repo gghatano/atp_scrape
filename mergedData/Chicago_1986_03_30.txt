@@ -1,5 +1,5 @@
 Chicago,2,1986,03,30,1,Lendl_Ivan,Wilkison_Tim,Lendl_Ivan,Chicago,1986,03,30,6-4_6-3
-Chicago,2,1986,03,30,1,Giammalva_JrSammy,Schultz_Bud,Giammalva_JrSammy,Chicago,1986,03,30,6-3_6-3
+Chicago,2,1986,03,30,1,Giammalva_Jr_Sammy,Schultz_Bud,Giammalva_Jr_Sammy,Chicago,1986,03,30,6-3_6-3
 Chicago,2,1986,03,30,1,Lindgren_Peter,Krishnan_Ramesh,Lindgren_Peter,Chicago,1986,03,30,6-2_4-6_6-2
 Chicago,2,1986,03,30,1,Gullikson_Tim,Kriek_Johan,Kriek_Johan,Chicago,1986,03,30,7-5_6-3
 Chicago,2,1986,03,30,1,Gilbert_Brad,Mayotte_Tim,Mayotte_Tim,Chicago,1986,03,30,7-6_6-7_6-3
@@ -14,7 +14,7 @@ Chicago,2,1986,03,30,1,Gomez_Andres,Leach_Rick,Gomez_Andres,Chicago,1986,03,30,6
 Chicago,2,1986,03,30,1,Stefanki_Larry,Davis_Marty,Stefanki_Larry,Chicago,1986,03,30,6-1_6-4
 Chicago,2,1986,03,30,1,Seguso_Robert,Pate_David,Seguso_Robert,Chicago,1986,03,30,6-3_7-5
 Chicago,2,1986,03,30,1,Denton_Steve,Connors_Jimmy,Connors_Jimmy,Chicago,1986,03,30,6-4_6-2
-Chicago,2,1986,03,30,2,Lendl_Ivan,Giammalva_JrSammy,Lendl_Ivan,Chicago,1986,03,30,6-4_6-3
+Chicago,2,1986,03,30,2,Lendl_Ivan,Giammalva_Jr_Sammy,Lendl_Ivan,Chicago,1986,03,30,6-4_6-3
 Chicago,2,1986,03,30,2,Lindgren_Peter,Kriek_Johan,Kriek_Johan,Chicago,1986,03,30,6-3_6-4
 Chicago,2,1986,03,30,2,Mayotte_Tim,Davis_Scott,Davis_Scott,Chicago,1986,03,30,6-1_7-6
 Chicago,2,1986,03,30,2,Michibata_Glenn,Curren_Kevin,Curren_Kevin,Chicago,1986,03,30,7-6_6-3

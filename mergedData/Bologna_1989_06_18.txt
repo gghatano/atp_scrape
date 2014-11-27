@@ -8,7 +8,7 @@ Bologna,2,1989,06,18,1,Colombo_Simone,Windahl_Jorgen,Colombo_Simone,Bologna,1989
 Bologna,2,1989,06,18,1,Rebolledo_Pedro,Sanchez_Javier,Sanchez_Javier,Bologna,1989,06,18,6-2_6-0
 Bologna,2,1989,06,18,1,Filippini_Marcelo,Azar_Roberto,Azar_Roberto,Bologna,1989,06,18,3-6_7-5_7-6
 Bologna,2,1989,06,18,1,Mazza_Edoardo,Vysand_Andres,Vysand_Andres,Bologna,1989,06,18,6-4_6-1
-Bologna,2,1989,06,18,1,Cancellotti_Francesco,Viver_RaulAntonio,Viver_RaulAntonio,Bologna,1989,06,18,6-3_5-7_6-4
+Bologna,2,1989,06,18,1,Cancellotti_Francesco,Viver_Raul_Antonio,Viver_Raul_Antonio,Bologna,1989,06,18,6-3_5-7_6-4
 Bologna,2,1989,06,18,1,Carbonell_Tomas,Agenor_Ronald,Agenor_Ronald,Bologna,1989,06,18,7-6_7-5
 Bologna,2,1989,06,18,1,Koevermans_Mark,Davin_Franco,Davin_Franco,Bologna,1989,06,18,6-4_6-2
 Bologna,2,1989,06,18,1,Rivera_Felipe,Narducci_Massimiliano,Narducci_Massimiliano,Bologna,1989,06,18,6-7_6-4_6-3
@@ -19,7 +19,7 @@ Bologna,2,1989,06,18,2,Mezzadri_Claudio,Camporese_Omar,Camporese_Omar,Bologna,19
 Bologna,2,1989,06,18,2,Skoff_Horst,Perez_Diego,Perez_Diego,Bologna,1989,06,18,7-5_6-4
 Bologna,2,1989,06,18,2,Colombo_Simone,Sanchez_Javier,Sanchez_Javier,Bologna,1989,06,18,6-3_6-2
 Bologna,2,1989,06,18,2,Azar_Roberto,Vysand_Andres,Azar_Roberto,Bologna,1989,06,18,6-3_6-2
-Bologna,2,1989,06,18,2,Viver_RaulAntonio,Agenor_Ronald,Agenor_Ronald,Bologna,1989,06,18,6-4_6-1
+Bologna,2,1989,06,18,2,Viver_Raul_Antonio,Agenor_Ronald,Agenor_Ronald,Bologna,1989,06,18,6-4_6-1
 Bologna,2,1989,06,18,2,Davin_Franco,Narducci_Massimiliano,Davin_Franco,Bologna,1989,06,18,7-6_6-1
 Bologna,2,1989,06,18,2,Pambianco_Paolo,Casal_Sergio,Pambianco_Paolo,Bologna,1989,06,18,2-6_6-4_6-3
 Bologna,2,1989,06,18,3,PerezRoldan_Guillermo,Camporese_Omar,PerezRoldan_Guillermo,Bologna,1989,06,18,7-5_4-6_6-4

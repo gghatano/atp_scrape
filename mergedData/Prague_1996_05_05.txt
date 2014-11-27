@@ -1,6 +1,6 @@
 Prague,2,1996,05,05,1,Enqvist_Thomas,Mantilla_Felix,Mantilla_Felix,Prague,1996,05,05,7-6(5)_6-1
 Prague,2,1996,05,05,1,Sanchez_Emilio,Golmard_Jerome,Sanchez_Emilio,Prague,1996,05,05,6-1_6-2
-Prague,2,1996,05,05,1,Gorriz_MarcosAurelio,Dier_Dirk,Gorriz_MarcosAurelio,Prague,1996,05,05,6-3_6-4
+Prague,2,1996,05,05,1,Gorriz_Marcos_Aurelio,Dier_Dirk,Gorriz_Marcos_Aurelio,Prague,1996,05,05,6-3_6-4
 Prague,2,1996,05,05,1,Martin_Alberto,Dewulf_Filip,Martin_Alberto,Prague,1996,05,05,7-6(3)_3-6_6-4
 Prague,2,1996,05,05,1,Rosset_Marc,Baur_Patrick,Baur_Patrick,Prague,1996,05,05,7-6(3)_6-2
 Prague,2,1996,05,05,1,Tabara_Michal,Miketa_David,Tabara_Michal,Prague,1996,05,05,3-6_6-4_7-5
@@ -15,7 +15,7 @@ Prague,2,1996,05,05,1,Kuerten_Gustavo,Chesnokov_Andrei,Kuerten_Gustavo,Prague,19
 Prague,2,1996,05,05,1,Rikl_David,Marques_Nuno,Marques_Nuno,Prague,1996,05,05,2-6_7-6(4)_6-4
 Prague,2,1996,05,05,1,Skoch_David,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Prague,1996,05,05,6-3_6-3
 Prague,2,1996,05,05,2,Mantilla_Felix,Sanchez_Emilio,Sanchez_Emilio,Prague,1996,05,05,7-6(3)_6-3
-Prague,2,1996,05,05,2,Gorriz_MarcosAurelio,Martin_Alberto,Martin_Alberto,Prague,1996,05,05,6-2_6-2
+Prague,2,1996,05,05,2,Gorriz_Marcos_Aurelio,Martin_Alberto,Martin_Alberto,Prague,1996,05,05,6-2_6-2
 Prague,2,1996,05,05,2,Baur_Patrick,Tabara_Michal,Tabara_Michal,Prague,1996,05,05,6-2_6-1
 Prague,2,1996,05,05,2,Montana_Francisco,Ulihrach_Bohdan,Ulihrach_Bohdan,Prague,1996,05,05,7-6(2)_6-4
 Prague,2,1996,05,05,2,Vacek_Daniel,Noszaly_Sandor,Vacek_Daniel,Prague,1996,05,05,6-2_6-2

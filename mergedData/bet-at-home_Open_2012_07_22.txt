@@ -3,7 +3,7 @@ bet-at-home_Open,2,2012,07,22,1,Nieminen_Jarkko,Davydenko_Nikolay,Davydenko_Niko
 bet-at-home_Open,2,2012,07,22,1,Ilhan_Marsel,Fognini_Fabio,Fognini_Fabio,bet-at-home_Open,2012,07,22,7-5_6-2
 bet-at-home_Open,2,2012,07,22,1,Phau_Bjorn,Kohlschreiber_Philipp,Kohlschreiber_Philipp,bet-at-home_Open,2012,07,22,4-6_6-2_6-3
 bet-at-home_Open,2,2012,07,22,1,Monaco_Juan,Stebe_CedrikMarcel,Monaco_Juan,bet-at-home_Open,2012,07,22,6-4_3-6_7-5
-bet-at-home_Open,2,2012,07,22,1,Ramirez_HidalgoRuben,MunozDe_LaNavaDaniel,MunozDe_LaNavaDaniel,bet-at-home_Open,2012,07,22,1-6_6-4_6-3
+bet-at-home_Open,2,2012,07,22,1,Ramirez_Hidalgo_Ruben,MunozDe_La_Nava_Daniel,MunozDe_La_Nava_Daniel,bet-at-home_Open,2012,07,22,1-6_6-4_6-3
 bet-at-home_Open,2,2012,07,22,1,Chardy_Jeremy,Montanes_Albert,Chardy_Jeremy,bet-at-home_Open,2012,07,22,6-4_6-2
 bet-at-home_Open,2,2012,07,22,1,Reister_Julian,Verdasco_Fernando,Reister_Julian,bet-at-home_Open,2012,07,22,6-2_6-3
 bet-at-home_Open,2,2012,07,22,1,Troicki_Viktor,Rosol_Lukas,Rosol_Lukas,bet-at-home_Open,2012,07,22,5-7_6-3_6-4
@@ -16,7 +16,7 @@ bet-at-home_Open,2,2012,07,22,1,Haas_Tommy,Klizan_Martin,Haas_Tommy,bet-at-home_
 bet-at-home_Open,2,2012,07,22,1,Berlocq_Carlos,Simon_Gilles,Simon_Gilles,bet-at-home_Open,2012,07,22,4-6_7-6(5)_6-1
 bet-at-home_Open,2,2012,07,22,2,Almagro_Nicolas,Davydenko_Nikolay,Almagro_Nicolas,bet-at-home_Open,2012,07,22,6-4_6-3
 bet-at-home_Open,2,2012,07,22,2,Fognini_Fabio,Kohlschreiber_Philipp,Kohlschreiber_Philipp,bet-at-home_Open,2012,07,22,7-5_6-2
-bet-at-home_Open,2,2012,07,22,2,Monaco_Juan,MunozDe_LaNavaDaniel,Monaco_Juan,bet-at-home_Open,2012,07,22,7-6(4)_6-3
+bet-at-home_Open,2,2012,07,22,2,Monaco_Juan,MunozDe_La_Nava_Daniel,Monaco_Juan,bet-at-home_Open,2012,07,22,7-6(4)_6-3
 bet-at-home_Open,2,2012,07,22,2,Chardy_Jeremy,Reister_Julian,Chardy_Jeremy,bet-at-home_Open,2012,07,22,7-5_6-4
 bet-at-home_Open,2,2012,07,22,2,Rosol_Lukas,RamosVinolas_Albert,RamosVinolas_Albert,bet-at-home_Open,2012,07,22,7-6(8)_4-6_6-3
 bet-at-home_Open,2,2012,07,22,2,Delbonis_Federico,Cilic_Marin,Cilic_Marin,bet-at-home_Open,2012,07,22,6-3_6-2

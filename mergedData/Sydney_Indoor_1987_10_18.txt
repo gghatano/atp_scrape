@@ -1,7 +1,7 @@
 Sydney_Indoor,2,1987,10,18,1,Lendl_Ivan,Doohan_Peter,Lendl_Ivan,Sydney_Indoor,1987,10,18,6-2_6-4
 Sydney_Indoor,2,1987,10,18,1,Jelen_Eric,Stoltenberg_Jason,Jelen_Eric,Sydney_Indoor,1987,10,18,6-4_5-7_6-3
 Sydney_Indoor,2,1987,10,18,1,Drewett_Brad,Seguso_Robert,Seguso_Robert,Sydney_Indoor,1987,10,18,6-1_6-4
-Sydney_Indoor,2,1987,10,18,1,De_PalmerMike,Krishnan_Ramesh,Krishnan_Ramesh,Sydney_Indoor,1987,10,18,7-6_7-6
+Sydney_Indoor,2,1987,10,18,1,De_Palmer_Mike,Krishnan_Ramesh,Krishnan_Ramesh,Sydney_Indoor,1987,10,18,7-6_7-6
 Sydney_Indoor,2,1987,10,18,1,Zivojinovic_Slobodan,Mmoh_Tony,Zivojinovic_Slobodan,Sydney_Indoor,1987,10,18,4-6_6-3_6-1
 Sydney_Indoor,2,1987,10,18,1,Saceanu_Christian,Anger_Matt,Saceanu_Christian,Sydney_Indoor,1987,10,18,6-2_6-3
 Sydney_Indoor,2,1987,10,18,1,Youl_Simon,Davis_Marty,Davis_Marty,Sydney_Indoor,1987,10,18,6-3_6-4
@@ -12,7 +12,7 @@ Sydney_Indoor,2,1987,10,18,1,Kratzmann_Mark,Frawley_John,Frawley_John,Sydney_Ind
 Sydney_Indoor,2,1987,10,18,1,Evernden_Kelly,Cash_Pat,Cash_Pat,Sydney_Indoor,1987,10,18,6-3_7-6
 Sydney_Indoor,2,1987,10,18,1,Annacone_Paul,McNamee_Paul,Annacone_Paul,Sydney_Indoor,1987,10,18,2-6_6-1_7-5
 Sydney_Indoor,2,1987,10,18,1,Canter_Jonathan,Muller_Gary,Muller_Gary,Sydney_Indoor,1987,10,18,7-6_7-5
-Sydney_Indoor,2,1987,10,18,1,Giammalva_JrSammy,Freeman_Marcel,Giammalva_JrSammy,Sydney_Indoor,1987,10,18,6-3_6-1
+Sydney_Indoor,2,1987,10,18,1,Giammalva_Jr_Sammy,Freeman_Marcel,Giammalva_Jr_Sammy,Sydney_Indoor,1987,10,18,6-3_6-1
 Sydney_Indoor,2,1987,10,18,1,Pawsat_Tim,Becker_Boris,Becker_Boris,Sydney_Indoor,1987,10,18,6-4_6-0
 Sydney_Indoor,2,1987,10,18,2,Lendl_Ivan,Jelen_Eric,Lendl_Ivan,Sydney_Indoor,1987,10,18,W/O
 Sydney_Indoor,2,1987,10,18,2,Seguso_Robert,Krishnan_Ramesh,Krishnan_Ramesh,Sydney_Indoor,1987,10,18,7-6_6-4
@@ -21,7 +21,7 @@ Sydney_Indoor,2,1987,10,18,2,Davis_Marty,Barr_Shane,Davis_Marty,Sydney_Indoor,19
 Sydney_Indoor,2,1987,10,18,2,Davis_Scott,Cahill_Darren,Davis_Scott,Sydney_Indoor,1987,10,18,6-3_3-6_6-2
 Sydney_Indoor,2,1987,10,18,2,Frawley_John,Cash_Pat,Cash_Pat,Sydney_Indoor,1987,10,18,6-3_7-6
 Sydney_Indoor,2,1987,10,18,2,Annacone_Paul,Muller_Gary,Annacone_Paul,Sydney_Indoor,1987,10,18,7-6_7-6
-Sydney_Indoor,2,1987,10,18,2,Giammalva_JrSammy,Becker_Boris,Becker_Boris,Sydney_Indoor,1987,10,18,6-2_6-4
+Sydney_Indoor,2,1987,10,18,2,Giammalva_Jr_Sammy,Becker_Boris,Becker_Boris,Sydney_Indoor,1987,10,18,6-2_6-4
 Sydney_Indoor,2,1987,10,18,3,Lendl_Ivan,Krishnan_Ramesh,Lendl_Ivan,Sydney_Indoor,1987,10,18,6-2_6-3
 Sydney_Indoor,2,1987,10,18,3,Zivojinovic_Slobodan,Davis_Marty,Zivojinovic_Slobodan,Sydney_Indoor,1987,10,18,7-5_6-4
 Sydney_Indoor,2,1987,10,18,3,Davis_Scott,Cash_Pat,Cash_Pat,Sydney_Indoor,1987,10,18,6-3_7-5

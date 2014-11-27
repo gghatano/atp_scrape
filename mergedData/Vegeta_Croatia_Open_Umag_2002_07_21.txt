@@ -8,7 +8,7 @@ Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Massa_Edgardo,Krajan_Zeljko,Krajan_Zeljk
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Horna_Luis,Montanes_Albert,Horna_Luis,Vegeta_Croatia_Open_Umag,2002,07,21,7-5_6-2
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Calleri_Agustin,Lopez_Feliciano,Calleri_Agustin,Vegeta_Croatia_Open_Umag,2002,07,21,6-1_6-2
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Melzer_Jurgen,Spadea_Vincent,Melzer_Jurgen,Vegeta_Croatia_Open_Umag,2002,07,21,2-6_6-3_4-2_RET
-Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Marin_JuanAntonio,Galvani_Stefano,Marin_JuanAntonio,Vegeta_Croatia_Open_Umag,2002,07,21,6-3_3-6_6-0
+Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Marin_Juan_Antonio,Galvani_Stefano,Marin_Juan_Antonio,Vegeta_Croatia_Open_Umag,2002,07,21,6-3_3-6_6-0
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Hanescu_Victor,Rios_Marcelo,Hanescu_Victor,Vegeta_Croatia_Open_Umag,2002,07,21,6-0_6-4
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Vicente_Fernando,Fukarek_Ota,Vicente_Fernando,Vegeta_Croatia_Open_Umag,2002,07,21,6-4_1-6_7-5
 Vegeta_Croatia_Open_Umag,2,2002,07,21,1,Mathieu_PaulHenri,Portas_Albert,Mathieu_PaulHenri,Vegeta_Croatia_Open_Umag,2002,07,21,6-3_7-5
@@ -19,7 +19,7 @@ Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Coria_Guillermo,Massu_Nicolas,Coria_Guil
 Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Ljubicic_Ivan,Radic_Mario,Ljubicic_Ivan,Vegeta_Croatia_Open_Umag,2002,07,21,7-5_6-1
 Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Krajan_Zeljko,Horna_Luis,Krajan_Zeljko,Vegeta_Croatia_Open_Umag,2002,07,21,6-4_4-6_6-3
 Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Calleri_Agustin,Melzer_Jurgen,Melzer_Jurgen,Vegeta_Croatia_Open_Umag,2002,07,21,6-7(3)_7-5_6-4
-Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Marin_JuanAntonio,Hanescu_Victor,Hanescu_Victor,Vegeta_Croatia_Open_Umag,2002,07,21,7-6(6)_6-3
+Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Marin_Juan_Antonio,Hanescu_Victor,Hanescu_Victor,Vegeta_Croatia_Open_Umag,2002,07,21,7-6(6)_6-3
 Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Vicente_Fernando,Mathieu_PaulHenri,Vicente_Fernando,Vegeta_Croatia_Open_Umag,2002,07,21,7-6(5)_6-2
 Vegeta_Croatia_Open_Umag,2,2002,07,21,2,Gross_Oliver,Moya_Carlos,Moya_Carlos,Vegeta_Croatia_Open_Umag,2002,07,21,6-2_6-3
 Vegeta_Croatia_Open_Umag,2,2002,07,21,3,Ferrer_David,Coria_Guillermo,Ferrer_David,Vegeta_Croatia_Open_Umag,2002,07,21,5-7_6-1_7-5

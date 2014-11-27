@@ -4,10 +4,10 @@ Tokyo_Indoor,2,1988,10,23,1,Chamberlin_Paul,Sobel_John,Chamberlin_Paul,Tokyo_Ind
 Tokyo_Indoor,2,1988,10,23,1,Tsuchihashi_Toshihisa,Zivojinovic_Slobodan,Zivojinovic_Slobodan,Tokyo_Indoor,1988,10,23,7-5_6-3
 Tokyo_Indoor,2,1988,10,23,1,Gomez_Andres,Rive_Joey,Gomez_Andres,Tokyo_Indoor,1988,10,23,6-4_6-4
 Tokyo_Indoor,2,1988,10,23,1,Volkov_Alexander,Bailey_Joel,Volkov_Alexander,Tokyo_Indoor,1988,10,23,7-5_6-1
-Tokyo_Indoor,2,1988,10,23,1,Vant_HofRobert,Dyke_Broderick,Vant_HofRobert,Tokyo_Indoor,1988,10,23,6-2_3-6_6-4
+Tokyo_Indoor,2,1988,10,23,1,Vant_Hof_Robert,Dyke_Broderick,Vant_Hof_Robert,Tokyo_Indoor,1988,10,23,6-2_3-6_6-4
 Tokyo_Indoor,2,1988,10,23,1,Flach_Ken,Fitzgerald_John,Fitzgerald_John,Tokyo_Indoor,1988,10,23,6-4_6-0
 Tokyo_Indoor,2,1988,10,23,1,Berger_Jay,Matuszewski_Richard,Matuszewski_Richard,Tokyo_Indoor,1988,10,23,7-6_6-3
-Tokyo_Indoor,2,1988,10,23,1,Giammalva_JrSammy,Yzaga_Jaime,Giammalva_JrSammy,Tokyo_Indoor,1988,10,23,7-5_6-4
+Tokyo_Indoor,2,1988,10,23,1,Giammalva_Jr_Sammy,Yzaga_Jaime,Giammalva_Jr_Sammy,Tokyo_Indoor,1988,10,23,7-5_6-4
 Tokyo_Indoor,2,1988,10,23,1,Pawsat_Tim,Davis_Marty,Davis_Marty,Tokyo_Indoor,1988,10,23,6-3_6-7_7-5
 Tokyo_Indoor,2,1988,10,23,1,Matsuoka_Shuzo,Cahill_Darren,Matsuoka_Shuzo,Tokyo_Indoor,1988,10,23,7-6_6-1
 Tokyo_Indoor,2,1988,10,23,1,Goldie_Dan,Frawley_John,Goldie_Dan,Tokyo_Indoor,1988,10,23,4-6_6-4_6-3
@@ -17,8 +17,8 @@ Tokyo_Indoor,2,1988,10,23,1,Seguso_Robert,Becker_Boris,Becker_Boris,Tokyo_Indoor
 Tokyo_Indoor,2,1988,10,23,2,Edberg_Stefan,Pridham_Chris,Edberg_Stefan,Tokyo_Indoor,1988,10,23,6-1_7-5
 Tokyo_Indoor,2,1988,10,23,2,Chamberlin_Paul,Zivojinovic_Slobodan,Chamberlin_Paul,Tokyo_Indoor,1988,10,23,6-4_3-6_6-3
 Tokyo_Indoor,2,1988,10,23,2,Gomez_Andres,Volkov_Alexander,Gomez_Andres,Tokyo_Indoor,1988,10,23,7-5_6-4
-Tokyo_Indoor,2,1988,10,23,2,Vant_HofRobert,Fitzgerald_John,Fitzgerald_John,Tokyo_Indoor,1988,10,23,6-3_7-6
-Tokyo_Indoor,2,1988,10,23,2,Matuszewski_Richard,Giammalva_JrSammy,Matuszewski_Richard,Tokyo_Indoor,1988,10,23,6-3_7-5
+Tokyo_Indoor,2,1988,10,23,2,Vant_Hof_Robert,Fitzgerald_John,Fitzgerald_John,Tokyo_Indoor,1988,10,23,6-3_7-6
+Tokyo_Indoor,2,1988,10,23,2,Matuszewski_Richard,Giammalva_Jr_Sammy,Matuszewski_Richard,Tokyo_Indoor,1988,10,23,6-3_7-5
 Tokyo_Indoor,2,1988,10,23,2,Davis_Marty,Matsuoka_Shuzo,Matsuoka_Shuzo,Tokyo_Indoor,1988,10,23,7-5_7-6
 Tokyo_Indoor,2,1988,10,23,2,Goldie_Dan,Jelen_Eric,Jelen_Eric,Tokyo_Indoor,1988,10,23,6-3_6-4
 Tokyo_Indoor,2,1988,10,23,2,Steeb_CarlUwe,Becker_Boris,Becker_Boris,Tokyo_Indoor,1988,10,23,6-7_6-1_6-2

@@ -7,7 +7,7 @@ Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Fancutt_Charlie,Pfister_Henry,P
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Mayotte_Chris,Edwards_Craig,Edwards_Craig,Hall_of_Fame_Tennis_Championships,1981,07,19,7-6_5-7_6-2
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Drewett_Brad,Gullikson_Tom,Drewett_Brad,Hall_of_Fame_Tennis_Championships,1981,07,19,4-6_7-6_7-6
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Saviano_Nick,McCain_Scott,McCain_Scott,Hall_of_Fame_Tennis_Championships,1981,07,19,7-5_6-4
-Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Nunez_Juan,Van_DillenErik,Van_DillenErik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-2_6-2
+Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Nunez_Juan,Van_Dillen_Erik,Van_Dillen_Erik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-2_6-2
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Wilkison_Tim,Stockton_Dick,Wilkison_Tim,Hall_of_Fame_Tennis_Championships,1981,07,19,3-6_7-6_7-5
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Hightower_Ron,Sadri_John,Sadri_John,Hall_of_Fame_Tennis_Championships,1981,07,19,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,1,Amaya_Victor,Leach_Mike,Amaya_Victor,Hall_of_Fame_Tennis_Championships,1981,07,19,7-6_7-6
@@ -18,14 +18,14 @@ Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Amritraj_Anand,Sisson_Beejong,A
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Wittus_Craig,Mayotte_Tim,Wittus_Craig,Hall_of_Fame_Tennis_Championships,1981,07,19,6-3_1-6_6-2
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Curren_Kevin,Pfister_Henry,Pfister_Henry,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_6-7_6-2
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Edwards_Craig,Drewett_Brad,Drewett_Brad,Hall_of_Fame_Tennis_Championships,1981,07,19,6-3_6-4
-Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,McCain_Scott,Van_DillenErik,Van_DillenErik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-3_1-6_6-4
+Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,McCain_Scott,Van_Dillen_Erik,Van_Dillen_Erik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-3_1-6_6-4
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Wilkison_Tim,Sadri_John,Wilkison_Tim,Hall_of_Fame_Tennis_Championships,1981,07,19,7-6_6-4
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Amaya_Victor,Delaney_Jim,Delaney_Jim,Hall_of_Fame_Tennis_Championships,1981,07,19,7-6_6-3
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,2,Lapidus_Jay,Kriek_Johan,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1981,07,19,6-2_6-4
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,3,Amritraj_Anand,Wittus_Craig,Wittus_Craig,Hall_of_Fame_Tennis_Championships,1981,07,19,1-6_7-6_7-6
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,3,Pfister_Henry,Drewett_Brad,Pfister_Henry,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_7-6
-Hall_of_Fame_Tennis_Championships,2,1981,07,19,3,Van_DillenErik,Wilkison_Tim,Van_DillenErik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_7-6
+Hall_of_Fame_Tennis_Championships,2,1981,07,19,3,Van_Dillen_Erik,Wilkison_Tim,Van_Dillen_Erik,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_7-6
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,3,Delaney_Jim,Kriek_Johan,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1981,07,19,6-1_6-3
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,4,Wittus_Craig,Pfister_Henry,Pfister_Henry,Hall_of_Fame_Tennis_Championships,1981,07,19,4-6_6-1_7-6
-Hall_of_Fame_Tennis_Championships,2,1981,07,19,4,Van_DillenErik,Kriek_Johan,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_7-5
+Hall_of_Fame_Tennis_Championships,2,1981,07,19,4,Van_Dillen_Erik,Kriek_Johan,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1981,07,19,6-4_7-5
 Hall_of_Fame_Tennis_Championships,2,1981,07,19,5,Pfister_Henry,Kriek_Johan,Kriek_Johan,Hall_of_Fame_Tennis_Championships,1981,07,19,3-6_6-3_7-5

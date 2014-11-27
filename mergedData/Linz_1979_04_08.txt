@@ -1,7 +1,7 @@
 Linz,2,1979,04,08,1,Feigl_Peter,Pils_Bernhard,Feigl_Peter,Linz,1979,04,08,7-6_7-6
 Linz,2,1979,04,08,1,Niedzwiedzki_Jacek,Oberparleiter_Klaus,Niedzwiedzki_Jacek,Linz,1979,04,08,6-2_6-2
 Linz,2,1979,04,08,1,Goven_Georges,Crabel_Toby,Goven_Georges,Linz,1979,04,08,1-6_7-5_6-1
-Linz,2,1979,04,08,1,Van_MinPaul,Rocavert_Terry,Van_MinPaul,Linz,1979,04,08,6-3_6-0
+Linz,2,1979,04,08,1,Van_Min_Paul,Rocavert_Terry,Van_Min_Paul,Linz,1979,04,08,6-3_6-0
 Linz,2,1979,04,08,1,Soler_Javier,Sanders_Louk,Sanders_Louk,Linz,1979,04,08,7-6_6-2
 Linz,2,1979,04,08,1,Szoke_Peter,Svensson_Tenny,Svensson_Tenny,Linz,1979,04,08,7-6_6-3
 Linz,2,1979,04,08,1,Gunthardt_Markus,Pala_Frantisek,Gunthardt_Markus,Linz,1979,04,08,7-5_6-4
@@ -15,7 +15,7 @@ Linz,2,1979,04,08,1,Benyik_Janos,Jensen_Noel,Benyik_Janos,Linz,1979,04,08,6-2_6-
 Linz,2,1979,04,08,1,Molin_John,Wimmer_Gerard,Molin_John,Linz,1979,04,08,6-3_3-6_6-3
 Linz,2,1979,04,08,1,Taylor_Roger,Lendl_Ivan,Lendl_Ivan,Linz,1979,04,08,6-4_7-5
 Linz,2,1979,04,08,2,Feigl_Peter,Niedzwiedzki_Jacek,Feigl_Peter,Linz,1979,04,08,6-2_6-2
-Linz,2,1979,04,08,2,Goven_Georges,Van_MinPaul,Goven_Georges,Linz,1979,04,08,6-4_6-2
+Linz,2,1979,04,08,2,Goven_Georges,Van_Min_Paul,Goven_Georges,Linz,1979,04,08,6-4_6-2
 Linz,2,1979,04,08,2,Sanders_Louk,Svensson_Tenny,Sanders_Louk,Linz,1979,04,08,6-4_4-6_6-3
 Linz,2,1979,04,08,2,Gunthardt_Markus,Palm_Douglas,Palm_Douglas,Linz,1979,04,08,6-2_6-4
 Linz,2,1979,04,08,2,Kodes_Jan,Moretton_Gilles,Moretton_Gilles,Linz,1979,04,08,6-7_7-6_6-3

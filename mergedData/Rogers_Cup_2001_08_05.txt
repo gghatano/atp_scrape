@@ -21,7 +21,7 @@ Rogers_Cup,3,2001,08,05,1,Levy_Harel,Rafter_Patrick,Rafter_Patrick,Rogers_Cup,20
 Rogers_Cup,3,2001,08,05,1,Gambill_JanMichael,Schalken_Sjeng,Gambill_JanMichael,Rogers_Cup,2001,08,05,6-1_6-4
 Rogers_Cup,3,2001,08,05,1,Prinosil_David,Behr_Noam,Behr_Noam,Rogers_Cup,2001,08,05,6-1_7-6(2)
 Rogers_Cup,3,2001,08,05,1,Bjorkman_Jonas,Lapentti_Nicolas,Lapentti_Nicolas,Rogers_Cup,2001,08,05,6-2_5-7_6-4
-Rogers_Cup,3,2001,08,05,1,Novak_Jiri,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Rogers_Cup,2001,08,05,6-3_6-4
+Rogers_Cup,3,2001,08,05,1,Novak_Jiri,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Rogers_Cup,2001,08,05,6-3_6-4
 Rogers_Cup,3,2001,08,05,1,Henman_Tim,Srichaphan_Paradorn,Henman_Tim,Rogers_Cup,2001,08,05,6-3_6-3
 Rogers_Cup,3,2001,08,05,1,Llodra_Michael,Costa_Albert,Costa_Albert,Rogers_Cup,2001,08,05,3-6_7-5_7-5
 Rogers_Cup,3,2001,08,05,1,Santoro_Fabrice,Portas_Albert,Santoro_Fabrice,Rogers_Cup,2001,08,05,6-4_7-6(3)
@@ -41,7 +41,7 @@ Rogers_Cup,3,2001,08,05,2,Martin_Alberto,Hrbaty_Dominik,Martin_Alberto,Rogers_Cu
 Rogers_Cup,3,2001,08,05,2,Martin_Todd,Vicente_Fernando,Martin_Todd,Rogers_Cup,2001,08,05,6-4_1-6_6-2
 Rogers_Cup,3,2001,08,05,2,Norman_Magnus,Rafter_Patrick,Rafter_Patrick,Rogers_Cup,2001,08,05,6-1_7-6(2)
 Rogers_Cup,3,2001,08,05,2,Gambill_JanMichael,Behr_Noam,Gambill_JanMichael,Rogers_Cup,2001,08,05,6-3_7-6(7)
-Rogers_Cup,3,2001,08,05,2,Lapentti_Nicolas,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Rogers_Cup,2001,08,05,6-3_6-3
+Rogers_Cup,3,2001,08,05,2,Lapentti_Nicolas,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Rogers_Cup,2001,08,05,6-3_6-3
 Rogers_Cup,3,2001,08,05,2,Henman_Tim,Costa_Albert,Costa_Albert,Rogers_Cup,2001,08,05,7-6(3)_4-6_6-1
 Rogers_Cup,3,2001,08,05,2,Santoro_Fabrice,Kiefer_Nicolas,Santoro_Fabrice,Rogers_Cup,2001,08,05,4-6_6-4_6-3
 Rogers_Cup,3,2001,08,05,2,Vinciguerra_Andreas,Ulihrach_Bohdan,Ulihrach_Bohdan,Rogers_Cup,2001,08,05,7-6(3)_6-3
@@ -51,12 +51,12 @@ Rogers_Cup,3,2001,08,05,3,Pavel_Andrei,Arazi_Hicham,Pavel_Andrei,Rogers_Cup,2001
 Rogers_Cup,3,2001,08,05,3,Haas_Tommy,Golmard_Jerome,Haas_Tommy,Rogers_Cup,2001,08,05,6-7(4)_6-4_7-6(5)
 Rogers_Cup,3,2001,08,05,3,Clement_Arnaud,Martin_Alberto,Clement_Arnaud,Rogers_Cup,2001,08,05,6-3_3-6_6-0
 Rogers_Cup,3,2001,08,05,3,Martin_Todd,Rafter_Patrick,Rafter_Patrick,Rogers_Cup,2001,08,05,6-4_6-2
-Rogers_Cup,3,2001,08,05,3,Gambill_JanMichael,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Rogers_Cup,2001,08,05,2-6_7-6(6)_6-3
+Rogers_Cup,3,2001,08,05,3,Gambill_JanMichael,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Rogers_Cup,2001,08,05,2-6_7-6(6)_6-3
 Rogers_Cup,3,2001,08,05,3,Costa_Albert,Santoro_Fabrice,Santoro_Fabrice,Rogers_Cup,2001,08,05,7-5_2-6_6-3
 Rogers_Cup,3,2001,08,05,3,Ulihrach_Bohdan,Escude_Nicolas,Ulihrach_Bohdan,Rogers_Cup,2001,08,05,6-3_1-6_6-2
 Rogers_Cup,3,2001,08,05,4,Roddick_Andy,Pavel_Andrei,Pavel_Andrei,Rogers_Cup,2001,08,05,6-4_6-7(2)_6-3
 Rogers_Cup,3,2001,08,05,4,Haas_Tommy,Clement_Arnaud,Haas_Tommy,Rogers_Cup,2001,08,05,6-2_6-4
-Rogers_Cup,3,2001,08,05,4,Rafter_Patrick,Ferrero_JuanCarlos,Rafter_Patrick,Rogers_Cup,2001,08,05,7-5_4-6_6-2
+Rogers_Cup,3,2001,08,05,4,Rafter_Patrick,Ferrero_Juan_Carlos,Rafter_Patrick,Rogers_Cup,2001,08,05,7-5_4-6_6-2
 Rogers_Cup,3,2001,08,05,4,Santoro_Fabrice,Ulihrach_Bohdan,Santoro_Fabrice,Rogers_Cup,2001,08,05,6-3_4-6_6-1
 Rogers_Cup,3,2001,08,05,5,Pavel_Andrei,Haas_Tommy,Pavel_Andrei,Rogers_Cup,2001,08,05,6-4_5-0_RET
 Rogers_Cup,3,2001,08,05,5,Rafter_Patrick,Santoro_Fabrice,Rafter_Patrick,Rogers_Cup,2001,08,05,6-2_6-2

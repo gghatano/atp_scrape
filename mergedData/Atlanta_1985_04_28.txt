@@ -1,5 +1,5 @@
 Atlanta,2,1985,04,28,1,McEnroe_John,Teacher_Brian,McEnroe_John,Atlanta,1985,04,28,6-3_6-3
-Atlanta,2,1985,04,28,1,Krishnan_Ramesh,Giammalva_JrSammy,Krishnan_Ramesh,Atlanta,1985,04,28,6-4_7-6
+Atlanta,2,1985,04,28,1,Krishnan_Ramesh,Giammalva_Jr_Sammy,Krishnan_Ramesh,Atlanta,1985,04,28,6-4_7-6
 Atlanta,2,1985,04,28,1,Amritraj_Vijay,Flach_Ken,Flach_Ken,Atlanta,1985,04,28,6-4_6-4
 Atlanta,2,1985,04,28,1,Pfister_Henry,Mayotte_Tim,Mayotte_Tim,Atlanta,1985,04,28,6-4_6-4
 Atlanta,2,1985,04,28,1,Cash_Pat,Lapidus_Jay,Cash_Pat,Atlanta,1985,04,28,4-6_6-1_6-4
@@ -13,7 +13,7 @@ Atlanta,2,1985,04,28,1,Sadri_John,Smid_Tomas,Sadri_John,Atlanta,1985,04,28,6-3_6
 Atlanta,2,1985,04,28,1,Davis_Scott,Fibak_Wojtek,Davis_Scott,Atlanta,1985,04,28,6-2_3-6_7-5
 Atlanta,2,1985,04,28,1,Pernfors_Mikael,Pate_David,Pate_David,Atlanta,1985,04,28,6-3_7-6
 Atlanta,2,1985,04,28,1,Cain_Tom,Wilkison_Tim,Wilkison_Tim,Atlanta,1985,04,28,7-6_6-3
-Atlanta,2,1985,04,28,1,Van_RensburgChristo,Curren_Kevin,Curren_Kevin,Atlanta,1985,04,28,6-3_6-3
+Atlanta,2,1985,04,28,1,Van_Rensburg_Christo,Curren_Kevin,Curren_Kevin,Atlanta,1985,04,28,6-3_6-3
 Atlanta,2,1985,04,28,2,McEnroe_John,Krishnan_Ramesh,McEnroe_John,Atlanta,1985,04,28,6-1_7-5
 Atlanta,2,1985,04,28,2,Flach_Ken,Mayotte_Tim,Mayotte_Tim,Atlanta,1985,04,28,6-3_6-3
 Atlanta,2,1985,04,28,2,Cash_Pat,Shiras_Leif,Cash_Pat,Atlanta,1985,04,28,7-6_6-4

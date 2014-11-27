@@ -1,13 +1,13 @@
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Ljubicic_Ivan,Portas_Albert,Ljubicic_Ivan,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_7-6(5)
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Sanguinetti_Davide,Chiudinelli_Marco,Chiudinelli_Marco,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Roshardt_Robin,Ramirez_HidalgoRuben,Ramirez_HidalgoRuben,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-1_6-4
+Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Roshardt_Robin,Ramirez_Hidalgo_Ruben,Ramirez_Hidalgo_Ruben,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-1_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Volandri_Filippo,Lopez_Feliciano,Lopez_Feliciano,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-4_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Mathieu_PaulHenri,Vemic_Dusan,Vemic_Dusan,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,3-6_7-5_7-6(6)
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Cilic_Marin,Seppi_Andreas,Cilic_Marin,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_7-6(6)
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Wawrinka_Stan,Pavel_Andrei,Pavel_Andrei,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-4_1-6_7-6(4)
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Berlocq_Carlos,Mirnyi_Max,Mirnyi_Max,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Moya_Carlos,Novak_Jiri,Novak_Jiri,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Kohlschreiber_Philipp,Di_MauroAlessio,Kohlschreiber_Philipp,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_6-1
+Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Kohlschreiber_Philipp,Di_Mauro_Alessio,Kohlschreiber_Philipp,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Saretta_Flavio,Bracciali_Daniele,Bracciali_Daniele,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,5-7_6-1_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Norman_Dick,Verdasco_Fernando,Verdasco_Fernando,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-4_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Gasquet_Richard,Greul_Simon,Gasquet_Richard,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-3_6-3
@@ -15,7 +15,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Vogeli_Roman,Vik_Robin,Vik_Ro
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Vicente_Fernando,Rochus_Christophe,Rochus_Christophe,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-1_4-6_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,1,Daniel_Marcos,Gaudio_Gaston,Gaudio_Gaston,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,7-6(4)_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Ljubicic_Ivan,Chiudinelli_Marco,Ljubicic_Ivan,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-7(6)_6-3_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Ramirez_HidalgoRuben,Lopez_Feliciano,Lopez_Feliciano,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-7(5)_6-3_7-6(3)
+Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Ramirez_Hidalgo_Ruben,Lopez_Feliciano,Lopez_Feliciano,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-7(5)_6-3_7-6(3)
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Vemic_Dusan,Cilic_Marin,Cilic_Marin,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,2-6_6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Pavel_Andrei,Mirnyi_Max,Pavel_Andrei,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,2006,07,16,2,Novak_Jiri,Kohlschreiber_Philipp,Kohlschreiber_Philipp,Crédit_Agricole_Suisse_Open_Gstaad,2006,07,16,3-6_6-7(5)_6-1

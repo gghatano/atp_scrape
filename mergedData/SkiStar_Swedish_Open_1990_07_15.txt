@@ -4,7 +4,7 @@ SkiStar_Swedish_Open,2,1990,07,15,1,Apell_Jan,Paloheimo_Veli,Paloheimo_Veli,SkiS
 SkiStar_Swedish_Open,2,1990,07,15,1,Engel_David,Gunnarsson_Jan,Engel_David,SkiStar_Swedish_Open,1990,07,15,6-2_6-0
 SkiStar_Swedish_Open,2,1990,07,15,1,Fromberg_Richard,Vajda_Marian,Fromberg_Richard,SkiStar_Swedish_Open,1990,07,15,7-6_7-5
 SkiStar_Swedish_Open,2,1990,07,15,1,Bathman_Ronnie,Utgren_Nicklas,Utgren_Nicklas,SkiStar_Swedish_Open,1990,07,15,1-6_6-3_6-4
-SkiStar_Swedish_Open,2,1990,07,15,1,Nilsson_Magnus,Altur_JoseFrancisco,Nilsson_Magnus,SkiStar_Swedish_Open,1990,07,15,7-6_5-7_7-6
+SkiStar_Swedish_Open,2,1990,07,15,1,Nilsson_Magnus,Altur_Jose_Francisco,Nilsson_Magnus,SkiStar_Swedish_Open,1990,07,15,7-6_5-7_7-6
 SkiStar_Swedish_Open,2,1990,07,15,1,Perez_Diego,Haarhuis_Paul,Perez_Diego,SkiStar_Swedish_Open,1990,07,15,7-6_1-6_6-3
 SkiStar_Swedish_Open,2,1990,07,15,1,Carlsson_Johan,Riglewski_Udo,Carlsson_Johan,SkiStar_Swedish_Open,1990,07,15,0-6_6-3_6-4
 SkiStar_Swedish_Open,2,1990,07,15,1,Larsson_Magnus,Santoro_Fabrice,Larsson_Magnus,SkiStar_Swedish_Open,1990,07,15,6-3_6-1

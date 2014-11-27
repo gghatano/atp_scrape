@@ -9,12 +9,12 @@ Indianapolis,2,1980,08,10,1,Simonsson_Stefan,Clerc_JoseLuis,Clerc_JoseLuis,India
 Indianapolis,2,1980,08,10,1,Lendl_Ivan,Cano_Ricardo,Lendl_Ivan,Indianapolis,1980,08,10,2-6_6-0_6-4
 Indianapolis,2,1980,08,10,1,Freyss_Christophe,Lloyd_John,Freyss_Christophe,Indianapolis,1980,08,10,6-1_6-2
 Indianapolis,2,1980,08,10,1,Martin_Billy,Willenborg_Blaine,Martin_Billy,Indianapolis,1980,08,10,6-3_6-4
-Indianapolis,2,1980,08,10,1,Fillol_SrJaime,Teltscher_Eliot,Teltscher_Eliot,Indianapolis,1980,08,10,6-4_6-0
+Indianapolis,2,1980,08,10,1,Fillol_Sr_Jaime,Teltscher_Eliot,Teltscher_Eliot,Indianapolis,1980,08,10,6-4_6-0
 Indianapolis,2,1980,08,10,1,Ramirez_Raul,Hayes_John,Hayes_John,Indianapolis,1980,08,10,6-4_2-6_6-4
 Indianapolis,2,1980,08,10,1,Vizcaino_Roberto,Freeman_Marcel,Vizcaino_Roberto,Indianapolis,1980,08,10,2-6_6-2_6-3
 Indianapolis,2,1980,08,10,1,Carter_David,Hardie_George,Carter_David,Indianapolis,1980,08,10,6-2_6-2
 Indianapolis,2,1980,08,10,1,Soares_Joao,Higueras_Jose,Higueras_Jose,Indianapolis,1980,08,10,6-1_7-5
-Indianapolis,2,1980,08,10,1,Gildemeister_Hans,Damiani_JoseLuis,Damiani_JoseLuis,Indianapolis,1980,08,10,6-4_6-0
+Indianapolis,2,1980,08,10,1,Gildemeister_Hans,Damiani_Jose_Luis,Damiani_Jose_Luis,Indianapolis,1980,08,10,6-4_6-0
 Indianapolis,2,1980,08,10,1,Cahill_Mike,Gattiker_Carlos,Cahill_Mike,Indianapolis,1980,08,10,6-3_6-3
 Indianapolis,2,1980,08,10,1,Martinez_Mario,Kodes_Jan,Martinez_Mario,Indianapolis,1980,08,10,6-2_6-4
 Indianapolis,2,1980,08,10,1,Kronk_Paul,Dibley_Colin,Kronk_Paul,Indianapolis,1980,08,10,6-3_7-6
@@ -38,7 +38,7 @@ Indianapolis,2,1980,08,10,2,Lendl_Ivan,Freyss_Christophe,Freyss_Christophe,India
 Indianapolis,2,1980,08,10,2,Martin_Billy,Teltscher_Eliot,Teltscher_Eliot,Indianapolis,1980,08,10,6-2_6-3
 Indianapolis,2,1980,08,10,2,Hayes_John,Vizcaino_Roberto,Hayes_John,Indianapolis,1980,08,10,7-6_6-2
 Indianapolis,2,1980,08,10,2,Carter_David,Higueras_Jose,Higueras_Jose,Indianapolis,1980,08,10,2-6_6-2_6-0
-Indianapolis,2,1980,08,10,2,Damiani_JoseLuis,Cahill_Mike,Damiani_JoseLuis,Indianapolis,1980,08,10,6-3_6-4
+Indianapolis,2,1980,08,10,2,Damiani_Jose_Luis,Cahill_Mike,Damiani_Jose_Luis,Indianapolis,1980,08,10,6-3_6-4
 Indianapolis,2,1980,08,10,2,Martinez_Mario,Kronk_Paul,Martinez_Mario,Indianapolis,1980,08,10,6-3_6-0
 Indianapolis,2,1980,08,10,2,Amaya_Victor,Hjertquist_Per,Hjertquist_Per,Indianapolis,1980,08,10,4-6_6-0_6-0
 Indianapolis,2,1980,08,10,2,Krishnan_Ramesh,Dibbs_Eddie,Dibbs_Eddie,Indianapolis,1980,08,10,6-2_6-2
@@ -50,7 +50,7 @@ Indianapolis,2,1980,08,10,3,Mayer_Gene,Moor_Terry,Moor_Terry,Indianapolis,1980,0
 Indianapolis,2,1980,08,10,3,Warwick_Kim,Clerc_JoseLuis,Clerc_JoseLuis,Indianapolis,1980,08,10,6-2_6-1
 Indianapolis,2,1980,08,10,3,Freyss_Christophe,Teltscher_Eliot,Teltscher_Eliot,Indianapolis,1980,08,10,6-2_6-4
 Indianapolis,2,1980,08,10,3,Hayes_John,Higueras_Jose,Higueras_Jose,Indianapolis,1980,08,10,7-5_3-6_6-1
-Indianapolis,2,1980,08,10,3,Damiani_JoseLuis,Martinez_Mario,Martinez_Mario,Indianapolis,1980,08,10,6-2_6-2
+Indianapolis,2,1980,08,10,3,Damiani_Jose_Luis,Martinez_Mario,Martinez_Mario,Indianapolis,1980,08,10,6-2_6-2
 Indianapolis,2,1980,08,10,3,Hjertquist_Per,Dibbs_Eddie,Dibbs_Eddie,Indianapolis,1980,08,10,6-1_6-1
 Indianapolis,2,1980,08,10,3,Fibak_Wojtek,Franulovic_Zeljko,Fibak_Wojtek,Indianapolis,1980,08,10,6-4_6-3
 Indianapolis,2,1980,08,10,3,Purcell_Mel,Solomon_Harold,Purcell_Mel,Indianapolis,1980,08,10,4-6_6-0_6-2

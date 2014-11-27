@@ -3,8 +3,8 @@ Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Browne_Federico,Krajan_Zeljko,Browne_Fed
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Lisnard_JeanRene,Knowle_Julian,Lisnard_JeanRene,Vegeta_Croatia_Open_Umag,2003,07,27,6-4_6-3
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Arazi_Hicham,Ferrer_David,Ferrer_David,Vegeta_Croatia_Open_Umag,2003,07,27,6-0_3-1_RET
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Tuksar_Sasa,Montanes_Albert,Tuksar_Sasa,Vegeta_Croatia_Open_Umag,2003,07,27,7-5_RET
-Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Norman_Magnus,Ramirez_HidalgoRuben,Norman_Magnus,Vegeta_Croatia_Open_Umag,2003,07,27,4-6_6-3_7-5
-Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Puerta_Mariano,Marin_JuanAntonio,Puerta_Mariano,Vegeta_Croatia_Open_Umag,2003,07,27,6-3_7-5
+Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Norman_Magnus,Ramirez_Hidalgo_Ruben,Norman_Magnus,Vegeta_Croatia_Open_Umag,2003,07,27,4-6_6-3_7-5
+Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Puerta_Mariano,Marin_Juan_Antonio,Puerta_Mariano,Vegeta_Croatia_Open_Umag,2003,07,27,6-3_7-5
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Voinea_Adrian,Nadal_Rafael,Nadal_Rafael,Vegeta_Croatia_Open_Umag,2003,07,27,6-3_1-0_RET
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Vicente_Fernando,Hrbaty_Dominik,Hrbaty_Dominik,Vegeta_Croatia_Open_Umag,2003,07,27,6-3_6-0
 Vegeta_Croatia_Open_Umag,2,2003,07,27,1,Radic_Mario,Galimberti_Giorgio,Radic_Mario,Vegeta_Croatia_Open_Umag,2003,07,27,1-6_6-4_6-4

@@ -20,10 +20,10 @@ Roland_Garros,1,1996,06,09,1,Champion_Thierry,Stolle_Sandon,Champion_Thierry,Rol
 Roland_Garros,1,1996,06,09,1,Dewulf_Filip,Bjorkman_Jonas,Bjorkman_Jonas,Roland_Garros,1996,06,09,6-4_6-4_6-3
 Roland_Garros,1,1996,06,09,1,Kulti_Nicklas,Woodbridge_Todd,Woodbridge_Todd,Roland_Garros,1996,06,09,0-6_6-2_2-6_6-4_6-1
 Roland_Garros,1,1996,06,09,1,Philippoussis_Mark,Volkov_Alexander,Philippoussis_Mark,Roland_Garros,1996,06,09,6-3_6-2_6-2
-Roland_Garros,1,1996,06,09,1,Carbonell_Tomas,El_SawyTamer,Carbonell_Tomas,Roland_Garros,1996,06,09,4-6_6-4_6-4_7-6(5)
+Roland_Garros,1,1996,06,09,1,Carbonell_Tomas,El_Sawy_Tamer,Carbonell_Tomas,Roland_Garros,1996,06,09,4-6_6-4_6-4_7-6(5)
 Roland_Garros,1,1996,06,09,1,Noszaly_Sandor,Krajicek_Richard,Krajicek_Richard,Roland_Garros,1996,06,09,4-6_7-6(2)_6-1_6-4
 Roland_Garros,1,1996,06,09,1,Costa_Albert,Meligeni_Fernando,Costa_Albert,Roland_Garros,1996,06,09,3-6_6-4_6-3_7-6(2)
-Roland_Garros,1,1996,06,09,1,Van_HerckJohan,Clavet_Francisco,Clavet_Francisco,Roland_Garros,1996,06,09,4-6_7-5_7-6(2)_6-3
+Roland_Garros,1,1996,06,09,1,Van_Herck_Johan,Clavet_Francisco,Clavet_Francisco,Roland_Garros,1996,06,09,4-6_7-5_7-6(2)_6-3
 Roland_Garros,1,1996,06,09,1,Henman_Tim,Goossens_Kris,Goossens_Kris,Roland_Garros,1996,06,09,6-4_6-4_7-5
 Roland_Garros,1,1996,06,09,1,Chesnokov_Andrei,Forget_Guy,Forget_Guy,Roland_Garros,1996,06,09,7-6(5)_7-6(4)_2-6_3-6_6-4
 Roland_Garros,1,1996,06,09,1,Dier_Dirk,Mantilla_Felix,Mantilla_Felix,Roland_Garros,1996,06,09,6-4_6-2_5-7_6-4
@@ -36,7 +36,7 @@ Roland_Garros,1,1996,06,09,1,Ulihrach_Bohdan,Montana_Francisco,Ulihrach_Bohdan,R
 Roland_Garros,1,1996,06,09,1,Lapentti_Nicolas,Medvedev_Andrei,Medvedev_Andrei,Roland_Garros,1996,06,09,6-2_6-2_6-3
 Roland_Garros,1,1996,06,09,1,Gaudenzi_Andrea,Tiilikainen_Kim,Gaudenzi_Andrea,Roland_Garros,1996,06,09,6-3_6-1_6-1
 Roland_Garros,1,1996,06,09,1,Karbacher_Bernd,PerezRoldan_Guillermo,Karbacher_Bernd,Roland_Garros,1996,06,09,6-2_6-4_6-4
-Roland_Garros,1,1996,06,09,1,El_AynaouiYounes,Haarhuis_Paul,Haarhuis_Paul,Roland_Garros,1996,06,09,7-5_7-6(6)_3-0_RET
+Roland_Garros,1,1996,06,09,1,El_Aynaoui_Younes,Haarhuis_Paul,Haarhuis_Paul,Roland_Garros,1996,06,09,7-5_7-6(6)_3-0_RET
 Roland_Garros,1,1996,06,09,1,Palmer_Jared,Boetsch_Arnaud,Boetsch_Arnaud,Roland_Garros,1996,06,09,6-3_6-4_6-3
 Roland_Garros,1,1996,06,09,1,Rosset_Marc,Steeb_CarlUwe,Rosset_Marc,Roland_Garros,1996,06,09,6-4_6-4_6-0
 Roland_Garros,1,1996,06,09,1,Novak_Jiri,Pereira_Nicolas,Novak_Jiri,Roland_Garros,1996,06,09,2-6_4-6_6-2_6-1_6-1

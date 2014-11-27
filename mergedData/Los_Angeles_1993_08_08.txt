@@ -11,7 +11,7 @@ Los_Angeles,2,1993,08,08,1,Nainkin_David,Dilucia_David,Nainkin_David,Los_Angeles
 Los_Angeles,2,1993,08,08,1,Tarango_Jeff,Bujan_Tony,Tarango_Jeff,Los_Angeles,1993,08,08,1-6_6-3_6-4
 Los_Angeles,2,1993,08,08,1,Stark_Jonathan,Chang_Michael,Chang_Michael,Los_Angeles,1993,08,08,6-2_6-3
 Los_Angeles,2,1993,08,08,1,Woodforde_Mark,OBrien_Alex,OBrien_Alex,Los_Angeles,1993,08,08,7-6(3)_4-6_6-2
-Los_Angeles,2,1993,08,08,1,Van_RensburgChristo,Adams_Chuck,Adams_Chuck,Los_Angeles,1993,08,08,6-4_6-4
+Los_Angeles,2,1993,08,08,1,Van_Rensburg_Christo,Adams_Chuck,Adams_Chuck,Los_Angeles,1993,08,08,6-4_6-4
 Los_Angeles,2,1993,08,08,1,Nelson_Todd,Jones_Kelly,Jones_Kelly,Los_Angeles,1993,08,08,6-3_6-1
 Los_Angeles,2,1993,08,08,1,Pernfors_Mikael,Stich_Michael,Stich_Michael,Los_Angeles,1993,08,08,6-2_6-4
 Los_Angeles,2,1993,08,08,2,Sampras_Pete,Hadad_Mauricio,Sampras_Pete,Los_Angeles,1993,08,08,6-4_6-0

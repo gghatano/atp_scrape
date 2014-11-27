@@ -11,7 +11,7 @@ Bangalore,2,1976,11,28,1,Desai_Nimish,Cahill_Mike,Cahill_Mike,Bangalore,1976,11,
 Bangalore,2,1976,11,28,1,Whitlinger_John,Krishnan_Ramesh,Whitlinger_John,Bangalore,1976,11,28,4-6_6-3_6-3
 Bangalore,2,1976,11,28,1,Nunna_Bhanu,Warwick_Kim,Warwick_Kim,Bangalore,1976,11,28,6-4_6-2
 Bangalore,2,1976,11,28,1,Amritraj_Ashok,McNamee_Paul,Amritraj_Ashok,Bangalore,1976,11,28,7-6_7-5
-Bangalore,2,1976,11,28,1,Hagey_JamesChico,Letcher_Cliff,Letcher_Cliff,Bangalore,1976,11,28,6-3_6-7_6-4
+Bangalore,2,1976,11,28,1,Hagey_James_Chico,Letcher_Cliff,Letcher_Cliff,Bangalore,1976,11,28,6-3_6-7_6-4
 Bangalore,2,1976,11,28,1,Singh_Jasjit,Gullikson_Tom,Singh_Jasjit,Bangalore,1976,11,28,6-7_6-4_6-0
 Bangalore,2,1976,11,28,1,Friedler_Eric,Crawford_Doug,Crawford_Doug,Bangalore,1976,11,28,6-4_6-2
 Bangalore,2,1976,11,28,2,Crealy_Dick,Carmichael_Bob,Carmichael_Bob,Bangalore,1976,11,28,7-6_3-6_6-4

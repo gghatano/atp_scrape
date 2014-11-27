@@ -1,4 +1,4 @@
-Shanghai,2,2003,09,28,1,Novak_Jiri,Van_ScheppingenDennis,Novak_Jiri,Shanghai,2003,09,28,6-2_7-6(6)
+Shanghai,2,2003,09,28,1,Novak_Jiri,Van_Scheppingen_Dennis,Novak_Jiri,Shanghai,2003,09,28,6-2_7-6(6)
 Shanghai,2,2003,09,28,1,Phau_Bjorn,Kendrick_Robert,Kendrick_Robert,Shanghai,2003,09,28,6-7(4)_7-6(3)_7-6(5)
 Shanghai,2,2003,09,28,1,Vacek_Jan,Verdasco_Fernando,Verdasco_Fernando,Shanghai,2003,09,28,6-4_6-2
 Shanghai,2,2003,09,28,1,Zhu_BenQiang,Norman_Magnus,Norman_Magnus,Shanghai,2003,09,28,6-3_6-4
@@ -10,7 +10,7 @@ Shanghai,2,2003,09,28,1,Lee_HyungTaik,Taino_Eric,Taino_Eric,Shanghai,2003,09,28,
 Shanghai,2,2003,09,28,1,Kim_Alex,Canas_Guillermo,Canas_Guillermo,Shanghai,2003,09,28,7-6(8)_7-6(0)
 Shanghai,2,2003,09,28,1,Salzenstein_Jeff,Heuberger_Ivo,Salzenstein_Jeff,Shanghai,2003,09,28,6-3_7-6(3)
 Shanghai,2,2003,09,28,1,Vinciguerra_Andreas,Philippoussis_Mark,Philippoussis_Mark,Shanghai,2003,09,28,6-4_7-6(2)
-Shanghai,2,2003,09,28,1,van_LottumJohn,Soderling_Robin,Soderling_Robin,Shanghai,2003,09,28,6-2_6-0
+Shanghai,2,2003,09,28,1,van_Lottum_John,Soderling_Robin,Soderling_Robin,Shanghai,2003,09,28,6-2_6-0
 Shanghai,2,2003,09,28,1,Gimelstob_Justin,Waske_Alexander,Gimelstob_Justin,Shanghai,2003,09,28,6-3_7-6(4)
 Shanghai,2,2003,09,28,1,Draper_Scott,Browne_Federico,Draper_Scott,Shanghai,2003,09,28,6-3_6-4
 Shanghai,2,2003,09,28,1,Zeng_ShaoXuan,Verkerk_Martin,Verkerk_Martin,Shanghai,2003,09,28,6-2_6-3

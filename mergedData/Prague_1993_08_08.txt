@@ -9,7 +9,7 @@ Prague,2,1993,08,08,1,Rikl_David,Costa_Carlos,Costa_Carlos,Prague,1993,08,08,6-2
 Prague,2,1993,08,08,1,Fromberg_Richard,Nydahl_Tomas,Nydahl_Tomas,Prague,1993,08,08,6-3_6-1
 Prague,2,1993,08,08,1,Haarhuis_Paul,Damm_Martin,Haarhuis_Paul,Prague,1993,08,08,6-1_7-5
 Prague,2,1993,08,08,1,Solves_Gerard,Prinosil_David,Solves_Gerard,Prague,1993,08,08,5-7_7-5_6-0
-Prague,2,1993,08,08,1,Altur_JoseFrancisco,Chesnokov_Andrei,Chesnokov_Andrei,Prague,1993,08,08,6-3_6-4
+Prague,2,1993,08,08,1,Altur_Jose_Francisco,Chesnokov_Andrei,Chesnokov_Andrei,Prague,1993,08,08,6-3_6-4
 Prague,2,1993,08,08,1,Kulti_Nicklas,Berasategui_Alberto,Kulti_Nicklas,Prague,1993,08,08,6-4_4-6_6-4
 Prague,2,1993,08,08,1,Rivera_Felipe,Azar_Roberto,Rivera_Felipe,Prague,1993,08,08,6-2_6-4
 Prague,2,1993,08,08,1,Valeri_Massimo,Jarryd_Anders,Valeri_Massimo,Prague,1993,08,08,4-6_7-5_6-4

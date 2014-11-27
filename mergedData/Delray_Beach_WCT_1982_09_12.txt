@@ -3,8 +3,8 @@ Delray_Beach_WCT,2,1982,09,12,1,Amritraj_Vijay,McNamee_Paul,McNamee_Paul,Delray_
 Delray_Beach_WCT,2,1982,09,12,1,Teltscher_Eliot,Dibbs_Eddie,Teltscher_Eliot,Delray_Beach_WCT,1982,09,12,7-5_2-6_6-4
 Delray_Beach_WCT,2,1982,09,12,1,Carter_David,Manson_Bruce,Carter_David,Delray_Beach_WCT,1982,09,12,7-6_6-3
 Delray_Beach_WCT,2,1982,09,12,1,Scanlon_Bill,Taroczy_Balazs,Taroczy_Balazs,Delray_Beach_WCT,1982,09,12,7-6_6-3
-Delray_Beach_WCT,2,1982,09,12,1,Pecci_SrVictor,McNamara_Peter,McNamara_Peter,Delray_Beach_WCT,1982,09,12,6-3_6-4
-Delray_Beach_WCT,2,1982,09,12,1,Higueras_Jose,Mottram_BusterC,Higueras_Jose,Delray_Beach_WCT,1982,09,12,2-6_7-6_6-3
+Delray_Beach_WCT,2,1982,09,12,1,Pecci_Sr_Victor,McNamara_Peter,McNamara_Peter,Delray_Beach_WCT,1982,09,12,6-3_6-4
+Delray_Beach_WCT,2,1982,09,12,1,Higueras_Jose,Mottram_Buster_C,Higueras_Jose,Delray_Beach_WCT,1982,09,12,2-6_7-6_6-3
 Delray_Beach_WCT,2,1982,09,12,1,Smid_Tomas,Clerc_JoseLuis,Clerc_JoseLuis,Delray_Beach_WCT,1982,09,12,7-5_6-1
 Delray_Beach_WCT,2,1982,09,12,2,Lendl_Ivan,McNamee_Paul,Lendl_Ivan,Delray_Beach_WCT,1982,09,12,5-7_6-4_6-2
 Delray_Beach_WCT,2,1982,09,12,2,Teltscher_Eliot,Carter_David,Teltscher_Eliot,Delray_Beach_WCT,1982,09,12,6-2_6-3

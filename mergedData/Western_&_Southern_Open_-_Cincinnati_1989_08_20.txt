@@ -4,7 +4,7 @@ Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Ruah_Maurice,Amritraj_Vijay,A
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Delaitre_Olivier,Volkov_Alexander,Delaitre_Olivier,Western__Southern_Open_-_Cincinnati,1989,08,20,7-6_6-1
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Jarryd_Anders,Davis_Marty,Davis_Marty,Western__Southern_Open_-_Cincinnati,1989,08,20,6-3_4-6_6-3
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Rahnasto_Olli,Brown_Jimmy,Brown_Jimmy,Western__Southern_Open_-_Cincinnati,1989,08,20,4-1_RET
-Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Vant_HofRobert,Visser_Danie,Visser_Danie,Western__Southern_Open_-_Cincinnati,1989,08,20,6-3_3-6_6-2
+Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Vant_Hof_Robert,Visser_Danie,Visser_Danie,Western__Southern_Open_-_Cincinnati,1989,08,20,6-3_3-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Marques_Nuno,Yzaga_Jaime,Yzaga_Jaime,Western__Southern_Open_-_Cincinnati,1989,08,20,6-3_6-3
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Chang_Michael,Broad_Neil,Chang_Michael,Western__Southern_Open_-_Cincinnati,1989,08,20,6-1_6-1
 Western__Southern_Open_-_Cincinnati,2,1989,08,20,1,Grabb_Jim,Frawley_John,Grabb_Jim,Western__Southern_Open_-_Cincinnati,1989,08,20,6-1_6-3

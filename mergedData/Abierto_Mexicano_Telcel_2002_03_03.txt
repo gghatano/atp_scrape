@@ -13,7 +13,7 @@ Abierto_Mexicano_Telcel,2,2002,03,03,1,Horna_Luis,Portas_Albert,Portas_Albert,Ab
 Abierto_Mexicano_Telcel,2,2002,03,03,1,Golmard_Jerome,Diaz_Jacobo,Diaz_Jacobo,Abierto_Mexicano_Telcel,2002,03,03,4-6_6-1_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,1,Savolt_Attila,Clavet_Francisco,Clavet_Francisco,Abierto_Mexicano_Telcel,2002,03,03,6-1_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,1,Massu_Nicolas,Gaudenzi_Andrea,Massu_Nicolas,Abierto_Mexicano_Telcel,2002,03,03,6-3_7-6(3)
-Abierto_Mexicano_Telcel,2,2002,03,03,1,Chela_JuanIgnacio,Canas_Guillermo,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2002,03,03,6-4_6-4
+Abierto_Mexicano_Telcel,2,2002,03,03,1,Chela_Juan_Ignacio,Canas_Guillermo,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2002,03,03,6-4_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Haas_Tommy,Vicente_Fernando,Vicente_Fernando,Abierto_Mexicano_Telcel,2002,03,03,5-7_6-3_7-6(7)
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Acasuso_Jose,Moya_Carlos,Moya_Carlos,Abierto_Mexicano_Telcel,2002,03,03,6-4_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Zabaleta_Mariano,Norman_Magnus,Zabaleta_Mariano,Abierto_Mexicano_Telcel,2002,03,03,7-5_6-4
@@ -21,11 +21,11 @@ Abierto_Mexicano_Telcel,2,2002,03,03,2,Montanes_Albert,Mantilla_Felix,Montanes_A
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Coutelot_Nicolas,Meligeni_Fernando,Meligeni_Fernando,Abierto_Mexicano_Telcel,2002,03,03,3-6_6-4_6-3
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Sanchez_David,Portas_Albert,Sanchez_David,Abierto_Mexicano_Telcel,2002,03,03,6-2_7-5
 Abierto_Mexicano_Telcel,2,2002,03,03,2,Diaz_Jacobo,Clavet_Francisco,Clavet_Francisco,Abierto_Mexicano_Telcel,2002,03,03,4-0_RET
-Abierto_Mexicano_Telcel,2,2002,03,03,2,Massu_Nicolas,Chela_JuanIgnacio,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2002,03,03,2-6_7-6(10)_6-4
+Abierto_Mexicano_Telcel,2,2002,03,03,2,Massu_Nicolas,Chela_Juan_Ignacio,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2002,03,03,2-6_7-6(10)_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,3,Vicente_Fernando,Moya_Carlos,Moya_Carlos,Abierto_Mexicano_Telcel,2002,03,03,7-6(4)_3-6_6-1
 Abierto_Mexicano_Telcel,2,2002,03,03,3,Zabaleta_Mariano,Montanes_Albert,Montanes_Albert,Abierto_Mexicano_Telcel,2002,03,03,6-4_4-6_6-3
 Abierto_Mexicano_Telcel,2,2002,03,03,3,Meligeni_Fernando,Sanchez_David,Meligeni_Fernando,Abierto_Mexicano_Telcel,2002,03,03,6-4_7-6(6)
-Abierto_Mexicano_Telcel,2,2002,03,03,3,Clavet_Francisco,Chela_JuanIgnacio,Chela_JuanIgnacio,Abierto_Mexicano_Telcel,2002,03,03,6-7(6)_6-2_7-6(5)
+Abierto_Mexicano_Telcel,2,2002,03,03,3,Clavet_Francisco,Chela_Juan_Ignacio,Chela_Juan_Ignacio,Abierto_Mexicano_Telcel,2002,03,03,6-7(6)_6-2_7-6(5)
 Abierto_Mexicano_Telcel,2,2002,03,03,4,Moya_Carlos,Montanes_Albert,Moya_Carlos,Abierto_Mexicano_Telcel,2002,03,03,7-6(2)_6-4
-Abierto_Mexicano_Telcel,2,2002,03,03,4,Meligeni_Fernando,Chela_JuanIgnacio,Meligeni_Fernando,Abierto_Mexicano_Telcel,2002,03,03,6-2_6-4
+Abierto_Mexicano_Telcel,2,2002,03,03,4,Meligeni_Fernando,Chela_Juan_Ignacio,Meligeni_Fernando,Abierto_Mexicano_Telcel,2002,03,03,6-2_6-4
 Abierto_Mexicano_Telcel,2,2002,03,03,5,Moya_Carlos,Meligeni_Fernando,Moya_Carlos,Abierto_Mexicano_Telcel,2002,03,03,7-6(4)_7-6(4)

@@ -1,7 +1,7 @@
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Davydenko_Nikolay,Safin_Marat,Safin_Marat,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,4-6_6-4_6-2
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Korolev_Evgeny,Kunitsyn_Igor,Korolev_Evgeny,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,7-6(6)_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Marchenko_Illya,Istomin_Denis,Marchenko_Illya,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,1-6_6-4_4-1_RET
-Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Golubev_Andrey,Vassallo_ArguelloMartin,Golubev_Andrey,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,7-5_6-3
+Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Golubev_Andrey,Vassallo_Arguello_Martin,Golubev_Andrey,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,7-5_6-3
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Andreev_Igor,Ginepri_Robby,Ginepri_Robby,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,6-3_6-7(9)_7-6(1)
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Kiefer_Nicolas,Granollers_Marcel,Granollers_Marcel,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,6-4_1-0_RET
 Kremlin_Cup_by_Bank_of_Moscow,2,2009,10,25,1,Gicquel_Marc,Rochus_Christophe,Rochus_Christophe,Kremlin_Cup_by_Bank_of_Moscow,2009,10,25,7-5_RET

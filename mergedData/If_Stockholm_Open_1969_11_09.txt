@@ -3,11 +3,11 @@ If_Stockholm_Open,2,1969,11,09,1,Zahr_Hakan,Barclay_JeanClaude,Zahr_Hakan,If_Sto
 If_Stockholm_Open,2,1969,11,09,1,Riessen_Marty,Ulrich_Jorgen,Riessen_Marty,If_Stockholm_Open,1969,11,09,6-3_6-2
 If_Stockholm_Open,2,1969,11,09,1,Tiriac_Ion,Norberg_Rolf,Tiriac_Ion,If_Stockholm_Open,1969,11,09,6-4_6-1
 If_Stockholm_Open,2,1969,11,09,1,Gimeno_Andres,Johansson_Kjell,Gimeno_Andres,If_Stockholm_Open,1969,11,09,6-4_6-2
-If_Stockholm_Open,2,1969,11,09,1,Bengtson_OveNils,Andersson_Kenneth,Bengtson_OveNils,If_Stockholm_Open,1969,11,09,6-4_6-1
+If_Stockholm_Open,2,1969,11,09,1,Bengtson_Ove_Nils,Andersson_Kenneth,Bengtson_Ove_Nils,If_Stockholm_Open,1969,11,09,6-4_6-1
 If_Stockholm_Open,2,1969,11,09,1,Smith_Stan,Barthes_Pierre,Smith_Stan,If_Stockholm_Open,1969,11,09,W/O
 If_Stockholm_Open,2,1969,11,09,1,Pala_Frantisek,Beust_Patrice,Pala_Frantisek,If_Stockholm_Open,1969,11,09,3-6_6-3_6-0
 If_Stockholm_Open,2,1969,11,09,1,Pilic_Nikola,Taylor_Roger,Pilic_Nikola,If_Stockholm_Open,1969,11,09,6-3_6-2
-If_Stockholm_Open,2,1969,11,09,1,Buchholz_EarlButch,Drysdale_Cliff,Buchholz_EarlButch,If_Stockholm_Open,1969,11,09,7-5_6-2
+If_Stockholm_Open,2,1969,11,09,1,Buchholz_Earl_Butch,Drysdale_Cliff,Buchholz_Earl_Butch,If_Stockholm_Open,1969,11,09,7-5_6-2
 If_Stockholm_Open,2,1969,11,09,1,Andersson_Birger,Holmberg_Ron,Holmberg_Ron,If_Stockholm_Open,1969,11,09,4-6_6-3_6-1
 If_Stockholm_Open,2,1969,11,09,1,Pasarell_Charlie,Emerson_Roy,Pasarell_Charlie,If_Stockholm_Open,1969,11,09,3-6_6-3_7-5
 If_Stockholm_Open,2,1969,11,09,1,Jemsby_Per,Ulrich_Torben,Jemsby_Per,If_Stockholm_Open,1969,11,09,6-3_6-4
@@ -16,9 +16,9 @@ If_Stockholm_Open,2,1969,11,09,1,Folke_Birger,Moore_Raymond,Moore_Raymond,If_Sto
 If_Stockholm_Open,2,1969,11,09,1,Johansson_Leif,Laver_Rod,Laver_Rod,If_Stockholm_Open,1969,11,09,3-6_6-3_6-1
 If_Stockholm_Open,2,1969,11,09,2,Nastase_Ilie,Zahr_Hakan,Nastase_Ilie,If_Stockholm_Open,1969,11,09,6-1_6-3
 If_Stockholm_Open,2,1969,11,09,2,Riessen_Marty,Tiriac_Ion,Tiriac_Ion,If_Stockholm_Open,1969,11,09,6-8_6-3_6-4
-If_Stockholm_Open,2,1969,11,09,2,Gimeno_Andres,Bengtson_OveNils,Gimeno_Andres,If_Stockholm_Open,1969,11,09,2-6_6-3_6-0
+If_Stockholm_Open,2,1969,11,09,2,Gimeno_Andres,Bengtson_Ove_Nils,Gimeno_Andres,If_Stockholm_Open,1969,11,09,2-6_6-3_6-0
 If_Stockholm_Open,2,1969,11,09,2,Smith_Stan,Pala_Frantisek,Smith_Stan,If_Stockholm_Open,1969,11,09,6-4_6-3
-If_Stockholm_Open,2,1969,11,09,2,Pilic_Nikola,Buchholz_EarlButch,Pilic_Nikola,If_Stockholm_Open,1969,11,09,6-3_6-4
+If_Stockholm_Open,2,1969,11,09,2,Pilic_Nikola,Buchholz_Earl_Butch,Pilic_Nikola,If_Stockholm_Open,1969,11,09,6-3_6-4
 If_Stockholm_Open,2,1969,11,09,2,Holmberg_Ron,Pasarell_Charlie,Pasarell_Charlie,If_Stockholm_Open,1969,11,09,6-3_6-2
 If_Stockholm_Open,2,1969,11,09,2,Jemsby_Per,Stolle_Fred,Stolle_Fred,If_Stockholm_Open,1969,11,09,6-2_6-2
 If_Stockholm_Open,2,1969,11,09,2,Moore_Raymond,Laver_Rod,Laver_Rod,If_Stockholm_Open,1969,11,09,6-4_6-4

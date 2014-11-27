@@ -11,7 +11,7 @@ BMW_Open_by_FWU_AG,2,1997,05,04,1,Elsner_Daniel,Medvedev_Andrei,Medvedev_Andrei,
 BMW_Open_by_FWU_AG,2,1997,05,04,1,Charpentier_Marcelo,Draper_Scott,Charpentier_Marcelo,BMW_Open_by_FWU_AG,1997,05,04,4-6_6-4_6-3
 BMW_Open_by_FWU_AG,2,1997,05,04,1,Sinner_Martin,Mantilla_Felix,Sinner_Martin,BMW_Open_by_FWU_AG,1997,05,04,5-7_6-4_4-0DEF
 BMW_Open_by_FWU_AG,2,1997,05,04,1,Rosset_Marc,Prinosil_David,Rosset_Marc,BMW_Open_by_FWU_AG,1997,05,04,2-6_6-3_6-2
-BMW_Open_by_FWU_AG,2,1997,05,04,1,Alami_Karim,Arnold_KerLucas,Alami_Karim,BMW_Open_by_FWU_AG,1997,05,04,7-5_6-4
+BMW_Open_by_FWU_AG,2,1997,05,04,1,Alami_Karim,Arnold_Ker_Lucas,Alami_Karim,BMW_Open_by_FWU_AG,1997,05,04,7-5_6-4
 BMW_Open_by_FWU_AG,2,1997,05,04,1,Furlan_Renzo,Ogorodov_Oleg,Furlan_Renzo,BMW_Open_by_FWU_AG,1997,05,04,2-6_6-4_6-1
 BMW_Open_by_FWU_AG,2,1997,05,04,1,Olhovskiy_Andrei,Moya_Carlos,Moya_Carlos,BMW_Open_by_FWU_AG,1997,05,04,6-1_4-6_6-4
 BMW_Open_by_FWU_AG,2,1997,05,04,2,Enqvist_Thomas,Gaudenzi_Andrea,Gaudenzi_Andrea,BMW_Open_by_FWU_AG,1997,05,04,3-6_6-3_6-2

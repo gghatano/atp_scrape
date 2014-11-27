@@ -7,8 +7,8 @@ Dayton,2,1979,04,08,1,Marks_John,Manson_Bruce,Manson_Bruce,Dayton,1979,04,08,6-1
 Dayton,2,1979,04,08,1,Saviano_Nick,Gardiner_Alvin,Gardiner_Alvin,Dayton,1979,04,08,3-6_6-4_3-1_RET
 Dayton,2,1979,04,08,1,Edmondson_Mark,Teltscher_Eliot,Teltscher_Eliot,Dayton,1979,04,08,7-6_6-1
 Dayton,2,1979,04,08,1,Wilkison_Tim,Ball_Syd,Wilkison_Tim,Dayton,1979,04,08,6-3_6-3
-Dayton,2,1979,04,08,1,Bengtson_OveNils,Riessen_Marty,Riessen_Marty,Dayton,1979,04,08,7-6_4-6_6-2
-Dayton,2,1979,04,08,1,Fillol_SrJaime,Drysdale_Cliff,Fillol_SrJaime,Dayton,1979,04,08,6-3_6-4
+Dayton,2,1979,04,08,1,Bengtson_Ove_Nils,Riessen_Marty,Riessen_Marty,Dayton,1979,04,08,7-6_4-6_6-2
+Dayton,2,1979,04,08,1,Fillol_Sr_Jaime,Drysdale_Cliff,Fillol_Sr_Jaime,Dayton,1979,04,08,6-3_6-4
 Dayton,2,1979,04,08,1,Moor_Terry,Amaya_Victor,Amaya_Victor,Dayton,1979,04,08,6-1_7-6
 Dayton,2,1979,04,08,1,Pfister_Henry,Sadri_John,Pfister_Henry,Dayton,1979,04,08,6-3_6-4
 Dayton,2,1979,04,08,1,Stewart_Sherwood,Dent_Phil,Stewart_Sherwood,Dayton,1979,04,08,4-6_6-4_6-1
@@ -19,7 +19,7 @@ Dayton,2,1979,04,08,2,Gullikson_Tom,Warwick_Kim,Warwick_Kim,Dayton,1979,04,08,7-
 Dayton,2,1979,04,08,2,Walts_Butch,Manson_Bruce,Walts_Butch,Dayton,1979,04,08,6-2_3-6_6-1
 Dayton,2,1979,04,08,2,Gardiner_Alvin,Teltscher_Eliot,Teltscher_Eliot,Dayton,1979,04,08,6-3_6-1
 Dayton,2,1979,04,08,2,Wilkison_Tim,Riessen_Marty,Riessen_Marty,Dayton,1979,04,08,7-6_6-3
-Dayton,2,1979,04,08,2,Fillol_SrJaime,Amaya_Victor,Amaya_Victor,Dayton,1979,04,08,6-4_4-6_7-6
+Dayton,2,1979,04,08,2,Fillol_Sr_Jaime,Amaya_Victor,Amaya_Victor,Dayton,1979,04,08,6-4_4-6_7-6
 Dayton,2,1979,04,08,2,Pfister_Henry,Stewart_Sherwood,Stewart_Sherwood,Dayton,1979,04,08,7-6_6-4
 Dayton,2,1979,04,08,2,Scanlon_Bill,Gullikson_Tim,Gullikson_Tim,Dayton,1979,04,08,6-2_6-2
 Dayton,2,1979,04,08,3,Gorman_Tom,Warwick_Kim,Gorman_Tom,Dayton,1979,04,08,6-3_6-3

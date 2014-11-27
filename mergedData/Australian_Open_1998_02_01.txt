@@ -1,6 +1,6 @@
 Australian_Open,1,1998,02,01,1,Sampras_Pete,Schalken_Sjeng,Sampras_Pete,Australian_Open,1998,02,01,7-5_6-4_6-2
 Australian_Open,1,1998,02,01,1,Martin_Alberto,Sanguinetti_Davide,Sanguinetti_Davide,Australian_Open,1998,02,01,6-0_3-6_7-6(8)_6-3
-Australian_Open,1,1998,02,01,1,Gustafsson_Magnus,Van_ScheppingenDennis,Gustafsson_Magnus,Australian_Open,1998,02,01,6-4_6-3_6-0
+Australian_Open,1,1998,02,01,1,Gustafsson_Magnus,Van_Scheppingen_Dennis,Gustafsson_Magnus,Australian_Open,1998,02,01,6-4_6-3_6-0
 Australian_Open,1,1998,02,01,1,Dosedel_Slava,Boetsch_Arnaud,Dosedel_Slava,Australian_Open,1998,02,01,6-4_3-6_6-3_7-6(2)
 Australian_Open,1,1998,02,01,1,Clavet_Francisco,Burgsmuller_Lars,Clavet_Francisco,Australian_Open,1998,02,01,2-6_6-2_6-3_6-4
 Australian_Open,1,1998,02,01,1,Vasek_Radomir,Washington_MaliVai,Washington_MaliVai,Australian_Open,1998,02,01,6-2_6-4_4-6_7-5
@@ -16,14 +16,14 @@ Australian_Open,1,1998,02,01,1,Fromberg_Richard,Larkham_Todd,Fromberg_Richard,Au
 Australian_Open,1,1998,02,01,1,Tramacchi_Peter,Moya_Carlos,Moya_Carlos,Australian_Open,1998,02,01,6-4_6-3_6-7(6)_7-6(3)
 Australian_Open,1,1998,02,01,1,Bjorkman_Jonas,Belobrajdic_Allen,Bjorkman_Jonas,Australian_Open,1998,02,01,2-6_6-1_6-1_6-1
 Australian_Open,1,1998,02,01,1,Ferreira_Wayne,Kroslak_Jan,Ferreira_Wayne,Australian_Open,1998,02,01,6-4_3-6_6-2_6-3
-Australian_Open,1,1998,02,01,1,Lapentti_Nicolas,VilocaPuig_JuanAlbert,Lapentti_Nicolas,Australian_Open,1998,02,01,5-7_6-3_6-4_6-7(3)_6-1
-Australian_Open,1,1998,02,01,1,Benfele_AlvarezEmilio,Santoro_Fabrice,Santoro_Fabrice,Australian_Open,1998,02,01,4-6_6-0_6-3_5-7_6-4
+Australian_Open,1,1998,02,01,1,Lapentti_Nicolas,VilocaPuig_Juan_Albert,Lapentti_Nicolas,Australian_Open,1998,02,01,5-7_6-3_6-4_6-7(3)_6-1
+Australian_Open,1,1998,02,01,1,Benfele_Alvarez_Emilio,Santoro_Fabrice,Santoro_Fabrice,Australian_Open,1998,02,01,4-6_6-0_6-3_5-7_6-4
 Australian_Open,1,1998,02,01,1,Gimelstob_Justin,Campbell_Steve,Campbell_Steve,Australian_Open,1998,02,01,3-6_6-3_3-6_6-3_6-4
 Australian_Open,1,1998,02,01,1,Gambill_JanMichael,OBrien_Alex,OBrien_Alex,Australian_Open,1998,02,01,3-6_7-5_6-1_6-3
 Australian_Open,1,1998,02,01,1,Clement_Arnaud,Pozzi_Gianluca,Pozzi_Gianluca,Australian_Open,1998,02,01,6-4_4-6_5-7_6-2_6-4
 Australian_Open,1,1998,02,01,1,Black_Byron,Mantilla_Felix,Black_Byron,Australian_Open,1998,02,01,6-4_6-0_4-6_6-4
-Australian_Open,1,1998,02,01,1,Corretja_Alex,Arnold_KerLucas,Corretja_Alex,Australian_Open,1998,02,01,6-4_7-5_2-6_6-3
-Australian_Open,1,1998,02,01,1,Prinosil_David,Van_HerckJohan,Prinosil_David,Australian_Open,1998,02,01,3-6_6-7(2)_6-1_6-4_6-1
+Australian_Open,1,1998,02,01,1,Corretja_Alex,Arnold_Ker_Lucas,Corretja_Alex,Australian_Open,1998,02,01,6-4_7-5_2-6_6-3
+Australian_Open,1,1998,02,01,1,Prinosil_David,Van_Herck_Johan,Prinosil_David,Australian_Open,1998,02,01,3-6_6-7(2)_6-1_6-4_6-1
 Australian_Open,1,1998,02,01,1,Meligeni_Fernando,Pioline_Cedric,Pioline_Cedric,Australian_Open,1998,02,01,6-4_1-6_6-5_RET
 Australian_Open,1,1998,02,01,1,Sargsian_Sargis,Burillo_Jordi,Burillo_Jordi,Australian_Open,1998,02,01,6-3_6-4_1-6_3-6_9-7
 Australian_Open,1,1998,02,01,1,MacPhie_Brian,Rosset_Marc,Rosset_Marc,Australian_Open,1998,02,01,6-4_0-6_6-4_3-6_6-4
@@ -33,7 +33,7 @@ Australian_Open,1,1998,02,01,1,Portas_Albert,Korda_Petr,Korda_Petr,Australian_Op
 Australian_Open,1,1998,02,01,1,Rusedski_Greg,Witt_David,Rusedski_Greg,Australian_Open,1998,02,01,7-6(4)_6-3_6-4
 Australian_Open,1,1998,02,01,1,Stark_Jonathan,Costa_Carlos,Stark_Jonathan,Australian_Open,1998,02,01,6-3_4-1_RET
 Australian_Open,1,1998,02,01,1,Woodbridge_Todd,Dewulf_Filip,Woodbridge_Todd,Australian_Open,1998,02,01,7-5_6-3_7-5
-Australian_Open,1,1998,02,01,1,Ruud_Christian,Van_GarsseChristophe,Van_GarsseChristophe,Australian_Open,1998,02,01,7-6(4)_4-6_1-6_6-4_6-3
+Australian_Open,1,1998,02,01,1,Ruud_Christian,Van_Garsse_Christophe,Van_Garsse_Christophe,Australian_Open,1998,02,01,7-6(4)_4-6_1-6_6-4_6-3
 Australian_Open,1,1998,02,01,1,Johansson_Thomas,Squillari_Franco,Squillari_Franco,Australian_Open,1998,02,01,6-4_2-6_6-3_6-7(6)_8-6
 Australian_Open,1,1998,02,01,1,Ondruska_Marcos,Reneberg_Richey,Reneberg_Richey,Australian_Open,1998,02,01,6-3_6-1_6-1
 Australian_Open,1,1998,02,01,1,Escude_Nicolas,Larsson_Magnus,Escude_Nicolas,Australian_Open,1998,02,01,5-7_4-6_7-5_6-1_10-8
@@ -52,7 +52,7 @@ Australian_Open,1,1998,02,01,1,Radulescu_Alex,Alami_Karim,Alami_Karim,Australian
 Australian_Open,1,1998,02,01,1,Furlan_Renzo,Alonso_Julian,Alonso_Julian,Australian_Open,1998,02,01,7-6(9)_6-2_2-6_6-2
 Australian_Open,1,1998,02,01,1,Stoltenberg_Jason,Blanco_Galo,Stoltenberg_Jason,Australian_Open,1998,02,01,6-2_RET
 Australian_Open,1,1998,02,01,1,Ilie_Andrew,Knippschild_Jens,Ilie_Andrew,Australian_Open,1998,02,01,6-4_6-2_6-3
-Australian_Open,1,1998,02,01,1,Enqvist_Thomas,Marin_JuanAntonio,Enqvist_Thomas,Australian_Open,1998,02,01,6-3_6-4_6-3
+Australian_Open,1,1998,02,01,1,Enqvist_Thomas,Marin_Juan_Antonio,Enqvist_Thomas,Australian_Open,1998,02,01,6-3_6-4_6-3
 Australian_Open,1,1998,02,01,1,Stafford_Grant,Rios_Marcelo,Rios_Marcelo,Australian_Open,1998,02,01,6-1_6-3_6-3
 Australian_Open,1,1998,02,01,1,Costa_Albert,Haas_Tommy,Costa_Albert,Australian_Open,1998,02,01,7-6(5)_6-2_6-4
 Australian_Open,1,1998,02,01,1,Martelli_Marzio,Agassi_Andre,Agassi_Andre,Australian_Open,1998,02,01,3-6_7-6(3)_6-2_6-2
@@ -79,7 +79,7 @@ Australian_Open,1,1998,02,01,2,Pioline_Cedric,Burillo_Jordi,Pioline_Cedric,Austr
 Australian_Open,1,1998,02,01,2,Rosset_Marc,Spadea_Vincent,Spadea_Vincent,Australian_Open,1998,02,01,6-3_4-6_6-4_6-3
 Australian_Open,1,1998,02,01,2,Draper_Scott,Korda_Petr,Korda_Petr,Australian_Open,1998,02,01,7-6(3)_6-3_6-3
 Australian_Open,1,1998,02,01,2,Rusedski_Greg,Stark_Jonathan,Rusedski_Greg,Australian_Open,1998,02,01,6-4_6-4_1-0_RET
-Australian_Open,1,1998,02,01,2,Woodbridge_Todd,Van_GarsseChristophe,Woodbridge_Todd,Australian_Open,1998,02,01,6-4_4-6_6-3_6-4
+Australian_Open,1,1998,02,01,2,Woodbridge_Todd,Van_Garsse_Christophe,Woodbridge_Todd,Australian_Open,1998,02,01,6-4_4-6_6-3_6-4
 Australian_Open,1,1998,02,01,2,Squillari_Franco,Reneberg_Richey,Reneberg_Richey,Australian_Open,1998,02,01,6-0_6-4_1-6_4-6_6-3
 Australian_Open,1,1998,02,01,2,Escude_Nicolas,Kuerten_Gustavo,Escude_Nicolas,Australian_Open,1998,02,01,5-7_6-3_6-1_7-5
 Australian_Open,1,1998,02,01,2,Siemerink_Jan,Golmard_Jerome,Golmard_Jerome,Australian_Open,1998,02,01,7-6(2)_7-5_6-7(5)_3-6_6-1

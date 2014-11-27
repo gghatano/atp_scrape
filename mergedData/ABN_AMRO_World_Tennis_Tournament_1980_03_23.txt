@@ -3,8 +3,8 @@ ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Caujolle_JeanFrancois,Teacher_Br
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Albert_Marc,Delaney_Christofer,Delaney_Christofer,ABN_AMRO_World_Tennis_Tournament,1980,03,23,4-6_6-4_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Walts_Butch,Panatta_Adriano,Panatta_Adriano,ABN_AMRO_World_Tennis_Tournament,1980,03,23,1-6_7-6_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Smith_Stan,McNamee_Paul,McNamee_Paul,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-2_6-2
-ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Van_MinPaul,Goven_Georges,Goven_Georges,ABN_AMRO_World_Tennis_Tournament,1980,03,23,7-5_7-5
-ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Mottram_BusterC,Wilborts_Eric,Mottram_BusterC,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-3_6-0
+ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Van_Min_Paul,Goven_Georges,Goven_Georges,ABN_AMRO_World_Tennis_Tournament,1980,03,23,7-5_7-5
+ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Mottram_Buster_C,Wilborts_Eric,Mottram_Buster_C,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-3_6-0
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Fritz_Bernard,Amritraj_Vijay,Amritraj_Vijay,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-4_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Boileau_Bernard,McMillan_Frew,Boileau_Bernard,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-3_2-6_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Scanlon_Bill,Nastase_Ilie,Nastase_Ilie,ABN_AMRO_World_Tennis_Tournament,1980,03,23,7-6_6-1
@@ -17,7 +17,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,1,Pfister_Henry,Sadri_John,Sadri_J
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Mayer_Gene,Teacher_Brian,Mayer_Gene,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-2_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Delaney_Christofer,Panatta_Adriano,Delaney_Christofer,ABN_AMRO_World_Tennis_Tournament,1980,03,23,1-6_6-3_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,McNamee_Paul,Goven_Georges,McNamee_Paul,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-4_6-4
-ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Mottram_BusterC,Amritraj_Vijay,Amritraj_Vijay,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-7_6-3_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Mottram_Buster_C,Amritraj_Vijay,Amritraj_Vijay,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-7_6-3_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Boileau_Bernard,Nastase_Ilie,Nastase_Ilie,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-3_2-6_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Dibley_Colin,Lendl_Ivan,Lendl_Ivan,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-2_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1980,03,23,2,Kriek_Johan,Gunthardt_Heinz,Gunthardt_Heinz,ABN_AMRO_World_Tennis_Tournament,1980,03,23,6-4_6-0

@@ -6,7 +6,7 @@ Copa_Claro,2,2003,02,23,1,Gonzalez_Fernando,Sanchez_David,Gonzalez_Fernando,Copa
 Copa_Claro,2,2003,02,23,1,Mantilla_Felix,Portas_Albert,Mantilla_Felix,Copa_Claro,2003,02,23,6-3_6-1
 Copa_Claro,2,2003,02,23,1,Etlis_Gaston,Saretta_Flavio,Saretta_Flavio,Copa_Claro,2003,02,23,7-6(3)_6-3
 Copa_Claro,2,2003,02,23,1,Miranda_Ivan,Kuerten_Gustavo,Kuerten_Gustavo,Copa_Claro,2003,02,23,6-2_6-4
-Copa_Claro,2,2003,02,23,1,Chela_JuanIgnacio,Charpentier_Marcelo,Chela_JuanIgnacio,Copa_Claro,2003,02,23,2-6_6-3_6-1
+Copa_Claro,2,2003,02,23,1,Chela_Juan_Ignacio,Charpentier_Marcelo,Chela_Juan_Ignacio,Copa_Claro,2003,02,23,2-6_6-3_6-1
 Copa_Claro,2,2003,02,23,1,Calleri_Agustin,Massu_Nicolas,Calleri_Agustin,Copa_Claro,2003,02,23,6-4_2-6_6-4
 Copa_Claro,2,2003,02,23,1,Montanes_Albert,Meligeni_Fernando,Meligeni_Fernando,Copa_Claro,2003,02,23,6-4_6-1
 Copa_Claro,2,2003,02,23,1,Puerta_Mariano,Gaudio_Gaston,Gaudio_Gaston,Copa_Claro,2003,02,23,6-4_6-2
@@ -18,13 +18,13 @@ Copa_Claro,2,2003,02,23,2,Moya_Carlos,Massa_Edgardo,Moya_Carlos,Copa_Claro,2003,
 Copa_Claro,2,2003,02,23,2,Horna_Luis,Lapentti_Nicolas,Horna_Luis,Copa_Claro,2003,02,23,6-3_6-4
 Copa_Claro,2,2003,02,23,2,Gonzalez_Fernando,Mantilla_Felix,Mantilla_Felix,Copa_Claro,2003,02,23,W/O
 Copa_Claro,2,2003,02,23,2,Saretta_Flavio,Kuerten_Gustavo,Kuerten_Gustavo,Copa_Claro,2003,02,23,6-4_6-7(5)_7-5
-Copa_Claro,2,2003,02,23,2,Chela_JuanIgnacio,Calleri_Agustin,Chela_JuanIgnacio,Copa_Claro,2003,02,23,7-5_7-5
+Copa_Claro,2,2003,02,23,2,Chela_Juan_Ignacio,Calleri_Agustin,Chela_Juan_Ignacio,Copa_Claro,2003,02,23,7-5_7-5
 Copa_Claro,2,2003,02,23,2,Meligeni_Fernando,Gaudio_Gaston,Gaudio_Gaston,Copa_Claro,2003,02,23,7-6(4)_4-6_6-0
 Copa_Claro,2,2003,02,23,2,Coria_Guillermo,Zabaleta_Mariano,Coria_Guillermo,Copa_Claro,2003,02,23,6-4_2-6_6-3
 Copa_Claro,2,2003,02,23,2,Squillari_Franco,Nalbandian_David,Nalbandian_David,Copa_Claro,2003,02,23,6-1_6-3
 Copa_Claro,2,2003,02,23,3,Moya_Carlos,Horna_Luis,Moya_Carlos,Copa_Claro,2003,02,23,6-7(4)_6-3_7-5
 Copa_Claro,2,2003,02,23,3,Mantilla_Felix,Kuerten_Gustavo,Kuerten_Gustavo,Copa_Claro,2003,02,23,6-2_6-7(4)_6-1
-Copa_Claro,2,2003,02,23,3,Chela_JuanIgnacio,Gaudio_Gaston,Gaudio_Gaston,Copa_Claro,2003,02,23,6-3_6-4
+Copa_Claro,2,2003,02,23,3,Chela_Juan_Ignacio,Gaudio_Gaston,Gaudio_Gaston,Copa_Claro,2003,02,23,6-3_6-4
 Copa_Claro,2,2003,02,23,3,Coria_Guillermo,Nalbandian_David,Coria_Guillermo,Copa_Claro,2003,02,23,3-6_6-3_7-6(5)
 Copa_Claro,2,2003,02,23,4,Moya_Carlos,Kuerten_Gustavo,Moya_Carlos,Copa_Claro,2003,02,23,7-6(8)_6-1
 Copa_Claro,2,2003,02,23,4,Gaudio_Gaston,Coria_Guillermo,Coria_Guillermo,Copa_Claro,2003,02,23,6-3_1-6_6-3

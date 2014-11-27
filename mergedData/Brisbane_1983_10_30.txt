@@ -1,8 +1,8 @@
 Brisbane,2,1983,10,30,1,Curren_Kevin,Youl_Simon,Youl_Simon,Brisbane,1983,10,30,6-3_0-6_6-1
 Brisbane,2,1983,10,30,1,Drewett_Brad,Mustard_David,Drewett_Brad,Brisbane,1983,10,30,7-6_6-1
-Brisbane,2,1983,10,30,1,Van_PattenVincent,Buehning_Fritz,Van_PattenVincent,Brisbane,1983,10,30,6-3_2-6_7-5
+Brisbane,2,1983,10,30,1,Van_Patten_Vincent,Buehning_Fritz,Van_Patten_Vincent,Brisbane,1983,10,30,6-3_2-6_7-5
 Brisbane,2,1983,10,30,1,Johnstone_Chris,Cash_Pat,Cash_Pat,Brisbane,1983,10,30,5-7_6-3_6-2
-Brisbane,2,1983,10,30,1,Lewis_NZLChris,Frawley_Rod,Lewis_NZLChris,Brisbane,1983,10,30,7-6_6-3
+Brisbane,2,1983,10,30,1,Lewis_NZL_Chris,Frawley_Rod,Lewis_NZL_Chris,Brisbane,1983,10,30,7-6_6-3
 Brisbane,2,1983,10,30,1,Wittus_Craig,Gilbert_Brad,Gilbert_Brad,Brisbane,1983,10,30,6-1_6-2
 Brisbane,2,1983,10,30,1,Meister_Steve,Waltke_Trey,Meister_Steve,Brisbane,1983,10,30,6-4_6-2
 Brisbane,2,1983,10,30,1,Menon_Sashi,Alexander_John,Alexander_John,Brisbane,1983,10,30,6-3_6-4
@@ -15,8 +15,8 @@ Brisbane,2,1983,10,30,1,Gonzalez_Francisco,Greenwood_Brett,Gonzalez_Francisco,Br
 Brisbane,2,1983,10,30,1,Warwick_Kim,Barlow_Russell,Barlow_Russell,Brisbane,1983,10,30,6-2_6-4
 Brisbane,2,1983,10,30,1,Mitchell_Matt,Denton_Steve,Mitchell_Matt,Brisbane,1983,10,30,7-6_6-4
 Brisbane,2,1983,10,30,2,Youl_Simon,Drewett_Brad,Youl_Simon,Brisbane,1983,10,30,4-6_7-6_7-6
-Brisbane,2,1983,10,30,2,Van_PattenVincent,Cash_Pat,Cash_Pat,Brisbane,1983,10,30,6-4_6-4
-Brisbane,2,1983,10,30,2,Lewis_NZLChris,Gilbert_Brad,Gilbert_Brad,Brisbane,1983,10,30,6-3_6-3
+Brisbane,2,1983,10,30,2,Van_Patten_Vincent,Cash_Pat,Cash_Pat,Brisbane,1983,10,30,6-4_6-4
+Brisbane,2,1983,10,30,2,Lewis_NZL_Chris,Gilbert_Brad,Gilbert_Brad,Brisbane,1983,10,30,6-3_6-3
 Brisbane,2,1983,10,30,2,Meister_Steve,Alexander_John,Alexander_John,Brisbane,1983,10,30,6-2_6-2
 Brisbane,2,1983,10,30,2,Fitzgerald_John,Masur_Wally,Fitzgerald_John,Brisbane,1983,10,30,7-6_7-5
 Brisbane,2,1983,10,30,2,Leach_Mike,Edmondson_Mark,Leach_Mike,Brisbane,1983,10,30,6-3_6-4

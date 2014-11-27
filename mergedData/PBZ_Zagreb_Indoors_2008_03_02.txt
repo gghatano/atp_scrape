@@ -1,10 +1,10 @@
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Ljubicic_Ivan,Gulbis_Ernests,Ljubicic_Ivan,PBZ_Zagreb_Indoors,2008,03,02,6-3_7-6(7)
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Zovko_Lovro,Gicquel_Marc,Zovko_Lovro,PBZ_Zagreb_Indoors,2008,03,02,6-3_7-5
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Gabashvili_Teymuraz,Mayer_Florian,Gabashvili_Teymuraz,PBZ_Zagreb_Indoors,2008,03,02,7-6(6)_6-0
-PBZ_Zagreb_Indoors,2,2008,03,02,1,De_VoestRik,Seppi_Andreas,De_VoestRik,PBZ_Zagreb_Indoors,2008,03,02,6-4_7-6(3)
+PBZ_Zagreb_Indoors,2,2008,03,02,1,De_Voest_Rik,Seppi_Andreas,De_Voest_Rik,PBZ_Zagreb_Indoors,2008,03,02,6-4_7-6(3)
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Simon_Gilles,Cervenak_Pavol,Simon_Gilles,PBZ_Zagreb_Indoors,2008,03,02,7-6(2)_6-1
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Berrer_Michael,Haase_Robin,Haase_Robin,PBZ_Zagreb_Indoors,2008,03,02,6-4_6-3
-PBZ_Zagreb_Indoors,2,2008,03,02,1,Gremelmayr_Denis,De_ChaunacSebastien,Gremelmayr_Denis,PBZ_Zagreb_Indoors,2008,03,02,6-7(2)_6-1_6-4
+PBZ_Zagreb_Indoors,2,2008,03,02,1,Gremelmayr_Denis,De_Chaunac_Sebastien,Gremelmayr_Denis,PBZ_Zagreb_Indoors,2008,03,02,6-7(2)_6-1_6-4
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Ancic_Mario,Mahut_Nicolas,Ancic_Mario,PBZ_Zagreb_Indoors,2008,03,02,7-6(3)_7-6(6)
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Cilic_Marin,GarciaLopez_Guillermo,Cilic_Marin,PBZ_Zagreb_Indoors,2008,03,02,6-2_6-2
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Schuettler_Rainer,Bolelli_Simone,Bolelli_Simone,PBZ_Zagreb_Indoors,2008,03,02,6-3_6-2
@@ -15,7 +15,7 @@ PBZ_Zagreb_Indoors,2,2008,03,02,1,Karanusic_Roko,Kavcic_Blaz,Karanusic_Roko,PBZ_
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Troicki_Viktor,Bastl_George,Troicki_Viktor,PBZ_Zagreb_Indoors,2008,03,02,6-3_7-6(3)
 PBZ_Zagreb_Indoors,2,2008,03,02,1,Stakhovsky_Sergiy,Karlovic_Ivo,Stakhovsky_Sergiy,PBZ_Zagreb_Indoors,2008,03,02,4-6_7-6(5)_6-2
 PBZ_Zagreb_Indoors,2,2008,03,02,2,Ljubicic_Ivan,Zovko_Lovro,Ljubicic_Ivan,PBZ_Zagreb_Indoors,2008,03,02,6-4_7-6(3)
-PBZ_Zagreb_Indoors,2,2008,03,02,2,Gabashvili_Teymuraz,De_VoestRik,Gabashvili_Teymuraz,PBZ_Zagreb_Indoors,2008,03,02,7-5_6-1
+PBZ_Zagreb_Indoors,2,2008,03,02,2,Gabashvili_Teymuraz,De_Voest_Rik,Gabashvili_Teymuraz,PBZ_Zagreb_Indoors,2008,03,02,7-5_6-1
 PBZ_Zagreb_Indoors,2,2008,03,02,2,Simon_Gilles,Haase_Robin,Haase_Robin,PBZ_Zagreb_Indoors,2008,03,02,6-2_6-4
 PBZ_Zagreb_Indoors,2,2008,03,02,2,Gremelmayr_Denis,Ancic_Mario,Ancic_Mario,PBZ_Zagreb_Indoors,2008,03,02,6-3_6-2
 PBZ_Zagreb_Indoors,2,2008,03,02,2,Cilic_Marin,Bolelli_Simone,Bolelli_Simone,PBZ_Zagreb_Indoors,2008,03,02,6-4_6-3

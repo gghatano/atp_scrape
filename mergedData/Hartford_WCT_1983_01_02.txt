@@ -1,12 +1,12 @@
 Hartford_WCT,2,1983,01,02,1,Lendl_Ivan,Gilbert_Brad,Lendl_Ivan,Hartford_WCT,1983,01,02,6-2_6-2
-Hartford_WCT,2,1983,01,02,1,Dibbs_Eddie,Damiani_JoseLuis,Damiani_JoseLuis,Hartford_WCT,1983,01,02,6-3_7-6
+Hartford_WCT,2,1983,01,02,1,Dibbs_Eddie,Damiani_Jose_Luis,Damiani_Jose_Luis,Hartford_WCT,1983,01,02,6-3_7-6
 Hartford_WCT,2,1983,01,02,1,Curren_Kevin,Dickson_Mark,Dickson_Mark,Hartford_WCT,1983,01,02,7-6_6-4
 Hartford_WCT,2,1983,01,02,1,Solomon_Harold,Taroczy_Balazs,Taroczy_Balazs,Hartford_WCT,1983,01,02,7-6_7-5
 Hartford_WCT,2,1983,01,02,1,Tanner_Roscoe,Gildemeister_Hans,Gildemeister_Hans,Hartford_WCT,1983,01,02,6-4_7-5
 Hartford_WCT,2,1983,01,02,1,Scanlon_Bill,Fibak_Wojtek,Scanlon_Bill,Hartford_WCT,1983,01,02,2-6_6-3_6-4
 Hartford_WCT,2,1983,01,02,1,McNamara_Peter,Lutz_Robert,Lutz_Robert,Hartford_WCT,1983,01,02,7-5_6-3
 Hartford_WCT,2,1983,01,02,1,Lapidus_Jay,Clerc_JoseLuis,Lapidus_Jay,Hartford_WCT,1983,01,02,6-4_3-6_6-1
-Hartford_WCT,2,1983,01,02,2,Lendl_Ivan,Damiani_JoseLuis,Lendl_Ivan,Hartford_WCT,1983,01,02,6-4_6-4
+Hartford_WCT,2,1983,01,02,2,Lendl_Ivan,Damiani_Jose_Luis,Lendl_Ivan,Hartford_WCT,1983,01,02,6-4_6-4
 Hartford_WCT,2,1983,01,02,2,Dickson_Mark,Taroczy_Balazs,Taroczy_Balazs,Hartford_WCT,1983,01,02,6-7_6-2_6-2
 Hartford_WCT,2,1983,01,02,2,Gildemeister_Hans,Scanlon_Bill,Scanlon_Bill,Hartford_WCT,1983,01,02,6-3_6-2
 Hartford_WCT,2,1983,01,02,2,Lutz_Robert,Lapidus_Jay,Lutz_Robert,Hartford_WCT,1983,01,02,6-3_4-0_RET

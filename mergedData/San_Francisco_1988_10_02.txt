@@ -3,7 +3,7 @@ San_Francisco,2,1988,10,02,1,Visser_Danie,Garrow_Brian,Visser_Danie,San_Francisc
 San_Francisco,2,1988,10,02,1,Cassidy_Dan,Saceanu_Christian,Saceanu_Christian,San_Francisco,1988,10,02,6-4_6-3
 San_Francisco,2,1988,10,02,1,Annacone_Paul,Rostagno_Derrick,Annacone_Paul,San_Francisco,1988,10,02,6-4_6-2
 San_Francisco,2,1988,10,02,1,Pernfors_Mikael,Nelson_Todd,Pernfors_Mikael,San_Francisco,1988,10,02,6-3_6-2
-San_Francisco,2,1988,10,02,1,Van_RensburgChristo,Tarango_Jeff,Tarango_Jeff,San_Francisco,1988,10,02,6-4_4-6_7-5
+San_Francisco,2,1988,10,02,1,Van_Rensburg_Christo,Tarango_Jeff,Tarango_Jeff,San_Francisco,1988,10,02,6-4_4-6_7-5
 San_Francisco,2,1988,10,02,1,Kuhnen_Patrik,Chang_Michael,Chang_Michael,San_Francisco,1988,10,02,6-4_6-2
 San_Francisco,2,1988,10,02,1,Dyke_Broderick,Goldie_Dan,Goldie_Dan,San_Francisco,1988,10,02,7-6_7-6
 San_Francisco,2,1988,10,02,1,Pate_David,Lundgren_Peter,Pate_David,San_Francisco,1988,10,02,7-5_6-4

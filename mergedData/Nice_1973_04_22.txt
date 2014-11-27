@@ -11,7 +11,7 @@ Nice,2,1973,04,22,1,Proisy_Patrick,Szoke_Peter,Szoke_Peter,Nice,1973,04,22,6-4_5
 Nice,2,1973,04,22,1,Gimeno_Andres,Kary_Hans,Gimeno_Andres,Nice,1973,04,22,6-1_1-6_6-1
 Nice,2,1973,04,22,1,Johansson_Kjell,Goven_Georges,Goven_Georges,Nice,1973,04,22,6-3_6-4
 Nice,2,1973,04,22,1,Faulk_Steve,Hrebec_Jiri,Faulk_Steve,Nice,1973,04,22,7-6_4-6_6-3
-Nice,2,1973,04,22,1,Dominguez_Patrice,Gisbert_SrJuan,Gisbert_SrJuan,Nice,1973,04,22,6-3_6-0
+Nice,2,1973,04,22,1,Dominguez_Patrice,Gisbert_Sr_Juan,Gisbert_Sr_Juan,Nice,1973,04,22,6-3_6-0
 Nice,2,1973,04,22,1,Mulligan_Martin,Munoz_Antonio,Mulligan_Martin,Nice,1973,04,22,6-2_6-4
 Nice,2,1973,04,22,1,Franchitti_Vincenzo,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,7-6_6-1
 Nice,2,1973,04,22,2,Panatta_Adriano,Gerken_Paul,Panatta_Adriano,Nice,1973,04,22,6-2_3-6_6-4
@@ -20,12 +20,12 @@ Nice,2,1973,04,22,2,Meiler_Karl,Korpas_Attila,Meiler_Karl,Nice,1973,04,22,3-6_6-
 Nice,2,1973,04,22,2,Jauffret_Francois,NGodrella_Wanaro,NGodrella_Wanaro,Nice,1973,04,22,7-6_4-3_RET
 Nice,2,1973,04,22,2,Nowicki_Tadeusz,Szoke_Peter,Nowicki_Tadeusz,Nice,1973,04,22,2-6_7-5_6-0
 Nice,2,1973,04,22,2,Gimeno_Andres,Goven_Georges,Goven_Georges,Nice,1973,04,22,6-2_6-3
-Nice,2,1973,04,22,2,Faulk_Steve,Gisbert_SrJuan,Gisbert_SrJuan,Nice,1973,04,22,6-1_7-5
+Nice,2,1973,04,22,2,Faulk_Steve,Gisbert_Sr_Juan,Gisbert_Sr_Juan,Nice,1973,04,22,6-1_7-5
 Nice,2,1973,04,22,2,Mulligan_Martin,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,7-6_6-1
 Nice,2,1973,04,22,3,Panatta_Adriano,Tiriac_Ion,Panatta_Adriano,Nice,1973,04,22,6-2_4-6_6-4
 Nice,2,1973,04,22,3,Meiler_Karl,NGodrella_Wanaro,NGodrella_Wanaro,Nice,1973,04,22,6-4_7-5
 Nice,2,1973,04,22,3,Nowicki_Tadeusz,Goven_Georges,Nowicki_Tadeusz,Nice,1973,04,22,2-6_7-5_6-0
-Nice,2,1973,04,22,3,Gisbert_SrJuan,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,6-3_RET
+Nice,2,1973,04,22,3,Gisbert_Sr_Juan,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,6-3_RET
 Nice,2,1973,04,22,4,Panatta_Adriano,NGodrella_Wanaro,Panatta_Adriano,Nice,1973,04,22,6-7_4-6_6-1_6-3_7-5
 Nice,2,1973,04,22,4,Nowicki_Tadeusz,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,6-3_6-1_6-4
 Nice,2,1973,04,22,5,Panatta_Adriano,Orantes_Manuel,Orantes_Manuel,Nice,1973,04,22,7-6_5-7_4-6_7-6_12-10

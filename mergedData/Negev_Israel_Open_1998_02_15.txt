@@ -10,9 +10,9 @@ Negev_Israel_Open,2,1998,02,15,1,Hrbaty_Dominik,Schuettler_Rainer,Hrbaty_Dominik
 Negev_Israel_Open,2,1998,02,15,1,Kulti_Nicklas,Schaller_Gilbert,Kulti_Nicklas,Negev_Israel_Open,1998,02,15,6-2_2-0
 Negev_Israel_Open,2,1998,02,15,1,Delaitre_Olivier,Golmard_Jerome,Delaitre_Olivier,Negev_Israel_Open,1998,02,15,7-5_6-1
 Negev_Israel_Open,2,1998,02,15,1,Tchernenko_Artemi,Rosset_Marc,Rosset_Marc,Negev_Israel_Open,1998,02,15,6-2_6-3
-Negev_Israel_Open,2,1998,02,15,1,Goellner_MarcKevin,Marin_JuanAntonio,Goellner_MarcKevin,Negev_Israel_Open,1998,02,15,6-4_7-5
+Negev_Israel_Open,2,1998,02,15,1,Goellner_MarcKevin,Marin_Juan_Antonio,Goellner_MarcKevin,Negev_Israel_Open,1998,02,15,6-4_7-5
 Negev_Israel_Open,2,1998,02,15,1,IvanovSmolensky_Kirill,Dreekmann_Hendrik,Dreekmann_Hendrik,Negev_Israel_Open,1998,02,15,6-1_6-2
-Negev_Israel_Open,2,1998,02,15,1,Tillstrom_Mikael,Van_HerckJohan,Van_HerckJohan,Negev_Israel_Open,1998,02,15,3-6_6-3_6-4
+Negev_Israel_Open,2,1998,02,15,1,Tillstrom_Mikael,Van_Herck_Johan,Van_Herck_Johan,Negev_Israel_Open,1998,02,15,3-6_6-3_6-4
 Negev_Israel_Open,2,1998,02,15,1,Ondruska_Marcos,Pioline_Cedric,Pioline_Cedric,Negev_Israel_Open,1998,02,15,7-5_6-2
 Negev_Israel_Open,2,1998,02,15,2,Krajicek_Richard,Prinosil_David,Krajicek_Richard,Negev_Israel_Open,1998,02,15,6-7(2)_6-4_6-2
 Negev_Israel_Open,2,1998,02,15,2,Knippschild_Jens,Vacek_Daniel,Vacek_Daniel,Negev_Israel_Open,1998,02,15,6-2_2-1_RET
@@ -21,7 +21,7 @@ Negev_Israel_Open,2,1998,02,15,2,Sanguinetti_Davide,Johansson_Thomas,Johansson_T
 Negev_Israel_Open,2,1998,02,15,2,Hrbaty_Dominik,Kulti_Nicklas,Hrbaty_Dominik,Negev_Israel_Open,1998,02,15,6-3_6-4
 Negev_Israel_Open,2,1998,02,15,2,Delaitre_Olivier,Rosset_Marc,Rosset_Marc,Negev_Israel_Open,1998,02,15,6-4_6-3
 Negev_Israel_Open,2,1998,02,15,2,Goellner_MarcKevin,Dreekmann_Hendrik,Dreekmann_Hendrik,Negev_Israel_Open,1998,02,15,6-4_6-4
-Negev_Israel_Open,2,1998,02,15,2,Van_HerckJohan,Pioline_Cedric,Pioline_Cedric,Negev_Israel_Open,1998,02,15,6-3_6-4
+Negev_Israel_Open,2,1998,02,15,2,Van_Herck_Johan,Pioline_Cedric,Pioline_Cedric,Negev_Israel_Open,1998,02,15,6-3_6-4
 Negev_Israel_Open,2,1998,02,15,3,Krajicek_Richard,Vacek_Daniel,Krajicek_Richard,Negev_Israel_Open,1998,02,15,7-6(4)_6-1
 Negev_Israel_Open,2,1998,02,15,3,Santoro_Fabrice,Johansson_Thomas,Johansson_Thomas,Negev_Israel_Open,1998,02,15,6-3_6-3
 Negev_Israel_Open,2,1998,02,15,3,Hrbaty_Dominik,Rosset_Marc,Rosset_Marc,Negev_Israel_Open,1998,02,15,6-4_6-3

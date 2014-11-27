@@ -1,7 +1,7 @@
 Richmond_WCT,2,1973,02,04,1,Laver_Rod,McMillan_Frew,Laver_Rod,Richmond_WCT,1973,02,04,7-5_4-6_6-1
 Richmond_WCT,2,1973,02,04,1,Stone_Allan,Froehling_Frank,Froehling_Frank,Richmond_WCT,1973,02,04,7-6(2)_7-5
 Richmond_WCT,2,1973,02,04,1,Gottfried_Brian,Parun_Onny,Gottfried_Brian,Richmond_WCT,1973,02,04,6-3_6-1
-Richmond_WCT,2,1973,02,04,1,Mandarino_JoseEdison,Richey_Cliff,Richey_Cliff,Richmond_WCT,1973,02,04,6-0_6-3
+Richmond_WCT,2,1973,02,04,1,Mandarino_Jose_Edison,Richey_Cliff,Richey_Cliff,Richmond_WCT,1973,02,04,6-0_6-3
 Richmond_WCT,2,1973,02,04,1,Smith_Stan,PhillipsMoore_Barry,Smith_Stan,Richmond_WCT,1973,02,04,6-3_6-3
 Richmond_WCT,2,1973,02,04,1,Hewitt_Bob,Pasarell_Charlie,Pasarell_Charlie,Richmond_WCT,1973,02,04,3-2_RET
 Richmond_WCT,2,1973,02,04,1,Pilic_Nikola,Solomon_Harold,Pilic_Nikola,Richmond_WCT,1973,02,04,7-6(3)_6-3
@@ -10,9 +10,9 @@ Richmond_WCT,2,1973,02,04,1,Lutz_Robert,Holecek_Milan,Lutz_Robert,Richmond_WCT,1
 Richmond_WCT,2,1973,02,04,1,Drysdale_Cliff,Pattison_Andrew,Pattison_Andrew,Richmond_WCT,1973,02,04,W/O
 Richmond_WCT,2,1973,02,04,1,Battrick_Gerald,Maud_Robert,Maud_Robert,Richmond_WCT,1973,02,04,6-4_3-6_7-5
 Richmond_WCT,2,1973,02,04,1,Addison_Terry,Emerson_Roy,Emerson_Roy,Richmond_WCT,1973,02,04,6-1_2-6_6-4
-Richmond_WCT,2,1973,02,04,1,McManus_Jim,Fillol_SrJaime,Fillol_SrJaime,Richmond_WCT,1973,02,04,6-3_6-4
+Richmond_WCT,2,1973,02,04,1,McManus_Jim,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Richmond_WCT,1973,02,04,6-3_6-4
 Richmond_WCT,2,1973,02,04,1,Dent_Phil,Edlefsen_Tom,Dent_Phil,Richmond_WCT,1973,02,04,6-2_6-2
-Richmond_WCT,2,1973,02,04,1,Bengtson_OveNils,Dibley_Colin,Dibley_Colin,Richmond_WCT,1973,02,04,6-3_6-2
+Richmond_WCT,2,1973,02,04,1,Bengtson_Ove_Nils,Dibley_Colin,Dibley_Colin,Richmond_WCT,1973,02,04,6-3_6-2
 Richmond_WCT,2,1973,02,04,1,Cornejo_Patricio,Stockton_Dick,Stockton_Dick,Richmond_WCT,1973,02,04,7-5_6-3
 Richmond_WCT,2,1973,02,04,2,Laver_Rod,Froehling_Frank,Laver_Rod,Richmond_WCT,1973,02,04,6-3_7-5
 Richmond_WCT,2,1973,02,04,2,Gottfried_Brian,Richey_Cliff,Richey_Cliff,Richmond_WCT,1973,02,04,6-0_6-2
@@ -20,7 +20,7 @@ Richmond_WCT,2,1973,02,04,2,Smith_Stan,Pasarell_Charlie,Smith_Stan,Richmond_WCT,
 Richmond_WCT,2,1973,02,04,2,Pilic_Nikola,Alexander_John,Alexander_John,Richmond_WCT,1973,02,04,7-6(4)_7-6(7)
 Richmond_WCT,2,1973,02,04,2,Lutz_Robert,Pattison_Andrew,Lutz_Robert,Richmond_WCT,1973,02,04,6-3_6-3
 Richmond_WCT,2,1973,02,04,2,Maud_Robert,Emerson_Roy,Emerson_Roy,Richmond_WCT,1973,02,04,3-6_7-6(5)_6-1
-Richmond_WCT,2,1973,02,04,2,Fillol_SrJaime,Dent_Phil,Dent_Phil,Richmond_WCT,1973,02,04,7-6(6)_6-2
+Richmond_WCT,2,1973,02,04,2,Fillol_Sr_Jaime,Dent_Phil,Dent_Phil,Richmond_WCT,1973,02,04,7-6(6)_6-2
 Richmond_WCT,2,1973,02,04,2,Dibley_Colin,Stockton_Dick,Stockton_Dick,Richmond_WCT,1973,02,04,7-6(4)_7-6(3)
 Richmond_WCT,2,1973,02,04,3,Laver_Rod,Richey_Cliff,Laver_Rod,Richmond_WCT,1973,02,04,6-4_6-3
 Richmond_WCT,2,1973,02,04,3,Smith_Stan,Alexander_John,Alexander_John,Richmond_WCT,1973,02,04,4-6_6-3_6-4

@@ -25,7 +25,7 @@ Austrian_Open,2,1985,08,11,1,Slozil_Pavel,Krickstein_Aaron,Slozil_Pavel,Austrian
 Austrian_Open,2,1985,08,11,1,Cancellotti_Francesco,Cahill_Darren,Cahill_Darren,Austrian_Open,1985,08,11,6-2_6-4
 Austrian_Open,2,1985,08,11,1,Buckley_Mark,Kuharszky_Zoltan,Buckley_Mark,Austrian_Open,1985,08,11,6-4_3-6_6-3
 Austrian_Open,2,1985,08,11,1,Rosenquist_Fredrik,Casal_Sergio,Casal_Sergio,Austrian_Open,1985,08,11,2-6_7-6_6-4
-Austrian_Open,2,1985,08,11,1,De_MinicisAlessandro,Osterthun_Ricki,De_MinicisAlessandro,Austrian_Open,1985,08,11,7-6_3-6_6-3
+Austrian_Open,2,1985,08,11,1,De_Minicis_Alessandro,Osterthun_Ricki,De_Minicis_Alessandro,Austrian_Open,1985,08,11,7-6_3-6_6-3
 Austrian_Open,2,1985,08,11,1,Arraya_Pablo,Panatta_Claudio,Panatta_Claudio,Austrian_Open,1985,08,11,6-1_7-5
 Austrian_Open,2,1985,08,11,1,Navratil_Jaroslav,Meinecke_Tore,Meinecke_Tore,Austrian_Open,1985,08,11,6-3_6-4
 Austrian_Open,2,1985,08,11,1,Bottazzi_Luca,Youl_Simon,Bottazzi_Luca,Austrian_Open,1985,08,11,6-2_7-5
@@ -43,7 +43,7 @@ Austrian_Open,2,1985,08,11,2,Willenborg_Blaine,Tulasne_Thierry,Tulasne_Thierry,A
 Austrian_Open,2,1985,08,11,2,Antonitsch_Alex,Allan_Trevor,Antonitsch_Alex,Austrian_Open,1985,08,11,1-6_6-3_6-4
 Austrian_Open,2,1985,08,11,2,Novacek_Karel,Slozil_Pavel,Slozil_Pavel,Austrian_Open,1985,08,11,6-4_6-2
 Austrian_Open,2,1985,08,11,2,Cahill_Darren,Buckley_Mark,Cahill_Darren,Austrian_Open,1985,08,11,7-6_6-2
-Austrian_Open,2,1985,08,11,2,Casal_Sergio,De_MinicisAlessandro,Casal_Sergio,Austrian_Open,1985,08,11,6-3_4-6_6-1
+Austrian_Open,2,1985,08,11,2,Casal_Sergio,De_Minicis_Alessandro,Casal_Sergio,Austrian_Open,1985,08,11,6-3_4-6_6-1
 Austrian_Open,2,1985,08,11,2,Panatta_Claudio,Meinecke_Tore,Meinecke_Tore,Austrian_Open,1985,08,11,6-1_1-6_6-3
 Austrian_Open,2,1985,08,11,2,Bottazzi_Luca,Sanchez_Emilio,Sanchez_Emilio,Austrian_Open,1985,08,11,6-1_6-2
 Austrian_Open,2,1985,08,11,3,Perez_Diego,Carlsson_Kent,Carlsson_Kent,Austrian_Open,1985,08,11,3-6_6-4_6-3

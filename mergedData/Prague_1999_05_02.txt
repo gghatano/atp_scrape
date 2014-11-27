@@ -8,7 +8,7 @@ Prague,2,1999,05,02,1,Miketa_David,Cherkasov_Andrei,Cherkasov_Andrei,Prague,1999
 Prague,2,1999,05,02,1,Dupuis_Antony,Hrbaty_Dominik,Hrbaty_Dominik,Prague,1999,05,02,6-3_7-5
 Prague,2,1999,05,02,1,Ketola_Tuomas,Vicente_Fernando,Vicente_Fernando,Prague,1999,05,02,6-1_6-3
 Prague,2,1999,05,02,1,Dosedel_Slava,Nainkin_David,Dosedel_Slava,Prague,1999,05,02,7-6(5)_6-4
-Prague,2,1999,05,02,1,Di_PasqualeArnaud,Knippschild_Jens,Di_PasqualeArnaud,Prague,1999,05,02,6-3_6-0
+Prague,2,1999,05,02,1,Di_Pasquale_Arnaud,Knippschild_Jens,Di_Pasquale_Arnaud,Prague,1999,05,02,6-3_6-0
 Prague,2,1999,05,02,1,Zib_Tomas,Safin_Marat,Zib_Tomas,Prague,1999,05,02,1-6_6-1_7-5
 Prague,2,1999,05,02,1,Ilie_Andrew,Prieto_Sebastian,Ilie_Andrew,Prague,1999,05,02,6-2_6-4
 Prague,2,1999,05,02,1,Puentes_German,Tarango_Jeff,Puentes_German,Prague,1999,05,02,6-2_6-1
@@ -19,12 +19,12 @@ Prague,2,1999,05,02,2,Stanoytchev_Orlin,Lapentti_Nicolas,Stanoytchev_Orlin,Pragu
 Prague,2,1999,05,02,2,Pioline_Cedric,Meligeni_Fernando,Meligeni_Fernando,Prague,1999,05,02,6-0_5-7_6-1
 Prague,2,1999,05,02,2,Cherkasov_Andrei,Hrbaty_Dominik,Hrbaty_Dominik,Prague,1999,05,02,4-6_6-0_6-3
 Prague,2,1999,05,02,2,Vicente_Fernando,Dosedel_Slava,Dosedel_Slava,Prague,1999,05,02,7-6(4)_6-4
-Prague,2,1999,05,02,2,Di_PasqualeArnaud,Zib_Tomas,Di_PasqualeArnaud,Prague,1999,05,02,6-4_6-1
+Prague,2,1999,05,02,2,Di_Pasquale_Arnaud,Zib_Tomas,Di_Pasquale_Arnaud,Prague,1999,05,02,6-4_6-1
 Prague,2,1999,05,02,2,Ilie_Andrew,Puentes_German,Puentes_German,Prague,1999,05,02,1-6_6-1_6-1
 Prague,2,1999,05,02,2,Nicolas_Eduardo,Hantschk_Markus,Nicolas_Eduardo,Prague,1999,05,02,6-1_6-0
 Prague,2,1999,05,02,3,Tabara_Michal,Stanoytchev_Orlin,Tabara_Michal,Prague,1999,05,02,2-6_6-3_6-1
 Prague,2,1999,05,02,3,Meligeni_Fernando,Hrbaty_Dominik,Hrbaty_Dominik,Prague,1999,05,02,7-6(2)_6-0
-Prague,2,1999,05,02,3,Dosedel_Slava,Di_PasqualeArnaud,Dosedel_Slava,Prague,1999,05,02,7-6(6)_2-6_7-5
+Prague,2,1999,05,02,3,Dosedel_Slava,Di_Pasquale_Arnaud,Dosedel_Slava,Prague,1999,05,02,7-6(6)_2-6_7-5
 Prague,2,1999,05,02,3,Puentes_German,Nicolas_Eduardo,Puentes_German,Prague,1999,05,02,6-1_6-2
 Prague,2,1999,05,02,4,Tabara_Michal,Hrbaty_Dominik,Hrbaty_Dominik,Prague,1999,05,02,6-1_7-5
 Prague,2,1999,05,02,4,Dosedel_Slava,Puentes_German,Dosedel_Slava,Prague,1999,05,02,7-5_6-2

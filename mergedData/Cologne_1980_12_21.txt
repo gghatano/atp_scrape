@@ -13,7 +13,7 @@ Cologne,2,1980,12,21,1,Borowiak_Jeff,Lutz_Robert,Lutz_Robert,Cologne,1980,12,21,
 Cologne,2,1980,12,21,1,Pattison_Andrew,Parun_Onny,Pattison_Andrew,Cologne,1980,12,21,6-3_6-4
 Cologne,2,1980,12,21,1,Gimenez_Angel,Dupasquier_Ivan,Gimenez_Angel,Cologne,1980,12,21,6-4_5-7_6-2
 Cologne,2,1980,12,21,1,Hayes_John,Mitton_Bernard,Hayes_John,Cologne,1980,12,21,0-6_6-4_6-3
-Cologne,2,1980,12,21,1,Lewis_NZLChris,Taroczy_Balazs,Taroczy_Balazs,Cologne,1980,12,21,6-2_6-7_6-2
+Cologne,2,1980,12,21,1,Lewis_NZL_Chris,Taroczy_Balazs,Taroczy_Balazs,Cologne,1980,12,21,6-2_6-7_6-2
 Cologne,2,1980,12,21,2,Mayer_Gene,Dibley_Colin,Mayer_Gene,Cologne,1980,12,21,6-1_6-2
 Cologne,2,1980,12,21,2,Saviano_Nick,Simpson_Russell,Saviano_Nick,Cologne,1980,12,21,6-7_6-4_6-2
 Cologne,2,1980,12,21,2,Waltke_Trey,Martin_Billy,Waltke_Trey,Cologne,1980,12,21,6-3_6-2

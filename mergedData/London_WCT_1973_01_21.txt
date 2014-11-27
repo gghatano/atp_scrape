@@ -1,8 +1,8 @@
-London_WCT,2,1973,01,21,1,Okker_Tom,El_ShafeiIsmail,Okker_Tom,London_WCT,1973,01,21,6-7_6-4_6-3
+London_WCT,2,1973,01,21,1,Okker_Tom,El_Shafei_Ismail,Okker_Tom,London_WCT,1973,01,21,6-7_6-4_6-3
 London_WCT,2,1973,01,21,1,Moore_Raymond,Stolle_Fred,Moore_Raymond,London_WCT,1973,01,21,6-4_7-5
 London_WCT,2,1973,01,21,1,Tanner_Roscoe,Rahim_Haroon,Tanner_Roscoe,London_WCT,1973,01,21,6-7_7-6_7-6
 London_WCT,2,1973,01,21,1,Fairlie_Brian,Gorman_Tom,Fairlie_Brian,London_WCT,1973,01,21,
-London_WCT,2,1973,01,21,1,Van_DillenErik,Kodes_Jan,Van_DillenErik,London_WCT,1973,01,21,DEF
+London_WCT,2,1973,01,21,1,Van_Dillen_Erik,Kodes_Jan,Van_Dillen_Erik,London_WCT,1973,01,21,DEF
 London_WCT,2,1973,01,21,1,Metreveli_Alex,Chanfreau_JeanBaptiste,Metreveli_Alex,London_WCT,1973,01,21,4-6_6-3_6-2
 London_WCT,2,1973,01,21,1,Carmichael_Bob,LoyoMayo_Joaquin,Carmichael_Bob,London_WCT,1973,01,21,6-1_6-7_6-2
 London_WCT,2,1973,01,21,1,Ashe_Arthur,Leonard_Tom,Ashe_Arthur,London_WCT,1973,01,21,7-5_6-4
@@ -16,7 +16,7 @@ London_WCT,2,1973,01,21,1,Barthes_Pierre,Case_Ross,Barthes_Pierre,London_WCT,197
 London_WCT,2,1973,01,21,1,Rosewall_Ken,Pala_Frantisek,Rosewall_Ken,London_WCT,1973,01,21,6-2_6-1
 London_WCT,2,1973,01,21,2,Okker_Tom,Moore_Raymond,Okker_Tom,London_WCT,1973,01,21,6-0_6-3
 London_WCT,2,1973,01,21,2,Tanner_Roscoe,Fairlie_Brian,Fairlie_Brian,London_WCT,1973,01,21,6-4_6-3
-London_WCT,2,1973,01,21,2,Van_DillenErik,Metreveli_Alex,Metreveli_Alex,London_WCT,1973,01,21,7-5_6-2
+London_WCT,2,1973,01,21,2,Van_Dillen_Erik,Metreveli_Alex,Metreveli_Alex,London_WCT,1973,01,21,7-5_6-2
 London_WCT,2,1973,01,21,2,Carmichael_Bob,Ashe_Arthur,Ashe_Arthur,London_WCT,1973,01,21,6-2_6-7_6-3
 London_WCT,2,1973,01,21,2,Riessen_Marty,Borowiak_Jeff,Riessen_Marty,London_WCT,1973,01,21,4-6_6-4_7-5
 London_WCT,2,1973,01,21,2,Ruffels_Ray,Crealy_Dick,Crealy_Dick,London_WCT,1973,01,21,4-6_1-2_RET

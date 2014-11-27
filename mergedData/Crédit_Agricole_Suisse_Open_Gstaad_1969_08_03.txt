@@ -1,7 +1,7 @@
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Emerson_Roy,Castigliano_Eugenio,Emerson_Roy,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-2_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Gasiorek_Wieslaw,Holenstein_Peter,Gasiorek_Wieslaw,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,8-6_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Kukal_Jan,Pilic_Nikola,Kukal_Jan,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,9-11_6-4_6-3
-Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Di_DomenicoMassimo,Moore_Raymond,Di_DomenicoMassimo,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,2-6_6-3_7-5
+Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Di_Domenico_Massimo,Moore_Raymond,Di_Domenico_Massimo,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,2-6_6-3_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Drysdale_Cliff,Loizeau_JeanPierre,Drysdale_Cliff,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-4_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Contet_Daniel,Sturdza_Dimitri,Contet_Daniel,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Barthes_Pierre,Lumsden_Lance,Barthes_Pierre,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-2_6-4
@@ -15,7 +15,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Taylor_Roger,Werren_Mathias,T
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Ulrich_Jorgen,Siegrist_Jurg,Ulrich_Jorgen,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,1,Montrenaud_Bernard,Okker_Tom,Okker_Tom,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-2_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Emerson_Roy,Gasiorek_Wieslaw,Emerson_Roy,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-3_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Kukal_Jan,Di_DomenicoMassimo,Kukal_Jan,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-3_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Kukal_Jan,Di_Domenico_Massimo,Kukal_Jan,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-3_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Drysdale_Cliff,Contet_Daniel,Drysdale_Cliff,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,8-6_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Barthes_Pierre,Davidson_Owen,Davidson_Owen,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-4_6-0
 Crédit_Agricole_Suisse_Open_Gstaad,2,1969,08,03,2,Stalder_Thedy,Riessen_Marty,Riessen_Marty,Crédit_Agricole_Suisse_Open_Gstaad,1969,08,03,6-2_6-0

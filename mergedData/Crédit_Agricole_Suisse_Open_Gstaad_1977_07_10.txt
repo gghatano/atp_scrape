@@ -2,7 +2,7 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Kodes_Jan,Prajoux_Belus,Kodes
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Caujolle_JeanFrancois,Rocavert_Terry,Caujolle_JeanFrancois,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-1_6-0
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Masters_Geoff,Fassbender_Jurgen,Fassbender_Jurgen,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-3_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Dowdeswell_Colin,Lewis_Richard,Dowdeswell_Colin,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-2_6-1
-Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Pecci_SrVictor,Kirmayr_Carlos,Pecci_SrVictor,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,7-5_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Pecci_Sr_Victor,Kirmayr_Carlos,Pecci_Sr_Victor,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,7-5_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,DallaFontana_Fernando,Proisy_Patrick,Proisy_Patrick,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-3_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Dibley_Colin,Hrebec_Jiri,Dibley_Colin,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-4_1-6_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Casa_Christophe,Gebert_Frank,Gebert_Frank,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-3_6-4
@@ -16,14 +16,14 @@ Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Teltscher_Eliot,Joubert_Deon,
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,1,Pilic_Nikola,Franulovic_Zeljko,Franulovic_Zeljko,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-7_6-3_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Kodes_Jan,Caujolle_JeanFrancois,Caujolle_JeanFrancois,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-2_5-7_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Fassbender_Jurgen,Dowdeswell_Colin,Fassbender_Jurgen,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,7-6_6-3
-Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Pecci_SrVictor,Proisy_Patrick,Pecci_SrVictor,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-4_6-2
+Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Pecci_Sr_Victor,Proisy_Patrick,Pecci_Sr_Victor,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Dibley_Colin,Gebert_Frank,Gebert_Frank,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-4_7-6
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Freyss_Christophe,Schneider_David,Schneider_David,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,3-6_6-3_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Pinner_Ulrich,Borowiak_Jeff,Borowiak_Jeff,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-2_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Smid_Tomas,Dominguez_Patrice,Smid_Tomas,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-2_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,2,Joubert_Deon,Franulovic_Zeljko,Franulovic_Zeljko,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,3,Caujolle_JeanFrancois,Fassbender_Jurgen,Caujolle_JeanFrancois,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-1_6-3
-Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,3,Pecci_SrVictor,Gebert_Frank,Gebert_Frank,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-1_4-6_7-5
+Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,3,Pecci_Sr_Victor,Gebert_Frank,Gebert_Frank,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-1_4-6_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,3,Schneider_David,Borowiak_Jeff,Borowiak_Jeff,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-4_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,3,Smid_Tomas,Franulovic_Zeljko,Smid_Tomas,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,7-6_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1977,07,10,4,Caujolle_JeanFrancois,Gebert_Frank,Caujolle_JeanFrancois,Crédit_Agricole_Suisse_Open_Gstaad,1977,07,10,6-3_6-3

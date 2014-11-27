@@ -1,4 +1,4 @@
-Hong_Kong,2,1982,01,10,1,Warwick_Kim,Mottram_BusterC,Warwick_Kim,Hong_Kong,1982,01,10,5-7_7-5_6-0
+Hong_Kong,2,1982,01,10,1,Warwick_Kim,Mottram_Buster_C,Warwick_Kim,Hong_Kong,1982,01,10,5-7_7-5_6-0
 Hong_Kong,2,1982,01,10,1,Winitsky_Van,Feigl_Peter,Winitsky_Van,Hong_Kong,1982,01,10,6-2_7-6
 Hong_Kong,2,1982,01,10,1,Bourne_Lloyd,Moor_Terry,Bourne_Lloyd,Hong_Kong,1982,01,10,2-6_6-3_6-4
 Hong_Kong,2,1982,01,10,1,Cahill_Mike,Fitzgerald_John,Cahill_Mike,Hong_Kong,1982,01,10,7-5_6-1
@@ -6,10 +6,10 @@ Hong_Kong,2,1982,01,10,1,Scanlon_Bill,Graham_Tony,Scanlon_Bill,Hong_Kong,1982,01
 Hong_Kong,2,1982,01,10,1,Bauer_Mike,Davis_Marty,Davis_Marty,Hong_Kong,1982,01,10,6-4_6-3
 Hong_Kong,2,1982,01,10,1,Frawley_Rod,Austin_John,Austin_John,Hong_Kong,1982,01,10,6-4_6-7_7-6
 Hong_Kong,2,1982,01,10,1,Menon_Sashi,Manson_Bruce,Manson_Bruce,Hong_Kong,1982,01,10,6-0_6-7_6-3
-Hong_Kong,2,1982,01,10,1,Dupre_Pat,Vant_HofRobert,Dupre_Pat,Hong_Kong,1982,01,10,6-7_6-2_6-4
+Hong_Kong,2,1982,01,10,1,Dupre_Pat,Vant_Hof_Robert,Dupre_Pat,Hong_Kong,1982,01,10,6-7_6-2_6-4
 Hong_Kong,2,1982,01,10,1,Odizor_Nduka,Gullikson_Tim,Gullikson_Tim,Hong_Kong,1982,01,10,7-6_6-2
-Hong_Kong,2,1982,01,10,1,Delaney_Jim,Van_PattenVincent,Van_PattenVincent,Hong_Kong,1982,01,10,6-2_3-6_6-1
-Hong_Kong,2,1982,01,10,1,Dupasquier_Ivan,Lewis_NZLChris,Lewis_NZLChris,Hong_Kong,1982,01,10,6-1_3-6_7-5
+Hong_Kong,2,1982,01,10,1,Delaney_Jim,Van_Patten_Vincent,Van_Patten_Vincent,Hong_Kong,1982,01,10,6-2_3-6_6-1
+Hong_Kong,2,1982,01,10,1,Dupasquier_Ivan,Lewis_NZL_Chris,Lewis_NZL_Chris,Hong_Kong,1982,01,10,6-1_3-6_7-5
 Hong_Kong,2,1982,01,10,1,Edmondson_Mark,Sanders_Louk,Edmondson_Mark,Hong_Kong,1982,01,10,1-6_7-6_6-4
 Hong_Kong,2,1982,01,10,1,Drewett_Brad,Krishnan_Ramesh,Drewett_Brad,Hong_Kong,1982,01,10,6-2_4-6_6-3
 Hong_Kong,2,1982,01,10,1,Mayotte_Chris,Stefanki_Larry,Mayotte_Chris,Hong_Kong,1982,01,10,7-6_6-2
@@ -19,12 +19,12 @@ Hong_Kong,2,1982,01,10,2,Bourne_Lloyd,Cahill_Mike,Bourne_Lloyd,Hong_Kong,1982,01
 Hong_Kong,2,1982,01,10,2,Scanlon_Bill,Davis_Marty,Davis_Marty,Hong_Kong,1982,01,10,6-3_7-5
 Hong_Kong,2,1982,01,10,2,Austin_John,Manson_Bruce,Manson_Bruce,Hong_Kong,1982,01,10,7-5_6-3
 Hong_Kong,2,1982,01,10,2,Dupre_Pat,Gullikson_Tim,Gullikson_Tim,Hong_Kong,1982,01,10,6-3_7-5
-Hong_Kong,2,1982,01,10,2,Van_PattenVincent,Lewis_NZLChris,Lewis_NZLChris,Hong_Kong,1982,01,10,6-1_2-6_6-1
+Hong_Kong,2,1982,01,10,2,Van_Patten_Vincent,Lewis_NZL_Chris,Lewis_NZL_Chris,Hong_Kong,1982,01,10,6-1_2-6_6-1
 Hong_Kong,2,1982,01,10,2,Edmondson_Mark,Drewett_Brad,Edmondson_Mark,Hong_Kong,1982,01,10,6-0_6-2
 Hong_Kong,2,1982,01,10,2,Mayotte_Chris,Sadri_John,Sadri_John,Hong_Kong,1982,01,10,6-1_6-4
 Hong_Kong,2,1982,01,10,3,Winitsky_Van,Bourne_Lloyd,Winitsky_Van,Hong_Kong,1982,01,10,6-3_6-7_6-3
 Hong_Kong,2,1982,01,10,3,Davis_Marty,Manson_Bruce,Davis_Marty,Hong_Kong,1982,01,10,6-1_6-3
-Hong_Kong,2,1982,01,10,3,Gullikson_Tim,Lewis_NZLChris,Gullikson_Tim,Hong_Kong,1982,01,10,7-6_6-3
+Hong_Kong,2,1982,01,10,3,Gullikson_Tim,Lewis_NZL_Chris,Gullikson_Tim,Hong_Kong,1982,01,10,7-6_6-3
 Hong_Kong,2,1982,01,10,3,Edmondson_Mark,Sadri_John,Edmondson_Mark,Hong_Kong,1982,01,10,7-6_6-4
 Hong_Kong,2,1982,01,10,4,Winitsky_Van,Davis_Marty,Winitsky_Van,Hong_Kong,1982,01,10,7-5_6-7_6-3
 Hong_Kong,2,1982,01,10,4,Gullikson_Tim,Edmondson_Mark,Edmondson_Mark,Hong_Kong,1982,01,10,6-3_7-6

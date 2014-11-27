@@ -4,7 +4,7 @@ Sarasota,2,1979,04,08,1,Fisher_Rick,Austin_John,Fisher_Rick,Sarasota,1979,04,08,
 Sarasota,2,1979,04,08,1,Bailey_Joel,Smid_Tomas,Smid_Tomas,Sarasota,1979,04,08,6-3_7-6
 Sarasota,2,1979,04,08,1,Crawford_Randy,McCurry_Andy,Crawford_Randy,Sarasota,1979,04,08,6-4_7-5
 Sarasota,2,1979,04,08,1,Kleege_Bruce,Yuill_John,Kleege_Bruce,Sarasota,1979,04,08,6-4_6-4
-Sarasota,2,1979,04,08,1,Damiani_JoseLuis,Meyer_Rick,Meyer_Rick,Sarasota,1979,04,08,7-6_6-0
+Sarasota,2,1979,04,08,1,Damiani_Jose_Luis,Meyer_Rick,Meyer_Rick,Sarasota,1979,04,08,7-6_6-0
 Sarasota,2,1979,04,08,1,Waltke_Trey,Scanlon_Bill,Scanlon_Bill,Sarasota,1979,04,08,7-6_6-7_6-4
 Sarasota,2,1979,04,08,1,Kriek_Johan,Campbell_Peter,Kriek_Johan,Sarasota,1979,04,08,6-3_6-2
 Sarasota,2,1979,04,08,1,Richardson_Keith,Winitsky_Van,Winitsky_Van,Sarasota,1979,04,08,6-3_6-3

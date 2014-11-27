@@ -3,7 +3,7 @@ Fort_Myers,2,1986,03,23,1,Teltscher_Eliot,Duncan_Lawson,Teltscher_Eliot,Fort_Mye
 Fort_Myers,2,1986,03,23,1,Krishnan_Ramesh,Seguso_Robert,Seguso_Robert,Fort_Myers,1986,03,23,6-2_6-4
 Fort_Myers,2,1986,03,23,1,Gullikson_Tom,Pate_David,Pate_David,Fort_Myers,1986,03,23,6-3_3-6_6-3
 Fort_Myers,2,1986,03,23,1,Kriek_Johan,Wilkison_Tim,Kriek_Johan,Fort_Myers,1986,03,23,6-4_6-3
-Fort_Myers,2,1986,03,23,1,Giammalva_JrSammy,Schultz_Bud,Schultz_Bud,Fort_Myers,1986,03,23,6-4_6-3
+Fort_Myers,2,1986,03,23,1,Giammalva_Jr_Sammy,Schultz_Bud,Schultz_Bud,Fort_Myers,1986,03,23,6-4_6-3
 Fort_Myers,2,1986,03,23,1,Krickstein_Aaron,Cash_Pat,Krickstein_Aaron,Fort_Myers,1986,03,23,5-7_7-6_6-4
 Fort_Myers,2,1986,03,23,1,Lapidus_Jay,Gomez_Andres,Gomez_Andres,Fort_Myers,1986,03,23,6-7_7-5_6-2
 Fort_Myers,2,1986,03,23,1,Mayotte_Tim,Davis_Scott,Mayotte_Tim,Fort_Myers,1986,03,23,6-4_6-3

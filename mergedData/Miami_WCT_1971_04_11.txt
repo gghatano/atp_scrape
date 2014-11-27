@@ -1,4 +1,4 @@
-Miami_WCT,2,1971,04,11,1,Ashe_Arthur,El_ShafeiIsmail,El_ShafeiIsmail,Miami_WCT,1971,04,11,6-3_6-3
+Miami_WCT,2,1971,04,11,1,Ashe_Arthur,El_Shafei_Ismail,El_Shafei_Ismail,Miami_WCT,1971,04,11,6-3_6-3
 Miami_WCT,2,1971,04,11,1,Pilic_Nikola,Cox_Mark,Pilic_Nikola,Miami_WCT,1971,04,11,6-1_6-0
 Miami_WCT,2,1971,04,11,1,McMillan_Frew,Bowrey_Bill,Bowrey_Bill,Miami_WCT,1971,04,11,6-3_6-4
 Miami_WCT,2,1971,04,11,1,Davidson_Owen,Drysdale_Cliff,Drysdale_Cliff,Miami_WCT,1971,04,11,6-1_7-5
@@ -14,7 +14,7 @@ Miami_WCT,2,1971,04,11,1,Emerson_Roy,Ulrich_Torben,Emerson_Roy,Miami_WCT,1971,04
 Miami_WCT,2,1971,04,11,1,Stolle_Fred,Ruffels_Ray,Stolle_Fred,Miami_WCT,1971,04,11,7-5_6-1
 Miami_WCT,2,1971,04,11,1,Stone_Allan,Riessen_Marty,Riessen_Marty,Miami_WCT,1971,04,11,6-2_6-3
 Miami_WCT,2,1971,04,11,1,Alexander_John,Newcombe_John,Newcombe_John,Miami_WCT,1971,04,11,6-3_4-6_6-3
-Miami_WCT,2,1971,04,11,2,El_ShafeiIsmail,Pilic_Nikola,Pilic_Nikola,Miami_WCT,1971,04,11,6-7_6-2_6-3
+Miami_WCT,2,1971,04,11,2,El_Shafei_Ismail,Pilic_Nikola,Pilic_Nikola,Miami_WCT,1971,04,11,6-7_6-2_6-3
 Miami_WCT,2,1971,04,11,2,Bowrey_Bill,Drysdale_Cliff,Drysdale_Cliff,Miami_WCT,1971,04,11,6-3_6-2
 Miami_WCT,2,1971,04,11,2,Pasarell_Charlie,Ralston_Dennis,Ralston_Dennis,Miami_WCT,1971,04,11,6-4_4-6_6-4
 Miami_WCT,2,1971,04,11,2,Roche_Tony,Rosewall_Ken,Roche_Tony,Miami_WCT,1971,04,11,2-6_6-2_6-3

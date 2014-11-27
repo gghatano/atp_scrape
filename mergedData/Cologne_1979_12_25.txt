@@ -1,5 +1,5 @@
 Cologne,2,1979,12,25,1,Mayer_Gene,Curren_Kevin,Mayer_Gene,Cologne,1979,12,25,6-2_6-4
-Cologne,2,1979,12,25,1,Fillol_SrJaime,Moore_Raymond,Moore_Raymond,Cologne,1979,12,25,6-4_7-6
+Cologne,2,1979,12,25,1,Fillol_Sr_Jaime,Moore_Raymond,Moore_Raymond,Cologne,1979,12,25,6-4_7-6
 Cologne,2,1979,12,25,1,Docherty_Steve,Kary_Hans,Docherty_Steve,Cologne,1979,12,25,6-7_7-6_6-4
 Cologne,2,1979,12,25,1,Franulovic_Zeljko,Kriek_Johan,Franulovic_Zeljko,Cologne,1979,12,25,6-3_6-3
 Cologne,2,1979,12,25,1,Pinner_Ulrich,Andrew_Jorge,Pinner_Ulrich,Cologne,1979,12,25,6-3_6-4

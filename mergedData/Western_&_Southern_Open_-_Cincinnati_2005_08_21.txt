@@ -4,7 +4,7 @@ Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Volandri_Filippo,Rochus_Olivi
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Santoro_Fabrice,Ljubicic_Ivan,Santoro_Fabrice,Western__Southern_Open_-_Cincinnati,2005,08,21,6-7(4)_7-6(7)_7-5
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Coria_Guillermo,Srichaphan_Paradorn,Coria_Guillermo,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_6-2
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Horna_Luis,Rochus_Christophe,Horna_Luis,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-0
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,El_AynaouiYounes,Acasuso_Jose,Acasuso_Jose,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-2
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,El_Aynaoui_Younes,Acasuso_Jose,Acasuso_Jose,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-2
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Robredo_Tommy,Gaudio_Gaston,Robredo_Tommy,Western__Southern_Open_-_Cincinnati,2005,08,21,2-6_6-3_6-3
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Safin_Marat,Hernych_Jan,Safin_Marat,Western__Southern_Open_-_Cincinnati,2005,08,21,7-6(3)_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Murray_Andy,Dent_Taylor,Murray_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,7-6(4)_7-6(1)
@@ -23,8 +23,8 @@ Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Ancic_Mario,Mello_Ricardo,Anc
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Tursunov_Dmitry,Rusedski_Greg,Rusedski_Greg,Western__Southern_Open_-_Cincinnati,2005,08,21,4-6_7-5_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Andreev_Igor,Hewitt_Lleyton,Hewitt_Lleyton,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Roddick_Andy,Melzer_Jurgen,Roddick_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-4
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Koubek_Stefan,Ferrero_JuanCarlos,Ferrero_JuanCarlos,Western__Southern_Open_-_Cincinnati,2005,08,21,0-6_6-3_6-2
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Martin_Alberto,Chela_JuanIgnacio,Chela_JuanIgnacio,Western__Southern_Open_-_Cincinnati,2005,08,21,6-6(4)_RET
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Koubek_Stefan,Ferrero_Juan_Carlos,Ferrero_Juan_Carlos,Western__Southern_Open_-_Cincinnati,2005,08,21,0-6_6-3_6-2
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Martin_Alberto,Chela_Juan_Ignacio,Chela_Juan_Ignacio,Western__Southern_Open_-_Cincinnati,2005,08,21,6-6(4)_RET
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Massu_Nicolas,Henman_Tim,Henman_Tim,Western__Southern_Open_-_Cincinnati,2005,08,21,6-2_6-1
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Stepanek_Radek,Monfils_Gael,Monfils_Gael,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-2
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,1,Novak_Jiri,Beck_Karol,Beck_Karol,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_6-3
@@ -42,8 +42,8 @@ Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Davydenko_Nikolay,Mathieu_Pau
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Gonzalez_Fernando,Nalbandian_David,Gonzalez_Fernando,Western__Southern_Open_-_Cincinnati,2005,08,21,3-6_6-1_6-2
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Gasquet_Richard,Ancic_Mario,Ancic_Mario,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_7-6(4)
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Rusedski_Greg,Hewitt_Lleyton,Hewitt_Lleyton,Western__Southern_Open_-_Cincinnati,2005,08,21,1-6_7-5_6-4
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Roddick_Andy,Ferrero_JuanCarlos,Roddick_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,6-7(3)_7-6(5)_6-2
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Chela_JuanIgnacio,Henman_Tim,Chela_JuanIgnacio,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_6-4
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Roddick_Andy,Ferrero_Juan_Carlos,Roddick_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,6-7(3)_7-6(5)_6-2
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Chela_Juan_Ignacio,Henman_Tim,Chela_Juan_Ignacio,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Monfils_Gael,Beck_Karol,Monfils_Gael,Western__Southern_Open_-_Cincinnati,2005,08,21,6-1_7-6(6)
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,2,Youzhny_Mikhail,Berdych_Tomas,Youzhny_Mikhail,Western__Southern_Open_-_Cincinnati,2005,08,21,4-6_7-6(4)_7-6(3)
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Federer_Roger,Rochus_Olivier,Federer_Roger,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-4
@@ -52,7 +52,7 @@ Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Safin_Marat,Hrbaty_Dominik,Sa
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Ginepri_Robby,Moya_Carlos,Ginepri_Robby,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Davydenko_Nikolay,Gonzalez_Fernando,Davydenko_Nikolay,Western__Southern_Open_-_Cincinnati,2005,08,21,6-3_6-4
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Ancic_Mario,Hewitt_Lleyton,Hewitt_Lleyton,Western__Southern_Open_-_Cincinnati,2005,08,21,6-1_6-4
-Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Roddick_Andy,Chela_JuanIgnacio,Roddick_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,7-6(4)_6-2
+Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Roddick_Andy,Chela_Juan_Ignacio,Roddick_Andy,Western__Southern_Open_-_Cincinnati,2005,08,21,7-6(4)_6-2
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,3,Monfils_Gael,Youzhny_Mikhail,Youzhny_Mikhail,Western__Southern_Open_-_Cincinnati,2005,08,21,4-6_6-1_6-1
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,4,Federer_Roger,Acasuso_Jose,Federer_Roger,Western__Southern_Open_-_Cincinnati,2005,08,21,6-4_6-3
 Western__Southern_Open_-_Cincinnati,3,2005,08,21,4,Safin_Marat,Ginepri_Robby,Ginepri_Robby,Western__Southern_Open_-_Cincinnati,2005,08,21,6-2_6-3

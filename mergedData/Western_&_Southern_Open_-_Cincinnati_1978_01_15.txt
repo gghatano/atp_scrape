@@ -7,7 +7,7 @@ Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Gottfried_Larry,Fagel_Rick,Fa
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Genois_Rejean,Richardson_Keith,Genois_Rejean,Western__Southern_Open_-_Cincinnati,1978,01,15,7-6_7-6
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Waltke_Trey,Dupre_Pat,Dupre_Pat,Western__Southern_Open_-_Cincinnati,1978,01,15,6-4_4-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Solomon_Harold,Rocavert_Terry,Solomon_Harold,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-2
-Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Van_DillenErik,Manson_Bruce,Manson_Bruce,Western__Southern_Open_-_Cincinnati,1978,01,15,6-2_6-3
+Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Van_Dillen_Erik,Manson_Bruce,Manson_Bruce,Western__Southern_Open_-_Cincinnati,1978,01,15,6-2_6-3
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Seewagen_Butch,Crawford_Doug,Seewagen_Butch,Western__Southern_Open_-_Cincinnati,1978,01,15,6-0_7-6
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Mayotte_Chris,McNamee_Paul,McNamee_Paul,Western__Southern_Open_-_Cincinnati,1978,01,15,3-6_7-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Mayer_Gene,Bunis_Henry,Mayer_Gene,Western__Southern_Open_-_Cincinnati,1978,01,15,6-4_6-2
@@ -17,11 +17,11 @@ Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Spinnenweber_J,Gildemeister_H
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Moor_Terry,Plock_Gary,Moor_Terry,Western__Southern_Open_-_Cincinnati,1978,01,15,6-4_6-4
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Scanlon_Bill,Yuill_John,Scanlon_Bill,Western__Southern_Open_-_Cincinnati,1978,01,15,1-6_6-4_7-5
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Fritz_Bernard,Fairlie_Brian,Fairlie_Brian,Western__Southern_Open_-_Cincinnati,1978,01,15,7-6_6-1
-Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Vant_HofRobert,Crealy_Dick,Crealy_Dick,Western__Southern_Open_-_Cincinnati,1978,01,15,4-6_6-2_6-3
-Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,El_ShafeiIsmail,McNamara_Peter,McNamara_Peter,Western__Southern_Open_-_Cincinnati,1978,01,15,3-6_6-3_6-4
+Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Vant_Hof_Robert,Crealy_Dick,Crealy_Dick,Western__Southern_Open_-_Cincinnati,1978,01,15,4-6_6-2_6-3
+Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,El_Shafei_Ismail,McNamara_Peter,McNamara_Peter,Western__Southern_Open_-_Cincinnati,1978,01,15,3-6_6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Turville_Larry,Golden_Glenn,Turville_Larry,Western__Southern_Open_-_Cincinnati,1978,01,15,6-2_6-1
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Teltscher_Eliot,Freyss_Christophe,Teltscher_Eliot,Western__Southern_Open_-_Cincinnati,1978,01,15,6-7_7-5_6-2
-Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Smith_Jonathan,Fillol_SrJaime,Fillol_SrJaime,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-2
+Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Smith_Jonathan,Fillol_Sr_Jaime,Fillol_Sr_Jaime,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Saviano_Nick,Guedes_Roger,Saviano_Nick,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Molina_Ivan,Winitsky_Van,Molina_Ivan,Western__Southern_Open_-_Cincinnati,1978,01,15,3-6_7-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,1,Halder_Greg,Benavides_Ramiro,Halder_Greg,Western__Southern_Open_-_Cincinnati,1978,01,15,6-0_6-0
@@ -41,7 +41,7 @@ Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Betancur_Alvaro,Gildemeister_
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Moor_Terry,Scanlon_Bill,Moor_Terry,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-3
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Fairlie_Brian,Crealy_Dick,Crealy_Dick,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_4-6_7-5
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,McNamara_Peter,Turville_Larry,McNamara_Peter,Western__Southern_Open_-_Cincinnati,1978,01,15,3-6_6-3_6-0
-Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Teltscher_Eliot,Fillol_SrJaime,Teltscher_Eliot,Western__Southern_Open_-_Cincinnati,1978,01,15,6-3_6-4
+Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Teltscher_Eliot,Fillol_Sr_Jaime,Teltscher_Eliot,Western__Southern_Open_-_Cincinnati,1978,01,15,6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Saviano_Nick,Molina_Ivan,Saviano_Nick,Western__Southern_Open_-_Cincinnati,1978,01,15,6-4_4-6_6-2
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Halder_Greg,Gonzalez_Francisco,Gonzalez_Francisco,Western__Southern_Open_-_Cincinnati,1978,01,15,6-3_6-4
 Western__Southern_Open_-_Cincinnati,2,1978,01,15,2,Cahill_Mike,Webb_Bobby,Cahill_Mike,Western__Southern_Open_-_Cincinnati,1978,01,15,6-1_6-1

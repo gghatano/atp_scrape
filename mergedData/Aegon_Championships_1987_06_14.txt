@@ -29,7 +29,7 @@ Aegon_Championships,2,1987,06,14,1,Winogradsky_Eric,Curren_Kevin,Curren_Kevin,Ae
 Aegon_Championships,2,1987,06,14,1,Masur_Wally,Dyke_Broderick,Masur_Wally,Aegon_Championships,1987,06,14,6-3_6-2
 Aegon_Championships,2,1987,06,14,1,Purcell_Mel,Cahill_Darren,Purcell_Mel,Aegon_Championships,1987,06,14,6-4_7-6
 Aegon_Championships,2,1987,06,14,1,Donnelly_Gary,Evernden_Kelly,Evernden_Kelly,Aegon_Championships,1987,06,14,6-2_6-2
-Aegon_Championships,2,1987,06,14,1,Giammalva_JrSammy,Edberg_Stefan,Edberg_Stefan,Aegon_Championships,1987,06,14,6-4_6-3
+Aegon_Championships,2,1987,06,14,1,Giammalva_Jr_Sammy,Edberg_Stefan,Edberg_Stefan,Aegon_Championships,1987,06,14,6-4_6-3
 Aegon_Championships,2,1987,06,14,2,Becker_Boris,Fleming_Peter,Becker_Boris,Aegon_Championships,1987,06,14,6-4_6-2
 Aegon_Championships,2,1987,06,14,2,Sadri_John,Youl_Simon,Sadri_John,Aegon_Championships,1987,06,14,3-6_7-6_6-2
 Aegon_Championships,2,1987,06,14,2,Bourne_Lloyd,Scanlon_Bill,Scanlon_Bill,Aegon_Championships,1987,06,14,7-6_6-2

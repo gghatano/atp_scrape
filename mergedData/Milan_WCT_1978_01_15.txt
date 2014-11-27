@@ -7,12 +7,12 @@ Milan_WCT,2,1978,01,15,1,Ocleppo_Gianni,Dent_Phil,Ocleppo_Gianni,Milan_WCT,1978,
 Milan_WCT,2,1978,01,15,1,Smith_Stan,Cox_Mark,Smith_Stan,Milan_WCT,1978,01,15,6-3_6-1
 Milan_WCT,2,1978,01,15,1,Scanlon_Bill,Fibak_Wojtek,Fibak_Wojtek,Milan_WCT,1978,01,15,6-2_6-3
 Milan_WCT,2,1978,01,15,1,Nastase_Ilie,Lutz_Robert,Lutz_Robert,Milan_WCT,1978,01,15,7-5_6-4
-Milan_WCT,2,1978,01,15,1,Zugarelli_Antonio,Pecci_SrVictor,Zugarelli_Antonio,Milan_WCT,1978,01,15,6-4_6-4
+Milan_WCT,2,1978,01,15,1,Zugarelli_Antonio,Pecci_Sr_Victor,Zugarelli_Antonio,Milan_WCT,1978,01,15,6-4_6-4
 Milan_WCT,2,1978,01,15,1,Warwick_Kim,Alexander_John,Warwick_Kim,Milan_WCT,1978,01,15,6-7_7-6_6-1
 Milan_WCT,2,1978,01,15,1,Kodes_Jan,Mayer_Sandy,Mayer_Sandy,Milan_WCT,1978,01,15,6-3_6-1
 Milan_WCT,2,1978,01,15,1,Barazzutti_Corrado,Dibley_Colin,Barazzutti_Corrado,Milan_WCT,1978,01,15,6-4_4-6_6-3
 Milan_WCT,2,1978,01,15,1,Drysdale_Cliff,Higueras_Jose,Higueras_Jose,Milan_WCT,1978,01,15,6-1_4-6_6-1
-Milan_WCT,2,1978,01,15,1,Fillol_SrJaime,Lewis_NZLChris,Fillol_SrJaime,Milan_WCT,1978,01,15,5-7_7-6_6-2
+Milan_WCT,2,1978,01,15,1,Fillol_Sr_Jaime,Lewis_NZL_Chris,Fillol_Sr_Jaime,Milan_WCT,1978,01,15,5-7_7-6_6-2
 Milan_WCT,2,1978,01,15,1,Moore_Raymond,Gerulaitis_Vitas,Gerulaitis_Vitas,Milan_WCT,1978,01,15,6-3_7-6
 Milan_WCT,2,1978,01,15,2,Borg_Bjorn,Franulovic_Zeljko,Borg_Bjorn,Milan_WCT,1978,01,15,6-0_6-0
 Milan_WCT,2,1978,01,15,2,Panatta_Adriano,Stockton_Dick,Panatta_Adriano,Milan_WCT,1978,01,15,6-4_6-3
@@ -21,7 +21,7 @@ Milan_WCT,2,1978,01,15,2,Smith_Stan,Fibak_Wojtek,Smith_Stan,Milan_WCT,1978,01,15
 Milan_WCT,2,1978,01,15,2,Lutz_Robert,Zugarelli_Antonio,Lutz_Robert,Milan_WCT,1978,01,15,6-7_6-1_7-5
 Milan_WCT,2,1978,01,15,2,Warwick_Kim,Mayer_Sandy,Mayer_Sandy,Milan_WCT,1978,01,15,6-2_6-1
 Milan_WCT,2,1978,01,15,2,Barazzutti_Corrado,Higueras_Jose,Higueras_Jose,Milan_WCT,1978,01,15,6-4_6-0
-Milan_WCT,2,1978,01,15,2,Fillol_SrJaime,Gerulaitis_Vitas,Gerulaitis_Vitas,Milan_WCT,1978,01,15,7-6_6-3
+Milan_WCT,2,1978,01,15,2,Fillol_Sr_Jaime,Gerulaitis_Vitas,Gerulaitis_Vitas,Milan_WCT,1978,01,15,7-6_6-3
 Milan_WCT,2,1978,01,15,3,Borg_Bjorn,Panatta_Adriano,Borg_Bjorn,Milan_WCT,1978,01,15,6-3_6-3
 Milan_WCT,2,1978,01,15,3,Ocleppo_Gianni,Smith_Stan,Smith_Stan,Milan_WCT,1978,01,15,7-6_6-3
 Milan_WCT,2,1978,01,15,3,Lutz_Robert,Mayer_Sandy,Mayer_Sandy,Milan_WCT,1978,01,15,6-4_6-2

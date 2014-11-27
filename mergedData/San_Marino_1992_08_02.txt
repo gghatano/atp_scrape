@@ -1,12 +1,12 @@
 San_Marino,2,1992,08,02,1,Novacek_Karel,Pistolesi_Claudio,Novacek_Karel,San_Marino,1992,08,02,6-2_6-2
-San_Marino,2,1992,08,02,1,Gorriz_MarcosAurelio,Svensson_Jonas,Svensson_Jonas,San_Marino,1992,08,02,6-2_6-1
+San_Marino,2,1992,08,02,1,Gorriz_Marcos_Aurelio,Svensson_Jonas,Svensson_Jonas,San_Marino,1992,08,02,6-2_6-1
 San_Marino,2,1992,08,02,1,Wuyts_Bart,Azar_Roberto,Wuyts_Bart,San_Marino,1992,08,02,6-4_5-7_7-5
 San_Marino,2,1992,08,02,1,Strelba_Martin,Fontang_Frederic,Strelba_Martin,San_Marino,1992,08,02,6-4_7-6(3)
-San_Marino,2,1992,08,02,1,Roig_Francisco,Viver_RaulAntonio,Roig_Francisco,San_Marino,1992,08,02,6-2_3-6_6-3
+San_Marino,2,1992,08,02,1,Roig_Francisco,Viver_Raul_Antonio,Roig_Francisco,San_Marino,1992,08,02,6-2_3-6_6-3
 San_Marino,2,1992,08,02,1,Lopez_German,Wekesa_Paul,Lopez_German,San_Marino,1992,08,02,6-3_6-3
 San_Marino,2,1992,08,02,1,Guardiola_Thierry,Jonsson_Lars,Jonsson_Lars,San_Marino,1992,08,02,6-0_6-4
 San_Marino,2,1992,08,02,1,Cierro_Massimo,Kulti_Nicklas,Kulti_Nicklas,San_Marino,1992,08,02,7-5_5-7_6-3
-San_Marino,2,1992,08,02,1,Champion_Thierry,VilocaPuig_JuanAlbert,VilocaPuig_JuanAlbert,San_Marino,1992,08,02,6-4_6-2
+San_Marino,2,1992,08,02,1,Champion_Thierry,VilocaPuig_Juan_Albert,VilocaPuig_Juan_Albert,San_Marino,1992,08,02,6-4_6-2
 San_Marino,2,1992,08,02,1,Agenor_Ronald,Kafelnikov_Yevgeny,Agenor_Ronald,San_Marino,1992,08,02,6-1_6-2
 San_Marino,2,1992,08,02,1,Valeri_Massimo,Montana_Francisco,Montana_Francisco,San_Marino,1992,08,02,6-3_7-6(3)
 San_Marino,2,1992,08,02,1,Damm_Martin,Sanchez_Javier,Sanchez_Javier,San_Marino,1992,08,02,7-5_6-4
@@ -18,7 +18,7 @@ San_Marino,2,1992,08,02,2,Novacek_Karel,Svensson_Jonas,Novacek_Karel,San_Marino,
 San_Marino,2,1992,08,02,2,Wuyts_Bart,Strelba_Martin,Wuyts_Bart,San_Marino,1992,08,02,6-2_5-0_RET
 San_Marino,2,1992,08,02,2,Roig_Francisco,Lopez_German,Lopez_German,San_Marino,1992,08,02,6-4_6-2
 San_Marino,2,1992,08,02,2,Jonsson_Lars,Kulti_Nicklas,Jonsson_Lars,San_Marino,1992,08,02,5-7_6-2_6-1
-San_Marino,2,1992,08,02,2,VilocaPuig_JuanAlbert,Agenor_Ronald,Agenor_Ronald,San_Marino,1992,08,02,6-2_6-3
+San_Marino,2,1992,08,02,2,VilocaPuig_Juan_Albert,Agenor_Ronald,Agenor_Ronald,San_Marino,1992,08,02,6-2_6-3
 San_Marino,2,1992,08,02,2,Montana_Francisco,Sanchez_Javier,Montana_Francisco,San_Marino,1992,08,02,7-5_6-7(6)_6-4
 San_Marino,2,1992,08,02,2,Filippini_Marcelo,Tillstrom_Mikael,Tillstrom_Mikael,San_Marino,1992,08,02,6-3_7-6(8)
 San_Marino,2,1992,08,02,2,Mezzadri_Claudio,Clavet_Francisco,Clavet_Francisco,San_Marino,1992,08,02,6-0_6-1

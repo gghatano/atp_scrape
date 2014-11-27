@@ -9,7 +9,7 @@ Bordeaux,2,1989,10,01,1,Vajda_Marian,Sanchez_Javier,Vajda_Marian,Bordeaux,1989,1
 Bordeaux,2,1989,10,01,1,Prpic_Goran,Daufresne_Xavier,Prpic_Goran,Bordeaux,1989,10,01,6-1_6-0
 Bordeaux,2,1989,10,01,1,Strelba_Martin,Bloom_Gilad,Strelba_Martin,Bordeaux,1989,10,01,2-6_6-4_6-3
 Bordeaux,2,1989,10,01,1,Fleurian_JeanPhilippe,Limberger_Carl,Fleurian_JeanPhilippe,Bordeaux,1989,10,01,6-3_6-4
-Bordeaux,2,1989,10,01,1,Baguena_JuanCarlos,Skoff_Horst,Skoff_Horst,Bordeaux,1989,10,01,6-1_6-1
+Bordeaux,2,1989,10,01,1,Baguena_Juan_Carlos,Skoff_Horst,Skoff_Horst,Bordeaux,1989,10,01,6-1_6-1
 Bordeaux,2,1989,10,01,1,Arrese_Jordi,Carbonell_Tomas,Carbonell_Tomas,Bordeaux,1989,10,01,7-6_6-2
 Bordeaux,2,1989,10,01,1,Peter_Jens,Luna_Fernando,Peter_Jens,Bordeaux,1989,10,01,6-3_7-5
 Bordeaux,2,1989,10,01,1,Ostoja_Marko,Clavet_Jose,Ostoja_Marko,Bordeaux,1989,10,01,6-7_6-2_6-3

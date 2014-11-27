@@ -8,7 +8,7 @@ Nancy,2,1987,03,29,1,Pearce_Brad,Winogradsky_Eric,Winogradsky_Eric,Nancy,1987,03
 Nancy,2,1987,03,29,1,Bahrami_Mansour,Testerman_Ben,Bahrami_Mansour,Nancy,1987,03,29,6-4_0-6_7-6
 Nancy,2,1987,03,29,1,Eriksson_Stefan,Mezzadri_Claudio,Mezzadri_Claudio,Nancy,1987,03,29,3-6_6-1_6-4
 Nancy,2,1987,03,29,1,Dickson_Mark,Mronz_Alexander,Dickson_Mark,Nancy,1987,03,29,4-6_6-3_6-2
-Nancy,2,1987,03,29,1,Carlsson_Peter,Cox_CharlesBud,Carlsson_Peter,Nancy,1987,03,29,6-4_6-1
+Nancy,2,1987,03,29,1,Carlsson_Peter,Cox_Charles_Bud,Carlsson_Peter,Nancy,1987,03,29,6-4_6-1
 Nancy,2,1987,03,29,1,Cahill_Darren,Masur_Wally,Masur_Wally,Nancy,1987,03,29,3-6_6-2_6-2
 Nancy,2,1987,03,29,1,Carlsson_Johan,Boetsch_Arnaud,Carlsson_Johan,Nancy,1987,03,29,6-3_7-5
 Nancy,2,1987,03,29,1,Champion_Thierry,Bergstrom_Christian,Bergstrom_Christian,Nancy,1987,03,29,6-3_1-6_6-1

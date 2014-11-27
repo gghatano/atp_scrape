@@ -5,7 +5,7 @@ Moselle_Open,2,2003,10,05,1,Pavel_Andrei,Hrbaty_Dominik,Pavel_Andrei,Moselle_Ope
 Moselle_Open,2,2003,10,05,1,Gonzalez_Fernando,Rochus_Christophe,Gonzalez_Fernando,Moselle_Open,2003,10,05,6-4_6-4
 Moselle_Open,2,2003,10,05,1,Behrend_Tomas,Puerta_Mariano,Behrend_Tomas,Moselle_Open,2003,10,05,7-5_6-4
 Moselle_Open,2,2003,10,05,1,Beck_Karol,Ferrer_David,Ferrer_David,Moselle_Open,2003,10,05,6-1_6-2
-Moselle_Open,2,2003,10,05,1,Ramirez_HidalgoRuben,Arazi_Hicham,Arazi_Hicham,Moselle_Open,2003,10,05,6-3_6-0
+Moselle_Open,2,2003,10,05,1,Ramirez_Hidalgo_Ruben,Arazi_Hicham,Arazi_Hicham,Moselle_Open,2003,10,05,6-3_6-0
 Moselle_Open,2,2003,10,05,1,Dupuis_Antony,Petzschner_Philipp,Petzschner_Philipp,Moselle_Open,2003,10,05,7-6(1)_6-4
 Moselle_Open,2,2003,10,05,1,Ascione_Thierry,Voltchkov_Vladimir,Ascione_Thierry,Moselle_Open,2003,10,05,6-2_6-4
 Moselle_Open,2,2003,10,05,1,Enqvist_Thomas,Sanguinetti_Davide,Sanguinetti_Davide,Moselle_Open,2003,10,05,7-5_6-3
@@ -13,7 +13,7 @@ Moselle_Open,2,2003,10,05,1,Llodra_Michael,Clement_Arnaud,Clement_Arnaud,Moselle
 Moselle_Open,2,2003,10,05,1,Santoro_Fabrice,Veronelli_Diego,Santoro_Fabrice,Moselle_Open,2003,10,05,6-3_6-0
 Moselle_Open,2,2003,10,05,1,Gasquet_Richard,Mutis_Olivier,Mutis_Olivier,Moselle_Open,2003,10,05,4-6_6-4_7-5
 Moselle_Open,2,2003,10,05,1,Vicente_Fernando,Popp_Alexander,Popp_Alexander,Moselle_Open,2003,10,05,6-3_6-1
-Moselle_Open,2,2003,10,05,1,Mahut_Nicolas,El_AynaouiYounes,Mahut_Nicolas,Moselle_Open,2003,10,05,7-6(4)_4-6_7-6(2)
+Moselle_Open,2,2003,10,05,1,Mahut_Nicolas,El_Aynaoui_Younes,Mahut_Nicolas,Moselle_Open,2003,10,05,7-6(4)_4-6_7-6(2)
 Moselle_Open,2,2003,10,05,2,Robredo_Tommy,Lisnard_JeanRene,Robredo_Tommy,Moselle_Open,2003,10,05,6-2_6-2
 Moselle_Open,2,2003,10,05,2,Hanescu_Victor,Pavel_Andrei,Pavel_Andrei,Moselle_Open,2003,10,05,6-4_3-6_6-3
 Moselle_Open,2,2003,10,05,2,Gonzalez_Fernando,Behrend_Tomas,Gonzalez_Fernando,Moselle_Open,2003,10,05,6-2_6-7(6)_7-6(5)

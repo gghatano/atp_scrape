@@ -1,9 +1,9 @@
 Hilversum,2,1974,07,28,1,Vilas_Guillermo,Gorostiaga_Eduardo,Vilas_Guillermo,Hilversum,1974,07,28,6-1_6-2
 Hilversum,2,1974,07,28,1,Hordijk_Jan,Fort_John,Hordijk_Jan,Hilversum,1974,07,28,6-1_7-5
 Hilversum,2,1974,07,28,1,Ganzabal_Julian,Sturdza_Dimitri,Ganzabal_Julian,Hilversum,1974,07,28,6-4_6-1
-Hilversum,2,1974,07,28,1,Korpas_Attila,Hemmes_SrFred,Korpas_Attila,Hilversum,1974,07,28,6-2_6-1
+Hilversum,2,1974,07,28,1,Korpas_Attila,Hemmes_Sr_Fred,Korpas_Attila,Hilversum,1974,07,28,6-2_6-1
 Hilversum,2,1974,07,28,1,Lloyd_John,Christensen_Tom,Lloyd_John,Hilversum,1974,07,28,6-4_6-1
-Hilversum,2,1974,07,28,1,Alvarez_ElioLito,Barclay_JeanClaude,Alvarez_ElioLito,Hilversum,1974,07,28,6-1_6-7_7-6
+Hilversum,2,1974,07,28,1,Alvarez_Elio_Lito,Barclay_JeanClaude,Alvarez_Elio_Lito,Hilversum,1974,07,28,6-1_6-7_7-6
 Hilversum,2,1974,07,28,1,Lara_Marcelo,Elvstrom_Lars,Lara_Marcelo,Hilversum,1974,07,28,6-2_6-3
 Hilversum,2,1974,07,28,1,Kuki_Jun,Csoknyai_Bertalan,Csoknyai_Bertalan,Hilversum,1974,07,28,6-4_4-6_6-2
 Hilversum,2,1974,07,28,1,Maud_Robert,Sanders_Louk,Sanders_Louk,Hilversum,1974,07,28,6-4_5-7_6-3
@@ -16,7 +16,7 @@ Hilversum,2,1974,07,28,1,Kamiwazumi_Jun,Andrew_Jorge,Kamiwazumi_Jun,Hilversum,19
 Hilversum,2,1974,07,28,1,Varga_Geza,Farrell_Mark,Varga_Geza,Hilversum,1974,07,28,6-3_6-2
 Hilversum,2,1974,07,28,2,Vilas_Guillermo,Hordijk_Jan,Vilas_Guillermo,Hilversum,1974,07,28,6-2_6-1
 Hilversum,2,1974,07,28,2,Ganzabal_Julian,Korpas_Attila,Ganzabal_Julian,Hilversum,1974,07,28,7-5_7-6
-Hilversum,2,1974,07,28,2,Lloyd_John,Alvarez_ElioLito,Lloyd_John,Hilversum,1974,07,28,7-6_7-6
+Hilversum,2,1974,07,28,2,Lloyd_John,Alvarez_Elio_Lito,Lloyd_John,Hilversum,1974,07,28,7-6_7-6
 Hilversum,2,1974,07,28,2,Lara_Marcelo,Csoknyai_Bertalan,Lara_Marcelo,Hilversum,1974,07,28,1-6_6-4_6-4
 Hilversum,2,1974,07,28,2,Sanders_Louk,Rodriguez_Patricio,Sanders_Louk,Hilversum,1974,07,28,6-1_6-4
 Hilversum,2,1974,07,28,2,Vasquez_Tito,Kronk_Paul,Kronk_Paul,Hilversum,1974,07,28,6-3_6-3

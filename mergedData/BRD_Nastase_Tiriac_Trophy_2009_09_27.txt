@@ -6,7 +6,7 @@ BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Monaco_Juan,Silva_Julio,Monaco_Juan,BRD
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Gil_Frederico,Riba_Pere,Riba_Pere,BRD_Nastase_Tiriac_Trophy,2009,09,27,7-5_5-7_6-2
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Luczak_Peter,Beck_Karol,Luczak_Peter,BRD_Nastase_Tiriac_Trophy,2009,09,27,7-5_7-6(6)
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Pavel_Andrei,Cuevas_Pablo,Cuevas_Pablo,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-3_7-6(2)
-BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Seppi_Andreas,Ramirez_HidalgoRuben,Ramirez_HidalgoRuben,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_6-4
+BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Seppi_Andreas,Ramirez_Hidalgo_Ruben,Ramirez_Hidalgo_Ruben,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_6-4
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Copil_Marius,Crivoi_Victor,Copil_Marius,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-3_6-2
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Martin_Alberto,Serra_Florent,Martin_Alberto,BRD_Nastase_Tiriac_Trophy,2009,09,27,4-6_6-0_6-4
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,1,Ventura_Santiago,Andreev_Igor,Ventura_Santiago,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_6-1
@@ -18,13 +18,13 @@ BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Hernandez_Oscar,Gonzalez_Maximo,Gonzale
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Greul_Simon,Koellerer_Daniel,Greul_Simon,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-1_6-4
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Monaco_Juan,Riba_Pere,Monaco_Juan,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_6-2
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Luczak_Peter,Cuevas_Pablo,Cuevas_Pablo,BRD_Nastase_Tiriac_Trophy,2009,09,27,7-5_6-4
-BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Ramirez_HidalgoRuben,Copil_Marius,Ramirez_HidalgoRuben,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-3_6-7(3)_6-4
+BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Ramirez_Hidalgo_Ruben,Copil_Marius,Ramirez_Hidalgo_Ruben,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-3_6-7(3)_6-4
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Martin_Alberto,Ventura_Santiago,Ventura_Santiago,BRD_Nastase_Tiriac_Trophy,2009,09,27,4-5_RET
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Montanes_Albert,Granollers_Marcel,Montanes_Albert,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-1_6-3
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,2,Fognini_Fabio,Almagro_Nicolas,Fognini_Fabio,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_7-6(3)
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,3,Gonzalez_Maximo,Greul_Simon,Greul_Simon,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-2_6-2
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,3,Monaco_Juan,Cuevas_Pablo,Monaco_Juan,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-3_2-6_6-1
-BRD_Nastase_Tiriac_Trophy,2,2009,09,27,3,Ramirez_HidalgoRuben,Ventura_Santiago,Ventura_Santiago,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-2_6-3
+BRD_Nastase_Tiriac_Trophy,2,2009,09,27,3,Ramirez_Hidalgo_Ruben,Ventura_Santiago,Ventura_Santiago,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-2_6-3
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,3,Montanes_Albert,Fognini_Fabio,Montanes_Albert,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-1_6-1
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,4,Greul_Simon,Monaco_Juan,Monaco_Juan,BRD_Nastase_Tiriac_Trophy,2009,09,27,6-4_6-3
 BRD_Nastase_Tiriac_Trophy,2,2009,09,27,4,Ventura_Santiago,Montanes_Albert,Montanes_Albert,BRD_Nastase_Tiriac_Trophy,2009,09,27,4-6_6-4_6-1

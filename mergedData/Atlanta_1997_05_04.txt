@@ -1,10 +1,10 @@
 Atlanta,2,1997,05,04,1,Chang_Michael,Meligeni_Fernando,Meligeni_Fernando,Atlanta,1997,05,04,2-6_6-3_6-4
-Atlanta,2,1997,05,04,1,Van_ScheppingenDennis,Kulti_Nicklas,Van_ScheppingenDennis,Atlanta,1997,05,04,6-3_6-3
-Atlanta,2,1997,05,04,1,VilocaPuig_JuanAlbert,Zabaleta_Mariano,VilocaPuig_JuanAlbert,Atlanta,1997,05,04,6-3_6-2
+Atlanta,2,1997,05,04,1,Van_Scheppingen_Dennis,Kulti_Nicklas,Van_Scheppingen_Dennis,Atlanta,1997,05,04,6-3_6-3
+Atlanta,2,1997,05,04,1,VilocaPuig_Juan_Albert,Zabaleta_Mariano,VilocaPuig_Juan_Albert,Atlanta,1997,05,04,6-3_6-2
 Atlanta,2,1997,05,04,1,Black_Byron,Stoltenberg_Jason,Stoltenberg_Jason,Atlanta,1997,05,04,2-6_6-3_6-4
 Atlanta,2,1997,05,04,1,Agassi_Andre,Oncins_Jaime,Agassi_Andre,Atlanta,1997,05,04,6-3_6-2
 Atlanta,2,1997,05,04,1,Fredriksson_Patrik,Norman_Magnus,Norman_Magnus,Atlanta,1997,05,04,6-3_6-0
-Atlanta,2,1997,05,04,1,Stafford_Grant,Van_HerckJohan,Van_HerckJohan,Atlanta,1997,05,04,6-3_7-5
+Atlanta,2,1997,05,04,1,Stafford_Grant,Van_Herck_Johan,Van_Herck_Johan,Atlanta,1997,05,04,6-3_7-5
 Atlanta,2,1997,05,04,1,Hernandez_Alejandro,Korda_Petr,Korda_Petr,Atlanta,1997,05,04,7-5_6-2
 Atlanta,2,1997,05,04,1,OBrien_Alex,Shelton_Bryan,OBrien_Alex,Atlanta,1997,05,04,7-5_3-6_6-3
 Atlanta,2,1997,05,04,1,Filippini_Marcelo,Spadea_Vincent,Filippini_Marcelo,Atlanta,1997,05,04,6-4_7-6(3)
@@ -14,10 +14,10 @@ Atlanta,2,1997,05,04,1,Woodruff_Chris,Carlsen_Kenneth,Woodruff_Chris,Atlanta,199
 Atlanta,2,1997,05,04,1,Goossens_Kris,Frana_Javier,Frana_Javier,Atlanta,1997,05,04,6-1_6-2
 Atlanta,2,1997,05,04,1,Stolle_Sandon,Hanquez_Jerome,Stolle_Sandon,Atlanta,1997,05,04,6-3_6-2
 Atlanta,2,1997,05,04,1,Sargsian_Sargis,Bjorkman_Jonas,Bjorkman_Jonas,Atlanta,1997,05,04,3-6_6-3_6-4
-Atlanta,2,1997,05,04,2,Meligeni_Fernando,Van_ScheppingenDennis,Meligeni_Fernando,Atlanta,1997,05,04,6-3_7-6(1)
-Atlanta,2,1997,05,04,2,VilocaPuig_JuanAlbert,Stoltenberg_Jason,Stoltenberg_Jason,Atlanta,1997,05,04,6-1_7-5
+Atlanta,2,1997,05,04,2,Meligeni_Fernando,Van_Scheppingen_Dennis,Meligeni_Fernando,Atlanta,1997,05,04,6-3_7-6(1)
+Atlanta,2,1997,05,04,2,VilocaPuig_Juan_Albert,Stoltenberg_Jason,Stoltenberg_Jason,Atlanta,1997,05,04,6-1_7-5
 Atlanta,2,1997,05,04,2,Agassi_Andre,Norman_Magnus,Norman_Magnus,Atlanta,1997,05,04,7-6(7)_3-6_6-3
-Atlanta,2,1997,05,04,2,Van_HerckJohan,Korda_Petr,Korda_Petr,Atlanta,1997,05,04,6-4_1-6_6-3
+Atlanta,2,1997,05,04,2,Van_Herck_Johan,Korda_Petr,Korda_Petr,Atlanta,1997,05,04,6-4_1-6_6-3
 Atlanta,2,1997,05,04,2,OBrien_Alex,Filippini_Marcelo,Filippini_Marcelo,Atlanta,1997,05,04,7-6(6)_6-4
 Atlanta,2,1997,05,04,2,Schaller_Gilbert,Campbell_Steve,Schaller_Gilbert,Atlanta,1997,05,04,6-3_4-6_6-1
 Atlanta,2,1997,05,04,2,Woodruff_Chris,Frana_Javier,Woodruff_Chris,Atlanta,1997,05,04,7-6(2)_6-2

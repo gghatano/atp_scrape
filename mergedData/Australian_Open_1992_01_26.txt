@@ -2,7 +2,7 @@ Australian_Open,1,1992,01,26,1,Edberg_Stefan,Bates_Jeremy,Edberg_Stefan,Australi
 Australian_Open,1,1992,01,26,1,Mezzadri_Claudio,Morgan_Jamie,Mezzadri_Claudio,Australian_Open,1992,01,26,4-6_4-6_6-3_6-4_6-2
 Australian_Open,1,1992,01,26,1,Palmer_Jared,Siemerink_Jan,Siemerink_Jan,Australian_Open,1992,01,26,6-4_4-6_6-3_4-6_6-2
 Australian_Open,1,1992,01,26,1,Fitzgerald_John,Koevermans_Mark,Fitzgerald_John,Australian_Open,1992,01,26,7-6(6)_6-4_7-6(4)
-Australian_Open,1,1992,01,26,1,Gorriz_MarcosAurelio,Bloom_Gilad,Bloom_Gilad,Australian_Open,1992,01,26,6-7(11)_6-2_6-0_6-1
+Australian_Open,1,1992,01,26,1,Gorriz_Marcos_Aurelio,Bloom_Gilad,Bloom_Gilad,Australian_Open,1992,01,26,6-7(11)_6-2_6-0_6-1
 Australian_Open,1,1992,01,26,1,Chesnokov_Andrei,Fontang_Frederic,Chesnokov_Andrei,Australian_Open,1992,01,26,6-3_7-6(4)_6-1
 Australian_Open,1,1992,01,26,1,McEnroe_Patrick,Cierro_Massimo,McEnroe_Patrick,Australian_Open,1992,01,26,6-3_6-4_6-4
 Australian_Open,1,1992,01,26,1,Tarango_Jeff,Korda_Petr,Tarango_Jeff,Australian_Open,1992,01,26,4-6_4-6_6-3_6-3_6-3
@@ -43,7 +43,7 @@ Australian_Open,1,1992,01,26,1,Washington_MaliVai,Stafford_Grant,Washington_Mali
 Australian_Open,1,1992,01,26,1,Masur_Wally,Vajda_Marian,Masur_Wally,Australian_Open,1992,01,26,4-6_6-4_4-6_6-2_6-2
 Australian_Open,1,1992,01,26,1,Pescosolido_Stefano,Nestor_Daniel,Pescosolido_Stefano,Australian_Open,1992,01,26,6-4_6-4_7-5
 Australian_Open,1,1992,01,26,1,Delaitre_Olivier,Miniussi_Christian,Delaitre_Olivier,Australian_Open,1992,01,26,6-7(5)_6-4_6-3_6-2
-Australian_Open,1,1992,01,26,1,Jaite_Martin,Van_RensburgChristo,Jaite_Martin,Australian_Open,1992,01,26,3-6_7-5_6-1_3-6_8-6
+Australian_Open,1,1992,01,26,1,Jaite_Martin,Van_Rensburg_Christo,Jaite_Martin,Australian_Open,1992,01,26,3-6_7-5_6-1_3-6_8-6
 Australian_Open,1,1992,01,26,1,Svensson_Jonas,Matsuoka_Shuzo,Svensson_Jonas,Australian_Open,1992,01,26,6-0_7-5_6-3
 Australian_Open,1,1992,01,26,1,Sanchez_Javier,Stich_Michael,Stich_Michael,Australian_Open,1992,01,26,7-5_6-1_4-6_6-3
 Australian_Open,1,1992,01,26,1,Lundgren_Peter,Mansdorf_Amos,Mansdorf_Amos,Australian_Open,1992,01,26,6-4_3-6_6-3_6-4
@@ -55,7 +55,7 @@ Australian_Open,1,1992,01,26,1,Volkov_Alexander,Woodbridge_Todd,Volkov_Alexander
 Australian_Open,1,1992,01,26,1,Jarryd_Anders,Krickstein_Aaron,Krickstein_Aaron,Australian_Open,1992,01,26,6-3_6-7(7)_6-2_6-3
 Australian_Open,1,1992,01,26,1,Stoltenberg_Jason,Ivanisevic_Goran,Ivanisevic_Goran,Australian_Open,1992,01,26,7-6(12)_6-3_6-4
 Australian_Open,1,1992,01,26,1,Gustafsson_Magnus,Muller_Gary,Gustafsson_Magnus,Australian_Open,1992,01,26,6-4_6-3_6-3
-Australian_Open,1,1992,01,26,1,De_LaPenaHoracio,Rosset_Marc,Rosset_Marc,Australian_Open,1992,01,26,6-1_6-2_6-1
+Australian_Open,1,1992,01,26,1,De_La_Pena_Horacio,Rosset_Marc,Rosset_Marc,Australian_Open,1992,01,26,6-1_6-2_6-1
 Australian_Open,1,1992,01,26,1,Gomez_Andres,Rahunen_Aki,Rahunen_Aki,Australian_Open,1992,01,26,4-6_3-6_6-4_6-3_6-4
 Australian_Open,1,1992,01,26,1,Furlan_Renzo,Steeb_CarlUwe,Steeb_CarlUwe,Australian_Open,1992,01,26,6-4_6-2_6-2
 Australian_Open,1,1992,01,26,1,Fleurian_JeanPhilippe,Muster_Thomas,Muster_Thomas,Australian_Open,1992,01,26,7-6(2)_6-1_7-5

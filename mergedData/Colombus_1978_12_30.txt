@@ -1,5 +1,5 @@
 Colombus,2,1978,12,30,1,Gottfried_Brian,Fritz_Bernard,Gottfried_Brian,Colombus,1978,12,30,6-4_6-3
-Colombus,2,1978,12,30,1,Alvarez_ElioLito,Rocavert_Terry,Rocavert_Terry,Colombus,1978,12,30,6-7_6-4_6-4
+Colombus,2,1978,12,30,1,Alvarez_Elio_Lito,Rocavert_Terry,Rocavert_Terry,Colombus,1978,12,30,6-7_6-4_6-4
 Colombus,2,1978,12,30,1,Drysdale_Robin,Lara_Marcelo,Drysdale_Robin,Colombus,1978,12,30,6-4_6-3
 Colombus,2,1978,12,30,1,Yuill_John,Gonzalez_Francisco,Gonzalez_Francisco,Colombus,1978,12,30,7-6_5-7_6-1
 Colombus,2,1978,12,30,1,Gullikson_Tim,Marks_John,Gullikson_Tim,Colombus,1978,12,30,6-4_7-6
@@ -11,7 +11,7 @@ Colombus,2,1978,12,30,1,Halder_Greg,Menon_Sashi,Halder_Greg,Colombus,1978,12,30,
 Colombus,2,1978,12,30,1,Iskersky_Erick,McNamara_Peter,Iskersky_Erick,Colombus,1978,12,30,6-1_6-4
 Colombus,2,1978,12,30,1,Gottfried_Larry,Ashe_Arthur,Ashe_Arthur,Colombus,1978,12,30,6-2_6-2
 Colombus,2,1978,12,30,1,Giltinan_Bob,Gullikson_Tom,Gullikson_Tom,Colombus,1978,12,30,6-1_6-3
-Colombus,2,1978,12,30,1,Freyss_Christophe,McNair_IVFred,Freyss_Christophe,Colombus,1978,12,30,6-2_6-3
+Colombus,2,1978,12,30,1,Freyss_Christophe,McNair_IV_Fred,Freyss_Christophe,Colombus,1978,12,30,6-2_6-3
 Colombus,2,1978,12,30,1,Teltscher_Eliot,Moore_Raymond,Teltscher_Eliot,Colombus,1978,12,30,6-3_6-3
 Colombus,2,1978,12,30,1,Winitsky_Van,Ramirez_Raul,Winitsky_Van,Colombus,1978,12,30,2-6_7-6_6-4
 Colombus,2,1978,12,30,2,Gottfried_Brian,Rocavert_Terry,Gottfried_Brian,Colombus,1978,12,30,6-2_4-6_6-2

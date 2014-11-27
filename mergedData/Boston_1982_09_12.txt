@@ -2,14 +2,14 @@ Boston,2,1982,09,12,1,Vilas_Guillermo,Drewett_Brad,Vilas_Guillermo,Boston,1982,0
 Boston,2,1982,09,12,1,Wittus_Craig,Perez_Diego,Wittus_Craig,Boston,1982,09,12,6-4_6-4
 Boston,2,1982,09,12,1,Turpin_Jeff,Kleege_Bruce,Turpin_Jeff,Boston,1982,09,12,6-1_6-3
 Boston,2,1982,09,12,1,Cain_Tom,Avendano_Juan,Cain_Tom,Boston,1982,09,12,6-1_6-1
-Boston,2,1982,09,12,1,Damiani_JoseLuis,Fromm_Eric,Fromm_Eric,Boston,1982,09,12,6-2_6-1
+Boston,2,1982,09,12,1,Damiani_Jose_Luis,Fromm_Eric,Fromm_Eric,Boston,1982,09,12,6-2_6-1
 Boston,2,1982,09,12,1,Cahill_Mike,Visser_Danie,Cahill_Mike,Boston,1982,09,12,6-3_3-6_6-3
 Boston,2,1982,09,12,1,Murphy_Pender,Gimenez_Angel,Gimenez_Angel,Boston,1982,09,12,7-6_5-7_7-5
 Boston,2,1982,09,12,1,Holroyd_Glen,Ramirez_Raul,Holroyd_Glen,Boston,1982,09,12,7-6_6-4
 Boston,2,1982,09,12,1,Noah_Yannick,James_John,Noah_Yannick,Boston,1982,09,12,6-3_6-1
 Boston,2,1982,09,12,1,Canter_Jonathan,Gitlin_Drew,Canter_Jonathan,Boston,1982,09,12,6-3_6-1
 Boston,2,1982,09,12,1,Graham_Tony,Moretton_Gilles,Moretton_Gilles,Boston,1982,09,12,4-6_6-1_6-2
-Boston,2,1982,09,12,1,Martinez_Mario,Viljoen_TianC,Martinez_Mario,Boston,1982,09,12,6-3_6-2
+Boston,2,1982,09,12,1,Martinez_Mario,Viljoen_Tian_C,Martinez_Mario,Boston,1982,09,12,6-3_6-2
 Boston,2,1982,09,12,1,Iskersky_Erick,Dunk_Chris,Iskersky_Erick,Boston,1982,09,12,6-3_4-6_7-5
 Boston,2,1982,09,12,1,Dickson_Mark,Bauer_Mike,Dickson_Mark,Boston,1982,09,12,6-3_6-0
 Boston,2,1982,09,12,1,McCain_Scott,Leach_Mike,Leach_Mike,Boston,1982,09,12,6-3_6-4
@@ -19,7 +19,7 @@ Boston,2,1982,09,12,1,Delaney_Jim,Davis_Marty,Delaney_Jim,Boston,1982,09,12,3-6_
 Boston,2,1982,09,12,1,Granat_Jiri,Hayes_John,Hayes_John,Boston,1982,09,12,6-1_7-6
 Boston,2,1982,09,12,1,Nunez_Gonzalo,Luna_Fernando,Luna_Fernando,Boston,1982,09,12,6-4_6-2
 Boston,2,1982,09,12,1,Ganzabal_Alejandro,Ross_John,Ganzabal_Alejandro,Boston,1982,09,12,6-4_6-3
-Boston,2,1982,09,12,1,Leeds_Cary,Van_DerMerweSchalk,Van_DerMerweSchalk,Boston,1982,09,12,6-4_6-0
+Boston,2,1982,09,12,1,Leeds_Cary,Van_Der_Merwe_Schalk,Van_Der_Merwe_Schalk,Boston,1982,09,12,6-4_6-0
 Boston,2,1982,09,12,1,Lapidus_Jay,Guerry_Zan,Guerry_Zan,Boston,1982,09,12,7-5_3-6_6-3
 Boston,2,1982,09,12,1,Mayotte_Chris,Teltscher_Eliot,Teltscher_Eliot,Boston,1982,09,12,7-6_6-2
 Boston,2,1982,09,12,1,Purcell_Mel,Gattiker_Alejandro,Purcell_Mel,Boston,1982,09,12,6-0_6-2
@@ -40,7 +40,7 @@ Boston,2,1982,09,12,2,Iskersky_Erick,Dickson_Mark,Dickson_Mark,Boston,1982,09,12
 Boston,2,1982,09,12,2,Leach_Mike,Alexander_John,Alexander_John,Boston,1982,09,12,6-3_5-7_5-5_RET
 Boston,2,1982,09,12,2,Dibbs_Eddie,Delaney_Jim,Delaney_Jim,Boston,1982,09,12,7-5_6-2
 Boston,2,1982,09,12,2,Hayes_John,Luna_Fernando,Luna_Fernando,Boston,1982,09,12,6-1_6-1
-Boston,2,1982,09,12,2,Ganzabal_Alejandro,Van_DerMerweSchalk,Ganzabal_Alejandro,Boston,1982,09,12,6-4_6-4
+Boston,2,1982,09,12,2,Ganzabal_Alejandro,Van_Der_Merwe_Schalk,Ganzabal_Alejandro,Boston,1982,09,12,6-4_6-4
 Boston,2,1982,09,12,2,Guerry_Zan,Teltscher_Eliot,Teltscher_Eliot,Boston,1982,09,12,6-4_6-2
 Boston,2,1982,09,12,2,Purcell_Mel,Tarr_Derek,Purcell_Mel,Boston,1982,09,12,6-1_3-6_6-3
 Boston,2,1982,09,12,2,Solomon_Harold,Brown_Jimmy,Solomon_Harold,Boston,1982,09,12,6-3_6-0

@@ -1,7 +1,7 @@
 Scottsdale,2,1989,03,12,1,Lendl_Ivan,Annacone_Paul,Lendl_Ivan,Scottsdale,1989,03,12,6-2_6-4
-Scottsdale,2,1989,03,12,1,Masur_Wally,Van_RensburgChristo,Van_RensburgChristo,Scottsdale,1989,03,12,6-3_6-4
+Scottsdale,2,1989,03,12,1,Masur_Wally,Van_Rensburg_Christo,Van_Rensburg_Christo,Scottsdale,1989,03,12,6-3_6-4
 Scottsdale,2,1989,03,12,1,Pate_David,Ivanisevic_Goran,Ivanisevic_Goran,Scottsdale,1989,03,12,7-6_6-3
-Scottsdale,2,1989,03,12,1,De_LaPenaHoracio,Chesnokov_Andrei,Chesnokov_Andrei,Scottsdale,1989,03,12,6-4_6-4
+Scottsdale,2,1989,03,12,1,De_La_Pena_Horacio,Chesnokov_Andrei,Chesnokov_Andrei,Scottsdale,1989,03,12,6-4_6-4
 Scottsdale,2,1989,03,12,1,Connors_Jimmy,Kriek_Johan,Kriek_Johan,Scottsdale,1989,03,12,6-4_4-6_6-4
 Scottsdale,2,1989,03,12,1,Courier_Jim,Pugh_Jim,Courier_Jim,Scottsdale,1989,03,12,6-4_4-6_6-3
 Scottsdale,2,1989,03,12,1,Woodforde_Mark,Chamberlin_Paul,Woodforde_Mark,Scottsdale,1989,03,12,6-1_1-0_RET
@@ -14,7 +14,7 @@ Scottsdale,2,1989,03,12,1,Pernfors_Mikael,Curren_Kevin,Curren_Kevin,Scottsdale,1
 Scottsdale,2,1989,03,12,1,Grabb_Jim,Berger_Jay,Berger_Jay,Scottsdale,1989,03,12,6-0_6-4
 Scottsdale,2,1989,03,12,1,Leach_Rick,Skoff_Horst,Skoff_Horst,Scottsdale,1989,03,12,7-5_6-4
 Scottsdale,2,1989,03,12,1,Chang_Michael,Edberg_Stefan,Edberg_Stefan,Scottsdale,1989,03,12,6-2_6-4
-Scottsdale,2,1989,03,12,2,Lendl_Ivan,Van_RensburgChristo,Lendl_Ivan,Scottsdale,1989,03,12,6-0_6-2
+Scottsdale,2,1989,03,12,2,Lendl_Ivan,Van_Rensburg_Christo,Lendl_Ivan,Scottsdale,1989,03,12,6-0_6-2
 Scottsdale,2,1989,03,12,2,Ivanisevic_Goran,Chesnokov_Andrei,Ivanisevic_Goran,Scottsdale,1989,03,12,4-6_6-3_6-3
 Scottsdale,2,1989,03,12,2,Kriek_Johan,Courier_Jim,Courier_Jim,Scottsdale,1989,03,12,6-1_6-1
 Scottsdale,2,1989,03,12,2,Woodforde_Mark,Sanchez_Emilio,Sanchez_Emilio,Scottsdale,1989,03,12,6-3_6-3

@@ -1,7 +1,7 @@
 テニスのデータを確認する
 ===
 
-[ここにある](https://github.com/gghatano/atp_scrape)男子テニスのデータで遊びます. 
+[ATP公式サイト](https://github.com/gghatano/atp_scrape)にある, 男子テニスのデータで遊びます. 
 
 ## 内容確認
 ```{r, message=FALSE, warning=FALSE}
@@ -37,9 +37,9 @@ dat_win =
 
 ## 勝ち数ランキングと勝率
 dat_win %>% 
-  mutate(WIN_PROB = WIN / GAME) %>% 
-  arrange(desc(WIN))
-```
+  mutate(WIN_PROB = round(WIN / GAME, 4)) %>% 
+  arrange(desc(WIN)) 
+``
 
 フェデラー強い. 
 

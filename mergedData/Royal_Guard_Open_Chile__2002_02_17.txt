@@ -1,10 +1,10 @@
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Lapentti_Nicolas,Diaz_Jacobo,Lapentti_Nicolas,Royal_Guard_Open_Chile_,2002,02,17,3-6_6-3_6-4
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Squillari_Franco,Delgado_Ramon,Delgado_Ramon,Royal_Guard_Open_Chile_,2002,02,17,2-6_6-2_6-3
-Royal_Guard_Open_Chile_,2,2002,02,17,1,Marin_JuanAntonio,Saretta_Flavio,Saretta_Flavio,Royal_Guard_Open_Chile_,2002,02,17,6-4_6-2
+Royal_Guard_Open_Chile_,2,2002,02,17,1,Marin_Juan_Antonio,Saretta_Flavio,Saretta_Flavio,Royal_Guard_Open_Chile_,2002,02,17,6-4_6-2
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Meligeni_Fernando,Nalbandian_David,Nalbandian_David,Royal_Guard_Open_Chile_,2002,02,17,6-7(8)_6-1_6-1
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Martin_Alberto,Silva_Julio,Silva_Julio,Royal_Guard_Open_Chile_,2002,02,17,6-4_6-4
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Massu_Nicolas,Norman_Magnus,Massu_Nicolas,Royal_Guard_Open_Chile_,2002,02,17,6-1_7-6(1)
-Royal_Guard_Open_Chile_,2,2002,02,17,1,Chela_JuanIgnacio,Vicente_Fernando,Vicente_Fernando,Royal_Guard_Open_Chile_,2002,02,17,6-2_6-1
+Royal_Guard_Open_Chile_,2,2002,02,17,1,Chela_Juan_Ignacio,Vicente_Fernando,Vicente_Fernando,Royal_Guard_Open_Chile_,2002,02,17,6-2_6-1
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Montanes_Albert,Gaudenzi_Andrea,Montanes_Albert,Royal_Guard_Open_Chile_,2002,02,17,6-3_6-0
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Gaudio_Gaston,Sanchez_David,Gaudio_Gaston,Royal_Guard_Open_Chile_,2002,02,17,6-7(6)_6-2_7-6(6)
 Royal_Guard_Open_Chile_,2,2002,02,17,1,Hipfl_Markus,Hormazabal_Guillermo,Hipfl_Markus,Royal_Guard_Open_Chile_,2002,02,17,6-1_6-3

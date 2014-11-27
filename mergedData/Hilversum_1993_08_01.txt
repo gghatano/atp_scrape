@@ -8,7 +8,7 @@ Hilversum,2,1993,08,01,1,Nijssen_Tom,Gustafsson_Magnus,Gustafsson_Magnus,Hilvers
 Hilversum,2,1993,08,01,1,Koevermans_Mark,Chesnokov_Andrei,Chesnokov_Andrei,Hilversum,1993,08,01,6-1_6-0
 Hilversum,2,1993,08,01,1,Ondruska_Marcos,Filippini_Marcelo,Ondruska_Marcos,Hilversum,1993,08,01,6-1_6-3
 Hilversum,2,1993,08,01,1,Arrese_Jordi,Sanchez_Javier,Sanchez_Javier,Hilversum,1993,08,01,3-6_7-5_7-6(8)
-Hilversum,2,1993,08,01,1,Kischkewitz_Nicolas,De_LaPenaHoracio,Kischkewitz_Nicolas,Hilversum,1993,08,01,3-6_6-4_4-1
+Hilversum,2,1993,08,01,1,Kischkewitz_Nicolas,De_La_Pena_Horacio,Kischkewitz_Nicolas,Hilversum,1993,08,01,3-6_6-4_4-1
 Hilversum,2,1993,08,01,1,Davin_Franco,Muster_Thomas,Muster_Thomas,Hilversum,1993,08,01,6-2_6-0
 Hilversum,2,1993,08,01,1,Santoro_Fabrice,Mancini_Alberto,Santoro_Fabrice,Hilversum,1993,08,01,6-7(6)_6-3_6-3
 Hilversum,2,1993,08,01,1,Oncins_Jaime,Costa_Carlos,Costa_Carlos,Hilversum,1993,08,01,7-5_3-6_6-3

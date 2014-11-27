@@ -8,8 +8,8 @@ Hampton,2,1975,03,16,1,Fibak_Wojtek,Brown_William,Fibak_Wojtek,Hampton,1975,03,1
 Hampton,2,1975,03,16,1,Blocher_Woody,Taylor_Roger,Taylor_Roger,Hampton,1975,03,16,4-6_6-1_6-2
 Hampton,2,1975,03,16,1,Meiler_Karl,Yuill_John,Meiler_Karl,Hampton,1975,03,16,6-1_6-0
 Hampton,2,1975,03,16,1,Machan_Robert,Feaver_John,Machan_Robert,Hampton,1975,03,16,6-7_6-4_6-3
-Hampton,2,1975,03,16,1,Bohrnstedt_DickR,Fletcher_Ian,Bohrnstedt_DickR,Hampton,1975,03,16,1-6_6-3_6-3
-Hampton,2,1975,03,16,1,Mayer_Gene,Gisbert_SrJuan,Gisbert_SrJuan,Hampton,1975,03,16,6-4_6-1
+Hampton,2,1975,03,16,1,Bohrnstedt_Dick_R,Fletcher_Ian,Bohrnstedt_Dick_R,Hampton,1975,03,16,1-6_6-3_6-3
+Hampton,2,1975,03,16,1,Mayer_Gene,Gisbert_Sr_Juan,Gisbert_Sr_Juan,Hampton,1975,03,16,6-4_6-1
 Hampton,2,1975,03,16,1,Graebner_Clark,Guedes_Roger,Graebner_Clark,Hampton,1975,03,16,6-2_7-6
 Hampton,2,1975,03,16,1,Saviano_Nick,Crookenden_Ian,Crookenden_Ian,Hampton,1975,03,16,4-6_6-3_6-4
 Hampton,2,1975,03,16,1,Ewert_Ernie,Waltke_Trey,Waltke_Trey,Hampton,1975,03,16,6-3_6-4
@@ -19,13 +19,13 @@ Hampton,2,1975,03,16,2,Austin_Jeff,Kachel_Chris,Austin_Jeff,Hampton,1975,03,16,6
 Hampton,2,1975,03,16,2,Kreiss_Robert,Pisecky_Jan,Kreiss_Robert,Hampton,1975,03,16,6-3_7-6
 Hampton,2,1975,03,16,2,Fibak_Wojtek,Taylor_Roger,Fibak_Wojtek,Hampton,1975,03,16,2-6_6-4_6-3
 Hampton,2,1975,03,16,2,Meiler_Karl,Machan_Robert,Meiler_Karl,Hampton,1975,03,16,6-2_6-4
-Hampton,2,1975,03,16,2,Bohrnstedt_DickR,Gisbert_SrJuan,Gisbert_SrJuan,Hampton,1975,03,16,6-4_7-6
+Hampton,2,1975,03,16,2,Bohrnstedt_Dick_R,Gisbert_Sr_Juan,Gisbert_Sr_Juan,Hampton,1975,03,16,6-4_7-6
 Hampton,2,1975,03,16,2,Graebner_Clark,Crookenden_Ian,Graebner_Clark,Hampton,1975,03,16,6-4_7-6
 Hampton,2,1975,03,16,2,Waltke_Trey,Kodes_Jan,Kodes_Jan,Hampton,1975,03,16,4-6_6-4_6-0
 Hampton,2,1975,03,16,3,Connors_Jimmy,Austin_Jeff,Connors_Jimmy,Hampton,1975,03,16,6-2_6-3
 Hampton,2,1975,03,16,3,Kreiss_Robert,Fibak_Wojtek,Fibak_Wojtek,Hampton,1975,03,16,6-1_6-4
-Hampton,2,1975,03,16,3,Meiler_Karl,Gisbert_SrJuan,Gisbert_SrJuan,Hampton,1975,03,16,6-3_6-2
+Hampton,2,1975,03,16,3,Meiler_Karl,Gisbert_Sr_Juan,Gisbert_Sr_Juan,Hampton,1975,03,16,6-3_6-2
 Hampton,2,1975,03,16,3,Graebner_Clark,Kodes_Jan,Kodes_Jan,Hampton,1975,03,16,6-3_6-3
 Hampton,2,1975,03,16,4,Connors_Jimmy,Fibak_Wojtek,Connors_Jimmy,Hampton,1975,03,16,1-6_6-3_6-3
-Hampton,2,1975,03,16,4,Gisbert_SrJuan,Kodes_Jan,Kodes_Jan,Hampton,1975,03,16,7-6_6-0
+Hampton,2,1975,03,16,4,Gisbert_Sr_Juan,Kodes_Jan,Kodes_Jan,Hampton,1975,03,16,7-6_6-0
 Hampton,2,1975,03,16,5,Connors_Jimmy,Kodes_Jan,Connors_Jimmy,Hampton,1975,03,16,3-6_6-3_6-0

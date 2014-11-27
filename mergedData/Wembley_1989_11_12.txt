@@ -1,7 +1,7 @@
 Wembley,2,1989,11,12,1,McEnroe_John,Davis_Scott,McEnroe_John,Wembley,1989,11,12,6-3_6-3
 Wembley,2,1989,11,12,1,Jelen_Eric,Green_Warren,Jelen_Eric,Wembley,1989,11,12,7-5_6-1
 Wembley,2,1989,11,12,1,Mansdorf_Amos,Saceanu_Christian,Mansdorf_Amos,Wembley,1989,11,12,6-3_6-3
-Wembley,2,1989,11,12,1,Van_RensburgChristo,Mecir_SrMiloslav,Mecir_SrMiloslav,Wembley,1989,11,12,7-6_1-6_6-1
+Wembley,2,1989,11,12,1,Van_Rensburg_Christo,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Wembley,1989,11,12,7-6_1-6_6-1
 Wembley,2,1989,11,12,1,Connors_Jimmy,Volkov_Alexander,Volkov_Alexander,Wembley,1989,11,12,3-6_6-4_7-6
 Wembley,2,1989,11,12,1,Castle_Andrew,Seguso_Robert,Seguso_Robert,Wembley,1989,11,12,6-1_6-4
 Wembley,2,1989,11,12,1,Forget_Guy,Fitzgerald_John,Forget_Guy,Wembley,1989,11,12,6-3_6-2
@@ -15,14 +15,14 @@ Wembley,2,1989,11,12,1,Stich_Michael,Flach_Ken,Stich_Michael,Wembley,1989,11,12,
 Wembley,2,1989,11,12,1,Annacone_Paul,Leconte_Henri,Annacone_Paul,Wembley,1989,11,12,7-6_6-1
 Wembley,2,1989,11,12,1,Goldie_Dan,Chang_Michael,Chang_Michael,Wembley,1989,11,12,6-1_6-1
 Wembley,2,1989,11,12,2,McEnroe_John,Jelen_Eric,McEnroe_John,Wembley,1989,11,12,6-4_6-1
-Wembley,2,1989,11,12,2,Mansdorf_Amos,Mecir_SrMiloslav,Mecir_SrMiloslav,Wembley,1989,11,12,6-4_7-5
+Wembley,2,1989,11,12,2,Mansdorf_Amos,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Wembley,1989,11,12,6-4_7-5
 Wembley,2,1989,11,12,2,Volkov_Alexander,Seguso_Robert,Seguso_Robert,Wembley,1989,11,12,6-4_1-6_7-6
 Wembley,2,1989,11,12,2,Forget_Guy,Curren_Kevin,Forget_Guy,Wembley,1989,11,12,7-6_6-4
 Wembley,2,1989,11,12,2,Strelba_Martin,Masur_Wally,Masur_Wally,Wembley,1989,11,12,7-6_6-1
 Wembley,2,1989,11,12,2,Shiras_Leif,Gilbert_Brad,Gilbert_Brad,Wembley,1989,11,12,7-5_6-3
 Wembley,2,1989,11,12,2,Chesnokov_Andrei,Stich_Michael,Chesnokov_Andrei,Wembley,1989,11,12,7-5_6-2
 Wembley,2,1989,11,12,2,Annacone_Paul,Chang_Michael,Chang_Michael,Wembley,1989,11,12,6-2_1-6_6-0
-Wembley,2,1989,11,12,3,McEnroe_John,Mecir_SrMiloslav,McEnroe_John,Wembley,1989,11,12,2-6_6-4_6-3
+Wembley,2,1989,11,12,3,McEnroe_John,Mecir_Sr_Miloslav,McEnroe_John,Wembley,1989,11,12,2-6_6-4_6-3
 Wembley,2,1989,11,12,3,Seguso_Robert,Forget_Guy,Forget_Guy,Wembley,1989,11,12,7-5_6-3
 Wembley,2,1989,11,12,3,Masur_Wally,Gilbert_Brad,Masur_Wally,Wembley,1989,11,12,7-6_3-6_6-3
 Wembley,2,1989,11,12,3,Chesnokov_Andrei,Chang_Michael,Chang_Michael,Wembley,1989,11,12,6-3_6-4

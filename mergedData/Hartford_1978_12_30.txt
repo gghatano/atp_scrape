@@ -1,6 +1,6 @@
 Hartford,2,1978,12,30,1,McEnroe_John,Docherty_Steve,McEnroe_John,Hartford,1978,12,30,6-3_6-4
 Hartford,2,1978,12,30,1,Barr_Mike,Drewett_Brad,Drewett_Brad,Hartford,1978,12,30,6-3_6-4
-Hartford,2,1978,12,30,1,Bohrnstedt_DickR,Prinsloo_Willem,Prinsloo_Willem,Hartford,1978,12,30,6-4_4-6_6-4
+Hartford,2,1978,12,30,1,Bohrnstedt_Dick_R,Prinsloo_Willem,Prinsloo_Willem,Hartford,1978,12,30,6-4_4-6_6-4
 Hartford,2,1978,12,30,1,Hardie_George,Mayer_Gene,Mayer_Gene,Hartford,1978,12,30,6-2_6-3
 Hartford,2,1978,12,30,1,Pfister_Henry,Winitsky_Van,Pfister_Henry,Hartford,1978,12,30,6-4_6-4
 Hartford,2,1978,12,30,1,Maharaj_Gewan,Fishbach_Mike,Fishbach_Mike,Hartford,1978,12,30,7-6_6-1

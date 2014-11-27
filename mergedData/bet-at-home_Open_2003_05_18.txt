@@ -10,7 +10,7 @@ bet-at-home_Open,3,2003,05,18,1,Roddick_Andy,Ljubicic_Ivan,Roddick_Andy,bet-at-h
 bet-at-home_Open,3,2003,05,18,1,Calleri_Agustin,Lee_HyungTaik,Calleri_Agustin,bet-at-home_Open,2003,05,18,3-6_7-6(1)_7-5
 bet-at-home_Open,3,2003,05,18,1,Kucera_Karol,Zabaleta_Mariano,Zabaleta_Mariano,bet-at-home_Open,2003,05,18,7-5_6-4
 bet-at-home_Open,3,2003,05,18,1,Stepanek_Radek,Robredo_Tommy,Robredo_Tommy,bet-at-home_Open,2003,05,18,6-4_6-3
-bet-at-home_Open,3,2003,05,18,1,Kuerten_Gustavo,Chela_JuanIgnacio,Kuerten_Gustavo,bet-at-home_Open,2003,05,18,6-2_6-4
+bet-at-home_Open,3,2003,05,18,1,Kuerten_Gustavo,Chela_Juan_Ignacio,Kuerten_Gustavo,bet-at-home_Open,2003,05,18,6-2_6-4
 bet-at-home_Open,3,2003,05,18,1,Voinea_Adrian,Davydenko_Nikolay,Davydenko_Nikolay,bet-at-home_Open,2003,05,18,6-0_6-2
 bet-at-home_Open,3,2003,05,18,1,Ferreira_Wayne,Waske_Alexander,Ferreira_Wayne,bet-at-home_Open,2003,05,18,6-3_6-2
 bet-at-home_Open,3,2003,05,18,1,Lopez_Feliciano,Srichaphan_Paradorn,Lopez_Feliciano,bet-at-home_Open,2003,05,18,6-4_6-3
@@ -23,7 +23,7 @@ bet-at-home_Open,3,2003,05,18,1,Sluiter_Raemon,Philippoussis_Mark,Philippoussis_
 bet-at-home_Open,3,2003,05,18,1,Hrbaty_Dominik,Sargsian_Sargis,Sargsian_Sargis,bet-at-home_Open,2003,05,18,6-7(4)_6-4_6-4
 bet-at-home_Open,3,2003,05,18,1,Mirnyi_Max,Federer_Roger,Federer_Roger,bet-at-home_Open,2003,05,18,6-3_6-3
 bet-at-home_Open,3,2003,05,18,1,Costa_Albert,Kiefer_Nicolas,Costa_Albert,bet-at-home_Open,2003,05,18,6-4_6-4
-bet-at-home_Open,3,2003,05,18,1,El_AynaouiYounes,Rochus_Olivier,Rochus_Olivier,bet-at-home_Open,2003,05,18,7-6(7)_6-4
+bet-at-home_Open,3,2003,05,18,1,El_Aynaoui_Younes,Rochus_Olivier,Rochus_Olivier,bet-at-home_Open,2003,05,18,7-6(7)_6-4
 bet-at-home_Open,3,2003,05,18,1,Gambill_JanMichael,Henman_Tim,Henman_Tim,bet-at-home_Open,2003,05,18,7-5_6-4
 bet-at-home_Open,3,2003,05,18,1,Volandri_Filippo,Grosjean_Sebastien,Grosjean_Sebastien,bet-at-home_Open,2003,05,18,6-3_6-4
 bet-at-home_Open,3,2003,05,18,1,Blake_James,Gaudio_Gaston,Gaudio_Gaston,bet-at-home_Open,2003,05,18,6-7(3)_6-1_6-2

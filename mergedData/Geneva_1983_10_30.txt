@@ -1,7 +1,7 @@
 Geneva,2,1983,10,30,1,Wilander_Mats,Dibbs_Eddie,Wilander_Mats,Geneva,1983,10,30,6-1_6-2
 Geneva,2,1983,10,30,1,Slozil_Pavel,Birner_Stanislav,Slozil_Pavel,Geneva,1983,10,30,7-5_6-3
 Geneva,2,1983,10,30,1,Mezzadri_Claudio,Stadler_Roland,Stadler_Roland,Geneva,1983,10,30,6-4_6-2
-Geneva,2,1983,10,30,1,Velasco_SrJairo,Taroczy_Balazs,Taroczy_Balazs,Geneva,1983,10,30,6-2_6-0
+Geneva,2,1983,10,30,1,Velasco_Sr_Jairo,Taroczy_Balazs,Taroczy_Balazs,Geneva,1983,10,30,6-2_6-0
 Geneva,2,1983,10,30,1,Smid_Tomas,Panatta_Claudio,Panatta_Claudio,Geneva,1983,10,30,4-6_6-4_6-2
 Geneva,2,1983,10,30,1,Kuharszky_Zoltan,Hlasek_Jakob,Kuharszky_Zoltan,Geneva,1983,10,30,6-4_7-5
 Geneva,2,1983,10,30,1,Ostoja_Marko,Windahl_Jorgen,Windahl_Jorgen,Geneva,1983,10,30,7-6_6-3

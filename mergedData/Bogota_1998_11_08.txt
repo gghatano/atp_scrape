@@ -3,7 +3,7 @@ Bogota,2,1998,11,08,1,Courier_Jim,Rodriguez_Martin,Courier_Jim,Bogota,1998,11,08
 Bogota,2,1998,11,08,1,Massu_Nicolas,Meligeni_Fernando,Meligeni_Fernando,Bogota,1998,11,08,6-2_6-3
 Bogota,2,1998,11,08,1,Delgado_Ramon,Hrbaty_Dominik,Delgado_Ramon,Bogota,1998,11,08,6-4_6-3
 Bogota,2,1998,11,08,1,Sa_Andre,Alonso_Julian,Alonso_Julian,Bogota,1998,11,08,6-4_3-6_6-1
-Bogota,2,1998,11,08,1,Arnold_KerLucas,Sargsian_Sargis,Sargsian_Sargis,Bogota,1998,11,08,6-2_6-4
+Bogota,2,1998,11,08,1,Arnold_Ker_Lucas,Sargsian_Sargis,Sargsian_Sargis,Bogota,1998,11,08,6-2_6-4
 Bogota,2,1998,11,08,1,Lapentti_Nicolas,Balcells_Juan,Balcells_Juan,Bogota,1998,11,08,6-3_7-6(2)
 Bogota,2,1998,11,08,1,Alami_Karim,Clavet_Francisco,Clavet_Francisco,Bogota,1998,11,08,6-4_6-2
 Bogota,2,1998,11,08,1,Puerta_Mariano,Campbell_Steve,Puerta_Mariano,Bogota,1998,11,08,6-1_6-3
@@ -11,8 +11,8 @@ Bogota,2,1998,11,08,1,Zabaleta_Mariano,Vicente_Fernando,Zabaleta_Mariano,Bogota,
 Bogota,2,1998,11,08,1,Hadad_Mauricio,Schlachter_Ricardo,Hadad_Mauricio,Bogota,1998,11,08,6-2_6-0
 Bogota,2,1998,11,08,1,Malisse_Xavier,Muster_Thomas,Malisse_Xavier,Bogota,1998,11,08,7-5_6-1
 Bogota,2,1998,11,08,1,Squillari_Franco,Sanguinetti_Davide,Sanguinetti_Davide,Bogota,1998,11,08,7-6(6)_6-3
-Bogota,2,1998,11,08,1,Van_ScheppingenDennis,Marin_JuanAntonio,Marin_JuanAntonio,Bogota,1998,11,08,6-3_6-3
-Bogota,2,1998,11,08,1,Morejon_LuisAdrian,Calatrava_Alex,Morejon_LuisAdrian,Bogota,1998,11,08,7-5_7-6(5)
+Bogota,2,1998,11,08,1,Van_Scheppingen_Dennis,Marin_Juan_Antonio,Marin_Juan_Antonio,Bogota,1998,11,08,6-3_6-3
+Bogota,2,1998,11,08,1,Morejon_Luis_Adrian,Calatrava_Alex,Morejon_Luis_Adrian,Bogota,1998,11,08,7-5_7-6(5)
 Bogota,2,1998,11,08,1,Novak_Jiri,Berasategui_Alberto,Novak_Jiri,Bogota,1998,11,08,6-2_6-2
 Bogota,2,1998,11,08,2,Mantilla_Felix,Courier_Jim,Courier_Jim,Bogota,1998,11,08,7-6(4)_7-5
 Bogota,2,1998,11,08,2,Meligeni_Fernando,Delgado_Ramon,Delgado_Ramon,Bogota,1998,11,08,6-3_6-4
@@ -20,8 +20,8 @@ Bogota,2,1998,11,08,2,Alonso_Julian,Sargsian_Sargis,Sargsian_Sargis,Bogota,1998,
 Bogota,2,1998,11,08,2,Balcells_Juan,Clavet_Francisco,Balcells_Juan,Bogota,1998,11,08,4-6_6-3_7-6(5)
 Bogota,2,1998,11,08,2,Puerta_Mariano,Zabaleta_Mariano,Zabaleta_Mariano,Bogota,1998,11,08,3-6_6-3_6-4
 Bogota,2,1998,11,08,2,Hadad_Mauricio,Malisse_Xavier,Hadad_Mauricio,Bogota,1998,11,08,6-2_2-0_RET
-Bogota,2,1998,11,08,2,Sanguinetti_Davide,Marin_JuanAntonio,Sanguinetti_Davide,Bogota,1998,11,08,6-4_7-5
-Bogota,2,1998,11,08,2,Morejon_LuisAdrian,Novak_Jiri,Novak_Jiri,Bogota,1998,11,08,6-3_6-2
+Bogota,2,1998,11,08,2,Sanguinetti_Davide,Marin_Juan_Antonio,Sanguinetti_Davide,Bogota,1998,11,08,6-4_7-5
+Bogota,2,1998,11,08,2,Morejon_Luis_Adrian,Novak_Jiri,Novak_Jiri,Bogota,1998,11,08,6-3_6-2
 Bogota,2,1998,11,08,3,Courier_Jim,Delgado_Ramon,Delgado_Ramon,Bogota,1998,11,08,6-7(6)_6-1_7-5
 Bogota,2,1998,11,08,3,Sargsian_Sargis,Balcells_Juan,Sargsian_Sargis,Bogota,1998,11,08,7-6(4)_7-5
 Bogota,2,1998,11,08,3,Zabaleta_Mariano,Hadad_Mauricio,Zabaleta_Mariano,Bogota,1998,11,08,6-7(3)_6-4_7-6(6)

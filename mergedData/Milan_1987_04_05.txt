@@ -13,7 +13,7 @@ Milan,2,1987,04,05,1,Skoff_Horst,Wilander_Mats,Wilander_Mats,Milan,1987,04,05,6-
 Milan,2,1987,04,05,1,Jarryd_Anders,Masur_Wally,Jarryd_Anders,Milan,1987,04,05,7-6_6-3
 Milan,2,1987,04,05,1,Smid_Tomas,Mansdorf_Amos,Smid_Tomas,Milan,1987,04,05,6-3_1-6_6-2
 Milan,2,1987,04,05,1,Jelen_Eric,Limberger_Carl,Jelen_Eric,Milan,1987,04,05,7-6_6-1
-Milan,2,1987,04,05,1,Colombini_Ugo,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1987,04,05,6-2_6-3
+Milan,2,1987,04,05,1,Colombini_Ugo,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1987,04,05,6-2_6-3
 Milan,2,1987,04,05,2,Becker_Boris,Casal_Sergio,Becker_Boris,Milan,1987,04,05,6-2_6-4
 Milan,2,1987,04,05,2,Schapers_Michiel,Hlasek_Jakob,Hlasek_Jakob,Milan,1987,04,05,6-3_7-5
 Milan,2,1987,04,05,2,Cane_Paolo,Dyke_Broderick,Cane_Paolo,Milan,1987,04,05,6-1_6-2
@@ -21,11 +21,11 @@ Milan,2,1987,04,05,2,Drewett_Brad,Zivojinovic_Slobodan,Zivojinovic_Slobodan,Mila
 Milan,2,1987,04,05,2,Sanchez_Emilio,Panatta_Claudio,Sanchez_Emilio,Milan,1987,04,05,6-4_6-4
 Milan,2,1987,04,05,2,Gunnarsson_Jan,Wilander_Mats,Wilander_Mats,Milan,1987,04,05,6-3_6-4
 Milan,2,1987,04,05,2,Jarryd_Anders,Smid_Tomas,Smid_Tomas,Milan,1987,04,05,7-5_6-3
-Milan,2,1987,04,05,2,Jelen_Eric,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1987,04,05,6-1_6-4
+Milan,2,1987,04,05,2,Jelen_Eric,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1987,04,05,6-1_6-4
 Milan,2,1987,04,05,3,Becker_Boris,Hlasek_Jakob,Becker_Boris,Milan,1987,04,05,6-4_6-2
 Milan,2,1987,04,05,3,Cane_Paolo,Zivojinovic_Slobodan,Zivojinovic_Slobodan,Milan,1987,04,05,6-1_6-1
 Milan,2,1987,04,05,3,Sanchez_Emilio,Wilander_Mats,Wilander_Mats,Milan,1987,04,05,6-3_6-1
-Milan,2,1987,04,05,3,Smid_Tomas,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1987,04,05,6-4_6-4
+Milan,2,1987,04,05,3,Smid_Tomas,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1987,04,05,6-4_6-4
 Milan,2,1987,04,05,4,Becker_Boris,Zivojinovic_Slobodan,Becker_Boris,Milan,1987,04,05,6-2_3-6_6-2
-Milan,2,1987,04,05,4,Wilander_Mats,Mecir_SrMiloslav,Mecir_SrMiloslav,Milan,1987,04,05,6-0_6-2
-Milan,2,1987,04,05,5,Becker_Boris,Mecir_SrMiloslav,Becker_Boris,Milan,1987,04,05,6-4_6-3
+Milan,2,1987,04,05,4,Wilander_Mats,Mecir_Sr_Miloslav,Mecir_Sr_Miloslav,Milan,1987,04,05,6-0_6-2
+Milan,2,1987,04,05,5,Becker_Boris,Mecir_Sr_Miloslav,Becker_Boris,Milan,1987,04,05,6-4_6-3

@@ -7,7 +7,7 @@ Tashkent,2,1997,09,14,1,Merinov_Andrei,Santopadre_Vincenzo,Santopadre_Vincenzo,T
 Tashkent,2,1997,09,14,1,Sabau_Razvan,Koubek_Stefan,Koubek_Stefan,Tashkent,1997,09,14,4-6_6-1_6-2
 Tashkent,2,1997,09,14,1,Delgado_Ramon,Arazi_Hicham,Arazi_Hicham,Tashkent,1997,09,14,4-6_6-4_6-3
 Tashkent,2,1997,09,14,1,Clavet_Francisco,Canas_Guillermo,Clavet_Francisco,Tashkent,1997,09,14,6-3_6-3
-Tashkent,2,1997,09,14,1,Erlich_Eyal,Makhkamov_AbdulHamid,Erlich_Eyal,Tashkent,1997,09,14,7-5_7-5
+Tashkent,2,1997,09,14,1,Erlich_Eyal,Makhkamov_Abdul_Hamid,Erlich_Eyal,Tashkent,1997,09,14,7-5_7-5
 Tashkent,2,1997,09,14,1,Weidenfeld_Raviv,Pavel_Andrei,Pavel_Andrei,Tashkent,1997,09,14,6-7(7)_6-2_6-3
 Tashkent,2,1997,09,14,1,Kroslak_Jan,Sanchez_Javier,Sanchez_Javier,Tashkent,1997,09,14,6-2_6-0
 Tashkent,2,1997,09,14,1,Spadea_Vincent,Campbell_Steve,Spadea_Vincent,Tashkent,1997,09,14,2-6_6-2_6-3

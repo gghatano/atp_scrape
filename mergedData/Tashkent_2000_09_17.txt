@@ -2,9 +2,9 @@ Tashkent,2,2000,09,17,1,Kafelnikov_Yevgeny,Zovko_Lovro,Kafelnikov_Yevgeny,Tashke
 Tashkent,2,2000,09,17,1,Srichaphan_Paradorn,Sanguinetti_Davide,Sanguinetti_Davide,Tashkent,2000,09,17,6-2_6-0
 Tashkent,2,2000,09,17,1,Gimelstob_Justin,Siemerink_Jan,Gimelstob_Justin,Tashkent,2000,09,17,6-4_6-3
 Tashkent,2,2000,09,17,1,Tieleman_Laurence,Levy_Harel,Levy_Harel,Tashkent,2000,09,17,6-1_6-1
-Tashkent,2,2000,09,17,1,El_AynaouiYounes,Boutter_Julien,Boutter_Julien,Tashkent,2000,09,17,3-6_7-6(5)_6-4
+Tashkent,2,2000,09,17,1,El_Aynaoui_Younes,Boutter_Julien,Boutter_Julien,Tashkent,2000,09,17,3-6_7-6(5)_6-4
 Tashkent,2,2000,09,17,1,Erlich_Jonathan,Kutsenko_Vadim,Erlich_Jonathan,Tashkent,2000,09,17,7-6(3)_6-4
-Tashkent,2,2000,09,17,1,van_LottumJohn,Youzhny_Mikhail,Youzhny_Mikhail,Tashkent,2000,09,17,3-6_6-3_7-5
+Tashkent,2,2000,09,17,1,van_Lottum_John,Youzhny_Mikhail,Youzhny_Mikhail,Tashkent,2000,09,17,3-6_6-3_7-5
 Tashkent,2,2000,09,17,1,Ljubicic_Ivan,Golmard_Jerome,Golmard_Jerome,Tashkent,2000,09,17,7-6(4)_6-1
 Tashkent,2,2000,09,17,1,Rusedski_Greg,Sargsian_Sargis,Rusedski_Greg,Tashkent,2000,09,17,6-3_7-5
 Tashkent,2,2000,09,17,1,Stoliarov_Andrei,Goldstein_Paul,Stoliarov_Andrei,Tashkent,2000,09,17,6-2_6-2

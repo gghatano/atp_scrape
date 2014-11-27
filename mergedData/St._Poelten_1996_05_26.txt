@@ -5,7 +5,7 @@ St._Poelten,2,1996,05,26,1,Behrens_Bill,Gaudenzi_Andrea,Gaudenzi_Andrea,St._Poel
 St._Poelten,2,1996,05,26,1,Schaller_Gilbert,Rusedski_Greg,Rusedski_Greg,St._Poelten,1996,05,26,7-5_6-3
 St._Poelten,2,1996,05,26,1,Mantilla_Felix,Rikl_David,Mantilla_Felix,St._Poelten,1996,05,26,4-6_6-4_6-1
 St._Poelten,2,1996,05,26,1,Nestor_Daniel,Carlsen_Kenneth,Carlsen_Kenneth,St._Poelten,1996,05,26,6-4_6-3
-St._Poelten,2,1996,05,26,1,El_AynaouiYounes,Berasategui_Alberto,El_AynaouiYounes,St._Poelten,1996,05,26,7-6(5)_6-3
+St._Poelten,2,1996,05,26,1,El_Aynaoui_Younes,Berasategui_Alberto,El_Aynaoui_Younes,St._Poelten,1996,05,26,7-6(5)_6-3
 St._Poelten,2,1996,05,26,1,Dosedel_Slava,PerezRoldan_Guillermo,Dosedel_Slava,St._Poelten,1996,05,26,6-4_6-2
 St._Poelten,2,1996,05,26,1,Pescosolido_Stefano,Trimmel_Clemens,Pescosolido_Stefano,St._Poelten,1996,05,26,6-4_1-6_6-1
 St._Poelten,2,1996,05,26,1,Edberg_Stefan,Kucera_Karol,Edberg_Stefan,St._Poelten,1996,05,26,6-3_6-4
@@ -17,7 +17,7 @@ St._Poelten,2,1996,05,26,1,Johansson_Thomas,Rios_Marcelo,Rios_Marcelo,St._Poelte
 St._Poelten,2,1996,05,26,2,Muster_Thomas,Goellner_MarcKevin,Muster_Thomas,St._Poelten,1996,05,26,6-7(4)_6-4_7-6(7)
 St._Poelten,2,1996,05,26,2,Matsuoka_Shuzo,Gaudenzi_Andrea,Gaudenzi_Andrea,St._Poelten,1996,05,26,6-0_6-1
 St._Poelten,2,1996,05,26,2,Rusedski_Greg,Mantilla_Felix,Mantilla_Felix,St._Poelten,1996,05,26,6-2_6-7(3)_6-3
-St._Poelten,2,1996,05,26,2,Carlsen_Kenneth,El_AynaouiYounes,Carlsen_Kenneth,St._Poelten,1996,05,26,6-1_6-4
+St._Poelten,2,1996,05,26,2,Carlsen_Kenneth,El_Aynaoui_Younes,Carlsen_Kenneth,St._Poelten,1996,05,26,6-1_6-4
 St._Poelten,2,1996,05,26,2,Dosedel_Slava,Pescosolido_Stefano,Dosedel_Slava,St._Poelten,1996,05,26,6-3_6-0
 St._Poelten,2,1996,05,26,2,Edberg_Stefan,Black_Byron,Edberg_Stefan,St._Poelten,1996,05,26,6-4_7-5
 St._Poelten,2,1996,05,26,2,Clavet_Francisco,Sanchez_Javier,Clavet_Francisco,St._Poelten,1996,05,26,5-7_6-0_6-2

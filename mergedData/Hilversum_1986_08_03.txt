@@ -1,7 +1,7 @@
-Hilversum,2,1986,08,03,1,Mecir_SrMiloslav,Casal_Sergio,Mecir_SrMiloslav,Hilversum,1986,08,03,6-3_6-3
+Hilversum,2,1986,08,03,1,Mecir_Sr_Miloslav,Casal_Sergio,Mecir_Sr_Miloslav,Hilversum,1986,08,03,6-3_6-3
 Hilversum,2,1986,08,03,1,Limberger_Carl,Birner_Stanislav,Birner_Stanislav,Hilversum,1986,08,03,6-3_3-6_6-3
-Hilversum,2,1986,08,03,1,De_MiguelDavid,Bengoechea_Eduardo,Bengoechea_Eduardo,Hilversum,1986,08,03,6-2_6-2
-Hilversum,2,1986,08,03,1,Rodriguez_JuanAntonio,Muster_Thomas,Muster_Thomas,Hilversum,1986,08,03,6-0_6-0
+Hilversum,2,1986,08,03,1,De_Miguel_David,Bengoechea_Eduardo,Bengoechea_Eduardo,Hilversum,1986,08,03,6-2_6-2
+Hilversum,2,1986,08,03,1,Rodriguez_Juan_Antonio,Muster_Thomas,Muster_Thomas,Hilversum,1986,08,03,6-0_6-0
 Hilversum,2,1986,08,03,1,Smid_Tomas,Osterthun_Ricki,Osterthun_Ricki,Hilversum,1986,08,03,6-2_6-3
 Hilversum,2,1986,08,03,1,Maurer_Andreas,Woodforde_Mark,Maurer_Andreas,Hilversum,1986,08,03,6-1_6-4
 Hilversum,2,1986,08,03,1,Oosting_Menno,Slozil_Pavel,Oosting_Menno,Hilversum,1986,08,03,6-4_6-2
@@ -14,7 +14,7 @@ Hilversum,2,1986,08,03,1,Vajda_Marian,Lindgren_Peter,Vajda_Marian,Hilversum,1986
 Hilversum,2,1986,08,03,1,Bathman_Ronnie,Masso_Eduardo,Bathman_Ronnie,Hilversum,1986,08,03,5-7_6-1_6-3
 Hilversum,2,1986,08,03,1,Stadler_Roland,Meinecke_Tore,Stadler_Roland,Hilversum,1986,08,03,6-1_6-4
 Hilversum,2,1986,08,03,1,Castellan_Carlos,Sanchez_Emilio,Sanchez_Emilio,Hilversum,1986,08,03,6-2_6-1
-Hilversum,2,1986,08,03,2,Mecir_SrMiloslav,Birner_Stanislav,Mecir_SrMiloslav,Hilversum,1986,08,03,6-0_6-3
+Hilversum,2,1986,08,03,2,Mecir_Sr_Miloslav,Birner_Stanislav,Mecir_Sr_Miloslav,Hilversum,1986,08,03,6-0_6-3
 Hilversum,2,1986,08,03,2,Bengoechea_Eduardo,Muster_Thomas,Muster_Thomas,Hilversum,1986,08,03,6-2_1-6_6-1
 Hilversum,2,1986,08,03,2,Osterthun_Ricki,Maurer_Andreas,Maurer_Andreas,Hilversum,1986,08,03,4-6_6-3_6-4
 Hilversum,2,1986,08,03,2,Oosting_Menno,Schapers_Michiel,Oosting_Menno,Hilversum,1986,08,03,4-6_6-2_7-6
@@ -22,7 +22,7 @@ Hilversum,2,1986,08,03,2,Cane_Paolo,Lodder_JanWillem,Cane_Paolo,Hilversum,1986,0
 Hilversum,2,1986,08,03,2,Mezzadri_Claudio,Hlasek_Jakob,Hlasek_Jakob,Hilversum,1986,08,03,4-6_7-5_6-2
 Hilversum,2,1986,08,03,2,Vajda_Marian,Bathman_Ronnie,Vajda_Marian,Hilversum,1986,08,03,7-6_6-4
 Hilversum,2,1986,08,03,2,Stadler_Roland,Sanchez_Emilio,Sanchez_Emilio,Hilversum,1986,08,03,6-3_2-6_6-4
-Hilversum,2,1986,08,03,3,Mecir_SrMiloslav,Muster_Thomas,Muster_Thomas,Hilversum,1986,08,03,4-6_7-6_7-5
+Hilversum,2,1986,08,03,3,Mecir_Sr_Miloslav,Muster_Thomas,Muster_Thomas,Hilversum,1986,08,03,4-6_7-6_7-5
 Hilversum,2,1986,08,03,3,Maurer_Andreas,Oosting_Menno,Oosting_Menno,Hilversum,1986,08,03,3-6_6-4_7-6
 Hilversum,2,1986,08,03,3,Cane_Paolo,Hlasek_Jakob,Hlasek_Jakob,Hilversum,1986,08,03,6-4_3-6_6-1
 Hilversum,2,1986,08,03,3,Vajda_Marian,Sanchez_Emilio,Sanchez_Emilio,Hilversum,1986,08,03,6-3_6-4

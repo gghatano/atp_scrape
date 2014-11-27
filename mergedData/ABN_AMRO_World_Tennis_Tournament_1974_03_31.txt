@@ -3,7 +3,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Goven_Georges,Dent_Phil,Goven_Ge
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Pattison_Andrew,Elschenbroich_Harald,Pattison_Andrew,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-1_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Chanfreau_JeanBaptiste,Riessen_Marty,Riessen_Marty,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-3_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Pilic_Nikola,McManus_Jim,Pilic_Nikola,ABN_AMRO_World_Tennis_Tournament,1974,03,31,2-6_7-6(4)_6-4
-ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Hordijk_Jan,Van_DillenErik,Van_DillenErik,ABN_AMRO_World_Tennis_Tournament,1974,03,31,4-6_6-3_6-2
+ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Hordijk_Jan,Van_Dillen_Erik,Van_Dillen_Erik,ABN_AMRO_World_Tennis_Tournament,1974,03,31,4-6_6-3_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Hewitt_Bob,Carmichael_Bob,Hewitt_Bob,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-4_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,McMillan_Frew,Drysdale_Cliff,Drysdale_Cliff,ABN_AMRO_World_Tennis_Tournament,1974,03,31,7-5_6-4
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Gorman_Tom,Proisy_Patrick,Gorman_Tom,ABN_AMRO_World_Tennis_Tournament,1974,03,31,W/O
@@ -16,7 +16,7 @@ ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Pohmann_HansJurgen,Fok_Wouter,Po
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,1,Stone_Allan,Nastase_Ilie,Stone_Allan,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-3_1-6_7-5
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Okker_Tom,Goven_Georges,Okker_Tom,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-0_3-6_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Pattison_Andrew,Riessen_Marty,Riessen_Marty,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-3_5-7_6-3
-ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Pilic_Nikola,Van_DillenErik,Pilic_Nikola,ABN_AMRO_World_Tennis_Tournament,1974,03,31,1-6_7-6(6)_6-3
+ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Pilic_Nikola,Van_Dillen_Erik,Pilic_Nikola,ABN_AMRO_World_Tennis_Tournament,1974,03,31,1-6_7-6(6)_6-3
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Hewitt_Bob,Drysdale_Cliff,Drysdale_Cliff,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-1_6-1
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Gorman_Tom,Ruffels_Ray,Gorman_Tom,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-4_6-2
 ABN_AMRO_World_Tennis_Tournament,2,1974,03,31,2,Orantes_Manuel,Roche_Tony,Orantes_Manuel,ABN_AMRO_World_Tennis_Tournament,1974,03,31,6-4_3-6_6-3

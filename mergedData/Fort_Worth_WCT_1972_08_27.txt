@@ -12,7 +12,7 @@ Fort_Worth_WCT,2,1972,08,27,1,Stilwell_Graham,Rahim_Haroon,Stilwell_Graham,Fort_
 Fort_Worth_WCT,2,1972,08,27,1,Maud_Robert,Lutz_Robert,Maud_Robert,Fort_Worth_WCT,1972,08,27,6-7_6-3_6-4
 Fort_Worth_WCT,2,1972,08,27,1,Riessen_Marty,Stone_Allan,Riessen_Marty,Fort_Worth_WCT,1972,08,27,6-1_6-4
 Fort_Worth_WCT,2,1972,08,27,1,Richey_Cliff,Dent_Phil,Richey_Cliff,Fort_Worth_WCT,1972,08,27,6-3_6-1
-Fort_Worth_WCT,2,1972,08,27,1,Ruffels_Ray,El_ShafeiIsmail,Ruffels_Ray,Fort_Worth_WCT,1972,08,27,6-3_6-1
+Fort_Worth_WCT,2,1972,08,27,1,Ruffels_Ray,El_Shafei_Ismail,Ruffels_Ray,Fort_Worth_WCT,1972,08,27,6-3_6-1
 Fort_Worth_WCT,2,1972,08,27,1,Stolle_Fred,Ashe_Arthur,Ashe_Arthur,Fort_Worth_WCT,1972,08,27,7-6_6-4
 Fort_Worth_WCT,2,1972,08,27,2,Newcombe_John,Borowiak_Jeff,Newcombe_John,Fort_Worth_WCT,1972,08,27,6-2_6-3
 Fort_Worth_WCT,2,1972,08,27,2,Alexander_John,Pilic_Nikola,Alexander_John,Fort_Worth_WCT,1972,08,27,7-6_6-4

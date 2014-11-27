@@ -10,7 +10,7 @@ Philadelphia_WCT,2,1971,02,21,1,Newcombe_John,Barth_Roy,Newcombe_John,Philadelph
 Philadelphia_WCT,2,1971,02,21,1,Bowrey_Bill,Taylor_Roger,Taylor_Roger,Philadelphia_WCT,1971,02,21,7-5_6-2
 Philadelphia_WCT,2,1971,02,21,1,Stolle_Fred,Lutz_Robert,Lutz_Robert,Philadelphia_WCT,1971,02,21,7-5_6-2
 Philadelphia_WCT,2,1971,02,21,1,McMillan_Frew,Okker_Tom,Okker_Tom,Philadelphia_WCT,1971,02,21,6-1_6-3
-Philadelphia_WCT,2,1971,02,21,1,Emerson_Roy,El_ShafeiIsmail,Emerson_Roy,Philadelphia_WCT,1971,02,21,6-4_3-6_6-2
+Philadelphia_WCT,2,1971,02,21,1,Emerson_Roy,El_Shafei_Ismail,Emerson_Roy,Philadelphia_WCT,1971,02,21,6-4_3-6_6-2
 Philadelphia_WCT,2,1971,02,21,1,Crealy_Dick,Carmichael_Bob,Carmichael_Bob,Philadelphia_WCT,1971,02,21,6-3_6-4
 Philadelphia_WCT,2,1971,02,21,1,Drysdale_Cliff,Stone_Allan,Drysdale_Cliff,Philadelphia_WCT,1971,02,21,6-2_6-1
 Philadelphia_WCT,2,1971,02,21,1,Davidson_Owen,Rosewall_Ken,Davidson_Owen,Philadelphia_WCT,1971,02,21,6-3_6-4

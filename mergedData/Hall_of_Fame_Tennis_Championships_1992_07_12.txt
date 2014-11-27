@@ -2,7 +2,7 @@ Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Wheaton_David,Pugh_Jim,Wheaton_
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Lundgren_Peter,MacPhie_Brian,MacPhie_Brian,Hall_of_Fame_Tennis_Championships,1992,07,12,7-6(10)_6-4
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Borwick_Neil,Rikl_David,Borwick_Neil,Hall_of_Fame_Tennis_Championships,1992,07,12,7-6(5)_6-4
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Saceanu_Christian,Herrera_Luis,Herrera_Luis,Hall_of_Fame_Tennis_Championships,1992,07,12,6-4_6-4
-Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Van_RensburgChristo,Hogstedt_Thomas,Van_RensburgChristo,Hall_of_Fame_Tennis_Championships,1992,07,12,6-1_4-6_6-3
+Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Van_Rensburg_Christo,Hogstedt_Thomas,Van_Rensburg_Christo,Hall_of_Fame_Tennis_Championships,1992,07,12,6-1_4-6_6-3
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Montana_Francisco,Weiss_Robbie,Weiss_Robbie,Hall_of_Fame_Tennis_Championships,1992,07,12,6-1_6-2
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Black_Byron,Martin_Todd,Martin_Todd,Hall_of_Fame_Tennis_Championships,1992,07,12,6-1_6-4
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Antonitsch_Alex,Schapers_Michiel,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1992,07,12,6-2_7-6(4)
@@ -16,14 +16,14 @@ Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Stolle_Sandon,Raoux_Guillaume,S
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,1,Braasch_Karsten,Pozzi_Gianluca,Pozzi_Gianluca,Hall_of_Fame_Tennis_Championships,1992,07,12,6-7(8)_6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Wheaton_David,MacPhie_Brian,MacPhie_Brian,Hall_of_Fame_Tennis_Championships,1992,07,12,6-4_7-6(4)
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Borwick_Neil,Herrera_Luis,Borwick_Neil,Hall_of_Fame_Tennis_Championships,1992,07,12,6-3_3-6_7-6(6)
-Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Van_RensburgChristo,Weiss_Robbie,Van_RensburgChristo,Hall_of_Fame_Tennis_Championships,1992,07,12,6-3_6-3
+Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Van_Rensburg_Christo,Weiss_Robbie,Van_Rensburg_Christo,Hall_of_Fame_Tennis_Championships,1992,07,12,6-3_6-3
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Martin_Todd,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1992,07,12,7-6(5)_6-4
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Shelton_Bryan,Thoms_Arne,Shelton_Bryan,Hall_of_Fame_Tennis_Championships,1992,07,12,4-6_7-6(3)_6-2
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Stark_Jonathan,Bloom_Gilad,Stark_Jonathan,Hall_of_Fame_Tennis_Championships,1992,07,12,6-2_6-3
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Youl_Simon,Frana_Javier,Frana_Javier,Hall_of_Fame_Tennis_Championships,1992,07,12,3-6_6-4_7-5
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,2,Stolle_Sandon,Pozzi_Gianluca,Stolle_Sandon,Hall_of_Fame_Tennis_Championships,1992,07,12,6-1_4-6_6-3
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,3,MacPhie_Brian,Borwick_Neil,Borwick_Neil,Hall_of_Fame_Tennis_Championships,1992,07,12,6-4_7-6(5)
-Hall_of_Fame_Tennis_Championships,2,1992,07,12,3,Van_RensburgChristo,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1992,07,12,6-3_7-6(3)
+Hall_of_Fame_Tennis_Championships,2,1992,07,12,3,Van_Rensburg_Christo,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1992,07,12,6-3_7-6(3)
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,3,Shelton_Bryan,Stark_Jonathan,Shelton_Bryan,Hall_of_Fame_Tennis_Championships,1992,07,12,6-2_7-5
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,3,Frana_Javier,Stolle_Sandon,Frana_Javier,Hall_of_Fame_Tennis_Championships,1992,07,12,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1992,07,12,4,Borwick_Neil,Antonitsch_Alex,Antonitsch_Alex,Hall_of_Fame_Tennis_Championships,1992,07,12,6-4_7-6(3)

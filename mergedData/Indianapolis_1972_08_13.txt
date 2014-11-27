@@ -8,7 +8,7 @@ Indianapolis,2,1972,08,13,1,Paish_John,Olmedo_Alejandro,Paish_John,Indianapolis,
 Indianapolis,2,1972,08,13,1,Cornejo_Patricio,Cooper_John,Cornejo_Patricio,Indianapolis,1972,08,13,6-2_6-2
 Indianapolis,2,1972,08,13,1,Connors_Jimmy,Fisher_Rick,Connors_Jimmy,Indianapolis,1972,08,13,6-4_6-2
 Indianapolis,2,1972,08,13,1,Masters_Geoff,McManus_Jim,Masters_Geoff,Indianapolis,1972,08,13,7-6_6-7_6-2
-Indianapolis,2,1972,08,13,1,Molina_Ivan,Gisbert_SrJuan,Molina_Ivan,Indianapolis,1972,08,13,6-4_6-3
+Indianapolis,2,1972,08,13,1,Molina_Ivan,Gisbert_Sr_Juan,Molina_Ivan,Indianapolis,1972,08,13,6-4_6-3
 Indianapolis,2,1972,08,13,1,Cramer_Pat,McKinley_Robert,Cramer_Pat,Indianapolis,1972,08,13,6-3_6-1
 Indianapolis,2,1972,08,13,1,Proisy_Patrick,Higgins_William,Proisy_Patrick,Indianapolis,1972,08,13,5-7_6-0_6-1
 Indianapolis,2,1972,08,13,1,Dell_Dick,Amritraj_Anand,Dell_Dick,Indianapolis,1972,08,13,6-2_6-7_6-0
@@ -27,7 +27,7 @@ Indianapolis,2,1972,08,13,1,Panatta_Adriano,Osborne_Jim,Panatta_Adriano,Indianap
 Indianapolis,2,1972,08,13,1,Goven_Georges,Estep_Mike,Goven_Georges,Indianapolis,1972,08,13,6-1_1-6_6-2
 Indianapolis,2,1972,08,13,1,Tanner_Roscoe,Hewitt_Bob,Hewitt_Bob,Indianapolis,1972,08,13,6-2_6-4
 Indianapolis,2,1972,08,13,1,Gerken_Paul,Vilas_Guillermo,Gerken_Paul,Indianapolis,1972,08,13,7-5_6-1
-Indianapolis,2,1972,08,13,1,Fillol_SrJaime,Lloyd_William,Fillol_SrJaime,Indianapolis,1972,08,13,6-1_6-1
+Indianapolis,2,1972,08,13,1,Fillol_Sr_Jaime,Lloyd_William,Fillol_Sr_Jaime,Indianapolis,1972,08,13,6-1_6-1
 Indianapolis,2,1972,08,13,1,Stockton_Dick,Chanfreau_JeanBaptiste,Stockton_Dick,Indianapolis,1972,08,13,6-4_3-6_7-6
 Indianapolis,2,1972,08,13,1,Ramirez_Raul,Gimeno_Andres,Ramirez_Raul,Indianapolis,1972,08,13,W/O
 Indianapolis,2,1972,08,13,2,Fletcher_Ian,Dibbs_Eddie,Fletcher_Ian,Indianapolis,1972,08,13,6-4_4-6_7-6
@@ -44,7 +44,7 @@ Indianapolis,2,1972,08,13,2,Pattison_Andrew,Hose_Humphrey,Pattison_Andrew,Indian
 Indianapolis,2,1972,08,13,2,Owens_Charles,Kodes_Jan,Kodes_Jan,Indianapolis,1972,08,13,6-2_7-6
 Indianapolis,2,1972,08,13,2,Belkin_Mike,Panatta_Adriano,Belkin_Mike,Indianapolis,1972,08,13,6-3_6-2
 Indianapolis,2,1972,08,13,2,Goven_Georges,Hewitt_Bob,Hewitt_Bob,Indianapolis,1972,08,13,2-6_6-3_6-4
-Indianapolis,2,1972,08,13,2,Gerken_Paul,Fillol_SrJaime,Gerken_Paul,Indianapolis,1972,08,13,6-4_5-7_7-6
+Indianapolis,2,1972,08,13,2,Gerken_Paul,Fillol_Sr_Jaime,Gerken_Paul,Indianapolis,1972,08,13,6-4_5-7_7-6
 Indianapolis,2,1972,08,13,2,Stockton_Dick,Ramirez_Raul,Ramirez_Raul,Indianapolis,1972,08,13,6-3_7-6
 Indianapolis,2,1972,08,13,3,Fletcher_Ian,Sakai_Toshiro,Sakai_Toshiro,Indianapolis,1972,08,13,7-5_7-5
 Indianapolis,2,1972,08,13,3,Dominguez_Patrice,Paish_John,Dominguez_Patrice,Indianapolis,1972,08,13,6-4_6-3

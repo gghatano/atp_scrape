@@ -12,7 +12,7 @@ SkiStar_Swedish_Open,2,2001,07,15,1,Blanco_Galo,Gaudenzi_Andrea,Gaudenzi_Andrea,
 SkiStar_Swedish_Open,2,2001,07,15,1,Hood_Mariano,Vinciguerra_Andreas,Vinciguerra_Andreas,SkiStar_Swedish_Open,2001,07,15,6-1_6-4
 SkiStar_Swedish_Open,2,2001,07,15,1,Tabara_Michal,Rochus_Olivier,Tabara_Michal,SkiStar_Swedish_Open,2001,07,15,6-7(10)_6-4_6-4
 SkiStar_Swedish_Open,2,2001,07,15,1,Diaz_Jacobo,Settergren_Johan,Settergren_Johan,SkiStar_Swedish_Open,2001,07,15,6-2_6-3
-SkiStar_Swedish_Open,2,2001,07,15,1,El_AynaouiYounes,Flygt_Kalle,El_AynaouiYounes,SkiStar_Swedish_Open,2001,07,15,6-7(7)_7-6(4)_6-1
+SkiStar_Swedish_Open,2,2001,07,15,1,El_Aynaoui_Younes,Flygt_Kalle,El_Aynaoui_Younes,SkiStar_Swedish_Open,2001,07,15,6-7(7)_7-6(4)_6-1
 SkiStar_Swedish_Open,2,2001,07,15,1,Hipfl_Markus,Hrbaty_Dominik,Hipfl_Markus,SkiStar_Swedish_Open,2001,07,15,6-4_6-4
 SkiStar_Swedish_Open,2,2001,07,15,2,Norman_Magnus,Ilie_Andrew,Norman_Magnus,SkiStar_Swedish_Open,2001,07,15,6-4_6-3
 SkiStar_Swedish_Open,2,2001,07,15,2,Russell_Michael,Rochus_Christophe,Rochus_Christophe,SkiStar_Swedish_Open,2001,07,15,6-1_6-1
@@ -21,11 +21,11 @@ SkiStar_Swedish_Open,2,2001,07,15,2,Meligeni_Fernando,Ulihrach_Bohdan,Ulihrach_B
 SkiStar_Swedish_Open,2,2001,07,15,2,Calleri_Agustin,Robredo_Tommy,Robredo_Tommy,SkiStar_Swedish_Open,2001,07,15,6-7(2)_7-6(4)_6-3
 SkiStar_Swedish_Open,2,2001,07,15,2,Gaudenzi_Andrea,Vinciguerra_Andreas,Gaudenzi_Andrea,SkiStar_Swedish_Open,2001,07,15,7-5_6-1
 SkiStar_Swedish_Open,2,2001,07,15,2,Tabara_Michal,Settergren_Johan,Tabara_Michal,SkiStar_Swedish_Open,2001,07,15,6-4_6-0
-SkiStar_Swedish_Open,2,2001,07,15,2,El_AynaouiYounes,Hipfl_Markus,El_AynaouiYounes,SkiStar_Swedish_Open,2001,07,15,7-6(5)_6-3
+SkiStar_Swedish_Open,2,2001,07,15,2,El_Aynaoui_Younes,Hipfl_Markus,El_Aynaoui_Younes,SkiStar_Swedish_Open,2001,07,15,7-6(5)_6-3
 SkiStar_Swedish_Open,2,2001,07,15,3,Norman_Magnus,Rochus_Christophe,Norman_Magnus,SkiStar_Swedish_Open,2001,07,15,3-6_6-3_7-5
 SkiStar_Swedish_Open,2,2001,07,15,3,Portas_Albert,Ulihrach_Bohdan,Ulihrach_Bohdan,SkiStar_Swedish_Open,2001,07,15,6-2_3-6_7-6(4)
 SkiStar_Swedish_Open,2,2001,07,15,3,Robredo_Tommy,Gaudenzi_Andrea,Gaudenzi_Andrea,SkiStar_Swedish_Open,2001,07,15,7-5_4-6_6-3
-SkiStar_Swedish_Open,2,2001,07,15,3,Tabara_Michal,El_AynaouiYounes,El_AynaouiYounes,SkiStar_Swedish_Open,2001,07,15,6-4_6-2
+SkiStar_Swedish_Open,2,2001,07,15,3,Tabara_Michal,El_Aynaoui_Younes,El_Aynaoui_Younes,SkiStar_Swedish_Open,2001,07,15,6-4_6-2
 SkiStar_Swedish_Open,2,2001,07,15,4,Norman_Magnus,Ulihrach_Bohdan,Ulihrach_Bohdan,SkiStar_Swedish_Open,2001,07,15,6-2_4-6_6-1
-SkiStar_Swedish_Open,2,2001,07,15,4,Gaudenzi_Andrea,El_AynaouiYounes,Gaudenzi_Andrea,SkiStar_Swedish_Open,2001,07,15,6-2_7-6(1)
+SkiStar_Swedish_Open,2,2001,07,15,4,Gaudenzi_Andrea,El_Aynaoui_Younes,Gaudenzi_Andrea,SkiStar_Swedish_Open,2001,07,15,6-2_7-6(1)
 SkiStar_Swedish_Open,2,2001,07,15,5,Ulihrach_Bohdan,Gaudenzi_Andrea,Gaudenzi_Andrea,SkiStar_Swedish_Open,2001,07,15,7-5_6-3

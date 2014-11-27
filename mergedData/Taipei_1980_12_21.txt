@@ -8,7 +8,7 @@ Taipei,2,1980,12,21,1,Austin_John,Edmondson_Mark,Austin_John,Taipei,1980,12,21,3
 Taipei,2,1980,12,21,1,Sanders_Louk,Rennert_Peter,Rennert_Peter,Taipei,1980,12,21,6-3_6-3
 Taipei,2,1980,12,21,1,Taygan_Ferdi,Krishnan_Ramesh,Krishnan_Ramesh,Taipei,1980,12,21,4-6_7-5_6-3
 Taipei,2,1980,12,21,1,Okker_Tom,Goldberg_Martin,Okker_Tom,Taipei,1980,12,21,6-1_6-1
-Taipei,2,1980,12,21,1,Fillol_SrJaime,Delaney_Jim,Fillol_SrJaime,Taipei,1980,12,21,7-6_7-6
+Taipei,2,1980,12,21,1,Fillol_Sr_Jaime,Delaney_Jim,Fillol_Sr_Jaime,Taipei,1980,12,21,7-6_7-6
 Taipei,2,1980,12,21,1,Shore_Mike,Dupre_Pat,Dupre_Pat,Taipei,1980,12,21,6-1_6-2
 Taipei,2,1980,12,21,1,Gullikson_Tim,Stockton_Dick,Gullikson_Tim,Taipei,1980,12,21,6-7_6-4_7-6
 Taipei,2,1980,12,21,1,Delaney_Christofer,Hardie_George,Delaney_Christofer,Taipei,1980,12,21,6-1_6-2
@@ -19,7 +19,7 @@ Taipei,2,1980,12,21,2,Case_Ross,Menon_Sashi,Menon_Sashi,Taipei,1980,12,21,1-6_6-
 Taipei,2,1980,12,21,2,Ismail_Haroon,Ball_Syd,Ball_Syd,Taipei,1980,12,21,6-3_7-6
 Taipei,2,1980,12,21,2,Austin_John,Rennert_Peter,Austin_John,Taipei,1980,12,21,6-3_6-4
 Taipei,2,1980,12,21,2,Krishnan_Ramesh,Okker_Tom,Krishnan_Ramesh,Taipei,1980,12,21,4-6_6-2_6-2
-Taipei,2,1980,12,21,2,Fillol_SrJaime,Dupre_Pat,Dupre_Pat,Taipei,1980,12,21,6-0_6-3
+Taipei,2,1980,12,21,2,Fillol_Sr_Jaime,Dupre_Pat,Dupre_Pat,Taipei,1980,12,21,6-0_6-3
 Taipei,2,1980,12,21,2,Gullikson_Tim,Delaney_Christofer,Gullikson_Tim,Taipei,1980,12,21,6-2_7-5
 Taipei,2,1980,12,21,2,Buehning_Fritz,Teacher_Brian,Teacher_Brian,Taipei,1980,12,21,6-3_7-6
 Taipei,2,1980,12,21,3,Lendl_Ivan,Menon_Sashi,Lendl_Ivan,Taipei,1980,12,21,6-2_6-0

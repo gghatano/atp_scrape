@@ -1,5 +1,5 @@
 If_Stockholm_Open,2,1985,11,10,1,McEnroe_John,Krishnan_Ramesh,McEnroe_John,If_Stockholm_Open,1985,11,10,6-4_7-6
-If_Stockholm_Open,2,1985,11,10,1,Leconte_Henri,Rodriguez_JuanAntonio,Rodriguez_JuanAntonio,If_Stockholm_Open,1985,11,10,7-5_4-1_RET
+If_Stockholm_Open,2,1985,11,10,1,Leconte_Henri,Rodriguez_Juan_Antonio,Rodriguez_Juan_Antonio,If_Stockholm_Open,1985,11,10,7-5_4-1_RET
 If_Stockholm_Open,2,1985,11,10,1,Smid_Tomas,Lundgren_Peter,Lundgren_Peter,If_Stockholm_Open,1985,11,10,4-6_6-4_6-2
 If_Stockholm_Open,2,1985,11,10,1,Westphal_Michael,Davis_Scott,Davis_Scott,If_Stockholm_Open,1985,11,10,5-7_6-4_6-2
 If_Stockholm_Open,2,1985,11,10,1,Edberg_Stefan,Dickson_Mark,Edberg_Stefan,If_Stockholm_Open,1985,11,10,7-5_6-2
@@ -14,7 +14,7 @@ If_Stockholm_Open,2,1985,11,10,1,Jarryd_Anders,Forget_Guy,Jarryd_Anders,If_Stock
 If_Stockholm_Open,2,1985,11,10,1,Gunnarsson_Jan,Svensson_Jonas,Svensson_Jonas,If_Stockholm_Open,1985,11,10,6-3_6-3
 If_Stockholm_Open,2,1985,11,10,1,Gunthardt_Heinz,Hlasek_Jakob,Hlasek_Jakob,If_Stockholm_Open,1985,11,10,6-2_6-2
 If_Stockholm_Open,2,1985,11,10,1,Tulasne_Thierry,Wilander_Mats,Tulasne_Thierry,If_Stockholm_Open,1985,11,10,1-6_6-2_6-2
-If_Stockholm_Open,2,1985,11,10,2,McEnroe_John,Rodriguez_JuanAntonio,McEnroe_John,If_Stockholm_Open,1985,11,10,6-4_6-1
+If_Stockholm_Open,2,1985,11,10,2,McEnroe_John,Rodriguez_Juan_Antonio,McEnroe_John,If_Stockholm_Open,1985,11,10,6-4_6-1
 If_Stockholm_Open,2,1985,11,10,2,Lundgren_Peter,Davis_Scott,Lundgren_Peter,If_Stockholm_Open,1985,11,10,6-4_3-6_6-4
 If_Stockholm_Open,2,1985,11,10,2,Edberg_Stefan,Wilkison_Tim,Edberg_Stefan,If_Stockholm_Open,1985,11,10,6-2_6-2
 If_Stockholm_Open,2,1985,11,10,2,Casal_Sergio,Gomez_Andres,Casal_Sergio,If_Stockholm_Open,1985,11,10,5-7_6-3_7-6

@@ -4,12 +4,12 @@ Caracas_WCT,2,1976,06,13,1,Amritraj_Anand,Stockton_Dick,Stockton_Dick,Caracas_WC
 Caracas_WCT,2,1976,06,13,1,Parun_Onny,Ramirez_Raul,Ramirez_Raul,Caracas_WCT,1976,06,13,6-4_6-3
 Caracas_WCT,2,1976,06,13,1,Gottfried_Brian,Andrew_Jorge,Gottfried_Brian,Caracas_WCT,1976,06,13,6-3_6-4
 Caracas_WCT,2,1976,06,13,1,Roche_Tony,Borowiak_Jeff,Borowiak_Jeff,Caracas_WCT,1976,06,13,6-7(5)_6-4_6-4
-Caracas_WCT,2,1976,06,13,1,Van_DillenErik,Fairlie_Brian,Van_DillenErik,Caracas_WCT,1976,06,13,6-4_3-6_6-3
-Caracas_WCT,2,1976,06,13,1,Reid_GroverRaz,Nastase_Ilie,Nastase_Ilie,Caracas_WCT,1976,06,13,6-3_7-6(4)
+Caracas_WCT,2,1976,06,13,1,Van_Dillen_Erik,Fairlie_Brian,Van_Dillen_Erik,Caracas_WCT,1976,06,13,6-4_3-6_6-3
+Caracas_WCT,2,1976,06,13,1,Reid_Grover_Raz,Nastase_Ilie,Nastase_Ilie,Caracas_WCT,1976,06,13,6-3_7-6(4)
 Caracas_WCT,2,1976,06,13,2,Ashe_Arthur,Moore_Raymond,Ashe_Arthur,Caracas_WCT,1976,06,13,4-6_7-6(0)_6-4
 Caracas_WCT,2,1976,06,13,2,Stockton_Dick,Ramirez_Raul,Ramirez_Raul,Caracas_WCT,1976,06,13,7-6(2)_3-6_7-6(5)
 Caracas_WCT,2,1976,06,13,2,Gottfried_Brian,Borowiak_Jeff,Borowiak_Jeff,Caracas_WCT,1976,06,13,6-4_7-6(4)
-Caracas_WCT,2,1976,06,13,2,Van_DillenErik,Nastase_Ilie,Nastase_Ilie,Caracas_WCT,1976,06,13,6-3_6-4
+Caracas_WCT,2,1976,06,13,2,Van_Dillen_Erik,Nastase_Ilie,Nastase_Ilie,Caracas_WCT,1976,06,13,6-3_6-4
 Caracas_WCT,2,1976,06,13,3,Ashe_Arthur,Ramirez_Raul,Ramirez_Raul,Caracas_WCT,1976,06,13,6-2_6-4
 Caracas_WCT,2,1976,06,13,3,Borowiak_Jeff,Nastase_Ilie,Nastase_Ilie,Caracas_WCT,1976,06,13,6-3_6-1
 Caracas_WCT,2,1976,06,13,4,Ramirez_Raul,Nastase_Ilie,Ramirez_Raul,Caracas_WCT,1976,06,13,6-3_6-4

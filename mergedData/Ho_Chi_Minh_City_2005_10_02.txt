@@ -1,5 +1,5 @@
 Ho_Chi_Minh_City,2,2005,10,02,1,Puerta_Mariano,Soeda_Go,Puerta_Mariano,Ho_Chi_Minh_City,2005,10,02,6-4_6-7(5)_6-4
-Ho_Chi_Minh_City,2,2005,10,02,1,Brzezicki_JuanPablo,Arthurs_Wayne,Arthurs_Wayne,Ho_Chi_Minh_City,2005,10,02,7-6(5)_7-6(3)
+Ho_Chi_Minh_City,2,2005,10,02,1,Brzezicki_Juan_Pablo,Arthurs_Wayne,Arthurs_Wayne,Ho_Chi_Minh_City,2005,10,02,7-6(5)_7-6(3)
 Ho_Chi_Minh_City,2,2005,10,02,1,Greul_Simon,Schuettler_Rainer,Schuettler_Rainer,Ho_Chi_Minh_City,2005,10,02,6-7(4)_6-3_6-1
 Ho_Chi_Minh_City,2,2005,10,02,1,Moodie_Wesley,Kohlschreiber_Philipp,Moodie_Wesley,Ho_Chi_Minh_City,2005,10,02,6-4_7-6(2)
 Ho_Chi_Minh_City,2,2005,10,02,1,Carlsen_Kenneth,Bjorkman_Jonas,Bjorkman_Jonas,Ho_Chi_Minh_City,2005,10,02,6-3_6-4

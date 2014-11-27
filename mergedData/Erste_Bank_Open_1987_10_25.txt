@@ -9,7 +9,7 @@ Erste_Bank_Open,2,1987,10,25,1,Birner_Stanislav,Svensson_Jonas,Svensson_Jonas,Er
 Erste_Bank_Open,2,1987,10,25,1,Mansdorf_Amos,Novacek_Karel,Mansdorf_Amos,Erste_Bank_Open,1987,10,25,6-1_6-4
 Erste_Bank_Open,2,1987,10,25,1,Dickson_Mark,Mattar_Luiz,Dickson_Mark,Erste_Bank_Open,1987,10,25,6-3_6-7_6-1
 Erste_Bank_Open,2,1987,10,25,1,Matuszewski_Richard,Antonitsch_Alex,Matuszewski_Richard,Erste_Bank_Open,1987,10,25,3-6_6-1_6-2
-Erste_Bank_Open,2,1987,10,25,1,De_LaPenaHoracio,Jarryd_Anders,Jarryd_Anders,Erste_Bank_Open,1987,10,25,6-2_6-0
+Erste_Bank_Open,2,1987,10,25,1,De_La_Pena_Horacio,Jarryd_Anders,Jarryd_Anders,Erste_Bank_Open,1987,10,25,6-2_6-0
 Erste_Bank_Open,2,1987,10,25,1,Smid_Tomas,Muster_Thomas,Muster_Thomas,Erste_Bank_Open,1987,10,25,7-6_6-3
 Erste_Bank_Open,2,1987,10,25,1,Navratil_Jaroslav,Skoff_Horst,Skoff_Horst,Erste_Bank_Open,1987,10,25,7-6_7-5
 Erste_Bank_Open,2,1987,10,25,1,Purcell_Mel,Schapers_Michiel,Schapers_Michiel,Erste_Bank_Open,1987,10,25,7-6_6-4

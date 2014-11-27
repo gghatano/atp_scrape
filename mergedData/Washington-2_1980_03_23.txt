@@ -8,7 +8,7 @@ Washington-2,2,1980,03,23,1,Waltke_Trey,Wilkison_Tim,Wilkison_Tim,Washington-2,1
 Washington-2,2,1980,03,23,1,Smid_Tomas,Sadri_John,Sadri_John,Washington-2,1980,03,23,6-4_6-4
 Washington-2,2,1980,03,23,1,Teltscher_Eliot,James_John,Teltscher_Eliot,Washington-2,1980,03,23,6-0_6-2
 Washington-2,2,1980,03,23,1,Stockton_Dick,Pattison_Andrew,Pattison_Andrew,Washington-2,1980,03,23,6-2_6-4
-Washington-2,2,1980,03,23,1,Lewis_JohnChris,Moore_Raymond,Moore_Raymond,Washington-2,1980,03,23,7-5_6-4
+Washington-2,2,1980,03,23,1,Lewis_John_Chris,Moore_Raymond,Moore_Raymond,Washington-2,1980,03,23,7-5_6-4
 Washington-2,2,1980,03,23,1,Teacher_Brian,Smith_Stan,Teacher_Brian,Washington-2,1980,03,23,7-5_6-2
 Washington-2,2,1980,03,23,1,Amaya_Victor,Saviano_Nick,Amaya_Victor,Washington-2,1980,03,23,6-1_7-6
 Washington-2,2,1980,03,23,1,Taygan_Ferdi,Pfister_Henry,Taygan_Ferdi,Washington-2,1980,03,23,6-4_6-4

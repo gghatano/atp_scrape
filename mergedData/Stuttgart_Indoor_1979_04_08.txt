@@ -4,7 +4,7 @@ Stuttgart_Indoor,2,1979,04,08,1,Zednik_Vladimir,Birner_Stanislav,Birner_Stanisla
 Stuttgart_Indoor,2,1979,04,08,1,Meiler_Karl,Kirmayr_Carlos,Meiler_Karl,Stuttgart_Indoor,1979,04,08,6-3_6-2
 Stuttgart_Indoor,2,1979,04,08,1,Pinner_Ulrich,McNamara_Peter,Pinner_Ulrich,Stuttgart_Indoor,1979,04,08,6-4_7-5
 Stuttgart_Indoor,2,1979,04,08,1,Norback_Jan,Mitton_Bernard,Mitton_Bernard,Stuttgart_Indoor,1979,04,08,7-6_6-3
-Stuttgart_Indoor,2,1979,04,08,1,McNair_IVFred,Gunthardt_Heinz,Gunthardt_Heinz,Stuttgart_Indoor,1979,04,08,6-2_7-6
+Stuttgart_Indoor,2,1979,04,08,1,McNair_IV_Fred,Gunthardt_Heinz,Gunthardt_Heinz,Stuttgart_Indoor,1979,04,08,6-2_7-6
 Stuttgart_Indoor,2,1979,04,08,1,Hutka_Pavel,Gehring_Rolf,Hutka_Pavel,Stuttgart_Indoor,1979,04,08,6-1_6-4
 Stuttgart_Indoor,2,1979,04,08,1,Amritraj_Vijay,Rocavert_Terry,Amritraj_Vijay,Stuttgart_Indoor,1979,04,08,7-6_6-7_6-4
 Stuttgart_Indoor,2,1979,04,08,1,McMillan_Frew,Frawley_Rod,McMillan_Frew,Stuttgart_Indoor,1979,04,08,7-6_6-3

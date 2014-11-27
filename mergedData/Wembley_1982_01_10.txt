@@ -8,7 +8,7 @@ Wembley,2,1982,01,10,1,Fleming_Peter,Smith_Jonathan,Smith_Jonathan,Wembley,1982,
 Wembley,2,1982,01,10,1,Ocleppo_Gianni,Mayer_Sandy,Mayer_Sandy,Wembley,1982,01,10,6-3_3-6_6-1
 Wembley,2,1982,01,10,1,Smid_Tomas,Amaya_Victor,Amaya_Victor,Wembley,1982,01,10,7-5_6-1
 Wembley,2,1982,01,10,1,Nastase_Ilie,Lewis_Richard,Lewis_Richard,Wembley,1982,01,10,6-4_6-1
-Wembley,2,1982,01,10,1,Giammalva_JrSammy,Rennert_Peter,Rennert_Peter,Wembley,1982,01,10,6-7_6-2_6-2
+Wembley,2,1982,01,10,1,Giammalva_Jr_Sammy,Rennert_Peter,Rennert_Peter,Wembley,1982,01,10,6-7_6-2_6-2
 Wembley,2,1982,01,10,1,Meyer_Rick,Noah_Yannick,Noah_Yannick,Wembley,1982,01,10,7-6_6-3
 Wembley,2,1982,01,10,1,Smith_Stan,Simpson_Russell,Simpson_Russell,Wembley,1982,01,10,6-3_6-2
 Wembley,2,1982,01,10,1,Glickstein_Shlomo,Pfister_Henry,Glickstein_Shlomo,Wembley,1982,01,10,6-3_6-2

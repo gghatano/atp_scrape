@@ -2,7 +2,7 @@ Dusseldorf,2,1973,07,15,1,Fassbender_Jurgen,Montrenaud_Bernard,Fassbender_Jurgen
 Dusseldorf,2,1973,07,15,1,McDonald_Allan,Bungert_Wilhelm,Bungert_Wilhelm,Dusseldorf,1973,07,15,6-4_8-6_7-5
 Dusseldorf,2,1973,07,15,1,Sakai_Toshiro,Korpas_Attila,Korpas_Attila,Dusseldorf,1973,07,15,6-4_6-3_6-3
 Dusseldorf,2,1973,07,15,1,Pokorny_Peter,Elschenbroich_Harald,Elschenbroich_Harald,Dusseldorf,1973,07,15,W/O
-Dusseldorf,2,1973,07,15,1,Gisbert_SrJuan,Pinner_Ulrich,Pinner_Ulrich,Dusseldorf,1973,07,15,6-3_6-4_6-2
+Dusseldorf,2,1973,07,15,1,Gisbert_Sr_Juan,Pinner_Ulrich,Pinner_Ulrich,Dusseldorf,1973,07,15,6-3_6-4_6-2
 Dusseldorf,2,1973,07,15,1,Gulyas_Istvan,Mignot_Bernard,Mignot_Bernard,Dusseldorf,1973,07,15,6-4_6-2_6-4
 Dusseldorf,2,1973,07,15,1,Pohmann_HansJurgen,Mukerjea_Jaidip,Pohmann_HansJurgen,Dusseldorf,1973,07,15,6-4_6-0_6-3
 Dusseldorf,2,1973,07,15,1,Gehring_Rolf,Tiriac_Ion,Tiriac_Ion,Dusseldorf,1973,07,15,6-3_6-1_6-2

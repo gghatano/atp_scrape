@@ -1,4 +1,4 @@
-Houston,2,1971,05,02,1,Graebner_Clark,Van_LingenPeter,Graebner_Clark,Houston,1971,05,02,6-4_7-6
+Houston,2,1971,05,02,1,Graebner_Clark,Van_Lingen_Peter,Graebner_Clark,Houston,1971,05,02,6-4_7-6
 Houston,2,1971,05,02,1,Gerken_Paul,Barth_Roy,Gerken_Paul,Houston,1971,05,02,6-4_6-4
 Houston,2,1971,05,02,1,Froehling_Frank,Stilwell_Graham,Froehling_Frank,Houston,1971,05,02,6-4_6-4
 Houston,2,1971,05,02,1,Mulligan_Martin,McManus_Jim,Mulligan_Martin,Houston,1971,05,02,7-5_6-3
@@ -7,7 +7,7 @@ Houston,2,1971,05,02,1,Crealy_Dick,Dent_Phil,Crealy_Dick,Houston,1971,05,02,7-6_
 Houston,2,1971,05,02,1,Guerry_Zan,Edlefsen_Tom,Guerry_Zan,Houston,1971,05,02,6-7_6-3_6-2
 Houston,2,1971,05,02,1,Belkin_Mike,Bowrey_Bill,Belkin_Mike,Houston,1971,05,02,1-6_7-5_6-2
 Houston,2,1971,05,02,1,Stone_Allan,Addison_Terry,Stone_Allan,Houston,1971,05,02,6-4_1-0_RET
-Houston,2,1971,05,02,1,Carmichael_Bob,Russell_DRichard,Carmichael_Bob,Houston,1971,05,02,6-3_6-1
+Houston,2,1971,05,02,1,Carmichael_Bob,Russell_D_Richard,Carmichael_Bob,Houston,1971,05,02,6-3_6-1
 Houston,2,1971,05,02,1,Gorman_Tom,MacKay_Barry,Gorman_Tom,Houston,1971,05,02,2-6_6-3_6-2
 Houston,2,1971,05,02,1,Holecek_Milan,Cox_Mark,Holecek_Milan,Houston,1971,05,02,7-5_6-3
 Houston,2,1971,05,02,1,Ruffels_Ray,LoyoMayo_Joaquin,Ruffels_Ray,Houston,1971,05,02,6-1_7-6

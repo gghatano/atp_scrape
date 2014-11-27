@@ -12,7 +12,7 @@ Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Menon_Sashi,James_John,James_Jo
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Mitchell_Matt,Amaya_Victor,Amaya_Victor,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_6-4
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Gullikson_Tom,Mott_Tom,Gullikson_Tom,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_6-1
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Frawley_Rod,Machette_Mike,Machette_Mike,Hall_of_Fame_Tennis_Championships,1978,01,15,6-1_6-4
-Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Carnahan_Scott,Bohrnstedt_DickR,Bohrnstedt_DickR,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_7-5
+Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Carnahan_Scott,Bohrnstedt_Dick_R,Bohrnstedt_Dick_R,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_7-5
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,1,Marks_John,Gullikson_Tim,Gullikson_Tim,Hall_of_Fame_Tennis_Championships,1978,01,15,7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Ashe_Arthur,Santana_Manuel,Ashe_Arthur,Hall_of_Fame_Tennis_Championships,1978,01,15,7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Drysdale_Robin,Mitton_Bernard,Mitton_Bernard,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_2-6_6-3
@@ -21,7 +21,7 @@ Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Austin_John,Giltinan_Bob,Giltin
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Wilkison_Tim,Docherty_Steve,Wilkison_Tim,Hall_of_Fame_Tennis_Championships,1978,01,15,7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,James_John,Amaya_Victor,James_John,Hall_of_Fame_Tennis_Championships,1978,01,15,6-3_2-6_7-6
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Gullikson_Tom,Machette_Mike,Gullikson_Tom,Hall_of_Fame_Tennis_Championships,1978,01,15,7-6_6-2
-Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Bohrnstedt_DickR,Gullikson_Tim,Gullikson_Tim,Hall_of_Fame_Tennis_Championships,1978,01,15,6-7_6-3_6-2
+Hall_of_Fame_Tennis_Championships,2,1978,01,15,2,Bohrnstedt_Dick_R,Gullikson_Tim,Gullikson_Tim,Hall_of_Fame_Tennis_Championships,1978,01,15,6-7_6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,3,Ashe_Arthur,Mitton_Bernard,Mitton_Bernard,Hall_of_Fame_Tennis_Championships,1978,01,15,6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,3,Simpson_Russell,Giltinan_Bob,Giltinan_Bob,Hall_of_Fame_Tennis_Championships,1978,01,15,6-4_6-3
 Hall_of_Fame_Tennis_Championships,2,1978,01,15,3,Wilkison_Tim,James_John,James_John,Hall_of_Fame_Tennis_Championships,1978,01,15,6-2_6-2

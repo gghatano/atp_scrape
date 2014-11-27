@@ -9,10 +9,10 @@ BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Norman_Dick,Acasuso_Jose,Acasuso_Jose,B
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Sanchez_David,Pioline_Cedric,Sanchez_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,3-6_6-1_6-2
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Rochus_Christophe,Trifu_Gabriel,Rochus_Christophe,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-5_5-5_RET
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Perez_Didac,Blanco_Galo,Blanco_Galo,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-6(6)_6-0
-BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Marin_JuanAntonio,Mantilla_Felix,Mantilla_Felix,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-5_6-2
+BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Marin_Juan_Antonio,Mantilla_Felix,Mantilla_Felix,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-5_6-2
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Montanes_Albert,Melzer_Jurgen,Melzer_Jurgen,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-4_6-4
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Gaudenzi_Andrea,Ferrer_David,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,4-6_6-1_6-0
-BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Di_PasqualeArnaud,Coutelot_Nicolas,Di_PasqualeArnaud,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-2_6-1
+BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Di_Pasquale_Arnaud,Coutelot_Nicolas,Di_Pasquale_Arnaud,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-2_6-1
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,1,Lisnard_JeanRene,Kratochvil_Michel,Kratochvil_Michel,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-4_7-6(5)
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Pavel_Andrei,Portas_Albert,Pavel_Andrei,BRD_Nastase_Tiriac_Trophy,2002,09,15,4-6_6-4_6-2
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Giner_Juan,Labadze_Irakli,Giner_Juan,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-3_6-2
@@ -21,11 +21,11 @@ BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Hanescu_Victor,Acasuso_Jose,Acasuso_Jos
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Sanchez_David,Rochus_Christophe,Sanchez_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-2_6-1
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Blanco_Galo,Mantilla_Felix,Blanco_Galo,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-1_4-6_6-2
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Melzer_Jurgen,Ferrer_David,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-4_7-6(6)
-BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Di_PasqualeArnaud,Kratochvil_Michel,Di_PasqualeArnaud,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-5_6-1
+BRD_Nastase_Tiriac_Trophy,2,2002,09,15,2,Di_Pasquale_Arnaud,Kratochvil_Michel,Di_Pasquale_Arnaud,BRD_Nastase_Tiriac_Trophy,2002,09,15,7-5_6-1
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,3,Pavel_Andrei,Giner_Juan,Pavel_Andrei,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-1_6-3
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,3,Squillari_Franco,Acasuso_Jose,Acasuso_Jose,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-1_7-6(4)
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,3,Sanchez_David,Blanco_Galo,Sanchez_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-1_6-3
-BRD_Nastase_Tiriac_Trophy,2,2002,09,15,3,Ferrer_David,Di_PasqualeArnaud,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-3_6-1
+BRD_Nastase_Tiriac_Trophy,2,2002,09,15,3,Ferrer_David,Di_Pasquale_Arnaud,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-3_6-1
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,4,Pavel_Andrei,Acasuso_Jose,Acasuso_Jose,BRD_Nastase_Tiriac_Trophy,2002,09,15,4-6_7-6(4)_6-1
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,4,Sanchez_David,Ferrer_David,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-1_6-2
 BRD_Nastase_Tiriac_Trophy,2,2002,09,15,5,Acasuso_Jose,Ferrer_David,Ferrer_David,BRD_Nastase_Tiriac_Trophy,2002,09,15,6-3_6-2

@@ -12,13 +12,13 @@ Aegon_Championships,2,1981,07,05,1,Kronk_Paul,Denton_Steve,Kronk_Paul,Aegon_Cham
 Aegon_Championships,2,1981,07,05,1,Wilkison_Tim,Austin_John,Austin_John,Aegon_Championships,1981,07,05,6-7_7-6_6-4
 Aegon_Championships,2,1981,07,05,1,Wittus_Craig,McCain_Scott,McCain_Scott,Aegon_Championships,1981,07,05,6-4_6-4
 Aegon_Championships,2,1981,07,05,1,Smith_Jonathan,Moretton_Gilles,Smith_Jonathan,Aegon_Championships,1981,07,05,6-2_6-2
-Aegon_Championships,2,1981,07,05,1,Vant_HofRobert,Collings_Dale,Collings_Dale,Aegon_Championships,1981,07,05,3-6_7-6_11-9
+Aegon_Championships,2,1981,07,05,1,Vant_Hof_Robert,Collings_Dale,Collings_Dale,Aegon_Championships,1981,07,05,3-6_7-6_11-9
 Aegon_Championships,2,1981,07,05,1,Rennert_Peter,Buehning_Fritz,Rennert_Peter,Aegon_Championships,1981,07,05,2-6_6-3_6-4
 Aegon_Championships,2,1981,07,05,1,McNamee_Paul,Edwards_Eddie,Edwards_Eddie,Aegon_Championships,1981,07,05,5-7_7-5_6-3
-Aegon_Championships,2,1981,07,05,1,Hightower_Ron,Fillol_SrJaime,Hightower_Ron,Aegon_Championships,1981,07,05,7-5_6-1
+Aegon_Championships,2,1981,07,05,1,Hightower_Ron,Fillol_Sr_Jaime,Hightower_Ron,Aegon_Championships,1981,07,05,7-5_6-1
 Aegon_Championships,2,1981,07,05,1,Moore_Raymond,Meyer_Rick,Meyer_Rick,Aegon_Championships,1981,07,05,7-6_7-6
 Aegon_Championships,2,1981,07,05,1,Borowiak_Jeff,Dent_Phil,Dent_Phil,Aegon_Championships,1981,07,05,6-2_6-4
-Aegon_Championships,2,1981,07,05,1,Lewis_NZLChris,Fitzgerald_John,Fitzgerald_John,Aegon_Championships,1981,07,05,4-6_6-4_8-6
+Aegon_Championships,2,1981,07,05,1,Lewis_NZL_Chris,Fitzgerald_John,Fitzgerald_John,Aegon_Championships,1981,07,05,4-6_6-4_8-6
 Aegon_Championships,2,1981,07,05,1,Tulasne_Thierry,Gonzalez_Francisco,Gonzalez_Francisco,Aegon_Championships,1981,07,05,6-4_6-3
 Aegon_Championships,2,1981,07,05,1,Saviano_Nick,Stefanki_Larry,Saviano_Nick,Aegon_Championships,1981,07,05,6-4_2-6_6-4
 Aegon_Championships,2,1981,07,05,1,Alexander_John,Gottfried_Brian,Gottfried_Brian,Aegon_Championships,1981,07,05,6-4_7-6

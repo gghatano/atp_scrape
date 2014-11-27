@@ -8,7 +8,7 @@ China_Open,2,2012,10,07,1,Zhang_Ze,Wu_Di,Zhang_Ze,China_Open,2012,10,07,6-4_6-1
 China_Open,2,2012,10,07,1,Ebden_Matthew,Gasquet_Richard,Gasquet_Richard,China_Open,2012,10,07,6-2_6-4
 China_Open,2,2012,10,07,1,Haas_Tommy,Youzhny_Mikhail,Youzhny_Mikhail,China_Open,2012,10,07,6-4_4-6_6-2
 China_Open,2,2012,10,07,1,Baker_Brian,Anderson_Kevin,Anderson_Kevin,China_Open,2012,10,07,5-7_6-3_6-1
-China_Open,2,2012,10,07,1,Davydenko_Nikolay,Bogomolov_JrAlex,Davydenko_Nikolay,China_Open,2012,10,07,7-5_6-1
+China_Open,2,2012,10,07,1,Davydenko_Nikolay,Bogomolov_Jr_Alex,Davydenko_Nikolay,China_Open,2012,10,07,7-5_6-1
 China_Open,2,2012,10,07,1,Istomin_Denis,Tsonga_JoWilfried,Tsonga_JoWilfried,China_Open,2012,10,07,4-6_6-1_7-6(3)
 China_Open,2,2012,10,07,1,Verdasco_Fernando,Querrey_Sam,Querrey_Sam,China_Open,2012,10,07,5-7_6-3_6-4
 China_Open,2,2012,10,07,1,Benneteau_Julien,Seppi_Andreas,Seppi_Andreas,China_Open,2012,10,07,6-1_2-0_RET

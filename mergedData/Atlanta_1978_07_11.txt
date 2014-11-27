@@ -1,6 +1,6 @@
 Atlanta,2,1978,07,11,1,Tanner_Roscoe,Menon_Sashi,Tanner_Roscoe,Atlanta,1978,07,11,6-1_6-2
 Atlanta,2,1978,07,11,1,Rocavert_Terry,Cahill_Mike,Cahill_Mike,Atlanta,1978,07,11,6-1_6-3
-Atlanta,2,1978,07,11,1,Van_DillenErik,Lara_Marcelo,Lara_Marcelo,Atlanta,1978,07,11,5-7_7-6_6-4
+Atlanta,2,1978,07,11,1,Van_Dillen_Erik,Lara_Marcelo,Lara_Marcelo,Atlanta,1978,07,11,5-7_7-6_6-4
 Atlanta,2,1978,07,11,1,Austin_John,Teacher_Brian,Teacher_Brian,Atlanta,1978,07,11,6-2_6-2
 Atlanta,2,1978,07,11,1,Blocher_Woody,Teltscher_Eliot,Teltscher_Eliot,Atlanta,1978,07,11,6-1_6-3
 Atlanta,2,1978,07,11,1,Granat_Jiri,Scanlon_Bill,Scanlon_Bill,Atlanta,1978,07,11,6-4_3-6_6-1

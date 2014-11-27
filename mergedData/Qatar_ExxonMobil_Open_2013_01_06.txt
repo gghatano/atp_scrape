@@ -1,5 +1,5 @@
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Ferrer_David,Brown_Dustin,Ferrer_David,Qatar_ExxonMobil_Open,2013,01,06,5-7_6-3_6-2
-Qatar_ExxonMobil_Open,2,2013,01,06,1,Ramirez_HidalgoRuben,Kamke_Tobias,Kamke_Tobias,Qatar_ExxonMobil_Open,2013,01,06,6-1_6-2
+Qatar_ExxonMobil_Open,2,2013,01,06,1,Ramirez_Hidalgo_Ruben,Kamke_Tobias,Kamke_Tobias,Qatar_ExxonMobil_Open,2013,01,06,6-1_6-2
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Lorenzi_Paolo,RamosVinolas_Albert,Lorenzi_Paolo,Qatar_ExxonMobil_Open,2013,01,06,7-6(4)_6-1
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Rosol_Lukas,Andujar_Pablo,Rosol_Lukas,Qatar_ExxonMobil_Open,2013,01,06,6-2_7-6(2)
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Youzhny_Mikhail,Becker_Benjamin,Youzhny_Mikhail,Qatar_ExxonMobil_Open,2013,01,06,4-6_7-6(3)_6-1
@@ -7,8 +7,8 @@ Qatar_ExxonMobil_Open,2,2013,01,06,1,Hanescu_Victor,Davydenko_Nikolay,Davydenko_
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Bolelli_Simone,GimenoTraver_Daniel,Bolelli_Simone,Qatar_ExxonMobil_Open,2013,01,06,6-3_6-7(3)_7-6(2)
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Kubot_Lukasz,Lopez_Feliciano,Kubot_Lukasz,Qatar_ExxonMobil_Open,2013,01,06,6-4_6-2
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Chardy_Jeremy,Brands_Daniel,Brands_Daniel,Qatar_ExxonMobil_Open,2013,01,06,6-4_6-4
-Qatar_ExxonMobil_Open,2,2013,01,06,1,Safwat_Mohamed,Ali_MutawaJaborMohammed,Safwat_Mohamed,Qatar_ExxonMobil_Open,2013,01,06,6-0_6-0
-Qatar_ExxonMobil_Open,2,2013,01,06,1,Monfils_Gael,Zayed_MousaShanan,Monfils_Gael,Qatar_ExxonMobil_Open,2013,01,06,6-0_6-3
+Qatar_ExxonMobil_Open,2,2013,01,06,1,Safwat_Mohamed,Ali_Mutawa_Jabor_Mohammed,Safwat_Mohamed,Qatar_ExxonMobil_Open,2013,01,06,6-0_6-0
+Qatar_ExxonMobil_Open,2,2013,01,06,1,Monfils_Gael,Zayed_Mousa_Shanan,Monfils_Gael,Qatar_ExxonMobil_Open,2013,01,06,6-0_6-3
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Dodig_Ivan,Kohlschreiber_Philipp,Kohlschreiber_Philipp,Qatar_ExxonMobil_Open,2013,01,06,7-6(5)_6-1
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Troicki_Viktor,Phau_Bjorn,Troicki_Viktor,Qatar_ExxonMobil_Open,2013,01,06,6-3_3-6_6-4
 Qatar_ExxonMobil_Open,2,2013,01,06,1,Lacko_Lukas,GarciaLopez_Guillermo,Lacko_Lukas,Qatar_ExxonMobil_Open,2013,01,06,6-1_2-6_6-4

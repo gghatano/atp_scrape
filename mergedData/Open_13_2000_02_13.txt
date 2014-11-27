@@ -9,7 +9,7 @@ Open_13,2,2000,02,13,1,Wessels_Peter,Santoro_Fabrice,Santoro_Fabrice,Open_13,200
 Open_13,2,2000,02,13,1,Safin_Marat,Vinciguerra_Andreas,Vinciguerra_Andreas,Open_13,2000,02,13,6-3_6-3
 Open_13,2,2000,02,13,1,Bjorkman_Jonas,Diaz_Jacobo,Diaz_Jacobo,Open_13,2000,02,13,7-5_6-2
 Open_13,2,2000,02,13,1,Knippschild_Jens,Roux_Lionel,Roux_Lionel,Open_13,2000,02,13,3-0_RET
-Open_13,2,2000,02,13,1,Di_PasqualeArnaud,Grosjean_Sebastien,Grosjean_Sebastien,Open_13,2000,02,13,7-6(3)_6-1
+Open_13,2,2000,02,13,1,Di_Pasquale_Arnaud,Grosjean_Sebastien,Grosjean_Sebastien,Open_13,2000,02,13,7-6(3)_6-1
 Open_13,2,2000,02,13,1,Clement_Arnaud,Pretzsch_Axel,Clement_Arnaud,Open_13,2000,02,13,6-0_4-6_6-3
 Open_13,2,2000,02,13,1,Arthurs_Wayne,Rosset_Marc,Rosset_Marc,Open_13,2000,02,13,6-3_6-3
 Open_13,2,2000,02,13,1,Saulnier_Cyril,Ivanisevic_Goran,Ivanisevic_Goran,Open_13,2000,02,13,6-7(2)_7-6(11)_6-0

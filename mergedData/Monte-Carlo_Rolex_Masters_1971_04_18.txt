@@ -1,4 +1,4 @@
-Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Taylor_Roger,Arilla_JoseLuis,Taylor_Roger,Monte-Carlo_Rolex_Masters,1971,04,18,6-4_6-2
+Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Taylor_Roger,Arilla_Jose_Luis,Taylor_Roger,Monte-Carlo_Rolex_Masters,1971,04,18,6-4_6-2
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Dominguez_Patrice,Bungert_Wilhelm,Dominguez_Patrice,Monte-Carlo_Rolex_Masters,1971,04,18,6-1_5-7_7-5
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Barthes_Pierre,Pala_Frantisek,Barthes_Pierre,Monte-Carlo_Rolex_Masters,1971,04,18,6-3_6-4
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Zahr_Hakan,Bowrey_Bill,Zahr_Hakan,Monte-Carlo_Rolex_Masters,1971,04,18,6-1_6-3
@@ -11,7 +11,7 @@ Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Baranyi_Szabolcz,Tiriac_Ion,Tiriac_Ion,
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,PhillipsMoore_Barry,Stilwell_Graham,PhillipsMoore_Barry,Monte-Carlo_Rolex_Masters,1971,04,18,W/O
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Proisy_Patrick,Kodes_Jan,Proisy_Patrick,Monte-Carlo_Rolex_Masters,1971,04,18,5-7_6-3_6-1
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Jovanovic_Boro,Jauffret_Francois,Jovanovic_Boro,Monte-Carlo_Rolex_Masters,1971,04,18,6-2_2-6_6-4
-Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Drossart_Eric,El_ShafeiIsmail,Drossart_Eric,Monte-Carlo_Rolex_Masters,1971,04,18,9-7_6-3
+Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Drossart_Eric,El_Shafei_Ismail,Drossart_Eric,Monte-Carlo_Rolex_Masters,1971,04,18,9-7_6-3
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Stone_Allan,Barclay_JeanClaude,Stone_Allan,Monte-Carlo_Rolex_Masters,1971,04,18,6-4_4-6_6-0
 Monte-Carlo_Rolex_Masters,2,1971,04,18,1,Beust_Patrice,Okker_Tom,Okker_Tom,Monte-Carlo_Rolex_Masters,1971,04,18,6-3_6-2
 Monte-Carlo_Rolex_Masters,2,1971,04,18,2,Taylor_Roger,Dominguez_Patrice,Taylor_Roger,Monte-Carlo_Rolex_Masters,1971,04,18,6-3_6-3_6-8_5-7_6-4

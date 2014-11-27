@@ -3,9 +3,9 @@ Gothenberg_WCT,2,1972,11,12,1,Stockton_Dick,Carmichael_Bob,Stockton_Dick,Gothenb
 Gothenberg_WCT,2,1972,11,12,1,Stone_Allan,Froehling_Frank,Stone_Allan,Gothenberg_WCT,1972,11,12,6-2_6-4
 Gothenberg_WCT,2,1972,11,12,1,Riessen_Marty,Barth_Roy,Riessen_Marty,Gothenberg_WCT,1972,11,12,6-2_4-6_6-1
 Gothenberg_WCT,2,1972,11,12,1,Okker_Tom,Johansson_Kjell,Okker_Tom,Gothenberg_WCT,1972,11,12,6-1_6-3
-Gothenberg_WCT,2,1972,11,12,1,El_ShafeiIsmail,Alexander_John,El_ShafeiIsmail,Gothenberg_WCT,1972,11,12,7-6_7-5
+Gothenberg_WCT,2,1972,11,12,1,El_Shafei_Ismail,Alexander_John,El_Shafei_Ismail,Gothenberg_WCT,1972,11,12,7-6_7-5
 Gothenberg_WCT,2,1972,11,12,1,Pilic_Nikola,Stolle_Fred,Pilic_Nikola,Gothenberg_WCT,1972,11,12,6-3_6-2
-Gothenberg_WCT,2,1972,11,12,1,Taylor_Roger,Bengtson_OveNils,Taylor_Roger,Gothenberg_WCT,1972,11,12,6-3_7-6
+Gothenberg_WCT,2,1972,11,12,1,Taylor_Roger,Bengtson_Ove_Nils,Taylor_Roger,Gothenberg_WCT,1972,11,12,6-3_7-6
 Gothenberg_WCT,2,1972,11,12,1,Rahim_Haroon,Battrick_Gerald,Rahim_Haroon,Gothenberg_WCT,1972,11,12,6-4_6-4
 Gothenberg_WCT,2,1972,11,12,1,Lutz_Robert,Maud_Robert,Lutz_Robert,Gothenberg_WCT,1972,11,12,6-2_6-2
 Gothenberg_WCT,2,1972,11,12,1,Emerson_Roy,Addison_Terry,Emerson_Roy,Gothenberg_WCT,1972,11,12,6-2_6-3
@@ -16,7 +16,7 @@ Gothenberg_WCT,2,1972,11,12,1,Borowiak_Jeff,Ashe_Arthur,Borowiak_Jeff,Gothenberg
 Gothenberg_WCT,2,1972,11,12,1,Richey_Cliff,Stilwell_Graham,Richey_Cliff,Gothenberg_WCT,1972,11,12,6-4_6-4
 Gothenberg_WCT,2,1972,11,12,2,Newcombe_John,Stockton_Dick,Newcombe_John,Gothenberg_WCT,1972,11,12,6-7_7-6_6-1
 Gothenberg_WCT,2,1972,11,12,2,Stone_Allan,Riessen_Marty,Stone_Allan,Gothenberg_WCT,1972,11,12,6-1_6-0
-Gothenberg_WCT,2,1972,11,12,2,Okker_Tom,El_ShafeiIsmail,Okker_Tom,Gothenberg_WCT,1972,11,12,6-1_6-0
+Gothenberg_WCT,2,1972,11,12,2,Okker_Tom,El_Shafei_Ismail,Okker_Tom,Gothenberg_WCT,1972,11,12,6-1_6-0
 Gothenberg_WCT,2,1972,11,12,2,Pilic_Nikola,Taylor_Roger,Taylor_Roger,Gothenberg_WCT,1972,11,12,6-4_6-3
 Gothenberg_WCT,2,1972,11,12,2,Rahim_Haroon,Lutz_Robert,Rahim_Haroon,Gothenberg_WCT,1972,11,12,6-2_7-6
 Gothenberg_WCT,2,1972,11,12,2,Emerson_Roy,Drysdale_Cliff,Emerson_Roy,Gothenberg_WCT,1972,11,12,6-2_6-4

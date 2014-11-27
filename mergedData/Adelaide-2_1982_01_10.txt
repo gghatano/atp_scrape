@@ -7,9 +7,9 @@ Adelaide-2,2,1982,01,10,1,Collings_Dale,Brunnberg_Mike,Brunnberg_Mike,Adelaide-2
 Adelaide-2,2,1982,01,10,1,Lewis_Richard,Smith_Jonathan,Lewis_Richard,Adelaide-2,1982,01,10,6-7_6-4_7-6
 Adelaide-2,2,1982,01,10,1,Ball_Syd,Krulevitz_Steve,Krulevitz_Steve,Adelaide-2,1982,01,10,6-4_6-2
 Adelaide-2,2,1982,01,10,1,Wilkison_Tim,James_John,James_John,Adelaide-2,1982,01,10,6-3_7-6
-Adelaide-2,2,1982,01,10,1,Guan_Brad,Vant_HofRobert,Guan_Brad,Adelaide-2,1982,01,10,6-4_5-7_7-5
+Adelaide-2,2,1982,01,10,1,Guan_Brad,Vant_Hof_Robert,Guan_Brad,Adelaide-2,1982,01,10,6-4_5-7_7-5
 Adelaide-2,2,1982,01,10,1,Hightower_Ron,Carter_David,Carter_David,Adelaide-2,1982,01,10,4-6_7-6_6-4
-Adelaide-2,2,1982,01,10,1,Andrews_Andy,Lewis_NZLChris,Andrews_Andy,Adelaide-2,1982,01,10,6-4_7-6
+Adelaide-2,2,1982,01,10,1,Andrews_Andy,Lewis_NZL_Chris,Andrews_Andy,Adelaide-2,1982,01,10,6-4_7-6
 Adelaide-2,2,1982,01,10,1,Frawley_Rod,Edwards_Eddie,Frawley_Rod,Adelaide-2,1982,01,10,6-4_7-5
 Adelaide-2,2,1982,01,10,1,Dunk_Chris,Johnstone_Chris,Dunk_Chris,Adelaide-2,1982,01,10,3-6_7-6_6-4
 Adelaide-2,2,1982,01,10,1,Meister_Steve,Dyke_Broderick,Dyke_Broderick,Adelaide-2,1982,01,10,6-2_6-3

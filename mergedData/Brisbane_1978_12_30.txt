@@ -2,7 +2,7 @@ Brisbane,2,1978,12,30,1,Ashe_Arthur,Fancutt_Charlie,Ashe_Arthur,Brisbane,1978,12
 Brisbane,2,1978,12,30,1,Collings_Dale,Menon_Sashi,Collings_Dale,Brisbane,1978,12,30,6-0_7-5
 Brisbane,2,1978,12,30,1,Hampson_Wayne,Anderson_Mal,Anderson_Mal,Brisbane,1978,12,30,6-2_6-3
 Brisbane,2,1978,12,30,1,Stone_Allan,Saviano_Nick,Stone_Allan,Brisbane,1978,12,30,6-4_2-6_9-7
-Brisbane,2,1978,12,30,1,Roche_Tony,McNair_IVFred,Roche_Tony,Brisbane,1978,12,30,6-3_6-2
+Brisbane,2,1978,12,30,1,Roche_Tony,McNair_IV_Fred,Roche_Tony,Brisbane,1978,12,30,6-3_6-2
 Brisbane,2,1978,12,30,1,Davies_Phil,Case_Ross,Case_Ross,Brisbane,1978,12,30,6-3_6-2
 Brisbane,2,1978,12,30,1,Mustard_David,Twist_Jeff,Mustard_David,Brisbane,1978,12,30,6-1_6-4
 Brisbane,2,1978,12,30,1,Edmondson_Mark,Masters_Geoff,Edmondson_Mark,Brisbane,1978,12,30,7-5_6-2

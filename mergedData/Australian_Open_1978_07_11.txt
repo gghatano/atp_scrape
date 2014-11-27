@@ -16,14 +16,14 @@ Australian_Open,1,1978,07,11,1,Carter_David,James_John,James_John,Australian_Ope
 Australian_Open,1,1978,07,11,1,Whyte_David,Fibak_Wojtek,Fibak_Wojtek,Australian_Open,1978,07,11,6-4_6-1_6-2
 Australian_Open,1,1978,07,11,1,Rosewall_Ken,Stansbury_Cary,Rosewall_Ken,Australian_Open,1978,07,11,6-2_6-4_6-3
 Australian_Open,1,1978,07,11,1,Lewis_Richard,Stewart_Sherwood,Stewart_Sherwood,Australian_Open,1978,07,11,6-7_6-2_6-1_6-4
-Australian_Open,1,1978,07,11,1,El_ShafeiIsmail,Giltinan_Bob,Giltinan_Bob,Australian_Open,1978,07,11,6-7_6-4_6-3_6-7_9-7
+Australian_Open,1,1978,07,11,1,El_Shafei_Ismail,Giltinan_Bob,Giltinan_Bob,Australian_Open,1978,07,11,6-7_6-4_6-3_6-7_9-7
 Australian_Open,1,1978,07,11,1,Dibley_Colin,Feigl_Peter,Feigl_Peter,Australian_Open,1978,07,11,6-4_1-6_6-4_7-6
 Australian_Open,1,1978,07,11,1,Warwick_Kim,Freyss_Christophe,Warwick_Kim,Australian_Open,1978,07,11,6-4_6-4_6-4
 Australian_Open,1,1978,07,11,1,Crealy_Dick,Maher_Warren,Crealy_Dick,Australian_Open,1978,07,11,6-4_7-5_6-3
 Australian_Open,1,1978,07,11,1,Moore_Raymond,Krishnan_Ramesh,Moore_Raymond,Australian_Open,1978,07,11,7-5_4-6_6-2_6-2
 Australian_Open,1,1978,07,11,1,Kleege_Bruce,Ashe_Arthur,Ashe_Arthur,Australian_Open,1978,07,11,6-3_6-3_7-6
 Australian_Open,1,1978,07,11,1,Alexander_John,Campbell_Peter,Alexander_John,Australian_Open,1978,07,11,6-4_7-6_6-4
-Australian_Open,1,1978,07,11,1,Bohrnstedt_DickR,Simpson_Russell,Simpson_Russell,Australian_Open,1978,07,11,6-2_6-2_6-3
+Australian_Open,1,1978,07,11,1,Bohrnstedt_Dick_R,Simpson_Russell,Simpson_Russell,Australian_Open,1978,07,11,6-2_6-2_6-3
 Australian_Open,1,1978,07,11,1,Jarrett_Andrew,Carmichael_Bob,Carmichael_Bob,Australian_Open,1978,07,11,6-2_6-3_6-2
 Australian_Open,1,1978,07,11,1,Letcher_Cliff,Mitton_Bernard,Mitton_Bernard,Australian_Open,1978,07,11,6-3_6-3_5-7_6-1
 Australian_Open,1,1978,07,11,1,Noah_Yannick,Case_Ross,Case_Ross,Australian_Open,1978,07,11,4-6_4-6_6-3_6-3_6-1

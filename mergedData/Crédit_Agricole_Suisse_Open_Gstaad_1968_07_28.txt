@@ -1,5 +1,5 @@
 Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Okker_Tom,Palmieri_Sergio,Okker_Tom,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,6-4_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Ulrich_Jorgen,Di_DomenicoMassimo,Ulrich_Jorgen,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,4-6_6-0_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Ulrich_Jorgen,Di_Domenico_Massimo,Ulrich_Jorgen,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,4-6_6-0_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Taylor_Roger,Sturdza_Dimitri,Taylor_Roger,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,1-6_7-5_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Darmon_Pierre,Stalder_Thedy,Darmon_Pierre,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,6-1_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1968,07,28,1,Ralston_Dennis,Werren_Mathias,Ralston_Dennis,Crédit_Agricole_Suisse_Open_Gstaad,1968,07,28,6-2_6-1

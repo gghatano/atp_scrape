@@ -8,7 +8,7 @@ Toulouse,2,1989,10,15,1,Laurendeau_Martin,Tauson_Michael,Laurendeau_Martin,Toulo
 Toulouse,2,1989,10,15,1,Bailey_Chris,Arrese_Jordi,Arrese_Jordi,Toulouse,1989,10,15,6-1_6-4
 Toulouse,2,1989,10,15,1,Camporese_Omar,Santoro_Fabrice,Santoro_Fabrice,Toulouse,1989,10,15,6-2_2-6_6-3
 Toulouse,2,1989,10,15,1,Schapers_Michiel,Bergstrom_Christian,Bergstrom_Christian,Toulouse,1989,10,15,6-1_6-4
-Toulouse,2,1989,10,15,1,Vysand_Andres,Altur_JoseFrancisco,Altur_JoseFrancisco,Toulouse,1989,10,15,6-3_6-3
+Toulouse,2,1989,10,15,1,Vysand_Andres,Altur_Jose_Francisco,Altur_Jose_Francisco,Toulouse,1989,10,15,6-3_6-3
 Toulouse,2,1989,10,15,1,Pereira_Nicolas,Chesnokov_Andrei,Chesnokov_Andrei,Toulouse,1989,10,15,6-4_6-3
 Toulouse,2,1989,10,15,1,Filippini_Marcelo,Potier_Jerome,Potier_Jerome,Toulouse,1989,10,15,6-4_6-1
 Toulouse,2,1989,10,15,1,Canter_Jonathan,Castle_Andrew,Castle_Andrew,Toulouse,1989,10,15,3-6_6-2_6-3
@@ -19,7 +19,7 @@ Toulouse,2,1989,10,15,2,Perez_Diego,Gustafsson_Magnus,Gustafsson_Magnus,Toulouse
 Toulouse,2,1989,10,15,2,Skoff_Horst,Winogradsky_Eric,Skoff_Horst,Toulouse,1989,10,15,7-6_4-6_6-1
 Toulouse,2,1989,10,15,2,Laurendeau_Martin,Arrese_Jordi,Laurendeau_Martin,Toulouse,1989,10,15,6-3_6-2
 Toulouse,2,1989,10,15,2,Santoro_Fabrice,Bergstrom_Christian,Bergstrom_Christian,Toulouse,1989,10,15,7-5_6-3
-Toulouse,2,1989,10,15,2,Altur_JoseFrancisco,Chesnokov_Andrei,Chesnokov_Andrei,Toulouse,1989,10,15,6-1_6-4
+Toulouse,2,1989,10,15,2,Altur_Jose_Francisco,Chesnokov_Andrei,Chesnokov_Andrei,Toulouse,1989,10,15,6-1_6-4
 Toulouse,2,1989,10,15,2,Potier_Jerome,Castle_Andrew,Potier_Jerome,Toulouse,1989,10,15,0-6_7-6_6-2
 Toulouse,2,1989,10,15,2,Riglewski_Udo,Connors_Jimmy,Connors_Jimmy,Toulouse,1989,10,15,2-6_6-2_7-6
 Toulouse,2,1989,10,15,3,McEnroe_John,Gustafsson_Magnus,McEnroe_John,Toulouse,1989,10,15,7-5_6-3

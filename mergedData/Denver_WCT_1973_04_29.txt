@@ -1,14 +1,14 @@
 Denver_WCT,2,1973,04,29,1,Rosewall_Ken,Zednik_Vladimir,Rosewall_Ken,Denver_WCT,1973,04,29,6-3_7-6
 Denver_WCT,2,1973,04,29,1,Tanner_Roscoe,Chanfreau_JeanBaptiste,Tanner_Roscoe,Denver_WCT,1973,04,29,6-0_7-6
 Denver_WCT,2,1973,04,29,1,Sprenglemeyer_Michael,Leonard_Tom,Leonard_Tom,Denver_WCT,1973,04,29,6-3_6-4
-Denver_WCT,2,1973,04,29,1,Buchholz_EarlButch,Gorman_Tom,Gorman_Tom,Denver_WCT,1973,04,29,6-4_6-4
+Denver_WCT,2,1973,04,29,1,Buchholz_Earl_Butch,Gorman_Tom,Gorman_Tom,Denver_WCT,1973,04,29,6-4_6-4
 Denver_WCT,2,1973,04,29,1,Kodes_Jan,Landin_Jim,Kodes_Jan,Denver_WCT,1973,04,29,6-3_6-3
-Denver_WCT,2,1973,04,29,1,Van_DillenErik,Cox_Mark,Cox_Mark,Denver_WCT,1973,04,29,6-4_6-4
+Denver_WCT,2,1973,04,29,1,Van_Dillen_Erik,Cox_Mark,Cox_Mark,Denver_WCT,1973,04,29,6-4_6-4
 Denver_WCT,2,1973,04,29,1,Ulrich_Torben,Borowiak_Jeff,Ulrich_Torben,Denver_WCT,1973,04,29,6-7_6-3_6-0
 Denver_WCT,2,1973,04,29,1,Moore_Raymond,Fairlie_Brian,Fairlie_Brian,Denver_WCT,1973,04,29,6-2_3-6_6-3
 Denver_WCT,2,1973,04,29,1,Riessen_Marty,Barthes_Pierre,Riessen_Marty,Denver_WCT,1973,04,29,6-3_6-2
 Denver_WCT,2,1973,04,29,1,LoyoMayo_Joaquin,Metreveli_Alex,Metreveli_Alex,Denver_WCT,1973,04,29,6-3_6-3
-Denver_WCT,2,1973,04,29,1,Carmichael_Bob,El_ShafeiIsmail,Carmichael_Bob,Denver_WCT,1973,04,29,6-3_6-2
+Denver_WCT,2,1973,04,29,1,Carmichael_Bob,El_Shafei_Ismail,Carmichael_Bob,Denver_WCT,1973,04,29,6-3_6-2
 Denver_WCT,2,1973,04,29,1,Hillway_Rich,Ashe_Arthur,Ashe_Arthur,Denver_WCT,1973,04,29,6-0_6-0
 Denver_WCT,2,1973,04,29,1,Okker_Tom,Pala_Frantisek,Okker_Tom,Denver_WCT,1973,04,29,6-3_6-2
 Denver_WCT,2,1973,04,29,1,Crealy_Dick,Case_Ross,Case_Ross,Denver_WCT,1973,04,29,6-4_6-4

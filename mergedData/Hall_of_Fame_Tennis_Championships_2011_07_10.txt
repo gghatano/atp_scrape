@@ -1,7 +1,7 @@
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Isner_John,Beck_Karol,Isner_John,Hall_of_Fame_Tennis_Championships,2011,07,10,6-3_6-2
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Harrison_Ryan,Clement_Arnaud,Clement_Arnaud,Hall_of_Fame_Tennis_Championships,2011,07,10,6-4_6-1
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Gremelmayr_Denis,Bemelmans_Ruben,Bemelmans_Ruben,Hall_of_Fame_Tennis_Championships,2011,07,10,6-4_6-2
-Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Zverev_Mischa,Bogomolov_JrAlex,Bogomolov_JrAlex,Hall_of_Fame_Tennis_Championships,2011,07,10,4-6_6-3_6-1
+Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Zverev_Mischa,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Hall_of_Fame_Tennis_Championships,2011,07,10,4-6_6-3_6-1
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Kunitsyn_Igor,Wang_Jimmy,Wang_Jimmy,Hall_of_Fame_Tennis_Championships,2011,07,10,4-6_7-5_6-2
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,RogerVasselin_Edouard,Bloomfield_Richard,RogerVasselin_Edouard,Hall_of_Fame_Tennis_Championships,2011,07,10,6-4_6-0
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Capdeville_Paul,Young_Donald,Young_Donald,Hall_of_Fame_Tennis_Championships,2011,07,10,6-2_6-1
@@ -15,14 +15,14 @@ Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Sela_Dudi,Yani_Michael,Yani_Mic
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Kudla_Denis,Karlovic_Ivo,Kudla_Denis,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(4)_4-6_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,1,Dabul_Brian,Dimitrov_Grigor,Dimitrov_Grigor,Hall_of_Fame_Tennis_Championships,2011,07,10,6-2_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Isner_John,Clement_Arnaud,Isner_John,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(6)_6-4
-Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Bemelmans_Ruben,Bogomolov_JrAlex,Bogomolov_JrAlex,Hall_of_Fame_Tennis_Championships,2011,07,10,2-6_6-0_6-1
+Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Bemelmans_Ruben,Bogomolov_Jr_Alex,Bogomolov_Jr_Alex,Hall_of_Fame_Tennis_Championships,2011,07,10,2-6_6-0_6-1
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Wang_Jimmy,RogerVasselin_Edouard,RogerVasselin_Edouard,Hall_of_Fame_Tennis_Championships,2011,07,10,7-5_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Young_Donald,Kamke_Tobias,Kamke_Tobias,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(3)_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Rochus_Olivier,Mahut_Nicolas,Rochus_Olivier,Hall_of_Fame_Tennis_Championships,2011,07,10,6-4_7-6(3)
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Bachinger_Matthias,Ebden_Matthew,Ebden_Matthew,Hall_of_Fame_Tennis_Championships,2011,07,10,2-6_6-4_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Haas_Tommy,Yani_Michael,Yani_Michael,Hall_of_Fame_Tennis_Championships,2011,07,10,5-2_RET
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,2,Kudla_Denis,Dimitrov_Grigor,Kudla_Denis,Hall_of_Fame_Tennis_Championships,2011,07,10,6-1_6-4
-Hall_of_Fame_Tennis_Championships,2,2011,07,10,3,Isner_John,Bogomolov_JrAlex,Isner_John,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(5)_6-4
+Hall_of_Fame_Tennis_Championships,2,2011,07,10,3,Isner_John,Bogomolov_Jr_Alex,Isner_John,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(5)_6-4
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,3,RogerVasselin_Edouard,Kamke_Tobias,Kamke_Tobias,Hall_of_Fame_Tennis_Championships,2011,07,10,3-6_6-1_6-3
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,3,Rochus_Olivier,Ebden_Matthew,Rochus_Olivier,Hall_of_Fame_Tennis_Championships,2011,07,10,7-6(5)_6-3
 Hall_of_Fame_Tennis_Championships,2,2011,07,10,3,Yani_Michael,Kudla_Denis,Yani_Michael,Hall_of_Fame_Tennis_Championships,2011,07,10,6-3_6-7(5)_7-5

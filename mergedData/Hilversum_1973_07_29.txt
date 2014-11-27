@@ -9,7 +9,7 @@ Hilversum,2,1973,07,29,1,PintoBravo_Jaime,Thung_Rolf,PintoBravo_Jaime,Hilversum,
 Hilversum,2,1973,07,29,1,Gimeno_Andres,Cramer_Pat,Gimeno_Andres,Hilversum,1973,07,29,6-3_6-3
 Hilversum,2,1973,07,29,1,Kamiwazumi_Jun,Chanfreau_JeanBaptiste,Chanfreau_JeanBaptiste,Hilversum,1973,07,29,6-4_6-4
 Hilversum,2,1973,07,29,1,Maud_Robert,Christensen_Tom,Christensen_Tom,Hilversum,1973,07,29,6-4_3-6_6-1
-Hilversum,2,1973,07,29,1,Fletcher_Ian,Hemmes_SrFred,Fletcher_Ian,Hilversum,1973,07,29,6-3_6-0
+Hilversum,2,1973,07,29,1,Fletcher_Ian,Hemmes_Sr_Fred,Fletcher_Ian,Hilversum,1973,07,29,6-3_6-0
 Hilversum,2,1973,07,29,1,Masters_Geoff,Amritraj_Anand,Masters_Geoff,Hilversum,1973,07,29,3-6_6-0_6-2
 Hilversum,2,1973,07,29,1,Warboys_Stephen,Hordijk_Jan,Hordijk_Jan,Hilversum,1973,07,29,6-3_6-4
 Hilversum,2,1973,07,29,1,Amritraj_Vijay,Fleury_Nick,Amritraj_Vijay,Hilversum,1973,07,29,6-0_6-1

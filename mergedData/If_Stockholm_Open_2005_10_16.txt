@@ -1,5 +1,5 @@
 If_Stockholm_Open,2,2005,10,16,1,Johansson_Thomas,Eleskovic_Ervin,Johansson_Thomas,If_Stockholm_Open,2005,10,16,7-6(4)_7-6(4)
-If_Stockholm_Open,2,2005,10,16,1,Chela_JuanIgnacio,Spadea_Vincent,Spadea_Vincent,If_Stockholm_Open,2005,10,16,6-2_4-6_6-1
+If_Stockholm_Open,2,2005,10,16,1,Chela_Juan_Ignacio,Spadea_Vincent,Spadea_Vincent,If_Stockholm_Open,2005,10,16,6-2_4-6_6-1
 If_Stockholm_Open,2,2005,10,16,1,Behrend_Tomas,Waske_Alexander,Waske_Alexander,If_Stockholm_Open,2005,10,16,7-5_6-4
 If_Stockholm_Open,2,2005,10,16,1,Srichaphan_Paradorn,Verdasco_Fernando,Srichaphan_Paradorn,If_Stockholm_Open,2005,10,16,7-6(4)_6-3
 If_Stockholm_Open,2,2005,10,16,1,Dent_Taylor,Sanguinetti_Davide,Sanguinetti_Davide,If_Stockholm_Open,2005,10,16,2-6_6-4_6-4

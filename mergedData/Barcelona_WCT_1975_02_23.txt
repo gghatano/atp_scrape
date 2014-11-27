@@ -1,6 +1,6 @@
 Barcelona_WCT,2,1975,02,23,1,Borg_Bjorn,Barazzutti_Corrado,Borg_Bjorn,Barcelona_WCT,1975,02,23,6-3_3-6_6-3
 Barcelona_WCT,2,1975,02,23,1,Franulovic_Zeljko,Stewart_Sherwood,Stewart_Sherwood,Barcelona_WCT,1975,02,23,3-6_6-4_6-2
-Barcelona_WCT,2,1975,02,23,1,McNair_IVFred,Mottram_BusterC,Mottram_BusterC,Barcelona_WCT,1975,02,23,6-3_6-2
+Barcelona_WCT,2,1975,02,23,1,McNair_IV_Fred,Mottram_Buster_C,Mottram_Buster_C,Barcelona_WCT,1975,02,23,6-3_6-2
 Barcelona_WCT,2,1975,02,23,1,Herrera_Juan,Hewitt_Bob,Hewitt_Bob,Barcelona_WCT,1975,02,23,6-3_6-1
 Barcelona_WCT,2,1975,02,23,1,Warwick_Kim,Pilic_Nikola,Warwick_Kim,Barcelona_WCT,1975,02,23,7-5_3-6_6-3
 Barcelona_WCT,2,1975,02,23,1,Kary_Hans,Dell_Dick,Kary_Hans,Barcelona_WCT,1975,02,23,6-3_7-6(2)
@@ -11,11 +11,11 @@ Barcelona_WCT,2,1975,02,23,1,McMillan_Frew,Johansson_Kjell,Johansson_Kjell,Barce
 Barcelona_WCT,2,1975,02,23,1,Dominguez_Patrice,Orantes_Manuel,Dominguez_Patrice,Barcelona_WCT,1975,02,23,6-3_7-6(4)
 Barcelona_WCT,2,1975,02,23,1,Lloyd_John,Parun_Onny,Parun_Onny,Barcelona_WCT,1975,02,23,6-7(4)_6-3_6-3
 Barcelona_WCT,2,1975,02,23,1,Panatta_Adriano,Taroczy_Balazs,Panatta_Adriano,Barcelona_WCT,1975,02,23,7-6(6)_7-6(2)
-Barcelona_WCT,2,1975,02,23,1,Muntanola_JuanIgnacio,Krulevitz_Steve,Krulevitz_Steve,Barcelona_WCT,1975,02,23,4-6_6-3_6-3
+Barcelona_WCT,2,1975,02,23,1,Muntanola_Juan_Ignacio,Krulevitz_Steve,Krulevitz_Steve,Barcelona_WCT,1975,02,23,4-6_6-3_6-3
 Barcelona_WCT,2,1975,02,23,1,Ball_Syd,Pohmann_HansJurgen,Pohmann_HansJurgen,Barcelona_WCT,1975,02,23,6-2_4-6_6-1
 Barcelona_WCT,2,1975,02,23,1,Bertolucci_Paolo,Ashe_Arthur,Ashe_Arthur,Barcelona_WCT,1975,02,23,6-2_6-0
 Barcelona_WCT,2,1975,02,23,2,Borg_Bjorn,Stewart_Sherwood,Borg_Bjorn,Barcelona_WCT,1975,02,23,6-4_3-6_7-6(2)
-Barcelona_WCT,2,1975,02,23,2,Mottram_BusterC,Hewitt_Bob,Hewitt_Bob,Barcelona_WCT,1975,02,23,7-6(4)_6-2
+Barcelona_WCT,2,1975,02,23,2,Mottram_Buster_C,Hewitt_Bob,Hewitt_Bob,Barcelona_WCT,1975,02,23,7-6(4)_6-2
 Barcelona_WCT,2,1975,02,23,2,Warwick_Kim,Kary_Hans,Warwick_Kim,Barcelona_WCT,1975,02,23,6-4_6-4
 Barcelona_WCT,2,1975,02,23,2,Higueras_Jose,Giltinan_Bob,Higueras_Jose,Barcelona_WCT,1975,02,23,6-1_4-6_6-4
 Barcelona_WCT,2,1975,02,23,2,Crealy_Dick,Johansson_Kjell,Johansson_Kjell,Barcelona_WCT,1975,02,23,6-4_6-3

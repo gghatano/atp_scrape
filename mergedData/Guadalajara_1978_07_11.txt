@@ -3,8 +3,8 @@ Guadalajara,2,1978,07,11,1,Waltke_Trey,Taygan_Ferdi,Taygan_Ferdi,Guadalajara,197
 Guadalajara,2,1978,07,11,1,Fisher_Rick,Menon_Sashi,Menon_Sashi,Guadalajara,1978,07,11,7-5_6-7_6-2
 Guadalajara,2,1978,07,11,1,Martinez_Octavio,Hardie_George,Hardie_George,Guadalajara,1978,07,11,6-2_6-4
 Guadalajara,2,1978,07,11,1,Walts_Butch,Kirmayr_Carlos,Walts_Butch,Guadalajara,1978,07,11,6-2_6-3
-Guadalajara,2,1978,07,11,1,Mayer_Gene,Bohrnstedt_DickR,Mayer_Gene,Guadalajara,1978,07,11,6-2_6-0
-Guadalajara,2,1978,07,11,1,Chavez_Roberto,Van_DillenErik,Van_DillenErik,Guadalajara,1978,07,11,6-3_7-6
+Guadalajara,2,1978,07,11,1,Mayer_Gene,Bohrnstedt_Dick_R,Mayer_Gene,Guadalajara,1978,07,11,6-2_6-0
+Guadalajara,2,1978,07,11,1,Chavez_Roberto,Van_Dillen_Erik,Van_Dillen_Erik,Guadalajara,1978,07,11,6-3_7-6
 Guadalajara,2,1978,07,11,1,Halder_Greg,Lara_Marcelo,Lara_Marcelo,Guadalajara,1978,07,11,6-2_6-2
 Guadalajara,2,1978,07,11,1,Ruffels_Ray,Winitsky_Van,Ruffels_Ray,Guadalajara,1978,07,11,6-4_6-3
 Guadalajara,2,1978,07,11,1,Blocher_Woody,Krulevitz_Steve,Blocher_Woody,Guadalajara,1978,07,11,6-4_6-1
@@ -17,7 +17,7 @@ Guadalajara,2,1978,07,11,1,Lewis_Richard,Newcombe_John,Newcombe_John,Guadalajara
 Guadalajara,2,1978,07,11,2,Mayer_Sandy,Taygan_Ferdi,Mayer_Sandy,Guadalajara,1978,07,11,6-3_6-2
 Guadalajara,2,1978,07,11,2,Menon_Sashi,Hardie_George,Hardie_George,Guadalajara,1978,07,11,3-6_7-6_6-4
 Guadalajara,2,1978,07,11,2,Walts_Butch,Mayer_Gene,Mayer_Gene,Guadalajara,1978,07,11,6-1_6-0
-Guadalajara,2,1978,07,11,2,Van_DillenErik,Lara_Marcelo,Lara_Marcelo,Guadalajara,1978,07,11,6-2_6-2
+Guadalajara,2,1978,07,11,2,Van_Dillen_Erik,Lara_Marcelo,Lara_Marcelo,Guadalajara,1978,07,11,6-2_6-2
 Guadalajara,2,1978,07,11,2,Ruffels_Ray,Blocher_Woody,Ruffels_Ray,Guadalajara,1978,07,11,6-2_6-1
 Guadalajara,2,1978,07,11,2,Ycaza_Ricardo,Dupre_Pat,Ycaza_Ricardo,Guadalajara,1978,07,11,6-4_4-6_7-5
 Guadalajara,2,1978,07,11,2,Stewart_Sherwood,Kronk_Paul,Stewart_Sherwood,Guadalajara,1978,07,11,7-6_5-7_6-3

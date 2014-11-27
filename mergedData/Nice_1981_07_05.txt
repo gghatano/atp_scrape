@@ -1,7 +1,7 @@
 Nice,2,1981,07,05,1,Noah_Yannick,Freyss_Christophe,Noah_Yannick,Nice,1981,07,05,6-1_6-2
 Nice,2,1981,07,05,1,Simonsson_Stefan,Goven_Georges,Simonsson_Stefan,Nice,1981,07,05,6-3_4-6_6-3
 Nice,2,1981,07,05,1,Proisy_Patrick,Torre_Paul,Torre_Paul,Nice,1981,07,05,6-7_6-1_6-4
-Nice,2,1981,07,05,1,Guerrero_Gustavo,Lewis_NZLChris,Lewis_NZLChris,Nice,1981,07,05,6-3_6-3
+Nice,2,1981,07,05,1,Guerrero_Gustavo,Lewis_NZL_Chris,Lewis_NZL_Chris,Nice,1981,07,05,6-3_6-3
 Nice,2,1981,07,05,1,Barazzutti_Corrado,Jarryd_Anders,Jarryd_Anders,Nice,1981,07,05,6-0_6-1
 Nice,2,1981,07,05,1,Kary_Hans,Franulovic_Zeljko,Franulovic_Zeljko,Nice,1981,07,05,6-0_7-6
 Nice,2,1981,07,05,1,Tulasne_Thierry,Hrebec_Jiri,Tulasne_Thierry,Nice,1981,07,05,6-4_6-2
@@ -15,7 +15,7 @@ Nice,2,1981,07,05,1,Gimenez_Angel,Potier_Jerome,Gimenez_Angel,Nice,1981,07,05,6-
 Nice,2,1981,07,05,1,Hutka_Pavel,Deblicker_Eric,Hutka_Pavel,Nice,1981,07,05,3-6_7-6_6-4
 Nice,2,1981,07,05,1,Bedel_Dominique,Taroczy_Balazs,Taroczy_Balazs,Nice,1981,07,05,7-5_6-7_6-3
 Nice,2,1981,07,05,2,Noah_Yannick,Simonsson_Stefan,Noah_Yannick,Nice,1981,07,05,6-4_6-2
-Nice,2,1981,07,05,2,Torre_Paul,Lewis_NZLChris,Torre_Paul,Nice,1981,07,05,0-6_6-3_6-1
+Nice,2,1981,07,05,2,Torre_Paul,Lewis_NZL_Chris,Torre_Paul,Nice,1981,07,05,0-6_6-3_6-1
 Nice,2,1981,07,05,2,Jarryd_Anders,Franulovic_Zeljko,Franulovic_Zeljko,Nice,1981,07,05,6-2_6-2
 Nice,2,1981,07,05,2,Tulasne_Thierry,Orantes_Manuel,Orantes_Manuel,Nice,1981,07,05,6-1_6-1
 Nice,2,1981,07,05,2,Cano_Ricardo,Allan_Trevor,Cano_Ricardo,Nice,1981,07,05,7-6_6-2

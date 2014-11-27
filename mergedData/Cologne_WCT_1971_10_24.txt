@@ -3,7 +3,7 @@ Cologne_WCT,2,1971,10,24,1,Stolle_Fred,Barth_Roy,Stolle_Fred,Cologne_WCT,1971,10
 Cologne_WCT,2,1971,10,24,1,Riessen_Marty,Taylor_Roger,Riessen_Marty,Cologne_WCT,1971,10,24,6-7_7-6_6-3
 Cologne_WCT,2,1971,10,24,1,Gimeno_Andres,Carmichael_Bob,Gimeno_Andres,Cologne_WCT,1971,10,24,6-2_6-7_6-4
 Cologne_WCT,2,1971,10,24,1,Rosewall_Ken,Ruffels_Ray,Rosewall_Ken,Cologne_WCT,1971,10,24,6-4_6-2
-Cologne_WCT,2,1971,10,24,1,Pasarell_Charlie,El_ShafeiIsmail,Pasarell_Charlie,Cologne_WCT,1971,10,24,7-6_6-4
+Cologne_WCT,2,1971,10,24,1,Pasarell_Charlie,El_Shafei_Ismail,Pasarell_Charlie,Cologne_WCT,1971,10,24,7-6_6-4
 Cologne_WCT,2,1971,10,24,1,Pilic_Nikola,Stilwell_Graham,Pilic_Nikola,Cologne_WCT,1971,10,24,7-6_7-6
 Cologne_WCT,2,1971,10,24,1,Drysdale_Cliff,McMillan_Frew,Drysdale_Cliff,Cologne_WCT,1971,10,24,4-6_6-4_6-1
 Cologne_WCT,2,1971,10,24,1,Okker_Tom,Fairlie_Brian,Okker_Tom,Cologne_WCT,1971,10,24,6-2_6-3

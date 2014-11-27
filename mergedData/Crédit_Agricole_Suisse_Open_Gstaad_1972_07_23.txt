@@ -1,7 +1,7 @@
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Barthes_Pierre,Schroder_Derek,Barthes_Pierre,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-3_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Tanner_Roscoe,Stalder_Thedy,Tanner_Roscoe,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-2_6-4
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Tiriac_Ion,Ryan_Terry,Tiriac_Ion,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-1_6-2
-Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Bungert_Wilhelm,Bohrnstedt_DickR,Bungert_Wilhelm,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,7-5_6-3
+Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Bungert_Wilhelm,Bohrnstedt_Dick_R,Bungert_Wilhelm,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,7-5_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Panatta_Adriano,Nowicki_Tadeusz,Panatta_Adriano,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-1_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Fletcher_Ian,Munoz_Antonio,Munoz_Antonio,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-3_6-1
 Crédit_Agricole_Suisse_Open_Gstaad,2,1972,07,23,1,Cramer_Pat,Rouyer_JeanLoup,Rouyer_JeanLoup,Crédit_Agricole_Suisse_Open_Gstaad,1972,07,23,6-2_6-3

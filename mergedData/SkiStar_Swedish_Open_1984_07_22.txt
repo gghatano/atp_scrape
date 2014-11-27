@@ -5,10 +5,10 @@ SkiStar_Swedish_Open,2,1984,07,22,1,Jelen_Eric,Gunnarsson_Jan,Gunnarsson_Jan,Ski
 SkiStar_Swedish_Open,2,1984,07,22,1,Edberg_Stefan,Jaite_Martin,Edberg_Stefan,SkiStar_Swedish_Open,1984,07,22,7-6_6-1
 SkiStar_Swedish_Open,2,1984,07,22,1,Rocchi_Ferrante,Mezzadri_Claudio,Mezzadri_Claudio,SkiStar_Swedish_Open,1984,07,22,7-6_1-6_6-4
 SkiStar_Swedish_Open,2,1984,07,22,1,Avendano_Juan,Beutel_HansDieter,Beutel_HansDieter,SkiStar_Swedish_Open,1984,07,22,6-3_6-4
-SkiStar_Swedish_Open,2,1984,07,22,1,De_LaPenaHoracio,Simonsson_Stefan,De_LaPenaHoracio,SkiStar_Swedish_Open,1984,07,22,6-3_6-7_7-6
+SkiStar_Swedish_Open,2,1984,07,22,1,De_La_Pena_Horacio,Simonsson_Stefan,De_La_Pena_Horacio,SkiStar_Swedish_Open,1984,07,22,6-3_6-7_7-6
 SkiStar_Swedish_Open,2,1984,07,22,1,Hogstedt_Thomas,Schapers_Michiel,Schapers_Michiel,SkiStar_Swedish_Open,1984,07,22,4-6_6-3_6-4
-SkiStar_Swedish_Open,2,1984,07,22,1,Viver_RaulAntonio,Pernfors_Mikael,Viver_RaulAntonio,SkiStar_Swedish_Open,1984,07,22,7-6_6-2
-SkiStar_Swedish_Open,2,1984,07,22,1,Pecci_SrVictor,Carlsson_Kent,Pecci_SrVictor,SkiStar_Swedish_Open,1984,07,22,6-3_6-1
+SkiStar_Swedish_Open,2,1984,07,22,1,Viver_Raul_Antonio,Pernfors_Mikael,Viver_Raul_Antonio,SkiStar_Swedish_Open,1984,07,22,7-6_6-2
+SkiStar_Swedish_Open,2,1984,07,22,1,Pecci_Sr_Victor,Carlsson_Kent,Pecci_Sr_Victor,SkiStar_Swedish_Open,1984,07,22,6-3_6-1
 SkiStar_Swedish_Open,2,1984,07,22,1,Carlsson_Peter,Nystrom_Joakim,Nystrom_Joakim,SkiStar_Swedish_Open,1984,07,22,6-1_6-0
 SkiStar_Swedish_Open,2,1984,07,22,1,Boileau_Bernard,Castellan_Carlos,Castellan_Carlos,SkiStar_Swedish_Open,1984,07,22,6-3_7-6
 SkiStar_Swedish_Open,2,1984,07,22,1,Navratil_Jaroslav,Gurfein_Jim,Navratil_Jaroslav,SkiStar_Swedish_Open,1984,07,22,6-2_6-4
@@ -17,9 +17,9 @@ SkiStar_Swedish_Open,2,1984,07,22,1,Simonsson_Hans,Sundstrom_Henrik,Sundstrom_He
 SkiStar_Swedish_Open,2,1984,07,22,2,Jarryd_Anders,Svensson_Jonas,Jarryd_Anders,SkiStar_Swedish_Open,1984,07,22,6-3_6-0
 SkiStar_Swedish_Open,2,1984,07,22,2,Tideman_Magnus,Gunnarsson_Jan,Gunnarsson_Jan,SkiStar_Swedish_Open,1984,07,22,6-4_6-4
 SkiStar_Swedish_Open,2,1984,07,22,2,Edberg_Stefan,Mezzadri_Claudio,Edberg_Stefan,SkiStar_Swedish_Open,1984,07,22,6-2_6-4
-SkiStar_Swedish_Open,2,1984,07,22,2,Beutel_HansDieter,De_LaPenaHoracio,Beutel_HansDieter,SkiStar_Swedish_Open,1984,07,22,0-6_7-5_6-2
-SkiStar_Swedish_Open,2,1984,07,22,2,Schapers_Michiel,Viver_RaulAntonio,Schapers_Michiel,SkiStar_Swedish_Open,1984,07,22,6-1_7-5
-SkiStar_Swedish_Open,2,1984,07,22,2,Pecci_SrVictor,Nystrom_Joakim,Nystrom_Joakim,SkiStar_Swedish_Open,1984,07,22,6-2_3-6_6-2
+SkiStar_Swedish_Open,2,1984,07,22,2,Beutel_HansDieter,De_La_Pena_Horacio,Beutel_HansDieter,SkiStar_Swedish_Open,1984,07,22,0-6_7-5_6-2
+SkiStar_Swedish_Open,2,1984,07,22,2,Schapers_Michiel,Viver_Raul_Antonio,Schapers_Michiel,SkiStar_Swedish_Open,1984,07,22,6-1_7-5
+SkiStar_Swedish_Open,2,1984,07,22,2,Pecci_Sr_Victor,Nystrom_Joakim,Nystrom_Joakim,SkiStar_Swedish_Open,1984,07,22,6-2_3-6_6-2
 SkiStar_Swedish_Open,2,1984,07,22,2,Castellan_Carlos,Navratil_Jaroslav,Navratil_Jaroslav,SkiStar_Swedish_Open,1984,07,22,6-1_5-7_6-4
 SkiStar_Swedish_Open,2,1984,07,22,2,Kuchna_Patrice,Sundstrom_Henrik,Sundstrom_Henrik,SkiStar_Swedish_Open,1984,07,22,6-1_6-1
 SkiStar_Swedish_Open,2,1984,07,22,3,Jarryd_Anders,Gunnarsson_Jan,Jarryd_Anders,SkiStar_Swedish_Open,1984,07,22,6-4_6-2

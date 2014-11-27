@@ -3,7 +3,7 @@ Athens,2,1991,10,06,1,Velev_Milen,Kowalski_Wojtek,Kowalski_Wojtek,Athens,1991,10
 Athens,2,1991,10,06,1,Vajda_Marian,Woehrmann_Jens,Woehrmann_Jens,Athens,1991,10,06,6-3_6-2
 Athens,2,1991,10,06,1,Furlan_Renzo,Jaite_Martin,Furlan_Renzo,Athens,1991,10,06,6-1_3-6_6-3
 Athens,2,1991,10,06,1,Muster_Thomas,Eltingh_Jacco,Muster_Thomas,Athens,1991,10,06,6-4_6-3
-Athens,2,1991,10,06,1,Yunis_Francisco,Baguena_JuanCarlos,Yunis_Francisco,Athens,1991,10,06,6-2_3-6_7-6(5)
+Athens,2,1991,10,06,1,Yunis_Francisco,Baguena_Juan_Carlos,Yunis_Francisco,Athens,1991,10,06,6-2_3-6_7-6(5)
 Athens,2,1991,10,06,1,Kalovelonis_George,Wuyts_Bart,Wuyts_Bart,Athens,1991,10,06,6-4_3-6_6-3
 Athens,2,1991,10,06,1,Bavelas_Tasos,PerezRoldan_Guillermo,PerezRoldan_Guillermo,Athens,1991,10,06,6-3_6-1
 Athens,2,1991,10,06,1,Clavet_Francisco,Masso_Eduardo,Clavet_Francisco,Athens,1991,10,06,7-6(5)_6-3

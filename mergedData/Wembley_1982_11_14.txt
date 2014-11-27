@@ -11,7 +11,7 @@ Wembley,2,1982,11,14,1,Odizor_Nduka,Gunthardt_Heinz,Odizor_Nduka,Wembley,1982,11
 Wembley,2,1982,11,14,1,Jarrett_Andrew,Gullikson_Tom,Gullikson_Tom,Wembley,1982,11,14,6-2_6-2
 Wembley,2,1982,11,14,1,Druz_Randy,Gomez_Andres,Gomez_Andres,Wembley,1982,11,14,6-4_6-2
 Wembley,2,1982,11,14,1,Glickstein_Shlomo,Lewis_Richard,Glickstein_Shlomo,Wembley,1982,11,14,7-5_6-2
-Wembley,2,1982,11,14,1,Scanlon_Bill,Van_PattenVincent,Van_PattenVincent,Wembley,1982,11,14,6-4_3-6_6-1
+Wembley,2,1982,11,14,1,Scanlon_Bill,Van_Patten_Vincent,Van_Patten_Vincent,Wembley,1982,11,14,6-4_3-6_6-1
 Wembley,2,1982,11,14,1,Dowdeswell_Colin,Tanner_Roscoe,Dowdeswell_Colin,Wembley,1982,11,14,7-6_3-6_9-7
 Wembley,2,1982,11,14,1,Fibak_Wojtek,Wilander_Mats,Fibak_Wojtek,Wembley,1982,11,14,6-2_3-6_7-5
 Wembley,2,1982,11,14,2,McEnroe_John,Dickson_Mark,McEnroe_John,Wembley,1982,11,14,6-3_6-4
@@ -20,12 +20,12 @@ Wembley,2,1982,11,14,2,Denton_Steve,Amaya_Victor,Denton_Steve,Wembley,1982,11,14
 Wembley,2,1982,11,14,2,Hooper_Chip,Smid_Tomas,Smid_Tomas,Wembley,1982,11,14,7-6_6-1
 Wembley,2,1982,11,14,2,Gottfried_Brian,Odizor_Nduka,Gottfried_Brian,Wembley,1982,11,14,6-1_6-1
 Wembley,2,1982,11,14,2,Gullikson_Tom,Gomez_Andres,Gomez_Andres,Wembley,1982,11,14,5-7_7-6_6-1
-Wembley,2,1982,11,14,2,Glickstein_Shlomo,Van_PattenVincent,Van_PattenVincent,Wembley,1982,11,14,6-2_6-2
+Wembley,2,1982,11,14,2,Glickstein_Shlomo,Van_Patten_Vincent,Van_Patten_Vincent,Wembley,1982,11,14,6-2_6-2
 Wembley,2,1982,11,14,2,Dowdeswell_Colin,Fibak_Wojtek,Fibak_Wojtek,Wembley,1982,11,14,6-4_6-4
 Wembley,2,1982,11,14,3,McEnroe_John,Leconte_Henri,McEnroe_John,Wembley,1982,11,14,6-3_7-5
 Wembley,2,1982,11,14,3,Denton_Steve,Smid_Tomas,Denton_Steve,Wembley,1982,11,14,4-6_7-6_6-4
 Wembley,2,1982,11,14,3,Gottfried_Brian,Gomez_Andres,Gottfried_Brian,Wembley,1982,11,14,7-6_6-2
-Wembley,2,1982,11,14,3,Van_PattenVincent,Fibak_Wojtek,Van_PattenVincent,Wembley,1982,11,14,7-6_6-4
+Wembley,2,1982,11,14,3,Van_Patten_Vincent,Fibak_Wojtek,Van_Patten_Vincent,Wembley,1982,11,14,7-6_6-4
 Wembley,2,1982,11,14,4,McEnroe_John,Denton_Steve,McEnroe_John,Wembley,1982,11,14,6-1_6-4
-Wembley,2,1982,11,14,4,Gottfried_Brian,Van_PattenVincent,Gottfried_Brian,Wembley,1982,11,14,7-5_6-1
+Wembley,2,1982,11,14,4,Gottfried_Brian,Van_Patten_Vincent,Gottfried_Brian,Wembley,1982,11,14,7-5_6-1
 Wembley,2,1982,11,14,5,McEnroe_John,Gottfried_Brian,McEnroe_John,Wembley,1982,11,14,6-3_6-2_6-4

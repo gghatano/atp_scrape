@@ -5,7 +5,7 @@ Aircel_Chennai_Open,2,1997,04,13,1,Ran_Eyal,Norman_Magnus,Norman_Magnus,Aircel_C
 Aircel_Chennai_Open,2,1997,04,13,1,Stark_Jonathan,Narla_Susheel,Stark_Jonathan,Aircel_Chennai_Open,1997,04,13,6-0_6-3
 Aircel_Chennai_Open,2,1997,04,13,1,Meneschincheri_Marco,Jonsson_Lars,Meneschincheri_Marco,Aircel_Chennai_Open,1997,04,13,6-0_4-6_4-1_RET
 Aircel_Chennai_Open,2,1997,04,13,1,Delaitre_Olivier,Winnink_Joost,Delaitre_Olivier,Aircel_Chennai_Open,1997,04,13,0-6_6-2_6-4
-Aircel_Chennai_Open,2,1997,04,13,1,El_SawyTamer,Tillstrom_Mikael,Tillstrom_Mikael,Aircel_Chennai_Open,1997,04,13,5-7_7-5_6-4
+Aircel_Chennai_Open,2,1997,04,13,1,El_Sawy_Tamer,Tillstrom_Mikael,Tillstrom_Mikael,Aircel_Chennai_Open,1997,04,13,5-7_7-5_6-4
 Aircel_Chennai_Open,2,1997,04,13,1,Radulescu_Alex,Motomura_Gouichi,Radulescu_Alex,Aircel_Chennai_Open,1997,04,13,5-7_6-4_6-4
 Aircel_Chennai_Open,2,1997,04,13,1,Wibier_Fernon,Burgsmuller_Lars,Wibier_Fernon,Aircel_Chennai_Open,1997,04,13,7-6(5)_6-2
 Aircel_Chennai_Open,2,1997,04,13,1,Ogorodov_Oleg,Fleurian_JeanPhilippe,Ogorodov_Oleg,Aircel_Chennai_Open,1997,04,13,6-4_6-1

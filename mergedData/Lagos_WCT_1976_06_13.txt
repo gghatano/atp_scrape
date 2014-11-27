@@ -2,9 +2,9 @@ Lagos_WCT,2,1976,06,13,1,Okker_Tom,Meiler_Karl,Meiler_Karl,Lagos_WCT,1976,06,13,
 Lagos_WCT,2,1976,06,13,1,Stockton_Dick,Awopegba_Lawrence,Stockton_Dick,Lagos_WCT,1976,06,13,6-2_6-2
 Lagos_WCT,2,1976,06,13,1,Lutz_Robert,Fibak_Wojtek,Lutz_Robert,Lagos_WCT,1976,06,13,5-7_6-3_6-2
 Lagos_WCT,2,1976,06,13,1,Dibbs_Eddie,Fairlie_Brian,Dibbs_Eddie,Lagos_WCT,1976,06,13,6-2_6-2
-Lagos_WCT,2,1976,06,13,1,Solomon_Harold,Van_DillenErik,Solomon_Harold,Lagos_WCT,1976,06,13,7-5_6-0
+Lagos_WCT,2,1976,06,13,1,Solomon_Harold,Van_Dillen_Erik,Solomon_Harold,Lagos_WCT,1976,06,13,7-5_6-0
 Lagos_WCT,2,1976,06,13,1,Borowiak_Jeff,Allen_Yenesi,Borowiak_Jeff,Lagos_WCT,1976,06,13,6-3_6-2
-Lagos_WCT,2,1976,06,13,1,Crealy_Dick,El_ShafeiIsmail,Crealy_Dick,Lagos_WCT,1976,06,13,5-7_6-3_7-6(6)
+Lagos_WCT,2,1976,06,13,1,Crealy_Dick,El_Shafei_Ismail,Crealy_Dick,Lagos_WCT,1976,06,13,5-7_6-3_7-6(6)
 Lagos_WCT,2,1976,06,13,1,Smith_Stan,Ashe_Arthur,Ashe_Arthur,Lagos_WCT,1976,06,13,6-4_7-5
 Lagos_WCT,2,1976,06,13,2,Meiler_Karl,Stockton_Dick,Stockton_Dick,Lagos_WCT,1976,06,13,6-2_2-0_RET
 Lagos_WCT,2,1976,06,13,2,Lutz_Robert,Dibbs_Eddie,Lutz_Robert,Lagos_WCT,1976,06,13,7-6(3)_6-2

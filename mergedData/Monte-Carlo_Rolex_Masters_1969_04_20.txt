@@ -18,14 +18,14 @@ Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Proisy_Patrick,Guerrero_Jose,Proisy_Pat
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Licis_Andrzej,Gorostiaga_Eduardo,Licis_Andrzej,Monte-Carlo_Rolex_Masters,1969,04,20,4-6_6-4_6-2
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Gardiner_Alvin,Battegay_Francois,Gardiner_Alvin,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_10-8
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Barclay_JeanClaude,Newcombe_John,Newcombe_John,Monte-Carlo_Rolex_Masters,1969,04,20,6-4_6-1
-Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Goven_Georges,Arilla_JoseLuis,Goven_Georges,Monte-Carlo_Rolex_Masters,1969,04,20,W/O
+Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Goven_Georges,Arilla_Jose_Luis,Goven_Georges,Monte-Carlo_Rolex_Masters,1969,04,20,W/O
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Ashe_Arthur,Ward_John,Ashe_Arthur,Monte-Carlo_Rolex_Masters,1969,04,20,6-2_6-2
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Lejus_Thomas,Barrett_John,Lejus_Thomas,Monte-Carlo_Rolex_Masters,1969,04,20,6-4_6-0
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Beust_Patrice,Taylor_Roger,Taylor_Roger,Monte-Carlo_Rolex_Masters,1969,04,20,7-5_6-3
-Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Holecek_Milan,Russell_DRichard,Holecek_Milan,Monte-Carlo_Rolex_Masters,1969,04,20,W/O
+Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Holecek_Milan,Russell_D_Richard,Holecek_Milan,Monte-Carlo_Rolex_Masters,1969,04,20,W/O
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Mulligan_Martin,Rouyer_JeanLoup,Mulligan_Martin,Monte-Carlo_Rolex_Masters,1969,04,20,6-8_6-3_6-3
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Kuhnke_Christian,Contet_Daniel,Kuhnke_Christian,Monte-Carlo_Rolex_Masters,1969,04,20,8-10_6-3_6-3
-Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Fletcher_Ian,Gonzales_RichardPancho,Gonzales_RichardPancho,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_6-3
+Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Fletcher_Ian,Gonzales_Richard_Pancho,Gonzales_Richard_Pancho,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_6-3
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Davidson_Owen,Montrenaud_Bernard,Davidson_Owen,Monte-Carlo_Rolex_Masters,1969,04,20,6-1_6-0
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Hutchins_Paul,Metreveli_Alex,Hutchins_Paul,Monte-Carlo_Rolex_Masters,1969,04,20,6-0_6-4
 Monte-Carlo_Rolex_Masters,2,1969,04,20,1,Battrick_Gerald,Meyer_JeanPaul,Battrick_Gerald,Monte-Carlo_Rolex_Masters,1969,04,20,14-16_6-1_6-3
@@ -43,7 +43,7 @@ Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Gardiner_Alvin,Newcombe_John,Newcombe_J
 Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Goven_Georges,Ashe_Arthur,Ashe_Arthur,Monte-Carlo_Rolex_Masters,1969,04,20,6-2_1-6_6-4
 Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Lejus_Thomas,Taylor_Roger,Taylor_Roger,Monte-Carlo_Rolex_Masters,1969,04,20,6-1_5-7_6-4
 Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Holecek_Milan,Mulligan_Martin,Mulligan_Martin,Monte-Carlo_Rolex_Masters,1969,04,20,7-5_2-6_6-4
-Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Kuhnke_Christian,Gonzales_RichardPancho,Gonzales_RichardPancho,Monte-Carlo_Rolex_Masters,1969,04,20,6-2_6-4
+Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Kuhnke_Christian,Gonzales_Richard_Pancho,Gonzales_Richard_Pancho,Monte-Carlo_Rolex_Masters,1969,04,20,6-2_6-4
 Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Davidson_Owen,Hutchins_Paul,Davidson_Owen,Monte-Carlo_Rolex_Masters,1969,04,20,4-6_8-6_6-0
 Monte-Carlo_Rolex_Masters,2,1969,04,20,2,Battrick_Gerald,Gimeno_Andres,Gimeno_Andres,Monte-Carlo_Rolex_Masters,1969,04,20,6-4_6-2
 Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Okker_Tom,Stolle_Fred,Okker_Tom,Monte-Carlo_Rolex_Masters,1969,04,20,6-4_4-6_6-2
@@ -52,7 +52,7 @@ Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Pietrangeli_Nicola,Nerell_Hans,Pietrang
 Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Jauffret_Francois,Orantes_Manuel,Jauffret_Francois,Monte-Carlo_Rolex_Masters,1969,04,20,10-8_6-2
 Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Proisy_Patrick,Newcombe_John,Newcombe_John,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_6-3
 Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Ashe_Arthur,Taylor_Roger,Ashe_Arthur,Monte-Carlo_Rolex_Masters,1969,04,20,3-6_6-4_6-4
-Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Mulligan_Martin,Gonzales_RichardPancho,Mulligan_Martin,Monte-Carlo_Rolex_Masters,1969,04,20,6-0_6-1
+Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Mulligan_Martin,Gonzales_Richard_Pancho,Mulligan_Martin,Monte-Carlo_Rolex_Masters,1969,04,20,6-0_6-1
 Monte-Carlo_Rolex_Masters,2,1969,04,20,3,Davidson_Owen,Gimeno_Andres,Gimeno_Andres,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_7-5
 Monte-Carlo_Rolex_Masters,2,1969,04,20,4,Okker_Tom,Santana_Manuel,Okker_Tom,Monte-Carlo_Rolex_Masters,1969,04,20,10-8_6-1
 Monte-Carlo_Rolex_Masters,2,1969,04,20,4,Pietrangeli_Nicola,Jauffret_Francois,Pietrangeli_Nicola,Monte-Carlo_Rolex_Masters,1969,04,20,6-3_5-7_6-2

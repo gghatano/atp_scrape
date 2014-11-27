@@ -1,4 +1,4 @@
-MercedesCup,2,2002,07,21,1,Novak_Jiri,Ramirez_HidalgoRuben,Novak_Jiri,MercedesCup,2002,07,21,3-6_6-0_6-2
+MercedesCup,2,2002,07,21,1,Novak_Jiri,Ramirez_Hidalgo_Ruben,Novak_Jiri,MercedesCup,2002,07,21,3-6_6-0_6-2
 MercedesCup,2,2002,07,21,1,Meligeni_Fernando,Savolt_Attila,Meligeni_Fernando,MercedesCup,2002,07,21,5-7_6-3_6-3
 MercedesCup,2,2002,07,21,1,Hernych_Jan,Popp_Alexander,Popp_Alexander,MercedesCup,2002,07,21,6-0_6-2
 MercedesCup,2,2002,07,21,1,Ulihrach_Bohdan,Robredo_Tommy,Robredo_Tommy,MercedesCup,2002,07,21,6-4_6-2
@@ -9,7 +9,7 @@ MercedesCup,2,2002,07,21,1,Martin_Alberto,Schuettler_Rainer,Martin_Alberto,Merce
 MercedesCup,2,2002,07,21,1,Lapentti_Nicolas,Gaudenzi_Andrea,Lapentti_Nicolas,MercedesCup,2002,07,21,7-6(1)_2-6_6-4
 MercedesCup,2,2002,07,21,1,Arazi_Hicham,Youzhny_Mikhail,Youzhny_Mikhail,MercedesCup,2002,07,21,6-2_5-7_6-4
 MercedesCup,2,2002,07,21,1,Clavet_Francisco,Settergren_Johan,Settergren_Johan,MercedesCup,2002,07,21,6-4_6-4
-MercedesCup,2,2002,07,21,1,Sanchez_David,El_AynaouiYounes,El_AynaouiYounes,MercedesCup,2002,07,21,1-6_6-4_6-4
+MercedesCup,2,2002,07,21,1,Sanchez_David,El_Aynaoui_Younes,El_Aynaoui_Younes,MercedesCup,2002,07,21,1-6_6-4_6-4
 MercedesCup,2,2002,07,21,1,Pavel_Andrei,Hrbaty_Dominik,Pavel_Andrei,MercedesCup,2002,07,21,6-3_1-6_6-3
 MercedesCup,2,2002,07,21,1,Boutter_Julien,Varlet_Julien,Boutter_Julien,MercedesCup,2002,07,21,6-3_6-1
 MercedesCup,2,2002,07,21,1,Phau_Bjorn,Burgsmuller_Lars,Burgsmuller_Lars,MercedesCup,2002,07,21,7-6(4)_6-4
@@ -19,12 +19,12 @@ MercedesCup,2,2002,07,21,2,Popp_Alexander,Robredo_Tommy,Robredo_Tommy,MercedesCu
 MercedesCup,2,2002,07,21,2,Canas_Guillermo,Mantilla_Felix,Canas_Guillermo,MercedesCup,2002,07,21,6-4_6-3
 MercedesCup,2,2002,07,21,2,Voinea_Adrian,Martin_Alberto,Martin_Alberto,MercedesCup,2002,07,21,6-4_6-4
 MercedesCup,2,2002,07,21,2,Lapentti_Nicolas,Youzhny_Mikhail,Youzhny_Mikhail,MercedesCup,2002,07,21,6-2_6-4
-MercedesCup,2,2002,07,21,2,Settergren_Johan,El_AynaouiYounes,El_AynaouiYounes,MercedesCup,2002,07,21,6-4_6-2
+MercedesCup,2,2002,07,21,2,Settergren_Johan,El_Aynaoui_Younes,El_Aynaoui_Younes,MercedesCup,2002,07,21,6-4_6-2
 MercedesCup,2,2002,07,21,2,Pavel_Andrei,Boutter_Julien,Pavel_Andrei,MercedesCup,2002,07,21,6-2_6-1
 MercedesCup,2,2002,07,21,2,Burgsmuller_Lars,Kuerten_Gustavo,Burgsmuller_Lars,MercedesCup,2002,07,21,7-6(5)_3-6_7-6(4)
 MercedesCup,2,2002,07,21,3,Novak_Jiri,Robredo_Tommy,Novak_Jiri,MercedesCup,2002,07,21,6-4_6-2
 MercedesCup,2,2002,07,21,3,Canas_Guillermo,Martin_Alberto,Canas_Guillermo,MercedesCup,2002,07,21,1-6_6-2_7-6(5)
-MercedesCup,2,2002,07,21,3,Youzhny_Mikhail,El_AynaouiYounes,Youzhny_Mikhail,MercedesCup,2002,07,21,6-3_6-2
+MercedesCup,2,2002,07,21,3,Youzhny_Mikhail,El_Aynaoui_Younes,Youzhny_Mikhail,MercedesCup,2002,07,21,6-3_6-2
 MercedesCup,2,2002,07,21,3,Pavel_Andrei,Burgsmuller_Lars,Burgsmuller_Lars,MercedesCup,2002,07,21,3-6_6-3_6-2
 MercedesCup,2,2002,07,21,4,Novak_Jiri,Canas_Guillermo,Canas_Guillermo,MercedesCup,2002,07,21,6-4_6-0
 MercedesCup,2,2002,07,21,4,Youzhny_Mikhail,Burgsmuller_Lars,Youzhny_Mikhail,MercedesCup,2002,07,21,6-3_4-6_7-5

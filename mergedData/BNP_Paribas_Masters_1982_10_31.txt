@@ -1,4 +1,4 @@
-BNP_Paribas_Masters,2,1982,10,31,1,Gottfried_Brian,De_PalmerMike,Gottfried_Brian,BNP_Paribas_Masters,1982,10,31,6-2_6-7_6-2
+BNP_Paribas_Masters,2,1982,10,31,1,Gottfried_Brian,De_Palmer_Mike,Gottfried_Brian,BNP_Paribas_Masters,1982,10,31,6-2_6-7_6-2
 BNP_Paribas_Masters,2,1982,10,31,1,Jumatano_Amani,Solomon_Harold,Solomon_Harold,BNP_Paribas_Masters,1982,10,31,6-0_6-3
 BNP_Paribas_Masters,2,1982,10,31,1,Doyle_Matt,Forget_Guy,Forget_Guy,BNP_Paribas_Masters,1982,10,31,7-6_7-6
 BNP_Paribas_Masters,2,1982,10,31,1,RogerVasselin_Christophe,Manson_Bruce,Manson_Bruce,BNP_Paribas_Masters,1982,10,31,6-4_6-4

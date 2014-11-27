@@ -1,7 +1,7 @@
 Swiss_Indoors_Basel,2,2007,10,28,1,Federer_Roger,Berrer_Michael,Federer_Roger,Swiss_Indoors_Basel,2007,10,28,6-1_3-6_6-3
-Swiss_Indoors_Basel,2,2007,10,28,1,Del_PotroJuanMartin,Russell_Michael,Del_PotroJuanMartin,Swiss_Indoors_Basel,2007,10,28,5-2_RET
+Swiss_Indoors_Basel,2,2007,10,28,1,Del_Potro_Juan_Martin,Russell_Michael,Del_Potro_Juan_Martin,Swiss_Indoors_Basel,2007,10,28,5-2_RET
 Swiss_Indoors_Basel,2,2007,10,28,1,Kiefer_Nicolas,Berlocq_Carlos,Kiefer_Nicolas,Swiss_Indoors_Basel,2007,10,28,6-1_6-1
-Swiss_Indoors_Basel,2,2007,10,28,1,Koubek_Stefan,Chela_JuanIgnacio,Koubek_Stefan,Swiss_Indoors_Basel,2007,10,28,6-3_6-4
+Swiss_Indoors_Basel,2,2007,10,28,1,Koubek_Stefan,Chela_Juan_Ignacio,Koubek_Stefan,Swiss_Indoors_Basel,2007,10,28,6-3_6-4
 Swiss_Indoors_Basel,2,2007,10,28,1,Blake_James,Hernandez_Oscar,Blake_James,Swiss_Indoors_Basel,2007,10,28,6-3_6-4
 Swiss_Indoors_Basel,2,2007,10,28,1,Karlovic_Ivo,Chiudinelli_Marco,Karlovic_Ivo,Swiss_Indoors_Basel,2007,10,28,6-3_6-2
 Swiss_Indoors_Basel,2,2007,10,28,1,Nalbandian_David,Wawrinka_Stan,Wawrinka_Stan,Swiss_Indoors_Basel,2007,10,28,7-6(5)_6-2
@@ -14,7 +14,7 @@ Swiss_Indoors_Basel,2,2007,10,28,1,Canas_Guillermo,Acasuso_Jose,Canas_Guillermo,
 Swiss_Indoors_Basel,2,2007,10,28,1,Ginepri_Robby,Nieminen_Jarkko,Nieminen_Jarkko,Swiss_Indoors_Basel,2007,10,28,3-6_6-4_7-5
 Swiss_Indoors_Basel,2,2007,10,28,1,Reister_Julian,Karanusic_Roko,Karanusic_Roko,Swiss_Indoors_Basel,2007,10,28,6-0_6-3
 Swiss_Indoors_Basel,2,2007,10,28,1,Haehnel_Jerome,Gonzalez_Fernando,Gonzalez_Fernando,Swiss_Indoors_Basel,2007,10,28,7-6(5)_6-4
-Swiss_Indoors_Basel,2,2007,10,28,2,Federer_Roger,Del_PotroJuanMartin,Federer_Roger,Swiss_Indoors_Basel,2007,10,28,6-1_6-4
+Swiss_Indoors_Basel,2,2007,10,28,2,Federer_Roger,Del_Potro_Juan_Martin,Federer_Roger,Swiss_Indoors_Basel,2007,10,28,6-1_6-4
 Swiss_Indoors_Basel,2,2007,10,28,2,Kiefer_Nicolas,Koubek_Stefan,Kiefer_Nicolas,Swiss_Indoors_Basel,2007,10,28,6-3_6-2
 Swiss_Indoors_Basel,2,2007,10,28,2,Blake_James,Karlovic_Ivo,Karlovic_Ivo,Swiss_Indoors_Basel,2007,10,28,4-6_7-6(4)_6-4
 Swiss_Indoors_Basel,2,2007,10,28,2,Wawrinka_Stan,Berdych_Tomas,Berdych_Tomas,Swiss_Indoors_Basel,2007,10,28,7-5_6-4

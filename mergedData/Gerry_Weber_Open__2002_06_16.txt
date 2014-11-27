@@ -5,7 +5,7 @@ Gerry_Weber_Open_,2,2002,06,16,1,Schuettler_Rainer,Novak_Jiri,Schuettler_Rainer,
 Gerry_Weber_Open_,2,2002,06,16,1,Johansson_Thomas,Pretzsch_Axel,Johansson_Thomas,Gerry_Weber_Open_,2002,06,16,7-6(4)_6-0
 Gerry_Weber_Open_,2,2002,06,16,1,Ljubicic_Ivan,Sanguinetti_Davide,Ljubicic_Ivan,Gerry_Weber_Open_,2002,06,16,5-7_7-6(5)_6-2
 Gerry_Weber_Open_,2,2002,06,16,1,Arazi_Hicham,Carlsen_Kenneth,Carlsen_Kenneth,Gerry_Weber_Open_,2002,06,16,6-1_4-6_6-1
-Gerry_Weber_Open_,2,2002,06,16,1,Kratochvil_Michel,El_AynaouiYounes,Kratochvil_Michel,Gerry_Weber_Open_,2002,06,16,6-2_6-4
+Gerry_Weber_Open_,2,2002,06,16,1,Kratochvil_Michel,El_Aynaoui_Younes,Kratochvil_Michel,Gerry_Weber_Open_,2002,06,16,6-2_6-4
 Gerry_Weber_Open_,2,2002,06,16,1,Moya_Carlos,Koubek_Stefan,Koubek_Stefan,Gerry_Weber_Open_,2002,06,16,6-3_6-3
 Gerry_Weber_Open_,2,2002,06,16,1,Popp_Alexander,Sabau_Razvan,Popp_Alexander,Gerry_Weber_Open_,2002,06,16,7-5_6-3
 Gerry_Weber_Open_,2,2002,06,16,1,Burgsmuller_Lars,Kiefer_Nicolas,Kiefer_Nicolas,Gerry_Weber_Open_,2002,06,16,6-2_6-2

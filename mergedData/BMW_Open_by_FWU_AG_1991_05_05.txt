@@ -1,6 +1,6 @@
 BMW_Open_by_FWU_AG,2,1991,05,05,1,Lendl_Ivan,Mronz_Alexander,Lendl_Ivan,BMW_Open_by_FWU_AG,1991,05,05,6-2_6-2
 BMW_Open_by_FWU_AG,2,1991,05,05,1,Woodforde_Mark,Prpic_Goran,Prpic_Goran,BMW_Open_by_FWU_AG,1991,05,05,6-3_6-2
-BMW_Open_by_FWU_AG,2,1991,05,05,1,Bengoechea_Eduardo,De_LaPenaHoracio,Bengoechea_Eduardo,BMW_Open_by_FWU_AG,1991,05,05,4-6_7-5_6-1
+BMW_Open_by_FWU_AG,2,1991,05,05,1,Bengoechea_Eduardo,De_La_Pena_Horacio,Bengoechea_Eduardo,BMW_Open_by_FWU_AG,1991,05,05,4-6_7-5_6-1
 BMW_Open_by_FWU_AG,2,1991,05,05,1,Witsken_Todd,Volkov_Alexander,Witsken_Todd,BMW_Open_by_FWU_AG,1991,05,05,1-6_7-5_6-1
 BMW_Open_by_FWU_AG,2,1991,05,05,1,Svensson_Jonas,Jarryd_Anders,Jarryd_Anders,BMW_Open_by_FWU_AG,1991,05,05,6-4_6-1
 BMW_Open_by_FWU_AG,2,1991,05,05,1,Mancini_Alberto,Riglewski_Udo,Riglewski_Udo,BMW_Open_by_FWU_AG,1991,05,05,6-4_6-3

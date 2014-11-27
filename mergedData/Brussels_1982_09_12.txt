@@ -3,7 +3,7 @@ Brussels,2,1982,09,12,1,Soares_Joao,Boileau_Bernard,Boileau_Bernard,Brussels,198
 Brussels,2,1982,09,12,1,Dupre_Pat,Bourne_Lloyd,Bourne_Lloyd,Brussels,1982,09,12,3-6_7-6_6-3
 Brussels,2,1982,09,12,1,Gandolfo_Mike,Glickstein_Shlomo,Glickstein_Shlomo,Brussels,1982,09,12,2-6_7-6_6-3
 Brussels,2,1982,09,12,1,Teacher_Brian,Doyle_Matt,Teacher_Brian,Brussels,1982,09,12,6-3_3-6_6-3
-Brussels,2,1982,09,12,1,Iskersky_Erick,Giammalva_JrSammy,Iskersky_Erick,Brussels,1982,09,12,7-6_6-3
+Brussels,2,1982,09,12,1,Iskersky_Erick,Giammalva_Jr_Sammy,Iskersky_Erick,Brussels,1982,09,12,7-6_6-3
 Brussels,2,1982,09,12,1,Saviano_Nick,Theissen_Harald,Theissen_Harald,Brussels,1982,09,12,7-5_6-4
 Brussels,2,1982,09,12,1,Wilander_Mats,Manson_Bruce,Wilander_Mats,Brussels,1982,09,12,6-4_6-1
 Brussels,2,1982,09,12,1,Mayotte_Tim,Stevaux_Thierry,Mayotte_Tim,Brussels,1982,09,12,6-2_6-4

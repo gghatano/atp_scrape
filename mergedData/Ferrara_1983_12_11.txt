@@ -4,7 +4,7 @@ Ferrara,2,1983,12,11,1,Colombo_Simone,Walts_Butch,Walts_Butch,Ferrara,1983,12,11
 Ferrara,2,1983,12,11,1,Birner_Stanislav,Martinez_Mario,Birner_Stanislav,Ferrara,1983,12,11,5-7_6-2_7-6
 Ferrara,2,1983,12,11,1,Brown_Jimmy,Goven_Georges,Brown_Jimmy,Ferrara,1983,12,11,6-2_6-3
 Ferrara,2,1983,12,11,1,Rinaldini_Gianluca,Hlasek_Jakob,Hlasek_Jakob,Ferrara,1983,12,11,6-2_5-7_6-1
-Ferrara,2,1983,12,11,1,Van_PattenVincent,Servelle_Francois,Van_PattenVincent,Ferrara,1983,12,11,6-0_6-2
+Ferrara,2,1983,12,11,1,Van_Patten_Vincent,Servelle_Francois,Van_Patten_Vincent,Ferrara,1983,12,11,6-0_6-2
 Ferrara,2,1983,12,11,1,Fritz_Bernard,Slozil_Pavel,Slozil_Pavel,Ferrara,1983,12,11,6-3_6-0
 Ferrara,2,1983,12,11,1,Cancellotti_Francesco,Gandolfo_Mike,Gandolfo_Mike,Ferrara,1983,12,11,6-5_RET
 Ferrara,2,1983,12,11,1,Kandler_HansPeter,Brawley_Sean,Brawley_Sean,Ferrara,1983,12,11,7-6_6-2
@@ -17,7 +17,7 @@ Ferrara,2,1983,12,11,1,Fioroni_Michele,Pimek_Libor,Pimek_Libor,Ferrara,1983,12,1
 Ferrara,2,1983,12,11,2,Pfister_Henry,Mitton_Bernard,Mitton_Bernard,Ferrara,1983,12,11,6-4_6-4
 Ferrara,2,1983,12,11,2,Walts_Butch,Birner_Stanislav,Walts_Butch,Ferrara,1983,12,11,6-7_6-1_6-2
 Ferrara,2,1983,12,11,2,Brown_Jimmy,Hlasek_Jakob,Hlasek_Jakob,Ferrara,1983,12,11,7-6_7-6
-Ferrara,2,1983,12,11,2,Van_PattenVincent,Slozil_Pavel,Slozil_Pavel,Ferrara,1983,12,11,6-4_1-6_6-4
+Ferrara,2,1983,12,11,2,Van_Patten_Vincent,Slozil_Pavel,Slozil_Pavel,Ferrara,1983,12,11,6-4_1-6_6-4
 Ferrara,2,1983,12,11,2,Gandolfo_Mike,Brawley_Sean,Brawley_Sean,Ferrara,1983,12,11,6-3_7-6
 Ferrara,2,1983,12,11,2,Cane_Paolo,Sadri_John,Sadri_John,Ferrara,1983,12,11,4-6_6-1_6-2
 Ferrara,2,1983,12,11,2,Hogstedt_Thomas,Granat_Jiri,Hogstedt_Thomas,Ferrara,1983,12,11,6-3_6-2

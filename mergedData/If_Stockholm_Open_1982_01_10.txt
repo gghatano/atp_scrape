@@ -19,7 +19,7 @@ If_Stockholm_Open,2,1982,01,10,1,Birner_Stanislav,Wilander_Mats,Wilander_Mats,If
 If_Stockholm_Open,2,1982,01,10,1,Giammalva_Tony,Meyer_Rick,Giammalva_Tony,If_Stockholm_Open,1982,01,10,6-3_6-2
 If_Stockholm_Open,2,1982,01,10,1,Leeds_Cary,Mayotte_Tim,Mayotte_Tim,If_Stockholm_Open,1982,01,10,7-5_6-4
 If_Stockholm_Open,2,1982,01,10,1,Buehning_Fritz,Wilkison_Tim,Buehning_Fritz,If_Stockholm_Open,1982,01,10,6-2_6-3
-If_Stockholm_Open,2,1982,01,10,1,Simonsson_Stefan,Giammalva_JrSammy,Giammalva_JrSammy,If_Stockholm_Open,1982,01,10,7-5_1-6_6-1
+If_Stockholm_Open,2,1982,01,10,1,Simonsson_Stefan,Giammalva_Jr_Sammy,Giammalva_Jr_Sammy,If_Stockholm_Open,1982,01,10,7-5_1-6_6-1
 If_Stockholm_Open,2,1982,01,10,1,Tulasne_Thierry,Jarryd_Anders,Jarryd_Anders,If_Stockholm_Open,1982,01,10,6-4_6-3
 If_Stockholm_Open,2,1982,01,10,1,Fleming_Peter,Mayer_Gene,Mayer_Gene,If_Stockholm_Open,1982,01,10,6-4_6-1
 If_Stockholm_Open,2,1982,01,10,1,Gottfried_Brian,Siegler_Dave,Gottfried_Brian,If_Stockholm_Open,1982,01,10,6-1_6-2
@@ -40,7 +40,7 @@ If_Stockholm_Open,2,1982,01,10,2,Kirmayr_Carlos,Beutel_HansDieter,Beutel_HansDie
 If_Stockholm_Open,2,1982,01,10,2,Elter_Peter,Kriek_Johan,Elter_Peter,If_Stockholm_Open,1982,01,10,7-6_6-2
 If_Stockholm_Open,2,1982,01,10,2,Smith_Stan,Wilander_Mats,Wilander_Mats,If_Stockholm_Open,1982,01,10,7-6_6-2
 If_Stockholm_Open,2,1982,01,10,2,Giammalva_Tony,Mayotte_Tim,Mayotte_Tim,If_Stockholm_Open,1982,01,10,6-3_6-1
-If_Stockholm_Open,2,1982,01,10,2,Buehning_Fritz,Giammalva_JrSammy,Buehning_Fritz,If_Stockholm_Open,1982,01,10,7-6_6-4
+If_Stockholm_Open,2,1982,01,10,2,Buehning_Fritz,Giammalva_Jr_Sammy,Buehning_Fritz,If_Stockholm_Open,1982,01,10,7-6_6-4
 If_Stockholm_Open,2,1982,01,10,2,Jarryd_Anders,Mayer_Gene,Mayer_Gene,If_Stockholm_Open,1982,01,10,6-1_6-2
 If_Stockholm_Open,2,1982,01,10,2,Gottfried_Brian,Pfister_Henry,Pfister_Henry,If_Stockholm_Open,1982,01,10,6-3_1-6_6-2
 If_Stockholm_Open,2,1982,01,10,2,Gullikson_Tom,Gehring_Rolf,Gullikson_Tom,If_Stockholm_Open,1982,01,10,4-6_6-4_6-3

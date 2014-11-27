@@ -6,7 +6,7 @@ Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Simon_Gilles,Ghareeb_Mohamma
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Gabashvili_Teymuraz,Recouderc_Laurent,Gabashvili_Teymuraz,Dubai_Duty_Free_Tennis_Championships,2009,03,01,5-7_7-6(4)_6-3
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Hanescu_Victor,Santoro_Fabrice,Santoro_Fabrice,Dubai_Duty_Free_Tennis_Championships,2009,03,01,6-4_6-2
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Chiudinelli_Marco,Karlovic_Ivo,Chiudinelli_Marco,Dubai_Duty_Free_Tennis_Championships,2009,03,01,7-6(4)_4-6_7-6(7)
-Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Andreev_Igor,De_VoestRik,Andreev_Igor,Dubai_Duty_Free_Tennis_Championships,2009,03,01,6-4_6-0
+Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Andreev_Igor,De_Voest_Rik,Andreev_Igor,Dubai_Duty_Free_Tennis_Championships,2009,03,01,6-4_6-0
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Tursunov_Dmitry,Seppi_Andreas,Tursunov_Dmitry,Dubai_Duty_Free_Tennis_Championships,2009,03,01,6-1_6-4
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Kohlschreiber_Philipp,Lammer_Michael,Kohlschreiber_Philipp,Dubai_Duty_Free_Tennis_Championships,2009,03,01,6-1_6-1
 Dubai_Duty_Free_Tennis_Championships,2,2009,03,01,1,Ljubicic_Ivan,Ferrer_David,Ferrer_David,Dubai_Duty_Free_Tennis_Championships,2009,03,01,3-6_6-2_6-1

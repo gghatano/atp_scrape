@@ -9,7 +9,7 @@ Open_Sud_de_France,2,1996,10,06,1,Stoltenberg_Jason,Enqvist_Thomas,Enqvist_Thoma
 Open_Sud_de_France,2,1996,10,06,1,Pioline_Cedric,Siemerink_Jan,Siemerink_Jan,Open_Sud_de_France,1996,10,06,7-6(4)_7-5
 Open_Sud_de_France,2,1996,10,06,1,Henman_Tim,Forget_Guy,Henman_Tim,Open_Sud_de_France,1996,10,06,6-4_6-2
 Open_Sud_de_France,2,1996,10,06,1,Kucera_Karol,Bjorkman_Jonas,Kucera_Karol,Open_Sud_de_France,1996,10,06,6-3_1-6_6-1
-Open_Sud_de_France,2,1996,10,06,1,El_AynaouiYounes,Ferreira_Wayne,El_AynaouiYounes,Open_Sud_de_France,1996,10,06,5-7_6-4_6-4
+Open_Sud_de_France,2,1996,10,06,1,El_Aynaoui_Younes,Ferreira_Wayne,El_Aynaoui_Younes,Open_Sud_de_France,1996,10,06,5-7_6-4_6-4
 Open_Sud_de_France,2,1996,10,06,1,Stich_Michael,Hlasek_Jakob,Stich_Michael,Open_Sud_de_France,1996,10,06,7-6(4)_6-3
 Open_Sud_de_France,2,1996,10,06,1,Gustafsson_Magnus,Reneberg_Richey,Gustafsson_Magnus,Open_Sud_de_France,1996,10,06,7-5_6-2
 Open_Sud_de_France,2,1996,10,06,1,Rosset_Marc,Korda_Petr,Korda_Petr,Open_Sud_de_France,1996,10,06,4-6_7-6(3)_6-3
@@ -19,7 +19,7 @@ Open_Sud_de_France,2,1996,10,06,2,Boetsch_Arnaud,Chesnokov_Andrei,Boetsch_Arnaud
 Open_Sud_de_France,2,1996,10,06,2,Rios_Marcelo,Tillstrom_Mikael,Rios_Marcelo,Open_Sud_de_France,1996,10,06,6-3_6-1
 Open_Sud_de_France,2,1996,10,06,2,Pozzi_Gianluca,Enqvist_Thomas,Enqvist_Thomas,Open_Sud_de_France,1996,10,06,6-3_6-3
 Open_Sud_de_France,2,1996,10,06,2,Siemerink_Jan,Henman_Tim,Henman_Tim,Open_Sud_de_France,1996,10,06,6-7(4)_7-6(3)_7-6(5)
-Open_Sud_de_France,2,1996,10,06,2,Kucera_Karol,El_AynaouiYounes,Kucera_Karol,Open_Sud_de_France,1996,10,06,7-5_6-2
+Open_Sud_de_France,2,1996,10,06,2,Kucera_Karol,El_Aynaoui_Younes,Kucera_Karol,Open_Sud_de_France,1996,10,06,7-5_6-2
 Open_Sud_de_France,2,1996,10,06,2,Stich_Michael,Gustafsson_Magnus,Gustafsson_Magnus,Open_Sud_de_France,1996,10,06,6-3_6-7(9)_6-2
 Open_Sud_de_France,2,1996,10,06,2,Korda_Petr,Kafelnikov_Yevgeny,Kafelnikov_Yevgeny,Open_Sud_de_France,1996,10,06,6-4_6-3
 Open_Sud_de_France,2,1996,10,06,3,Roux_Lionel,Boetsch_Arnaud,Boetsch_Arnaud,Open_Sud_de_France,1996,10,06,6-3_6-1

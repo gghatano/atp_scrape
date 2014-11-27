@@ -6,7 +6,7 @@ U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Querrey_Sam,Falla_Aleja
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Soeda_Go,Matosevic_Marinko,Matosevic_Marinko,U.S._National_Indoor_Tennis_Championships,2013,02,24,7-6(6)_6-4
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Johnson_Steve,Williams_Rhyne,Williams_Rhyne,U.S._National_Indoor_Tennis_Championships,2013,02,24,7-6(4)_6-4
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Phau_Bjorn,Dolgopolov_Alexandr,Dolgopolov_Alexandr,U.S._National_Indoor_Tennis_Championships,2013,02,24,6-3_6-4
-U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Bogomolov_JrAlex,Russell_Michael,Russell_Michael,U.S._National_Indoor_Tennis_Championships,2013,02,24,6-2_6-4
+U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Bogomolov_Jr_Alex,Russell_Michael,Russell_Michael,U.S._National_Indoor_Tennis_Championships,2013,02,24,6-2_6-4
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Harrison_Ryan,Kubot_Lukasz,Kubot_Lukasz,U.S._National_Indoor_Tennis_Championships,2013,02,24,6-4_6-7(4)_7-6(2)
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Lu_YenHsun,Hewitt_Lleyton,Hewitt_Lleyton,U.S._National_Indoor_Tennis_Championships,2013,02,24,2-6_7-6(3)_6-4
 U.S._National_Indoor_Tennis_Championships,2,2013,02,24,1,Istomin_Denis,Isner_John,Istomin_Denis,U.S._National_Indoor_Tennis_Championships,2013,02,24,6-4_6-3

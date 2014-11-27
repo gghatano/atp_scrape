@@ -7,7 +7,7 @@ Aegon_International,2,1994,06,19,1,Henman_Tim,OBrien_Alex,OBrien_Alex,Aegon_Inte
 Aegon_International,2,1994,06,19,1,Kronemann_Trevor,Carlsen_Kenneth,Carlsen_Kenneth,Aegon_International,1994,06,19,6-4_6-2
 Aegon_International,2,1994,06,19,1,Antonitsch_Alex,Stoltenberg_Jason,Stoltenberg_Jason,Aegon_International,1994,06,19,7-6(3)_0-6_6-2
 Aegon_International,2,1994,06,19,1,Pescosolido_Stefano,Bryan_Steve,Bryan_Steve,Aegon_International,1994,06,19,4-6_6-3_6-1
-Aegon_International,2,1994,06,19,1,Van_RensburgChristo,Petchey_Mark,Petchey_Mark,Aegon_International,1994,06,19,6-0_2-6_7-5
+Aegon_International,2,1994,06,19,1,Van_Rensburg_Christo,Petchey_Mark,Petchey_Mark,Aegon_International,1994,06,19,6-0_2-6_7-5
 Aegon_International,2,1994,06,19,1,Novacek_Karel,Stafford_Grant,Novacek_Karel,Aegon_International,1994,06,19,6-3_6-2
 Aegon_International,2,1994,06,19,1,Steven_Brett,Washington_MaliVai,Washington_MaliVai,Aegon_International,1994,06,19,6-1_6-2
 Aegon_International,2,1994,06,19,1,Eltingh_Jacco,Black_Byron,Eltingh_Jacco,Aegon_International,1994,06,19,7-6(5)_6-2

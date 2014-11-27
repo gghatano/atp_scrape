@@ -1,6 +1,6 @@
 Palermo,2,2000,10,01,1,Puerta_Mariano,Stanoytchev_Orlin,Puerta_Mariano,Palermo,2000,10,01,6-1_6-3
 Palermo,2,2000,10,01,1,Elsner_Daniel,Sanchez_David,Sanchez_David,Palermo,2000,10,01,6-3_6-1
-Palermo,2,2000,10,01,1,Marin_JuanAntonio,Rochus_Olivier,Rochus_Olivier,Palermo,2000,10,01,4-6_6-1_6-1
+Palermo,2,2000,10,01,1,Marin_Juan_Antonio,Rochus_Olivier,Rochus_Olivier,Palermo,2000,10,01,4-6_6-1_6-1
 Palermo,2,2000,10,01,1,Trimmel_Clemens,Calatrava_Alex,Calatrava_Alex,Palermo,2000,10,01,6-2_6-2
 Palermo,2,2000,10,01,1,Prieto_Sebastian,Blanco_Galo,Blanco_Galo,Palermo,2000,10,01,6-2_2-6_7-6(5)
 Palermo,2,2000,10,01,1,Charpentier_Marcelo,Rochus_Christophe,Rochus_Christophe,Palermo,2000,10,01,6-3_3-6_6-2
@@ -11,7 +11,7 @@ Palermo,2,2000,10,01,1,Hood_Mariano,Hantschk_Markus,Hantschk_Markus,Palermo,2000
 Palermo,2,2000,10,01,1,Nargiso_Diego,Voinea_Adrian,Nargiso_Diego,Palermo,2000,10,01,7-6(0)_6-0
 Palermo,2,2000,10,01,1,Youzhny_Mikhail,Clavet_Francisco,Clavet_Francisco,Palermo,2000,10,01,6-2_6-4
 Palermo,2,2000,10,01,1,Portas_Albert,Gaudenzi_Andrea,Portas_Albert,Palermo,2000,10,01,6-2_6-1
-Palermo,2,2000,10,01,1,Bruguera_Sergi,Benfele_AlvarezEmilio,Bruguera_Sergi,Palermo,2000,10,01,5-7_6-3_6-4
+Palermo,2,2000,10,01,1,Bruguera_Sergi,Benfele_Alvarez_Emilio,Bruguera_Sergi,Palermo,2000,10,01,5-7_6-3_6-4
 Palermo,2,2000,10,01,1,Tarallo_Stefano,Luzzi_Federico,Tarallo_Stefano,Palermo,2000,10,01,6-4_6-2
 Palermo,2,2000,10,01,1,Huet_Stephane,Vicente_Fernando,Huet_Stephane,Palermo,2000,10,01,6-3_6-1
 Palermo,2,2000,10,01,2,Puerta_Mariano,Sanchez_David,Sanchez_David,Palermo,2000,10,01,6-2_RET

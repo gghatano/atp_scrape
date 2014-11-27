@@ -13,7 +13,7 @@ Nice,2,1983,05,15,1,Panatta_Claudio,Arraya_Pablo,Arraya_Pablo,Nice,1983,05,15,6-
 Nice,2,1983,05,15,1,Orantes_Manuel,Krishnan_Ramesh,Orantes_Manuel,Nice,1983,05,15,6-3_6-3
 Nice,2,1983,05,15,1,Aguilera_Juan,Manson_Bruce,Aguilera_Juan,Nice,1983,05,15,6-2_6-3
 Nice,2,1983,05,15,1,Tulasne_Thierry,Tous_Alberto,Tulasne_Thierry,Nice,1983,05,15,7-6_1-6_7-5
-Nice,2,1983,05,15,1,Velasco_SrJairo,Leconte_Henri,Leconte_Henri,Nice,1983,05,15,6-4_7-6
+Nice,2,1983,05,15,1,Velasco_Sr_Jairo,Leconte_Henri,Leconte_Henri,Nice,1983,05,15,6-4_7-6
 Nice,2,1983,05,15,2,Arias_Jimmy,Casa_Christophe,Casa_Christophe,Nice,1983,05,15,5-7_7-5_6-4
 Nice,2,1983,05,15,2,Moretton_Gilles,Martinez_Mario,Martinez_Mario,Nice,1983,05,15,7-6_6-1
 Nice,2,1983,05,15,2,Sundstrom_Henrik,Nastase_Ilie,Sundstrom_Henrik,Nice,1983,05,15,6-3_6-4

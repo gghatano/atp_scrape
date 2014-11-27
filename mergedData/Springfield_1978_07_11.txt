@@ -6,13 +6,13 @@ Springfield,2,1978,07,11,1,Lutz_Robert,Masters_Geoff,Lutz_Robert,Springfield,197
 Springfield,2,1978,07,11,1,Zednik_Vladimir,Andrew_Jorge,Andrew_Jorge,Springfield,1978,07,11,3-6_7-6_6-4
 Springfield,2,1978,07,11,1,Hrebec_Jiri,Smid_Tomas,Smid_Tomas,Springfield,1978,07,11,6-3_6-4
 Springfield,2,1978,07,11,1,McNamee_Paul,Norback_Jan,McNamee_Paul,Springfield,1978,07,11,6-3_6-2
-Springfield,2,1978,07,11,1,Gunthardt_Heinz,Van_DillenErik,Gunthardt_Heinz,Springfield,1978,07,11,3-6_6-3_7-6
+Springfield,2,1978,07,11,1,Gunthardt_Heinz,Van_Dillen_Erik,Gunthardt_Heinz,Springfield,1978,07,11,3-6_6-3_7-6
 Springfield,2,1978,07,11,1,Richardson_Keith,Teacher_Brian,Teacher_Brian,Springfield,1978,07,11,7-6_6-4
 Springfield,2,1978,07,11,1,Dupre_Pat,Case_Ross,Case_Ross,Springfield,1978,07,11,6-4_2-6_6-3
 Springfield,2,1978,07,11,1,Pattison_Andrew,Kodes_Jan,Kodes_Jan,Springfield,1978,07,11,6-1_3-0_RET
 Springfield,2,1978,07,11,1,Docherty_Steve,Yuill_John,Yuill_John,Springfield,1978,07,11,7-5_7-5
 Springfield,2,1978,07,11,1,Bertram_Byron,Fishbach_Mike,Bertram_Byron,Springfield,1978,07,11,6-3_7-5
-Springfield,2,1978,07,11,1,El_ShafeiIsmail,Taylor_Roger,Taylor_Roger,Springfield,1978,07,11,6-3_7-5
+Springfield,2,1978,07,11,1,El_Shafei_Ismail,Taylor_Roger,Taylor_Roger,Springfield,1978,07,11,6-3_7-5
 Springfield,2,1978,07,11,1,Richey_Cliff,Smith_Stan,Smith_Stan,Springfield,1978,07,11,6-3_6-4
 Springfield,2,1978,07,11,2,Solomon_Harold,Mitton_Bernard,Solomon_Harold,Springfield,1978,07,11,6-1_2-6_6-3
 Springfield,2,1978,07,11,2,Riessen_Marty,Fillol_Alvaro,Riessen_Marty,Springfield,1978,07,11,6-2_4-6_6-4

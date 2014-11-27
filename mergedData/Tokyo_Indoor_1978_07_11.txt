@@ -3,7 +3,7 @@ Tokyo_Indoor,2,1978,07,11,1,Teacher_Brian,Borowiak_Jeff,Teacher_Brian,Tokyo_Indo
 Tokyo_Indoor,2,1978,07,11,1,Franulovic_Zeljko,Kamiwazumi_Jun,Franulovic_Zeljko,Tokyo_Indoor,1978,07,11,6-0_6-0
 Tokyo_Indoor,2,1978,07,11,1,Alexander_John,Ashe_Arthur,Ashe_Arthur,Tokyo_Indoor,1978,07,11,7-6_5-7_7-6
 Tokyo_Indoor,2,1978,07,11,1,Gerulaitis_Vitas,Edmondson_Mark,Gerulaitis_Vitas,Tokyo_Indoor,1978,07,11,6-4_6-4
-Tokyo_Indoor,2,1978,07,11,1,Warwick_Kim,Mottram_BusterC,Mottram_BusterC,Tokyo_Indoor,1978,07,11,7-5_6-4
+Tokyo_Indoor,2,1978,07,11,1,Warwick_Kim,Mottram_Buster_C,Mottram_Buster_C,Tokyo_Indoor,1978,07,11,7-5_6-4
 Tokyo_Indoor,2,1978,07,11,1,Saviano_Nick,Dent_Phil,Saviano_Nick,Tokyo_Indoor,1978,07,11,6-3_RET
 Tokyo_Indoor,2,1978,07,11,1,Gorman_Tom,Mayer_Sandy,Mayer_Sandy,Tokyo_Indoor,1978,07,11,7-5_6-4
 Tokyo_Indoor,2,1978,07,11,1,Nastase_Ilie,Fukui_Tsuyoshi,Nastase_Ilie,Tokyo_Indoor,1978,07,11,6-1_6-4
@@ -16,7 +16,7 @@ Tokyo_Indoor,2,1978,07,11,1,Stockton_Dick,Pfister_Henry,Pfister_Henry,Tokyo_Indo
 Tokyo_Indoor,2,1978,07,11,1,Dupre_Pat,Borg_Bjorn,Borg_Bjorn,Tokyo_Indoor,1978,07,11,6-1_6-0
 Tokyo_Indoor,2,1978,07,11,2,Connors_Jimmy,Teacher_Brian,Teacher_Brian,Tokyo_Indoor,1978,07,11,4-6_6-4_6-3
 Tokyo_Indoor,2,1978,07,11,2,Franulovic_Zeljko,Ashe_Arthur,Ashe_Arthur,Tokyo_Indoor,1978,07,11,6-4_6-3
-Tokyo_Indoor,2,1978,07,11,2,Gerulaitis_Vitas,Mottram_BusterC,Gerulaitis_Vitas,Tokyo_Indoor,1978,07,11,7-5_6-3
+Tokyo_Indoor,2,1978,07,11,2,Gerulaitis_Vitas,Mottram_Buster_C,Gerulaitis_Vitas,Tokyo_Indoor,1978,07,11,7-5_6-3
 Tokyo_Indoor,2,1978,07,11,2,Saviano_Nick,Mayer_Sandy,Mayer_Sandy,Tokyo_Indoor,1978,07,11,7-5_7-6
 Tokyo_Indoor,2,1978,07,11,2,Nastase_Ilie,Moor_Terry,Nastase_Ilie,Tokyo_Indoor,1978,07,11,6-4_6-3
 Tokyo_Indoor,2,1978,07,11,2,Gullikson_Tim,Dibbs_Eddie,Dibbs_Eddie,Tokyo_Indoor,1978,07,11,6-7_6-3_6-1

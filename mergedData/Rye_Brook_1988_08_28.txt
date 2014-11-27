@@ -6,7 +6,7 @@ Rye_Brook,2,1988,08,28,1,Srejber_Milan,Muller_Gary,Srejber_Milan,Rye_Brook,1988,
 Rye_Brook,2,1988,08,28,1,Pimek_Libor,Svantesson_Tobias,Pimek_Libor,Rye_Brook,1988,08,28,7-5_7-6
 Rye_Brook,2,1988,08,28,1,Davis_Marty,Wilkison_Tim,Wilkison_Tim,Rye_Brook,1988,08,28,6-4_7-6
 Rye_Brook,2,1988,08,28,1,Ross_John,Olhovskiy_Andrei,Olhovskiy_Andrei,Rye_Brook,1988,08,28,7-6_6-4
-Rye_Brook,2,1988,08,28,1,De_LaPenaHoracio,Matsuoka_Shuzo,De_LaPenaHoracio,Rye_Brook,1988,08,28,7-6_7-6
+Rye_Brook,2,1988,08,28,1,De_La_Pena_Horacio,Matsuoka_Shuzo,De_La_Pena_Horacio,Rye_Brook,1988,08,28,7-6_7-6
 Rye_Brook,2,1988,08,28,1,Masso_Eduardo,Carbonell_Tomas,Masso_Eduardo,Rye_Brook,1988,08,28,6-3_7-5
 Rye_Brook,2,1988,08,28,1,Bloom_Gilad,Sanchez_Javier,Sanchez_Javier,Rye_Brook,1988,08,28,6-7_7-6_6-4
 Rye_Brook,2,1988,08,28,1,Youl_Simon,Jelen_Eric,Youl_Simon,Rye_Brook,1988,08,28,6-2_4-6_6-0
@@ -18,14 +18,14 @@ Rye_Brook,2,1988,08,28,2,Sampras_Pete,Bates_Jeremy,Bates_Jeremy,Rye_Brook,1988,0
 Rye_Brook,2,1988,08,28,2,Nargiso_Diego,Frana_Javier,Nargiso_Diego,Rye_Brook,1988,08,28,7-6_4-6_6-2
 Rye_Brook,2,1988,08,28,2,Srejber_Milan,Pimek_Libor,Srejber_Milan,Rye_Brook,1988,08,28,6-4_6-1
 Rye_Brook,2,1988,08,28,2,Wilkison_Tim,Olhovskiy_Andrei,Wilkison_Tim,Rye_Brook,1988,08,28,6-1_6-0
-Rye_Brook,2,1988,08,28,2,De_LaPenaHoracio,Masso_Eduardo,De_LaPenaHoracio,Rye_Brook,1988,08,28,6-1_5-7_6-2
+Rye_Brook,2,1988,08,28,2,De_La_Pena_Horacio,Masso_Eduardo,De_La_Pena_Horacio,Rye_Brook,1988,08,28,6-1_5-7_6-2
 Rye_Brook,2,1988,08,28,2,Sanchez_Javier,Youl_Simon,Youl_Simon,Rye_Brook,1988,08,28,6-3_6-3
 Rye_Brook,2,1988,08,28,2,Kures_Michael,Stoltenberg_Jason,Stoltenberg_Jason,Rye_Brook,1988,08,28,6-4_7-6
 Rye_Brook,2,1988,08,28,2,Ho_Tommy,Krishnan_Ramesh,Krishnan_Ramesh,Rye_Brook,1988,08,28,6-2_6-1
 Rye_Brook,2,1988,08,28,3,Bates_Jeremy,Nargiso_Diego,Nargiso_Diego,Rye_Brook,1988,08,28,6-3_2-6_6-3
 Rye_Brook,2,1988,08,28,3,Srejber_Milan,Wilkison_Tim,Srejber_Milan,Rye_Brook,1988,08,28,6-2_6-2
-Rye_Brook,2,1988,08,28,3,De_LaPenaHoracio,Youl_Simon,De_LaPenaHoracio,Rye_Brook,1988,08,28,6-3_5-7_6-1
+Rye_Brook,2,1988,08,28,3,De_La_Pena_Horacio,Youl_Simon,De_La_Pena_Horacio,Rye_Brook,1988,08,28,6-3_5-7_6-1
 Rye_Brook,2,1988,08,28,3,Stoltenberg_Jason,Krishnan_Ramesh,Krishnan_Ramesh,Rye_Brook,1988,08,28,6-1_7-6
 Rye_Brook,2,1988,08,28,4,Nargiso_Diego,Srejber_Milan,Srejber_Milan,Rye_Brook,1988,08,28,6-3_6-2
-Rye_Brook,2,1988,08,28,4,De_LaPenaHoracio,Krishnan_Ramesh,Krishnan_Ramesh,Rye_Brook,1988,08,28,5-7_6-3_6-4
+Rye_Brook,2,1988,08,28,4,De_La_Pena_Horacio,Krishnan_Ramesh,Krishnan_Ramesh,Rye_Brook,1988,08,28,5-7_6-3_6-4
 Rye_Brook,2,1988,08,28,5,Srejber_Milan,Krishnan_Ramesh,Srejber_Milan,Rye_Brook,1988,08,28,6-2_7-6

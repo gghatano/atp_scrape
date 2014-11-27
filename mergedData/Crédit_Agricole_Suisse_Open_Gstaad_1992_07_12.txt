@@ -1,4 +1,4 @@
-Crédit_Agricole_Suisse_Open_Gstaad,2,1992,07,12,1,Korda_Petr,De_LaPenaHoracio,Korda_Petr,Crédit_Agricole_Suisse_Open_Gstaad,1992,07,12,4-6_6-0_6-2
+Crédit_Agricole_Suisse_Open_Gstaad,2,1992,07,12,1,Korda_Petr,De_La_Pena_Horacio,Korda_Petr,Crédit_Agricole_Suisse_Open_Gstaad,1992,07,12,4-6_6-0_6-2
 Crédit_Agricole_Suisse_Open_Gstaad,2,1992,07,12,1,Santoro_Fabrice,Rosset_Marc,Santoro_Fabrice,Crédit_Agricole_Suisse_Open_Gstaad,1992,07,12,6-4_4-6_7-5
 Crédit_Agricole_Suisse_Open_Gstaad,2,1992,07,12,1,Cherkasov_Andrei,Steeb_CarlUwe,Cherkasov_Andrei,Crédit_Agricole_Suisse_Open_Gstaad,1992,07,12,7-6(5)_3-6_6-3
 Crédit_Agricole_Suisse_Open_Gstaad,2,1992,07,12,1,Skoff_Horst,Novacek_Karel,Novacek_Karel,Crédit_Agricole_Suisse_Open_Gstaad,1992,07,12,6-3_6-4

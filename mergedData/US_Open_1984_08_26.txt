@@ -1,7 +1,7 @@
 US_Open,1,1984,08,26,1,McEnroe_John,Dowdeswell_Colin,McEnroe_John,US_Open,1984,08,26,6-1_6-1_6-1
 US_Open,1,1984,08,26,1,Edberg_Stefan,Stefanki_Larry,Edberg_Stefan,US_Open,1984,08,26,6-4_6-3_6-0
 US_Open,1,1984,08,26,1,Curren_Kevin,Purcell_Mel,Curren_Kevin,US_Open,1984,08,26,7-6_3-6_6-3_6-2
-US_Open,1,1984,08,26,1,Moir_Kevin,Giammalva_JrSammy,Moir_Kevin,US_Open,1984,08,26,6-4_6-3_6-3
+US_Open,1,1984,08,26,1,Moir_Kevin,Giammalva_Jr_Sammy,Moir_Kevin,US_Open,1984,08,26,6-4_6-3_6-3
 US_Open,1,1984,08,26,1,Doyle_Matt,Tanner_Roscoe,Doyle_Matt,US_Open,1984,08,26,6-2_6-2_6-4
 US_Open,1,1984,08,26,1,Masur_Wally,Fitzgerald_John,Fitzgerald_John,US_Open,1984,08,26,6-3_6-4_1-6_3-6_7-6
 US_Open,1,1984,08,26,1,Wilkison_Tim,Green_Bob,Green_Bob,US_Open,1984,08,26,6-3_2-6_7-5_7-6
@@ -33,15 +33,15 @@ US_Open,1,1984,08,26,1,Layendecker_Glenn,Kriek_Johan,Kriek_Johan,US_Open,1984,08
 US_Open,1,1984,08,26,1,Krickstein_Aaron,Manson_Bruce,Krickstein_Aaron,US_Open,1984,08,26,3-6_2-6_7-6_6-2_4-0_RET
 US_Open,1,1984,08,26,1,Hayes_John,Klaparda_Jeff,Klaparda_Jeff,US_Open,1984,08,26,6-3_7-6_3-6_6-4
 US_Open,1,1984,08,26,1,Forget_Guy,Holmes_Greg,Holmes_Greg,US_Open,1984,08,26,2-6_6-3_6-4_3-6_7-6
-US_Open,1,1984,08,26,1,Van_PattenVincent,Hogstedt_Thomas,Hogstedt_Thomas,US_Open,1984,08,26,6-4_7-6_7-6
+US_Open,1,1984,08,26,1,Van_Patten_Vincent,Hogstedt_Thomas,Hogstedt_Thomas,US_Open,1984,08,26,6-4_7-6_7-6
 US_Open,1,1984,08,26,1,Saltz_Danny,Nelson_Todd,Nelson_Todd,US_Open,1984,08,26,3-6_6-7_6-4_6-4_6-2
 US_Open,1,1984,08,26,1,Simonsson_Stefan,Harmon_Rodney,Simonsson_Stefan,US_Open,1984,08,26,4-6_6-3_4-6_7-6_6-2
 US_Open,1,1984,08,26,1,Pate_David,Gilbert_Brad,Gilbert_Brad,US_Open,1984,08,26,6-4_6-0_6-2
 US_Open,1,1984,08,26,1,Nastase_Ilie,Cash_Pat,Cash_Pat,US_Open,1984,08,26,6-3_7-5_6-1
 US_Open,1,1984,08,26,1,Teltscher_Eliot,Gunthardt_Heinz,Teltscher_Eliot,US_Open,1984,08,26,7-6_6-2_6-7_6-3
 US_Open,1,1984,08,26,1,Tulasne_Thierry,Dickson_Mark,Dickson_Mark,US_Open,1984,08,26,7-6_7-6_6-4
-US_Open,1,1984,08,26,1,Palin_Leo,Vant_HofRobert,Palin_Leo,US_Open,1984,08,26,6-4_4-6_2-6_6-2_6-3
-US_Open,1,1984,08,26,1,Lewis_NZLChris,Mayotte_Tim,Mayotte_Tim,US_Open,1984,08,26,6-4_6-3_6-1
+US_Open,1,1984,08,26,1,Palin_Leo,Vant_Hof_Robert,Palin_Leo,US_Open,1984,08,26,6-4_4-6_2-6_6-2_6-3
+US_Open,1,1984,08,26,1,Lewis_NZL_Chris,Mayotte_Tim,Mayotte_Tim,US_Open,1984,08,26,6-4_6-3_6-1
 US_Open,1,1984,08,26,1,Davis_Marty,Gurfein_Jim,Davis_Marty,US_Open,1984,08,26,4-6_6-2_6-4_6-1
 US_Open,1,1984,08,26,1,Scanlon_Bill,Willenborg_Blaine,Scanlon_Bill,US_Open,1984,08,26,6-3_6-1_6-3
 US_Open,1,1984,08,26,1,Simonsson_Hans,Kures_Michael,Kures_Michael,US_Open,1984,08,26,7-6_6-4_6-4

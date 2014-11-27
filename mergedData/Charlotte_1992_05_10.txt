@@ -1,8 +1,8 @@
 Charlotte,2,1992,05,10,1,Krickstein_Aaron,Eltingh_Jacco,Krickstein_Aaron,Charlotte,1992,05,10,6-3_6-1
 Charlotte,2,1992,05,10,1,Witsken_Todd,Azar_Roberto,Witsken_Todd,Charlotte,1992,05,10,6-3_6-2
 Charlotte,2,1992,05,10,1,Arias_Jimmy,Tarango_Jeff,Tarango_Jeff,Charlotte,1992,05,10,6-4_6-4
-Charlotte,2,1992,05,10,1,Gorriz_MarcosAurelio,Shelton_Bryan,Gorriz_MarcosAurelio,Charlotte,1992,05,10,6-7(3)_6-4_6-2
-Charlotte,2,1992,05,10,1,Washington_MaliVai,De_LaPenaHoracio,Washington_MaliVai,Charlotte,1992,05,10,6-3_6-1
+Charlotte,2,1992,05,10,1,Gorriz_Marcos_Aurelio,Shelton_Bryan,Gorriz_Marcos_Aurelio,Charlotte,1992,05,10,6-7(3)_6-4_6-2
+Charlotte,2,1992,05,10,1,Washington_MaliVai,De_La_Pena_Horacio,Washington_MaliVai,Charlotte,1992,05,10,6-3_6-1
 Charlotte,2,1992,05,10,1,Garner_Chris,Pistolesi_Claudio,Garner_Chris,Charlotte,1992,05,10,6-4_3-6_7-6(4)
 Charlotte,2,1992,05,10,1,Cane_Paolo,Grabb_Jim,Grabb_Jim,Charlotte,1992,05,10,6-4_4-6_6-3
 Charlotte,2,1992,05,10,1,McEnroe_Patrick,Davin_Franco,Davin_Franco,Charlotte,1992,05,10,6-2_7-6(5)
@@ -15,7 +15,7 @@ Charlotte,2,1992,05,10,1,Masso_Eduardo,Woodforde_Mark,Woodforde_Mark,Charlotte,1
 Charlotte,2,1992,05,10,1,Mattar_Luiz,Stark_Jonathan,Mattar_Luiz,Charlotte,1992,05,10,6-4_6-4
 Charlotte,2,1992,05,10,1,Brown_Jimmy,Wheaton_David,Wheaton_David,Charlotte,1992,05,10,4-6_6-2_7-6(6)
 Charlotte,2,1992,05,10,2,Krickstein_Aaron,Witsken_Todd,Krickstein_Aaron,Charlotte,1992,05,10,6-3_6-1
-Charlotte,2,1992,05,10,2,Tarango_Jeff,Gorriz_MarcosAurelio,Tarango_Jeff,Charlotte,1992,05,10,7-6(4)_6-2
+Charlotte,2,1992,05,10,2,Tarango_Jeff,Gorriz_Marcos_Aurelio,Tarango_Jeff,Charlotte,1992,05,10,7-6(4)_6-2
 Charlotte,2,1992,05,10,2,Washington_MaliVai,Garner_Chris,Washington_MaliVai,Charlotte,1992,05,10,6-3_6-0
 Charlotte,2,1992,05,10,2,Grabb_Jim,Davin_Franco,Davin_Franco,Charlotte,1992,05,10,6-3_4-6_7-6(4)
 Charlotte,2,1992,05,10,2,Mezzadri_Claudio,Martin_Todd,Mezzadri_Claudio,Charlotte,1992,05,10,6-1_6-3
