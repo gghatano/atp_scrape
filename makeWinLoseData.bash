@@ -1,16 +1,15 @@
 #!/bin/bash
 
 dir=$(dirname $0)
-# file=$(ls players | grep BNL | head -n 1)
-file=$1
+file=$(ls players | grep Malaysian_Open | head -n 1)
+
+#file=$1
 pid=$$
 
 # [ $# -ne 1 ] && { echo "Usage: the name of input player_tounament_file." ; exit 0 ; }
 
-title=$(cat $dir/players/$file | head -n 1 | cut -d"," -f 1 | sed "s/\'/_/g")
-# echo $title 
-grade=$(cat $dir/players/$file | head -n 1 | cut -d"," -f 2)
-# echo $grade
+title=$(cat $dir/players/$file | head -n 1 | sed 's/,[0-9]//' | sed 's/,//')
+grade=$(cat $dir/players/$file | head -n 1 | grep -o -E ",[0-9]"| sed 's/,//')
 
 ## get tounament-round-player-relation
 cat $dir/players/$file | 
@@ -47,13 +46,13 @@ tr ',' '\n'  > $dir/tmp/winners.txt.$pid
 # cat $dir/tmp/matches.txt
 # cat $dir/tmp/winners.txt
 
-
-fileName=$(echo $file | sed -e 's/players_//' -e "s/\'/_/")
-echo $fileName
+fileName=$(echo ${title}_${date}.txt | sed 's/,/_/g')
 
 ## make data table 
 ## date-round-player1-player2-winner
 paste -d"," $dir/tmp/matches.txt.$pid $dir/tmp/winners.txt.$pid | 
 awk -F "," '{if(NF>8) print $0}'  > $dir/dataTable/$fileName
+
+cat $dir/dataTable/$fileName
 
 ls $dir/tmp | grep -E "txt.$pid" | sed "s;^;$dir/tmp/;" | xargs rm 
