@@ -45,27 +45,27 @@ dat_win %>%
 ```
 
 ```
-##                PLAYER  WIN GAME WIN_PROB
-## 1       Federer_Roger 1233 1533   0.8043
-## 2       Connors_Jimmy 1194 1478   0.8078
-## 3          Lendl_Ivan 1022 1259   0.8118
-## 4        Agassi_Andre  969 1287   0.7529
-## 5        Nadal_Rafael  965 1151   0.8384
-## 6        Sampras_Pete  848 1105   0.7674
-## 7     Vilas_Guillermo  847 1108   0.7644
-## 8        McEnroe_John  817 1006   0.8121
-## 9       Edberg_Stefan  810 1072   0.7556
-## 10     Djokovic_Novak  786  967   0.8128
-## 11       Roddick_Andy  728  987   0.7376
-## 12       Ferrer_David  726 1099   0.6606
-## 13      Chang_Michael  725 1088   0.6664
-## 14       Becker_Boris  706  946   0.7463
-## 15       Nastase_Ilie  706 1006   0.7018
-## 16     Hewitt_Lleyton  674  974   0.6920
-## 17         Haas_Tommy  670 1085   0.6175
-## 18        Moya_Carlos  666 1057   0.6301
-## 19    Gottfried_Brian  642  946   0.6786
-## 20 Kafelnikov_Yevgeny  629  954   0.6593
+##             PLAYER  WIN GAME WIN_PROB
+## 1    Connors_Jimmy 1184 1461   0.8104
+## 2       Lendl_Ivan  997 1214   0.8213
+## 3    Federer_Roger  920 1129   0.8149
+## 4  Vilas_Guillermo  847 1108   0.7644
+## 5     McEnroe_John  804  982   0.8187
+## 6     Agassi_Andre  788 1034   0.7621
+## 7    Edberg_Stefan  711  938   0.7580
+## 8     Nastase_Ilie  708 1005   0.7045
+## 9     Sampras_Pete  685  876   0.7820
+## 10    Nadal_Rafael  679  809   0.8393
+## 11 Gottfried_Brian  638  941   0.6780
+## 12      Smith_Stan  626  888   0.7050
+## 13    Becker_Boris  619  819   0.7558
+## 14     Ashe_Arthur  612  824   0.7427
+## 15   Chang_Michael  605  892   0.6783
+## 16  Orantes_Manuel  603  834   0.7230
+## 17    Roddick_Andy  572  759   0.7536
+## 18   Tanner_Roscoe  568  836   0.6794
+## 19    Ferrer_David  567  844   0.6718
+## 20  Djokovic_Novak  556  680   0.8176
 ```
 
 ## 上位10人 + 錦織でネットワーク作成
@@ -79,8 +79,10 @@ topplayers =
   dat_win %>% 
   mutate(WIN_PROB = WIN / GAME) %>% 
   arrange(desc(WIN)) %>% 
-  head(10) %>% 
+  head(20) %>% 
   select(PLAYER) %>% unlist
+
+# topplayers
 
 ## 錦織もおまけで入れてあげます
 topplayers = c(topplayers, "Nishikori_Kei")
@@ -108,12 +110,12 @@ mat = dat_win_lose %>%
 ```r
 graph  = graph.adjacency(mat, mode="directed", weighted = TRUE)
 set.seed(1)
-V(graph)$size <- 3
+V(graph)$size <- 5
 V(graph)$color <- NA
 V(graph)$frame.color <- NA
 E(graph)$width = E(graph)$weight / 5
-E(graph)$arrow.size = 0.8
-plot(graph, layout=layout.auto, edge.curved=0.3)
+E(graph)$arrow.size = 0.7
+plot(graph, layout=layout.auto, edge.curved=0.4)
 ```
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
@@ -157,12 +159,12 @@ page.rank(graph)$vector %>% sort(decreasing = TRUE) %>% head(10)
 ```
 
 ```
-## Santoro_Fabrice  Alexander_John  Solomon_Harold     Lutz_Robert 
-##         0.01589         0.01521         0.01378         0.01376 
-## Gottfried_Brian  Bjorkman_Jonas  FillolSr_Jaime   Riessen_Marty 
-##         0.01347         0.01325         0.01308         0.01298 
-##     Moya_Carlos    Nastase_Ilie 
-##         0.01289         0.01285
+##  Alexander_John Gottfried_Brian Santoro_Fabrice  Solomon_Harold 
+##         0.01657         0.01516         0.01498         0.01472 
+##     Lutz_Robert    Fibak_Wojtek    Nastase_Ilie       Dent_Phil 
+##         0.01440         0.01436         0.01393         0.01391 
+## Fillol_Sr_Jaime     Dibbs_Eddie 
+##         0.01380         0.01328
 ```
 よく分かんねえ
 

@@ -52,8 +52,10 @@ topplayers =
   dat_win %>% 
   mutate(WIN_PROB = WIN / GAME) %>% 
   arrange(desc(WIN)) %>% 
-  head(10) %>% 
+  head(20) %>% 
   select(PLAYER) %>% unlist
+
+# topplayers
 
 ## 錦織もおまけで入れてあげます
 topplayers = c(topplayers, "Nishikori_Kei")
@@ -71,6 +73,9 @@ dat_win_lose =
   filter(WINNER %in% topplayers) %>% 
   filter(LOSER %in% topplayers) 
 
+hoge = dat_win_lose %>% select(-TIME) %>% as.matrix
+ftM2adjM(hoge) %>% dim
+
 mat = dat_win_lose %>% 
   xtabs(formula = TIME ~ .) 
 ```
@@ -80,12 +85,12 @@ mat = dat_win_lose %>%
 ```{r}
 graph  = graph.adjacency(mat, mode="directed", weighted = TRUE)
 set.seed(1)
-V(graph)$size <- 3
+V(graph)$size <- 5
 V(graph)$color <- NA
 V(graph)$frame.color <- NA
 E(graph)$width = E(graph)$weight / 5
-E(graph)$arrow.size = 0.8
-plot(graph, layout=layout.auto, edge.curved=0.3)
+E(graph)$arrow.size = 0.7
+plot(graph, layout=layout.auto, edge.curved=0.4)
 
 ```
 
